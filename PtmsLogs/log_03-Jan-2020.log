@@ -1,0 +1,47 @@
+2020-01-03 04:13:35   Debug   user pending mytask tasks screen is loaded at user side     OS Type: Android    App Version: 1.2      API Level: 25       Device Model: ugg
+2020-01-03 04:13:35   Info   UserPendingMyTask:getdata() method is used to get pending my tasks at user side     OS Type: Android    App Version: 1.2      API Level: 25       Device Model: ugg
+2020-01-03 04:13:35   Info   UserPendingMyTask:getdata() method is used to get pending my tasks at user side     OS Type: Android    App Version: 1.2      API Level: 25       Device Model: ugg
+2020-01-03 05:58:02   Debug   user pending mytask tasks screen is loaded at user side     OS Type: Android    App Version: 1.2      API Level: 28       Device Model: beryllium
+2020-01-03 05:58:03   Info   UserPendingMyTask:getdata() method is used to get pending my tasks at user side     OS Type: Android    App Version: 1.2      API Level: 28       Device Model: beryllium
+2020-01-03 05:58:03   Info   UserPendingMyTask:getdata() method is used to get pending my tasks at user side     OS Type: Android    App Version: 1.2      API Level: 28       Device Model: beryllium
+2020-01-03 05:58:03   Info   no pending my tasks at user side     OS Type: Android    App Version: 1.2      API Level: 28       Device Model: beryllium
+2020-01-03 05:58:03   Info   no pending my tasks at user side     OS Type: Android    App Version: 1.2      API Level: 28       Device Model: beryllium
+2020-01-03 05:58:07   Debug   user request projects screen is loaded     OS Type: Android    App Version: 1.2      API Level: 28       Device Model: beryllium
+2020-01-03 05:58:07   Info    getdata() is used to get all requested projects at user side     OS Type: Android    App Version: 1.2      API Level: 28       Device Model: beryllium
+2020-01-03 05:58:09   Info   UserApprovedProjects:getResource() method is used to get all employee list     OS Type: Android    App Version: 1.2      API Level: 28       Device Model: beryllium
+2020-01-03 05:58:09   Debug   User Approved projects screen is loaded     OS Type: Android    App Version: 1.2      API Level: 28       Device Model: beryllium
+2020-01-03 05:58:09   Info   UserApprovedProjects:setRO(userApprovedProjects() method is used to list the user approved projects     OS Type: Android    App Version: 1.2      API Level: 28       Device Model: beryllium
+2020-01-03 05:58:10   Debug    getModules screen is loaded     OS Type: Android    App Version: 1.2      API Level: 28       Device Model: beryllium
+2020-01-03 05:58:10   Info   UserApprovedProjects:Module() method is used to move module listing screen     OS Type: Android    App Version: 1.2      API Level: 28       Device Model: beryllium
+2020-01-03 05:58:11   Debug   Add Module screen is loaded     OS Type: Android    App Version: 1.2      API Level: 28       Device Model: beryllium
+2020-01-03 05:58:11   Debug   Add Module screen is loaded     OS Type: Android    App Version: 1.2      API Level: 28       Device Model: beryllium
+2020-01-03 05:58:11   Debug   Add Module screen is loaded     OS Type: Android    App Version: 1.2      API Level: 28       Device Model: beryllium
+2020-01-03 05:58:11   Debug   Add Module screen is loaded     OS Type: Android    App Version: 1.2      API Level: 28       Device Model: beryllium
+2020-01-03 05:58:11   Debug   Add Module screen is loaded     OS Type: Android    App Version: 1.2      API Level: 28       Device Model: beryllium
+2020-01-03 05:58:11   Debug   Add Module screen is loaded     OS Type: Android    App Version: 1.2      API Level: 28       Device Model: beryllium
+2020-01-03 05:58:15   Debug   Main Task Screen is loaded     OS Type: Android    App Version: 1.2      API Level: 28       Device Model: beryllium
+2020-01-03 05:58:15   Info    getModulesList(cropcode) is used to get all module list     OS Type: Android    App Version: 1.2      API Level: 28       Device Model: beryllium
+2020-01-03 05:58:15   Info   MainTask() method is used to move Add Module to Add MainTask screen     OS Type: Android    App Version: 1.2      API Level: 28       Device Model: beryllium
+2020-01-03 05:58:16   Info    getModulesList(cropcode) is used to get all module list     OS Type: Android    App Version: 1.2      API Level: 28       Device Model: beryllium
+2020-01-03 05:58:20   Info   getSubTasksList(taskId) method is used to Getting the subtasks      OS Type: Android    App Version: 1.2      API Level: 28       Device Model: beryllium
+2020-01-03 05:58:20   Info   ViewSubTasks method is used to move Add Main Task  to ViewSubTasks screen to see the  sub tasks     OS Type: Android    App Version: 1.2      API Level: 28       Device Model: beryllium
+2020-01-03 05:58:20   Info   getSubTasksList(taskId) method is used to Getting the subtasks      OS Type: Android    App Version: 1.2      API Level: 28       Device Model: beryllium
+2020-01-03 05:58:21   Debug   View SubTask screen is loaded     OS Type: Android    App Version: 1.2      API Level: 28       Device Model: beryllium
+2020-01-03 05:58:21   Debug   View SubTask screen is loaded     OS Type: Android    App Version: 1.2      API Level: 28       Device Model: beryllium
+2020-01-03 05:58:21   Debug   View SubTask screen is loaded     OS Type: Android    App Version: 1.2      API Level: 28       Device Model: beryllium
+2020-01-03 05:58:21   Debug   View SubTask screen is loaded     OS Type: Android    App Version: 1.2      API Level: 28       Device Model: beryllium
+2020-01-03 05:58:32   Info    getModulesList(cropcode) is used to get all module list     OS Type: Android    App Version: 1.2      API Level: 28       Device Model: beryllium
+2020-01-03 16:33:06   Debug   user pending mytask tasks screen is loaded at user side     OS Type: iOS    App Version: 1.16      API Level: -1       Device Model: unknown
+2020-01-03 16:33:06   Info   UserPendingMyTask:getdata() method is used to get pending my tasks at user side     OS Type: iOS    App Version: 1.16      API Level: -1       Device Model: unknown
+2020-01-03 16:33:06   Info   UserPendingMyTask:getdata() method is used to get pending my tasks at user side     OS Type: iOS    App Version: 1.16      API Level: -1       Device Model: unknown
+2020-01-03 16:33:06   Info   no pending my tasks at user side     OS Type: iOS    App Version: 1.16      API Level: -1       Device Model: unknown
+2020-01-03 16:33:06   Info   no pending my tasks at user side     OS Type: iOS    App Version: 1.16      API Level: -1       Device Model: unknown
+2020-01-03 16:33:11   Info   UserCompletedMyTask:userCompletedMyTasks() method is used to get completed my tasks at user side     OS Type: iOS    App Version: 1.16      API Level: -1       Device Model: unknown
+2020-01-03 16:33:12   Debug   user completed manage tasks screen is loaded     OS Type: iOS    App Version: 1.16      API Level: -1       Device Model: unknown
+2020-01-03 16:34:24   Info   UserPendingMyTask:getdata() method is used to get pending my tasks at user side     OS Type: iOS    App Version: 1.16      API Level: -1       Device Model: unknown
+2020-01-03 16:34:24   Info   no pending my tasks at user side     OS Type: iOS    App Version: 1.16      API Level: -1       Device Model: unknown
+2020-01-03 16:34:29   Debug   user request projects screen is loaded     OS Type: iOS    App Version: 1.16      API Level: -1       Device Model: unknown
+2020-01-03 16:34:29   Info    getdata() is used to get all requested projects at user side     OS Type: iOS    App Version: 1.16      API Level: -1       Device Model: unknown
+2020-01-03 16:34:30   Info   UserProjectInfo method is used to move requested project to project info screen     OS Type: iOS    App Version: 1.16      API Level: -1       Device Model: unknown
+2020-01-03 16:34:30   Info   UserProjectInfo:Disabling() method is used to diable accept button based on condition     OS Type: iOS    App Version: 1.16      API Level: -1       Device Model: unknown
+2020-01-03 16:34:30   Debug   user project info screen is loaded     OS Type: iOS    App Version: 1.16      API Level: -1       Device Model: unknown

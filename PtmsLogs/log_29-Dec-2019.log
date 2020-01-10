@@ -1,0 +1,86 @@
+2019-12-29 01:41:30   Debug   user pending mytask tasks screen is loaded at user side     OS Type: Android    App Version: 1.2      API Level: 28       Device Model: laurel_sprout
+2019-12-29 01:41:31   Info   UserPendingMyTask:getdata() method is used to get pending my tasks at user side     OS Type: Android    App Version: 1.2      API Level: 28       Device Model: laurel_sprout
+2019-12-29 01:41:31   Info   no pending my tasks at user side     OS Type: Android    App Version: 1.2      API Level: 28       Device Model: laurel_sprout
+2019-12-29 01:41:34   Debug   user request projects screen is loaded     OS Type: Android    App Version: 1.2      API Level: 28       Device Model: laurel_sprout
+2019-12-29 01:41:34   Info    getdata() is used to get all requested projects at user side     OS Type: Android    App Version: 1.2      API Level: 28       Device Model: laurel_sprout
+2019-12-29 01:41:38   Info   UserProjectInfo method is used to move requested project to project info screen     OS Type: Android    App Version: 1.2      API Level: 28       Device Model: laurel_sprout
+2019-12-29 01:41:38   Debug   user project info screen is loaded     OS Type: Android    App Version: 1.2      API Level: 28       Device Model: laurel_sprout
+2019-12-29 01:41:38   Info   UserProjectInfo:Disabling() method is used to diable accept button based on condition     OS Type: Android    App Version: 1.2      API Level: 28       Device Model: laurel_sprout
+2019-12-29 01:41:47   Info   UserProjectInfo:Disabling() method is used to diable accept button based on condition     OS Type: Android    App Version: 1.2      API Level: 28       Device Model: laurel_sprout
+2019-12-29 01:41:47   Info   UserProjectInfo method is used to move requested project to project info screen     OS Type: Android    App Version: 1.2      API Level: 28       Device Model: laurel_sprout
+2019-12-29 01:41:47   Debug   user project info screen is loaded     OS Type: Android    App Version: 1.2      API Level: 28       Device Model: laurel_sprout
+2019-12-29 01:41:56   Info   UserProjectInfo:Disabling() method is used to diable accept button based on condition     OS Type: Android    App Version: 1.2      API Level: 28       Device Model: laurel_sprout
+2019-12-29 01:41:56   Debug   user project info screen is loaded     OS Type: Android    App Version: 1.2      API Level: 28       Device Model: laurel_sprout
+2019-12-29 01:41:56   Info   UserProjectInfo method is used to move requested project to project info screen     OS Type: Android    App Version: 1.2      API Level: 28       Device Model: laurel_sprout
+2019-12-29 01:42:01   Debug   User Approved projects screen is loaded     OS Type: Android    App Version: 1.2      API Level: 28       Device Model: laurel_sprout
+2019-12-29 01:42:02   Info   UserApprovedProjects:getResource() method is used to get all employee list     OS Type: Android    App Version: 1.2      API Level: 28       Device Model: laurel_sprout
+2019-12-29 01:42:02   Info   UserApprovedProjects:setRO(userApprovedProjects() method is used to list the user approved projects     OS Type: Android    App Version: 1.2      API Level: 28       Device Model: laurel_sprout
+2019-12-29 01:42:04   Info   UserProjectInfo:Disabling() method is used to diable accept button based on condition     OS Type: Android    App Version: 1.2      API Level: 28       Device Model: laurel_sprout
+2019-12-29 01:42:04   Info   UserProjectInfo method is used to move requested project to project info screen     OS Type: Android    App Version: 1.2      API Level: 28       Device Model: laurel_sprout
+2019-12-29 01:42:04   Debug   user project info screen is loaded     OS Type: Android    App Version: 1.2      API Level: 28       Device Model: laurel_sprout
+2019-12-29 01:42:27   Info   UserApprovedProjects:SearchFilterFunction(text) method is used for search functionality     OS Type: Android    App Version: 1.2      API Level: 28       Device Model: laurel_sprout
+2019-12-29 01:42:27   Info   UserApprovedProjects:SearchFilterFunction(text) method is used for search functionality     OS Type: Android    App Version: 1.2      API Level: 28       Device Model: laurel_sprout
+2019-12-29 01:42:29   Info   UserApprovedProjects:SearchFilterFunction(text) method is used for search functionality     OS Type: Android    App Version: 1.2      API Level: 28       Device Model: laurel_sprout
+2019-12-29 01:42:33   Info   UserApprovedProjects:Module() method is used to move module listing screen     OS Type: Android    App Version: 1.2      API Level: 28       Device Model: laurel_sprout
+2019-12-29 01:42:33   Debug    getModules screen is loaded     OS Type: Android    App Version: 1.2      API Level: 28       Device Model: laurel_sprout
+2019-12-29 01:42:35   Debug   Add Module screen is loaded     OS Type: Android    App Version: 1.2      API Level: 28       Device Model: laurel_sprout
+2019-12-29 01:42:35   Debug   Add Module screen is loaded     OS Type: Android    App Version: 1.2      API Level: 28       Device Model: laurel_sprout
+2019-12-29 01:42:36   Debug   Add Module screen is loaded     OS Type: Android    App Version: 1.2      API Level: 28       Device Model: laurel_sprout
+2019-12-29 01:42:36   Debug   Add Module screen is loaded     OS Type: Android    App Version: 1.2      API Level: 28       Device Model: laurel_sprout
+2019-12-29 01:42:40   Info   UserApprovedProjects:Module() method is used to move module listing screen     OS Type: Android    App Version: 1.2      API Level: 28       Device Model: laurel_sprout
+2019-12-29 01:42:40   Debug    getModules screen is loaded     OS Type: Android    App Version: 1.2      API Level: 28       Device Model: laurel_sprout
+2019-12-29 01:42:40   Debug   Add Module screen is loaded     OS Type: Android    App Version: 1.2      API Level: 28       Device Model: laurel_sprout
+2019-12-29 01:42:40   Debug   Add Module screen is loaded     OS Type: Android    App Version: 1.2      API Level: 28       Device Model: laurel_sprout
+2019-12-29 01:42:40   Debug   Add Module screen is loaded     OS Type: Android    App Version: 1.2      API Level: 28       Device Model: laurel_sprout
+2019-12-29 01:42:42   Info   ModifyModule() method is used to move Add Module to Add ModuleAdd screen     OS Type: Android    App Version: 1.2      API Level: 28       Device Model: laurel_sprout
+2019-12-29 01:42:42   Debug   Module Add screen is loaded     OS Type: Android    App Version: 1.2      API Level: 28       Device Model: laurel_sprout
+2019-12-29 01:42:47   Debug    getModules screen is loaded     OS Type: Android    App Version: 1.2      API Level: 28       Device Model: laurel_sprout
+2019-12-29 01:42:48   Info   UserApprovedProjects:Module() method is used to move module listing screen     OS Type: Android    App Version: 1.2      API Level: 28       Device Model: laurel_sprout
+2019-12-29 01:42:49   Debug   Add Module screen is loaded     OS Type: Android    App Version: 1.2      API Level: 28       Device Model: laurel_sprout
+2019-12-29 01:42:49   Debug   Add Module screen is loaded     OS Type: Android    App Version: 1.2      API Level: 28       Device Model: laurel_sprout
+2019-12-29 01:42:50   Debug   Add Module screen is loaded     OS Type: Android    App Version: 1.2      API Level: 28       Device Model: laurel_sprout
+2019-12-29 01:42:50   Info   UserApprovedProjects:Module() method is used to move module listing screen     OS Type: Android    App Version: 1.2      API Level: 28       Device Model: laurel_sprout
+2019-12-29 01:42:50   Debug    getModules screen is loaded     OS Type: Android    App Version: 1.2      API Level: 28       Device Model: laurel_sprout
+2019-12-29 01:42:53   Debug   Add Module screen is loaded     OS Type: Android    App Version: 1.2      API Level: 28       Device Model: laurel_sprout
+2019-12-29 01:42:53   Debug   Add Module screen is loaded     OS Type: Android    App Version: 1.2      API Level: 28       Device Model: laurel_sprout
+2019-12-29 01:42:53   Debug   Add Module screen is loaded     OS Type: Android    App Version: 1.2      API Level: 28       Device Model: laurel_sprout
+2019-12-29 01:42:53   Debug   Add Module screen is loaded     OS Type: Android    App Version: 1.2      API Level: 28       Device Model: laurel_sprout
+2019-12-29 01:42:54   Info   UserApprovedProjects:Module() method is used to move module listing screen     OS Type: Android    App Version: 1.2      API Level: 28       Device Model: laurel_sprout
+2019-12-29 01:42:54   Debug    getModules screen is loaded     OS Type: Android    App Version: 1.2      API Level: 28       Device Model: laurel_sprout
+2019-12-29 01:42:55   Debug   Add Module screen is loaded     OS Type: Android    App Version: 1.2      API Level: 28       Device Model: laurel_sprout
+2019-12-29 01:42:55   Debug   Add Module screen is loaded     OS Type: Android    App Version: 1.2      API Level: 28       Device Model: laurel_sprout
+2019-12-29 01:42:55   Debug   Add Module screen is loaded     OS Type: Android    App Version: 1.2      API Level: 28       Device Model: laurel_sprout
+2019-12-29 01:42:55   Debug   Add Module screen is loaded     OS Type: Android    App Version: 1.2      API Level: 28       Device Model: laurel_sprout
+2019-12-29 01:42:57   Info   MainTask() method is used to move Add Module to Add MainTask screen     OS Type: Android    App Version: 1.2      API Level: 28       Device Model: laurel_sprout
+2019-12-29 01:42:57   Debug   Main Task Screen is loaded     OS Type: Android    App Version: 1.2      API Level: 28       Device Model: laurel_sprout
+2019-12-29 01:42:57   Info    getModulesList(cropcode) is used to get all module list     OS Type: Android    App Version: 1.2      API Level: 28       Device Model: laurel_sprout
+2019-12-29 01:43:00   Info   MainTask() method is used to move Add Module to Add MainTask screen     OS Type: Android    App Version: 1.2      API Level: 28       Device Model: laurel_sprout
+2019-12-29 01:43:00   Debug   Main Task Screen is loaded     OS Type: Android    App Version: 1.2      API Level: 28       Device Model: laurel_sprout
+2019-12-29 01:43:00   Info    getModulesList(cropcode) is used to get all module list     OS Type: Android    App Version: 1.2      API Level: 28       Device Model: laurel_sprout
+2019-12-29 01:43:06   Debug   Release Owner     OS Type: Android    App Version: 1.2      API Level: 28       Device Model: laurel_sprout
+2019-12-29 01:43:06   Info   UserApprovedProjects:ReleaseOwner = (item, index) method used to navigate to Release owner screen     OS Type: Android    App Version: 1.2      API Level: 28       Device Model: laurel_sprout
+2019-12-29 01:43:06   Info    getEmployeesList(role, userToken, cropcode) Getting Employees List for adding releaseowner     OS Type: Android    App Version: 1.2      API Level: 28       Device Model: laurel_sprout
+2019-12-29 01:43:18   Info    selectRO(role, userToken, cropcode) Adding ReleaseOwner for Project      OS Type: Android    App Version: 1.2      API Level: 28       Device Model: laurel_sprout
+2019-12-29 01:43:19   Info   modalDidClose is used to move UserManageProjects screen     OS Type: Android    App Version: 1.2      API Level: 28       Device Model: laurel_sprout
+2019-12-29 01:43:19   Info   UserApprovedProjects:setRO(userApprovedProjects() method is used to list the user approved projects     OS Type: Android    App Version: 1.2      API Level: 28       Device Model: laurel_sprout
+2019-12-29 01:43:31   Info   UserApprovedProjects:SearchFilterFunction(text) method is used for search functionality     OS Type: Android    App Version: 1.2      API Level: 28       Device Model: laurel_sprout
+2019-12-29 01:43:33   Info   UserApprovedProjects:SearchFilterFunction(text) method is used for search functionality     OS Type: Android    App Version: 1.2      API Level: 28       Device Model: laurel_sprout
+2019-12-29 01:43:33   Info   UserApprovedProjects:SearchFilterFunction(text) method is used for search functionality     OS Type: Android    App Version: 1.2      API Level: 28       Device Model: laurel_sprout
+2019-12-29 01:43:33   Info   UserApprovedProjects:SearchFilterFunction(text) method is used for search functionality     OS Type: Android    App Version: 1.2      API Level: 28       Device Model: laurel_sprout
+2019-12-29 01:43:34   Info   UserApprovedProjects:SearchFilterFunction(text) method is used for search functionality     OS Type: Android    App Version: 1.2      API Level: 28       Device Model: laurel_sprout
+2019-12-29 01:43:35   Info   UserApprovedProjects:SearchFilterFunction(text) method is used for search functionality     OS Type: Android    App Version: 1.2      API Level: 28       Device Model: laurel_sprout
+2019-12-29 01:43:38   Debug    getModules screen is loaded     OS Type: Android    App Version: 1.2      API Level: 28       Device Model: laurel_sprout
+2019-12-29 01:43:39   Info   UserApprovedProjects:Module() method is used to move module listing screen     OS Type: Android    App Version: 1.2      API Level: 28       Device Model: laurel_sprout
+2019-12-29 01:43:42   Info   UserApprovedProjects:Module() method is used to move module listing screen     OS Type: Android    App Version: 1.2      API Level: 28       Device Model: laurel_sprout
+2019-12-29 01:43:42   Debug    getModules screen is loaded     OS Type: Android    App Version: 1.2      API Level: 28       Device Model: laurel_sprout
+2019-12-29 01:43:43   Debug   Add Module screen is loaded     OS Type: Android    App Version: 1.2      API Level: 28       Device Model: laurel_sprout
+2019-12-29 01:43:43   Debug   Add Module screen is loaded     OS Type: Android    App Version: 1.2      API Level: 28       Device Model: laurel_sprout
+2019-12-29 01:43:43   Debug   Add Module screen is loaded     OS Type: Android    App Version: 1.2      API Level: 28       Device Model: laurel_sprout
+2019-12-29 01:43:45   Debug   Add Module screen is loaded     OS Type: Android    App Version: 1.2      API Level: 28       Device Model: laurel_sprout
+2019-12-29 01:43:46   Debug   Release Owner     OS Type: Android    App Version: 1.2      API Level: 28       Device Model: laurel_sprout
+2019-12-29 01:43:46   Info    getEmployeesList(role, userToken, cropcode) Getting Employees List for adding releaseowner     OS Type: Android    App Version: 1.2      API Level: 28       Device Model: laurel_sprout
+2019-12-29 01:43:46   Info   UserApprovedProjects:ReleaseOwner = (item, index) method used to navigate to Release owner screen     OS Type: Android    App Version: 1.2      API Level: 28       Device Model: laurel_sprout
+2019-12-29 01:43:53   Info    selectRO(role, userToken, cropcode) Adding ReleaseOwner for Project      OS Type: Android    App Version: 1.2      API Level: 28       Device Model: laurel_sprout
+2019-12-29 01:43:54   Info   modalDidClose is used to move UserManageProjects screen     OS Type: Android    App Version: 1.2      API Level: 28       Device Model: laurel_sprout
+2019-12-29 01:43:54   Info   UserApprovedProjects:setRO(userApprovedProjects() method is used to list the user approved projects     OS Type: Android    App Version: 1.2      API Level: 28       Device Model: laurel_sprout
+2019-12-29 01:44:02   Info   UserApprovedProjects:SearchFilterFunction(text) method is used for search functionality     OS Type: Android    App Version: 1.2      API Level: 28       Device Model: laurel_sprout

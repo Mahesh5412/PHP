@@ -1,0 +1,134 @@
+body{
+    margin: 0%;
+    padding: 0%;
+    font-family: sans-serif;
+}
+.image{
+    height: 100%;
+    width: 100%;
+}
+.login{
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    background-color: #ffffff;
+    transform: translate(-50%,-50%);
+    width: 500px;
+    min-height: 500px;
+    border-radius: 30px;
+    padding: 40px;
+}
+.logo{
+    height: 80px;
+    width: 100px;
+    margin: 0 auto;
+    display: block;
+    margin-bottom: 20px;
+    margin-top: -20px;
+}
+.ptms-logo{
+    margin-top: -777px;
+    margin-left: 715px;
+}
+.text{
+    margin: 0;
+    padding: 0 0 20px;
+    color: #262626;
+    text-align: center; 
+}
+.login input{
+    width: 100%;
+    margin-bottom: 20px;
+}
+.login input[type="text"],
+.login input[type="password"]
+{
+border: none;
+border-bottom: 2px solid #262626;
+outline: none;
+height: 40px;
+color: #262626;
+background: transparent;
+font-size: 16px;
+padding-left: 20px;
+box-sizing: border-box;
+}
+.login input[type="text"]:focus,
+.login input[type="password"]:focus
+{
+    border-bottom: 2px solid #00c9db;
+}
+.inputBox{
+    position: relative;
+}
+.inputBox span{
+    position: absolute;
+    top: 10px;
+    margin-left: -100%;
+    color: #262626;
+}
+.login input[type="submit"]{
+border: none;
+outline: none;
+height: 40px;
+font-size: 16px;
+background: #00c9db;
+color: #ffffff;
+border-radius: 20px;
+cursor: pointer;
+margin-top: 30px
+}
+.login a{
+    color: #262626;
+    font-size: 15px;
+    font-weight: bold;
+    text-decoration: none;
+    text-align: center;
+    display: block;
+}
+#addon{
+    min-height: 0px !important;
+}
+.radios {
+    margin: -130px 4px;
+}
+
+/* NavBar CSS */
+
+/* Add a black background color to the top navigation */
+.topnav {
+  background-color: #333;
+  overflow: hidden;
+}
+
+/* Style the links inside the navigation bar */
+.topnav a {
+  float: left;
+  color: #f2f2f2;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+  font-size: 17px;
+}
+
+.topnav-right a{
+  float: right;
+  color: #f2f2f2;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+  font-size: 17px;
+}
+
+/* Change the color of links on hover */
+.topnav a:hover {
+  background-color: #ddd;
+  color: black;
+}
+
+/* Add a color to the active/current link */
+.topnav a.active {
+  background-color: #4CAF50;
+  color: white;
+}
+

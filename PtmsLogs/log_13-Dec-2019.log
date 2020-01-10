@@ -1,0 +1,357 @@
+2019-12-13 01:22:49   Debug   user request projects screen is loaded     OS Type: iOS    App Version: 1.13      API Level: -1       Device Model: unknown
+2019-12-13 01:22:51   Info    getdata() is used to get all requested projects at user side     OS Type: iOS    App Version: 1.13      API Level: -1       Device Model: unknown
+2019-12-13 01:22:53   Debug   User Approved projects screen is loaded     OS Type: iOS    App Version: 1.13      API Level: -1       Device Model: unknown
+2019-12-13 01:22:54   Info   UserApprovedProjects:getResource() method is used to get all employee list     OS Type: iOS    App Version: 1.13      API Level: -1       Device Model: unknown
+2019-12-13 01:22:56   Info   UserApprovedProjects:setRO(userApprovedProjects() method is used to list the user approved projects     OS Type: iOS    App Version: 1.13      API Level: -1       Device Model: unknown
+2019-12-13 01:23:02   Info   UserApprovedProjects:SearchFilterFunction(text) method is used for search functionality     OS Type: iOS    App Version: 1.13      API Level: -1       Device Model: unknown
+2019-12-13 01:23:03   Info   UserApprovedProjects:SearchFilterFunction(text) method is used for search functionality     OS Type: iOS    App Version: 1.13      API Level: -1       Device Model: unknown
+2019-12-13 01:23:05   Info   UserApprovedProjects:SearchFilterFunction(text) method is used for search functionality     OS Type: iOS    App Version: 1.13      API Level: -1       Device Model: unknown
+2019-12-13 01:23:05   Info   UserApprovedProjects:SearchFilterFunction(text) method is used for search functionality     OS Type: iOS    App Version: 1.13      API Level: -1       Device Model: unknown
+2019-12-13 01:23:11   Info   UserApprovedProjects:Module() method is used to move module listing screen     OS Type: iOS    App Version: 1.13      API Level: -1       Device Model: unknown
+2019-12-13 01:23:11   Debug    getModules screen is loaded     OS Type: iOS    App Version: 1.13      API Level: -1       Device Model: unknown
+2019-12-13 01:23:15   Info   UserApprovedProjects:Module() method is used to move module listing screen     OS Type: iOS    App Version: 1.13      API Level: -1       Device Model: unknown
+2019-12-13 01:23:20   Info   UserApprovedProjects:Module() method is used to move module listing screen     OS Type: iOS    App Version: 1.13      API Level: -1       Device Model: unknown
+2019-12-13 01:23:22   Debug    getModules screen is loaded     OS Type: iOS    App Version: 1.13      API Level: -1       Device Model: unknown
+2019-12-13 01:23:22   Debug    getModules screen is loaded     OS Type: iOS    App Version: 1.13      API Level: -1       Device Model: unknown
+2019-12-13 01:23:24   Info   UserApprovedProjects:Module() method is used to move module listing screen     OS Type: iOS    App Version: 1.13      API Level: -1       Device Model: unknown
+2019-12-13 01:23:25   Debug    getModules screen is loaded     OS Type: iOS    App Version: 1.13      API Level: -1       Device Model: unknown
+2019-12-13 01:23:26   Debug   Add Module screen is loaded     OS Type: iOS    App Version: 1.13      API Level: -1       Device Model: unknown
+2019-12-13 01:23:27   Debug   Add Module screen is loaded     OS Type: iOS    App Version: 1.13      API Level: -1       Device Model: unknown
+2019-12-13 01:23:28   Info   MainTask() method is used to move Add Module to Add MainTask screen     OS Type: iOS    App Version: 1.13      API Level: -1       Device Model: unknown
+2019-12-13 01:23:29   Info    getModulesList(cropcode) is used to get all module list     OS Type: iOS    App Version: 1.13      API Level: -1       Device Model: unknown
+2019-12-13 01:23:31   Debug   Main Task Screen is loaded     OS Type: iOS    App Version: 1.13      API Level: -1       Device Model: unknown
+2019-12-13 01:23:45   Debug    getModules screen is loaded     OS Type: iOS    App Version: 1.13      API Level: -1       Device Model: unknown
+2019-12-13 01:23:46   Info   UserApprovedProjects:Module() method is used to move module listing screen     OS Type: iOS    App Version: 1.13      API Level: -1       Device Model: unknown
+2019-12-13 01:23:47   Debug   Add Module screen is loaded     OS Type: iOS    App Version: 1.13      API Level: -1       Device Model: unknown
+2019-12-13 01:23:48   Debug   Add Module screen is loaded     OS Type: iOS    App Version: 1.13      API Level: -1       Device Model: unknown
+2019-12-13 01:23:49   Info   MainTask() method is used to move Add Module to Add MainTask screen     OS Type: iOS    App Version: 1.13      API Level: -1       Device Model: unknown
+2019-12-13 01:23:51   Debug   Main Task Screen is loaded     OS Type: iOS    App Version: 1.13      API Level: -1       Device Model: unknown
+2019-12-13 01:23:52   Info    getModulesList(cropcode) is used to get all module list     OS Type: iOS    App Version: 1.13      API Level: -1       Device Model: unknown
+2019-12-13 01:24:09   Info   ViewSubTasks method is used to move Add Main Task  to ViewSubTasks screen to see the  sub tasks     OS Type: iOS    App Version: 1.13      API Level: -1       Device Model: unknown
+2019-12-13 01:24:10   Info   getSubTasksList(taskId) method is used to Getting the subtasks      OS Type: iOS    App Version: 1.13      API Level: -1       Device Model: unknown
+2019-12-13 01:24:13   Debug   View SubTask screen is loaded     OS Type: iOS    App Version: 1.13      API Level: -1       Device Model: unknown
+2019-12-13 01:24:13   Debug   View SubTask screen is loaded     OS Type: iOS    App Version: 1.13      API Level: -1       Device Model: unknown
+2019-12-13 01:24:15   Debug   View SubTask screen is loaded     OS Type: iOS    App Version: 1.13      API Level: -1       Device Model: unknown
+2019-12-13 01:24:16   Debug   View SubTask screen is loaded     OS Type: iOS    App Version: 1.13      API Level: -1       Device Model: unknown
+2019-12-13 01:24:16   Debug   View SubTask screen is loaded     OS Type: iOS    App Version: 1.13      API Level: -1       Device Model: unknown
+2019-12-13 01:24:16   Debug   View SubTask screen is loaded     OS Type: iOS    App Version: 1.13      API Level: -1       Device Model: unknown
+2019-12-13 01:25:01   Info   ViewSubTasks method is used to move Add Main Task  to ViewSubTasks screen to see the  sub tasks     OS Type: iOS    App Version: 1.13      API Level: -1       Device Model: unknown
+2019-12-13 01:25:04   Info   ViewSubTasks method is used to move Add Main Task  to ViewSubTasks screen to see the  sub tasks     OS Type: iOS    App Version: 1.13      API Level: -1       Device Model: unknown
+2019-12-13 01:25:05   Info   ViewSubTasks method is used to move Add Main Task  to ViewSubTasks screen to see the  sub tasks     OS Type: iOS    App Version: 1.13      API Level: -1       Device Model: unknown
+2019-12-13 01:25:11   Info   ViewSubTasks method is used to move Add Main Task  to ViewSubTasks screen to see the  sub tasks     OS Type: iOS    App Version: 1.13      API Level: -1       Device Model: unknown
+2019-12-13 01:25:22   Info   ViewSubTasks method is used to move Add Main Task  to ViewSubTasks screen to see the  sub tasks     OS Type: iOS    App Version: 1.13      API Level: -1       Device Model: unknown
+2019-12-13 01:25:24   Info   ViewSubTasks method is used to move Add Main Task  to ViewSubTasks screen to see the  sub tasks     OS Type: iOS    App Version: 1.13      API Level: -1       Device Model: unknown
+2019-12-13 01:25:29   Info   ViewSubTasks method is used to move Add Main Task  to ViewSubTasks screen to see the  sub tasks     OS Type: iOS    App Version: 1.13      API Level: -1       Device Model: unknown
+2019-12-13 01:25:33   Info   ViewSubTasks method is used to move Add Main Task  to ViewSubTasks screen to see the  sub tasks     OS Type: iOS    App Version: 1.13      API Level: -1       Device Model: unknown
+2019-12-13 01:25:43   Info   getSubTasksList(taskId) method is used to Getting the subtasks      OS Type: iOS    App Version: 1.13      API Level: -1       Device Model: unknown
+2019-12-13 01:25:44      
+2019-12-13 01:25:44   Debug   View SubTask screen is loaded     OS Type: iOS    App Version: 1.13      API Level: -1       Device Model: unknown
+2019-12-13 01:26:52   Debug   View SubTask screen is loaded     OS Type: iOS    App Version: 1.13      API Level: -1       Device Model: unknown
+2019-12-13 01:26:53   Debug   View SubTask screen is loaded     OS Type: iOS    App Version: 1.13      API Level: -1       Device Model: unknown
+2019-12-13 01:26:56   Debug   View SubTask screen is loaded     OS Type: iOS    App Version: 1.13      API Level: -1       Device Model: unknown
+2019-12-13 01:27:35   Info   UserApprovedProjects:Module() method is used to move module listing screen     OS Type: iOS    App Version: 1.13      API Level: -1       Device Model: unknown
+2019-12-13 01:27:35   Debug    getModules screen is loaded     OS Type: iOS    App Version: 1.13      API Level: -1       Device Model: unknown
+2019-12-13 01:27:35   Debug   Add Module screen is loaded     OS Type: iOS    App Version: 1.13      API Level: -1       Device Model: unknown
+2019-12-13 01:27:35   Debug   Add Module screen is loaded     OS Type: iOS    App Version: 1.13      API Level: -1       Device Model: unknown
+2019-12-13 01:27:42   Info   MainTask() method is used to move Add Module to Add MainTask screen     OS Type: iOS    App Version: 1.13      API Level: -1       Device Model: unknown
+2019-12-13 01:27:42   Debug   Main Task Screen is loaded     OS Type: iOS    App Version: 1.13      API Level: -1       Device Model: unknown
+2019-12-13 01:27:43   Info    getModulesList(cropcode) is used to get all module list     OS Type: iOS    App Version: 1.13      API Level: -1       Device Model: unknown
+2019-12-13 01:27:54   Debug   user pending manage tasks screen is loaded     OS Type: iOS    App Version: 1.13      API Level: -1       Device Model: unknown
+2019-12-13 01:27:55   Info   to get level no     OS Type: iOS    App Version: 1.13      API Level: -1       Device Model: unknown
+2019-12-13 01:27:55   Info   userPendingManageTasks:DeleteMaintask(maintaskid) method is used to delete maintask     OS Type: iOS    App Version: 1.13      API Level: -1       Device Model: unknown
+2019-12-13 01:27:55   Info   userPendingManageTasks:DeleteMaintask(maintaskid) method is used to delete maintask     OS Type: iOS    App Version: 1.13      API Level: -1       Device Model: unknown
+2019-12-13 01:27:57   Info   to get level no     OS Type: iOS    App Version: 1.13      API Level: -1       Device Model: unknown
+2019-12-13 01:28:00   Info   no pending manage tasks at user side     OS Type: iOS    App Version: 1.13      API Level: -1       Device Model: unknown
+2019-12-13 01:28:02   Info   no pending manage tasks at user side     OS Type: iOS    App Version: 1.13      API Level: -1       Device Model: unknown
+2019-12-13 01:28:03   Info   no pending manage tasks at user side     OS Type: iOS    App Version: 1.13      API Level: -1       Device Model: unknown
+2019-12-13 01:28:03   Info   no pending manage tasks at user side     OS Type: iOS    App Version: 1.13      API Level: -1       Device Model: unknown
+2019-12-13 01:28:04   Info   no pending manage tasks at user side     OS Type: iOS    App Version: 1.13      API Level: -1       Device Model: unknown
+2019-12-13 01:28:04   Info   no pending manage tasks at user side     OS Type: iOS    App Version: 1.13      API Level: -1       Device Model: unknown
+2019-12-13 01:28:06   Info   no pending manage tasks at user side     OS Type: iOS    App Version: 1.13      API Level: -1       Device Model: unknown
+2019-12-13 01:28:06   Info   no pending manage tasks at user side     OS Type: iOS    App Version: 1.13      API Level: -1       Device Model: unknown
+2019-12-13 01:28:08   Info   no pending manage tasks at user side     OS Type: iOS    App Version: 1.13      API Level: -1       Device Model: unknown
+2019-12-13 01:28:08   Info   no pending manage tasks at user side     OS Type: iOS    App Version: 1.13      API Level: -1       Device Model: unknown
+2019-12-13 01:28:08   Info   no pending manage tasks at user side     OS Type: iOS    App Version: 1.13      API Level: -1       Device Model: unknown
+2019-12-13 01:28:09   Info   no pending manage tasks at user side     OS Type: iOS    App Version: 1.13      API Level: -1       Device Model: unknown
+2019-12-13 01:28:09   Info   no pending manage tasks at user side     OS Type: iOS    App Version: 1.13      API Level: -1       Device Model: unknown
+2019-12-13 01:28:09   Info   no pending manage tasks at user side     OS Type: iOS    App Version: 1.13      API Level: -1       Device Model: unknown
+2019-12-13 01:28:11   Info   no pending manage tasks at user side     OS Type: iOS    App Version: 1.13      API Level: -1       Device Model: unknown
+2019-12-13 01:28:12   Info   no pending manage tasks at user side     OS Type: iOS    App Version: 1.13      API Level: -1       Device Model: unknown
+2019-12-13 01:28:13   Info   no pending manage tasks at user side     OS Type: iOS    App Version: 1.13      API Level: -1       Device Model: unknown
+2019-12-13 01:28:14   Info   no pending manage tasks at user side     OS Type: iOS    App Version: 1.13      API Level: -1       Device Model: unknown
+2019-12-13 01:28:14   Info   no pending manage tasks at user side     OS Type: iOS    App Version: 1.13      API Level: -1       Device Model: unknown
+2019-12-13 01:28:16   Info   no pending manage tasks at user side     OS Type: iOS    App Version: 1.13      API Level: -1       Device Model: unknown
+2019-12-13 01:28:17   Info   no pending manage tasks at user side     OS Type: iOS    App Version: 1.13      API Level: -1       Device Model: unknown
+2019-12-13 01:28:19   Info   no pending manage tasks at user side     OS Type: iOS    App Version: 1.13      API Level: -1       Device Model: unknown
+2019-12-13 01:28:19   Info   no pending manage tasks at user side     OS Type: iOS    App Version: 1.13      API Level: -1       Device Model: unknown
+2019-12-13 01:28:19   Info   no pending manage tasks at user side     OS Type: iOS    App Version: 1.13      API Level: -1       Device Model: unknown
+2019-12-13 01:28:19   Info   no pending manage tasks at user side     OS Type: iOS    App Version: 1.13      API Level: -1       Device Model: unknown
+2019-12-13 01:28:20   Info   no pending manage tasks at user side     OS Type: iOS    App Version: 1.13      API Level: -1       Device Model: unknown
+2019-12-13 01:28:20   Info   no pending manage tasks at user side     OS Type: iOS    App Version: 1.13      API Level: -1       Device Model: unknown
+2019-12-13 01:28:20   Info   no pending manage tasks at user side     OS Type: iOS    App Version: 1.13      API Level: -1       Device Model: unknown
+2019-12-13 01:28:20   Info   no pending manage tasks at user side     OS Type: iOS    App Version: 1.13      API Level: -1       Device Model: unknown
+2019-12-13 01:28:20   Info   no pending manage tasks at user side     OS Type: iOS    App Version: 1.13      API Level: -1       Device Model: unknown
+2019-12-13 01:28:21   Info   no pending manage tasks at user side     OS Type: iOS    App Version: 1.13      API Level: -1       Device Model: unknown
+2019-12-13 01:28:21   Info   no pending manage tasks at user side     OS Type: iOS    App Version: 1.13      API Level: -1       Device Model: unknown
+2019-12-13 01:28:21   Info   no pending manage tasks at user side     OS Type: iOS    App Version: 1.13      API Level: -1       Device Model: unknown
+2019-12-13 01:28:21   Info   no pending manage tasks at user side     OS Type: iOS    App Version: 1.13      API Level: -1       Device Model: unknown
+2019-12-13 01:28:22   Info   no pending manage tasks at user side     OS Type: iOS    App Version: 1.13      API Level: -1       Device Model: unknown
+2019-12-13 01:28:22   Info   no pending manage tasks at user side     OS Type: iOS    App Version: 1.13      API Level: -1       Device Model: unknown
+2019-12-13 01:28:22   Info   no pending manage tasks at user side     OS Type: iOS    App Version: 1.13      API Level: -1       Device Model: unknown
+2019-12-13 01:28:22   Info   no pending manage tasks at user side     OS Type: iOS    App Version: 1.13      API Level: -1       Device Model: unknown
+2019-12-13 01:28:23   Info   no pending manage tasks at user side     OS Type: iOS    App Version: 1.13      API Level: -1       Device Model: unknown
+2019-12-13 01:28:23   Info   no pending manage tasks at user side     OS Type: iOS    App Version: 1.13      API Level: -1       Device Model: unknown
+2019-12-13 01:28:23   Info   no pending manage tasks at user side     OS Type: iOS    App Version: 1.13      API Level: -1       Device Model: unknown
+2019-12-13 01:28:23   Info   no pending manage tasks at user side     OS Type: iOS    App Version: 1.13      API Level: -1       Device Model: unknown
+2019-12-13 01:28:24   Info   no pending manage tasks at user side     OS Type: iOS    App Version: 1.13      API Level: -1       Device Model: unknown
+2019-12-13 01:28:24   Info   no pending manage tasks at user side     OS Type: iOS    App Version: 1.13      API Level: -1       Device Model: unknown
+2019-12-13 01:28:25   Info   no pending manage tasks at user side     OS Type: iOS    App Version: 1.13      API Level: -1       Device Model: unknown
+2019-12-13 01:28:25   Info   no pending manage tasks at user side     OS Type: iOS    App Version: 1.13      API Level: -1       Device Model: unknown
+2019-12-13 01:28:25   Info   UserPendingManageTasks:DeleteMaintask(maintaskid) method is used to delete maintask     OS Type: iOS    App Version: 1.13      API Level: -1       Device Model: unknown
+2019-12-13 01:28:26   Info   UserPendingManageTasks:DeleteMaintask(maintaskid) method is used to delete maintask     OS Type: iOS    App Version: 1.13      API Level: -1       Device Model: unknown
+2019-12-13 01:28:26   Info   no pending manage tasks at user side     OS Type: iOS    App Version: 1.13      API Level: -1       Device Model: unknown
+2019-12-13 01:28:26   Info   UserPendingManageTasks:DeleteMaintask(maintaskid) method is used to delete maintask     OS Type: iOS    App Version: 1.13      API Level: -1       Device Model: unknown
+2019-12-13 01:28:26   Info   getSubTasksList(taskId) method is used to Getting the subtasks      OS Type: iOS    App Version: 1.13      API Level: -1       Device Model: unknown
+2019-12-13 01:28:27   Info   UserPendingManageTasks:DeleteMaintask(maintaskid) method is used to delete maintask     OS Type: iOS    App Version: 1.13      API Level: -1       Device Model: unknown
+2019-12-13 01:28:29   Debug   View SubTask screen is loaded     OS Type: iOS    App Version: 1.13      API Level: -1       Device Model: unknown
+2019-12-13 01:28:29   Debug   View SubTask screen is loaded     OS Type: iOS    App Version: 1.13      API Level: -1       Device Model: unknown
+2019-12-13 01:28:30   Debug   View SubTask screen is loaded     OS Type: iOS    App Version: 1.13      API Level: -1       Device Model: unknown
+2019-12-13 01:28:30   Debug   View SubTask screen is loaded     OS Type: iOS    App Version: 1.13      API Level: -1       Device Model: unknown
+2019-12-13 01:28:30   Debug   View SubTask screen is loaded     OS Type: iOS    App Version: 1.13      API Level: -1       Device Model: unknown
+2019-12-13 01:28:31   Debug   View SubTask screen is loaded     OS Type: iOS    App Version: 1.13      API Level: -1       Device Model: unknown
+2019-12-13 01:28:31   Debug   View SubTask screen is loaded     OS Type: iOS    App Version: 1.13      API Level: -1       Device Model: unknown
+2019-12-13 01:28:32   Debug   View SubTask screen is loaded     OS Type: iOS    App Version: 1.13      API Level: -1       Device Model: unknown
+2019-12-13 01:28:32   Debug   View SubTask screen is loaded     OS Type: iOS    App Version: 1.13      API Level: -1       Device Model: unknown
+2019-12-13 01:28:32   Debug   View SubTask screen is loaded     OS Type: iOS    App Version: 1.13      API Level: -1       Device Model: unknown
+2019-12-13 01:28:32   Debug   View SubTask screen is loaded     OS Type: iOS    App Version: 1.13      API Level: -1       Device Model: unknown
+2019-12-13 01:28:33   Debug   View SubTask screen is loaded     OS Type: iOS    App Version: 1.13      API Level: -1       Device Model: unknown
+2019-12-13 01:28:34   Debug   View SubTask screen is loaded     OS Type: iOS    App Version: 1.13      API Level: -1       Device Model: unknown
+2019-12-13 01:28:34   Debug   View SubTask screen is loaded     OS Type: iOS    App Version: 1.13      API Level: -1       Device Model: unknown
+2019-12-13 01:28:34   Debug   View SubTask screen is loaded     OS Type: iOS    App Version: 1.13      API Level: -1       Device Model: unknown
+2019-12-13 01:28:34   Debug   View SubTask screen is loaded     OS Type: iOS    App Version: 1.13      API Level: -1       Device Model: unknown
+2019-12-13 01:28:35   Debug   View SubTask screen is loaded     OS Type: iOS    App Version: 1.13      API Level: -1       Device Model: unknown
+2019-12-13 01:28:35   Debug   View SubTask screen is loaded     OS Type: iOS    App Version: 1.13      API Level: -1       Device Model: unknown
+2019-12-13 01:28:35   Debug   View SubTask screen is loaded     OS Type: iOS    App Version: 1.13      API Level: -1       Device Model: unknown
+2019-12-13 01:29:26   Info   UsrePendingManageTasks:ModifyMaintask(item, index) used to navigate to modify maintask screen     OS Type: iOS    App Version: 1.13      API Level: -1       Device Model: unknown
+2019-12-13 01:29:28   Info   UsrePendingManageTasks:ModifyMaintask(item, index) used to navigate to modify maintask screen     OS Type: iOS    App Version: 1.13      API Level: -1       Device Model: unknown
+2019-12-13 01:29:30   Info   UsrePendingManageTasks:ModifyMaintask(item, index) used to navigate to modify maintask screen     OS Type: iOS    App Version: 1.13      API Level: -1       Device Model: unknown
+2019-12-13 01:29:39   Info   UserPendingManageTasks:TaskChat(item, index) used to navigate to taskchat     OS Type: iOS    App Version: 1.13      API Level: -1       Device Model: unknown
+2019-12-13 01:29:40   Info   UserPendingManageTasks:TaskChat(item, index) used to navigate to taskchat     OS Type: iOS    App Version: 1.13      API Level: -1       Device Model: unknown
+2019-12-13 01:29:40   Info   UserPendingManageTasks:TaskChat(item, index) used to navigate to taskchat     OS Type: iOS    App Version: 1.13      API Level: -1       Device Model: unknown
+2019-12-13 01:29:41   Info   UserPendingManageTasks:TaskChat(item, index) used to navigate to taskchat     OS Type: iOS    App Version: 1.13      API Level: -1       Device Model: unknown
+2019-12-13 01:29:41   Info   UserPendingManageTasks:TaskChat(item, index) used to navigate to taskchat     OS Type: iOS    App Version: 1.13      API Level: -1       Device Model: unknown
+2019-12-13 01:29:41   Info   UserPendingManageTasks:TaskChat(item, index) used to navigate to taskchat     OS Type: iOS    App Version: 1.13      API Level: -1       Device Model: unknown
+2019-12-13 01:29:42   Info   UserPendingManageTasks:TaskChat(item, index) used to navigate to taskchat     OS Type: iOS    App Version: 1.13      API Level: -1       Device Model: unknown
+2019-12-13 01:29:42   Info   UserPendingManageTasks:TaskChat(item, index) used to navigate to taskchat     OS Type: iOS    App Version: 1.13      API Level: -1       Device Model: unknown
+2019-12-13 01:29:43   Info   UserPendingManageTasks:TaskChat(item, index) used to navigate to taskchat     OS Type: iOS    App Version: 1.13      API Level: -1       Device Model: unknown
+2019-12-13 01:29:43   Info   UserPendingManageTasks:TaskChat(item, index) used to navigate to taskchat     OS Type: iOS    App Version: 1.13      API Level: -1       Device Model: unknown
+2019-12-13 01:29:44   Info   UserPendingManageTasks:TaskChat(item, index) used to navigate to taskchat     OS Type: iOS    App Version: 1.13      API Level: -1       Device Model: unknown
+2019-12-13 01:29:45   Info   UserPendingManageTasks:TaskChat(item, index) used to navigate to taskchat     OS Type: iOS    App Version: 1.13      API Level: -1       Device Model: unknown
+2019-12-13 01:29:48   Info   UserPendingManageTasks:TaskChat(item, index) used to navigate to taskchat     OS Type: iOS    App Version: 1.13      API Level: -1       Device Model: unknown
+2019-12-13 01:29:49   Info   UserPendingManageTasks:TaskChat(item, index) used to navigate to taskchat     OS Type: iOS    App Version: 1.13      API Level: -1       Device Model: unknown
+2019-12-13 01:29:57   Info   UserPendingManageTasks:DeleteMaintask(maintaskid) method is used to delete maintask     OS Type: iOS    App Version: 1.13      API Level: -1       Device Model: unknown
+2019-12-13 01:29:58   Info   UserPendingManageTasks:DeleteMaintask(maintaskid) method is used to delete maintask     OS Type: iOS    App Version: 1.13      API Level: -1       Device Model: unknown
+2019-12-13 01:29:59   Info   UserPendingManageTasks:DeleteMaintask(maintaskid) method is used to delete maintask     OS Type: iOS    App Version: 1.13      API Level: -1       Device Model: unknown
+2019-12-13 01:29:59   Info   UserPendingManageTasks:DeleteMaintask(maintaskid) method is used to delete maintask     OS Type: iOS    App Version: 1.13      API Level: -1       Device Model: unknown
+2019-12-13 01:30:10   Debug   user completed manage tasks screen is loaded     OS Type: iOS    App Version: 1.13      API Level: -1       Device Model: unknown
+2019-12-13 01:30:10   Info   UserCompletedManageTasks:manageTasksCompleted() method is used to get completed manage tasks at admin side     OS Type: iOS    App Version: 1.13      API Level: -1       Device Model: unknown
+2019-12-13 01:30:11   Info   to get level no     OS Type: iOS    App Version: 1.13      API Level: -1       Device Model: unknown
+2019-12-13 01:30:16   Info   no completed manage tasks at user side     OS Type: iOS    App Version: 1.13      API Level: -1       Device Model: unknown
+2019-12-13 01:30:17   Info   no completed manage tasks at user side     OS Type: iOS    App Version: 1.13      API Level: -1       Device Model: unknown
+2019-12-13 01:30:17   Info   no completed manage tasks at user side     OS Type: iOS    App Version: 1.13      API Level: -1       Device Model: unknown
+2019-12-13 01:30:17   Info   no completed manage tasks at user side     OS Type: iOS    App Version: 1.13      API Level: -1       Device Model: unknown
+2019-12-13 01:30:17   Info   no completed manage tasks at user side     OS Type: iOS    App Version: 1.13      API Level: -1       Device Model: unknown
+2019-12-13 01:30:17   Info   no completed manage tasks at user side     OS Type: iOS    App Version: 1.13      API Level: -1       Device Model: unknown
+2019-12-13 01:30:18   Info   no completed manage tasks at user side     OS Type: iOS    App Version: 1.13      API Level: -1       Device Model: unknown
+2019-12-13 01:30:18   Info   no completed manage tasks at user side     OS Type: iOS    App Version: 1.13      API Level: -1       Device Model: unknown
+2019-12-13 01:30:18   Info   no completed manage tasks at user side     OS Type: iOS    App Version: 1.13      API Level: -1       Device Model: unknown
+2019-12-13 01:30:18   Info   no completed manage tasks at user side     OS Type: iOS    App Version: 1.13      API Level: -1       Device Model: unknown
+2019-12-13 01:30:20   Info   no completed manage tasks at user side     OS Type: iOS    App Version: 1.13      API Level: -1       Device Model: unknown
+2019-12-13 01:30:21   Info   no completed manage tasks at user side     OS Type: iOS    App Version: 1.13      API Level: -1       Device Model: unknown
+2019-12-13 01:30:22   Info   no completed manage tasks at user side     OS Type: iOS    App Version: 1.13      API Level: -1       Device Model: unknown
+2019-12-13 01:30:22   Info   no completed manage tasks at user side     OS Type: iOS    App Version: 1.13      API Level: -1       Device Model: unknown
+2019-12-13 01:30:23   Info   no completed manage tasks at user side     OS Type: iOS    App Version: 1.13      API Level: -1       Device Model: unknown
+2019-12-13 01:30:24   Info   no completed manage tasks at user side     OS Type: iOS    App Version: 1.13      API Level: -1       Device Model: unknown
+2019-12-13 01:30:24   Info   no completed manage tasks at user side     OS Type: iOS    App Version: 1.13      API Level: -1       Device Model: unknown
+2019-12-13 01:30:25   Info   no completed manage tasks at user side     OS Type: iOS    App Version: 1.13      API Level: -1       Device Model: unknown
+2019-12-13 01:30:25   Info   no completed manage tasks at user side     OS Type: iOS    App Version: 1.13      API Level: -1       Device Model: unknown
+2019-12-13 01:30:26   Info   no completed manage tasks at user side     OS Type: iOS    App Version: 1.13      API Level: -1       Device Model: unknown
+2019-12-13 01:30:27   Info   no completed manage tasks at user side     OS Type: iOS    App Version: 1.13      API Level: -1       Device Model: unknown
+2019-12-13 01:30:27   Info   no completed manage tasks at user side     OS Type: iOS    App Version: 1.13      API Level: -1       Device Model: unknown
+2019-12-13 01:30:27   Info   no completed manage tasks at user side     OS Type: iOS    App Version: 1.13      API Level: -1       Device Model: unknown
+2019-12-13 01:30:27   Info   no completed manage tasks at user side     OS Type: iOS    App Version: 1.13      API Level: -1       Device Model: unknown
+2019-12-13 01:30:29   Info   no completed manage tasks at user side     OS Type: iOS    App Version: 1.13      API Level: -1       Device Model: unknown
+2019-12-13 01:30:30   Info   no completed manage tasks at user side     OS Type: iOS    App Version: 1.13      API Level: -1       Device Model: unknown
+2019-12-13 01:30:30   Info   no completed manage tasks at user side     OS Type: iOS    App Version: 1.13      API Level: -1       Device Model: unknown
+2019-12-13 01:30:31   Info   no completed manage tasks at user side     OS Type: iOS    App Version: 1.13      API Level: -1       Device Model: unknown
+2019-12-13 01:30:32   Info   no completed manage tasks at user side     OS Type: iOS    App Version: 1.13      API Level: -1       Device Model: unknown
+2019-12-13 01:30:33   Info   no completed manage tasks at user side     OS Type: iOS    App Version: 1.13      API Level: -1       Device Model: unknown
+2019-12-13 01:30:33   Info   no completed manage tasks at user side     OS Type: iOS    App Version: 1.13      API Level: -1       Device Model: unknown
+2019-12-13 01:30:33   Info   no completed manage tasks at user side     OS Type: iOS    App Version: 1.13      API Level: -1       Device Model: unknown
+2019-12-13 01:30:34   Info   no completed manage tasks at user side     OS Type: iOS    App Version: 1.13      API Level: -1       Device Model: unknown
+2019-12-13 01:30:34   Info   no completed manage tasks at user side     OS Type: iOS    App Version: 1.13      API Level: -1       Device Model: unknown
+2019-12-13 01:30:35   Info   no completed manage tasks at user side     OS Type: iOS    App Version: 1.13      API Level: -1       Device Model: unknown
+2019-12-13 01:30:35   Info   no completed manage tasks at user side     OS Type: iOS    App Version: 1.13      API Level: -1       Device Model: unknown
+2019-12-13 01:30:35   Info   no completed manage tasks at user side     OS Type: iOS    App Version: 1.13      API Level: -1       Device Model: unknown
+2019-12-13 01:30:36   Info   no completed manage tasks at user side     OS Type: iOS    App Version: 1.13      API Level: -1       Device Model: unknown
+2019-12-13 01:30:37   Info   no completed manage tasks at user side     OS Type: iOS    App Version: 1.13      API Level: -1       Device Model: unknown
+2019-12-13 01:30:38   Info   no completed manage tasks at user side     OS Type: iOS    App Version: 1.13      API Level: -1       Device Model: unknown
+2019-12-13 01:30:38   Info   no completed manage tasks at user side     OS Type: iOS    App Version: 1.13      API Level: -1       Device Model: unknown
+2019-12-13 01:30:38   Info   no completed manage tasks at user side     OS Type: iOS    App Version: 1.13      API Level: -1       Device Model: unknown
+2019-12-13 01:30:39   Info   no completed manage tasks at user side     OS Type: iOS    App Version: 1.13      API Level: -1       Device Model: unknown
+2019-12-13 01:30:40   Info   no completed manage tasks at user side     OS Type: iOS    App Version: 1.13      API Level: -1       Device Model: unknown
+2019-12-13 01:30:40   Info   no completed manage tasks at user side     OS Type: iOS    App Version: 1.13      API Level: -1       Device Model: unknown
+2019-12-13 01:30:40   Info   no completed manage tasks at user side     OS Type: iOS    App Version: 1.13      API Level: -1       Device Model: unknown
+2019-12-13 01:30:41   Info   no completed manage tasks at user side     OS Type: iOS    App Version: 1.13      API Level: -1       Device Model: unknown
+2019-12-13 01:30:41   Info   no completed manage tasks at user side     OS Type: iOS    App Version: 1.13      API Level: -1       Device Model: unknown
+2019-12-13 01:30:42   Info   no completed manage tasks at user side     OS Type: iOS    App Version: 1.13      API Level: -1       Device Model: unknown
+2019-12-13 01:30:42   Info   no completed manage tasks at user side     OS Type: iOS    App Version: 1.13      API Level: -1       Device Model: unknown
+2019-12-13 01:30:43   Info   no completed manage tasks at user side     OS Type: iOS    App Version: 1.13      API Level: -1       Device Model: unknown
+2019-12-13 01:30:44   Info   no completed manage tasks at user side     OS Type: iOS    App Version: 1.13      API Level: -1       Device Model: unknown
+2019-12-13 01:30:45   Info   no completed manage tasks at user side     OS Type: iOS    App Version: 1.13      API Level: -1       Device Model: unknown
+2019-12-13 01:30:46   Info   no completed manage tasks at user side     OS Type: iOS    App Version: 1.13      API Level: -1       Device Model: unknown
+2019-12-13 01:30:49   Info   no completed manage tasks at user side     OS Type: iOS    App Version: 1.13      API Level: -1       Device Model: unknown
+2019-12-13 01:30:49   Info   no completed manage tasks at user side     OS Type: iOS    App Version: 1.13      API Level: -1       Device Model: unknown
+2019-12-13 01:30:50   Info   no completed manage tasks at user side     OS Type: iOS    App Version: 1.13      API Level: -1       Device Model: unknown
+2019-12-13 01:30:51   Info   no completed manage tasks at user side     OS Type: iOS    App Version: 1.13      API Level: -1       Device Model: unknown
+2019-12-13 01:30:52   Info   no completed manage tasks at user side     OS Type: iOS    App Version: 1.13      API Level: -1       Device Model: unknown
+2019-12-13 01:30:52   Info   no completed manage tasks at user side     OS Type: iOS    App Version: 1.13      API Level: -1       Device Model: unknown
+2019-12-13 01:30:53   Info   no completed manage tasks at user side     OS Type: iOS    App Version: 1.13      API Level: -1       Device Model: unknown
+2019-12-13 01:30:53   Info   no completed manage tasks at user side     OS Type: iOS    App Version: 1.13      API Level: -1       Device Model: unknown
+2019-12-13 01:30:53   Info   no completed manage tasks at user side     OS Type: iOS    App Version: 1.13      API Level: -1       Device Model: unknown
+2019-12-13 01:30:54   Info   no completed manage tasks at user side     OS Type: iOS    App Version: 1.13      API Level: -1       Device Model: unknown
+2019-12-13 01:30:55   Info   no completed manage tasks at user side     OS Type: iOS    App Version: 1.13      API Level: -1       Device Model: unknown
+2019-12-13 01:30:56      
+2019-12-13 01:31:04      
+2019-12-13 01:31:14      
+2019-12-13 05:05:03   Info   no completed manage tasks at user side     OS Type: iOS    App Version: 1.13      API Level: -1       Device Model: unknown
+2019-12-13 05:05:03   Info   no completed manage tasks at user side     OS Type: iOS    App Version: 1.13      API Level: -1       Device Model: unknown
+2019-12-13 05:05:03   Info   no completed manage tasks at user side     OS Type: iOS    App Version: 1.13      API Level: -1       Device Model: unknown
+2019-12-13 05:05:03   Info   no completed manage tasks at user side     OS Type: iOS    App Version: 1.13      API Level: -1       Device Model: unknown
+2019-12-13 05:05:03   Info   no completed manage tasks at user side     OS Type: iOS    App Version: 1.13      API Level: -1       Device Model: unknown
+2019-12-13 05:05:03   Info   no completed manage tasks at user side     OS Type: iOS    App Version: 1.13      API Level: -1       Device Model: unknown
+2019-12-13 05:05:03   Info   no completed manage tasks at user side     OS Type: iOS    App Version: 1.13      API Level: -1       Device Model: unknown
+2019-12-13 05:05:04   Info   no completed manage tasks at user side     OS Type: iOS    App Version: 1.13      API Level: -1       Device Model: unknown
+2019-12-13 05:05:04   Info   no completed manage tasks at user side     OS Type: iOS    App Version: 1.13      API Level: -1       Device Model: unknown
+2019-12-13 05:05:04   Info   no completed manage tasks at user side     OS Type: iOS    App Version: 1.13      API Level: -1       Device Model: unknown
+2019-12-13 05:05:04   Info   no completed manage tasks at user side     OS Type: iOS    App Version: 1.13      API Level: -1       Device Model: unknown
+2019-12-13 05:05:04   Info   no completed manage tasks at user side     OS Type: iOS    App Version: 1.13      API Level: -1       Device Model: unknown
+2019-12-13 05:05:04   Info   no completed manage tasks at user side     OS Type: iOS    App Version: 1.13      API Level: -1       Device Model: unknown
+2019-12-13 05:05:04   Info   no completed manage tasks at user side     OS Type: iOS    App Version: 1.13      API Level: -1       Device Model: unknown
+2019-12-13 05:05:04   Info   no completed manage tasks at user side     OS Type: iOS    App Version: 1.13      API Level: -1       Device Model: unknown
+2019-12-13 05:05:04   Info   no completed manage tasks at user side     OS Type: iOS    App Version: 1.13      API Level: -1       Device Model: unknown
+2019-12-13 05:05:04   Info   no completed manage tasks at user side     OS Type: iOS    App Version: 1.13      API Level: -1       Device Model: unknown
+2019-12-13 05:05:04   Info   no completed manage tasks at user side     OS Type: iOS    App Version: 1.13      API Level: -1       Device Model: unknown
+2019-12-13 05:05:04   Info   no completed manage tasks at user side     OS Type: iOS    App Version: 1.13      API Level: -1       Device Model: unknown
+2019-12-13 05:05:04   Info   no completed manage tasks at user side     OS Type: iOS    App Version: 1.13      API Level: -1       Device Model: unknown
+2019-12-13 05:05:04   Info   no completed manage tasks at user side     OS Type: iOS    App Version: 1.13      API Level: -1       Device Model: unknown
+2019-12-13 05:05:04   Info   no completed manage tasks at user side     OS Type: iOS    App Version: 1.13      API Level: -1       Device Model: unknown
+2019-12-13 05:05:04   Info   no completed manage tasks at user side     OS Type: iOS    App Version: 1.13      API Level: -1       Device Model: unknown
+2019-12-13 05:05:04   Info   no completed manage tasks at user side     OS Type: iOS    App Version: 1.13      API Level: -1       Device Model: unknown
+2019-12-13 05:05:04   Info   no completed manage tasks at user side     OS Type: iOS    App Version: 1.13      API Level: -1       Device Model: unknown
+2019-12-13 05:05:04   Info   UserPendingManageTasks:DeleteMaintask(maintaskid) method is used to delete maintask     OS Type: iOS    App Version: 1.13      API Level: -1       Device Model: unknown
+2019-12-13 05:05:04   Info   UserPendingManageTasks:DeleteMaintask(maintaskid) method is used to delete maintask     OS Type: iOS    App Version: 1.13      API Level: -1       Device Model: unknown
+2019-12-13 05:05:04   Info   UserPendingManageTasks:DeleteMaintask(maintaskid) method is used to delete maintask     OS Type: iOS    App Version: 1.13      API Level: -1       Device Model: unknown
+2019-12-13 05:05:04   Info   UserPendingManageTasks:DeleteMaintask(maintaskid) method is used to delete maintask     OS Type: iOS    App Version: 1.13      API Level: -1       Device Model: unknown
+2019-12-13 05:05:04   Info   UserPendingManageTasks:DeleteMaintask(maintaskid) method is used to delete maintask     OS Type: iOS    App Version: 1.13      API Level: -1       Device Model: unknown
+2019-12-13 05:05:04   Info   UserPendingManageTasks:DeleteMaintask(maintaskid) method is used to delete maintask     OS Type: iOS    App Version: 1.13      API Level: -1       Device Model: unknown
+2019-12-13 05:05:04   Info   UserPendingManageTasks:DeleteMaintask(maintaskid) method is used to delete maintask     OS Type: iOS    App Version: 1.13      API Level: -1       Device Model: unknown
+2019-12-13 05:05:04   Info   UserPendingManageTasks:DeleteMaintask(maintaskid) method is used to delete maintask     OS Type: iOS    App Version: 1.13      API Level: -1       Device Model: unknown
+2019-12-13 05:05:04   Debug   Add Task screen is loaded     OS Type: iOS    App Version: 1.13      API Level: -1       Device Model: unknown
+2019-12-13 05:05:04   Info    getEmployees(cropcode) is used for getting the Employees list for addind maintask     OS Type: iOS    App Version: 1.13      API Level: -1       Device Model: unknown
+2019-12-13 05:05:04   Debug   Task Chat screen is loaded     OS Type: iOS    App Version: 1.13      API Level: -1       Device Model: unknown
+2019-12-13 05:05:04   Info    groupMembersList(role, userToken, cropcode) is used getting task related group members     OS Type: iOS    App Version: 1.13      API Level: -1       Device Model: unknown
+2019-12-13 05:05:04   Info    getMessages(role, userToken, cropcode) is used getting task related messages     OS Type: iOS    App Version: 1.13      API Level: -1       Device Model: unknown
+2019-12-13 05:06:58   Info   getSubTasksList(taskId) method is used to Getting the subtasks      OS Type: iOS    App Version: 1.13      API Level: -1       Device Model: unknown
+2019-12-13 05:06:58   Debug   View SubTask screen is loaded     OS Type: iOS    App Version: 1.13      API Level: -1       Device Model: unknown
+2019-12-13 05:52:12   Debug   Login Screen is Loaded     OS Type: Android    App Version: 1.2      API Level: 29       Device Model: OnePlus6T
+2019-12-13 05:52:36   Info   onSignIn() is used for login purpose and based on usertype data is authorizised     OS Type: Android    App Version: 1.2      API Level: 29       Device Model: OnePlus6T
+2019-12-13 05:52:36   Debug   user pending mytask tasks screen is loaded at user side     OS Type: Android    App Version: 1.2      API Level: 29       Device Model: OnePlus6T
+2019-12-13 05:52:36   Info   UserPendingMyTask:getdata() method is used to get pending my tasks at user side     OS Type: Android    App Version: 1.2      API Level: 29       Device Model: OnePlus6T
+2019-12-13 05:52:37   Info   no pending my tasks at user side     OS Type: Android    App Version: 1.2      API Level: 29       Device Model: OnePlus6T
+2019-12-13 05:52:40   Debug   user completed manage tasks screen is loaded     OS Type: Android    App Version: 1.2      API Level: 29       Device Model: OnePlus6T
+2019-12-13 05:52:40   Info   UserCompletedMyTask:userCompletedMyTasks() method is used to get completed my tasks at user side     OS Type: Android    App Version: 1.2      API Level: 29       Device Model: OnePlus6T
+2019-12-13 05:52:51   Info   userPendingManageTasks:DeleteMaintask(maintaskid) method is used to delete maintask     OS Type: Android    App Version: 1.2      API Level: 29       Device Model: OnePlus6T
+2019-12-13 05:52:51   Info   userPendingManageTasks:DeleteMaintask(maintaskid) method is used to delete maintask     OS Type: Android    App Version: 1.2      API Level: 29       Device Model: OnePlus6T
+2019-12-13 05:52:51   Debug   user pending manage tasks screen is loaded     OS Type: Android    App Version: 1.2      API Level: 29       Device Model: OnePlus6T
+2019-12-13 05:52:51   Info   to get level no     OS Type: Android    App Version: 1.2      API Level: 29       Device Model: OnePlus6T
+2019-12-13 05:52:51   Info   to get level no     OS Type: Android    App Version: 1.2      API Level: 29       Device Model: OnePlus6T
+2019-12-13 05:52:51   Info   no pending manage tasks at user side     OS Type: Android    App Version: 1.2      API Level: 29       Device Model: OnePlus6T
+2019-12-13 05:52:52   Info   no pending manage tasks at user side     OS Type: Android    App Version: 1.2      API Level: 29       Device Model: OnePlus6T
+2019-12-13 05:52:52   Info   no pending manage tasks at user side     OS Type: Android    App Version: 1.2      API Level: 29       Device Model: OnePlus6T
+2019-12-13 05:52:53   Info   to get level no     OS Type: Android    App Version: 1.2      API Level: 29       Device Model: OnePlus6T
+2019-12-13 05:52:53   Info   UserCompletedManageTasks:manageTasksCompleted() method is used to get completed manage tasks at admin side     OS Type: Android    App Version: 1.2      API Level: 29       Device Model: OnePlus6T
+2019-12-13 05:52:53   Debug   user completed manage tasks screen is loaded     OS Type: Android    App Version: 1.2      API Level: 29       Device Model: OnePlus6T
+2019-12-13 05:52:54   Info   no completed manage tasks at user side     OS Type: Android    App Version: 1.2      API Level: 29       Device Model: OnePlus6T
+2019-12-13 05:53:13   Info    getdata() is used to get all requested projects at user side     OS Type: Android    App Version: 1.2      API Level: 29       Device Model: OnePlus6T
+2019-12-13 05:53:13   Debug   user request projects screen is loaded     OS Type: Android    App Version: 1.2      API Level: 29       Device Model: OnePlus6T
+2019-12-13 05:53:16   Info   UserApprovedProjects:setRO(userApprovedProjects() method is used to list the user approved projects     OS Type: Android    App Version: 1.2      API Level: 29       Device Model: OnePlus6T
+2019-12-13 05:53:16   Info   UserApprovedProjects:getResource() method is used to get all employee list     OS Type: Android    App Version: 1.2      API Level: 29       Device Model: OnePlus6T
+2019-12-13 05:53:16   Debug   User Approved projects screen is loaded     OS Type: Android    App Version: 1.2      API Level: 29       Device Model: OnePlus6T
+2019-12-13 05:53:24   Info   UserApprovedProjects:Module() method is used to move module listing screen     OS Type: Android    App Version: 1.2      API Level: 29       Device Model: OnePlus6T
+2019-12-13 05:53:24   Debug    getModules screen is loaded     OS Type: Android    App Version: 1.2      API Level: 29       Device Model: OnePlus6T
+2019-12-13 05:53:24   Debug   Add Module screen is loaded     OS Type: Android    App Version: 1.2      API Level: 29       Device Model: OnePlus6T
+2019-12-13 05:53:24   Debug   Add Module screen is loaded     OS Type: Android    App Version: 1.2      API Level: 29       Device Model: OnePlus6T
+2019-12-13 05:53:24   Debug   Add Module screen is loaded     OS Type: Android    App Version: 1.2      API Level: 29       Device Model: OnePlus6T
+2019-12-13 05:53:25   Debug   Add Module screen is loaded     OS Type: Android    App Version: 1.2      API Level: 29       Device Model: OnePlus6T
+2019-12-13 05:53:25   Debug   Add Module screen is loaded     OS Type: Android    App Version: 1.2      API Level: 29       Device Model: OnePlus6T
+2019-12-13 05:53:35   Info    getModulesList(cropcode) is used to get all module list     OS Type: Android    App Version: 1.2      API Level: 29       Device Model: OnePlus6T
+2019-12-13 05:53:35   Debug   Main Task Screen is loaded     OS Type: Android    App Version: 1.2      API Level: 29       Device Model: OnePlus6T
+2019-12-13 05:53:35   Info   MainTask() method is used to move Add Module to Add MainTask screen     OS Type: Android    App Version: 1.2      API Level: 29       Device Model: OnePlus6T
+2019-12-13 05:53:38   Info    getEmployees(cropcode) is used for getting the Employees list for addind maintask     OS Type: Android    App Version: 1.2      API Level: 29       Device Model: OnePlus6T
+2019-12-13 05:53:38   Debug   Add Task screen is loaded     OS Type: Android    App Version: 1.2      API Level: 29       Device Model: OnePlus6T
+2019-12-13 05:56:33   Info    addMainTask(addTask, modifyTask,) is used to add maintask     OS Type: Android    App Version: 1.2      API Level: 29       Device Model: OnePlus6T
+2019-12-13 05:56:35   Debug   Add Task screen is loaded     OS Type: Android    App Version: 1.2      API Level: 29       Device Model: OnePlus6T
+2019-12-13 05:56:35   Info    getEmployees(cropcode) is used for getting the Employees list for addind maintask     OS Type: Android    App Version: 1.2      API Level: 29       Device Model: OnePlus6T
+2019-12-13 05:56:50   Info    getEmployees(cropcode) is used for getting the Employees list for addind maintask     OS Type: Android    App Version: 1.2      API Level: 29       Device Model: OnePlus6T
+2019-12-13 05:56:50   Debug   Add Task screen is loaded     OS Type: Android    App Version: 1.2      API Level: 29       Device Model: OnePlus6T
+2019-12-13 05:57:26   Info    addMainTask(addTask, modifyTask,) is used to add maintask     OS Type: Android    App Version: 1.2      API Level: 29       Device Model: OnePlus6T
+2019-12-13 05:57:41   Info   empSearch(cropcode) method is used to employee's data     OS Type: Android    App Version: 1.2      API Level: 29       Device Model: OnePlus6T
+2019-12-13 05:57:41   Info   AddSubTask method is used to move Add Main Task  to Add SubTask Modal screen     OS Type: Android    App Version: 1.2      API Level: 29       Device Model: OnePlus6T
+2019-12-13 05:57:41   Debug   Add Sub Task Modal screen is loaded     OS Type: Android    App Version: 1.2      API Level: 29       Device Model: OnePlus6T
+2019-12-13 05:58:58   Warn   time should not be empty     OS Type: Android    App Version: 1.2      API Level: 29       Device Model: OnePlus6T
+2019-12-13 05:58:58   Info    addSubTask() is used to add sub task     OS Type: Android    App Version: 1.2      API Level: 29       Device Model: OnePlus6T
+2019-12-13 05:59:02   Info    addSubTask() is used to add sub task     OS Type: Android    App Version: 1.2      API Level: 29       Device Model: OnePlus6T
+2019-12-13 06:09:05   Debug   admin request projects screen is loaded     OS Type: Android    App Version: 1.2      API Level: 28       Device Model: RMX1825
+2019-12-13 06:09:05   Info    getRequestedIdeas(role, userToken, cropcode) is used to get all requested projects at admin side     OS Type: Android    App Version: 1.2      API Level: 28       Device Model: RMX1825
+2019-12-13 06:09:14   Debug   getting the CompletedMyTask List     OS Type: Android    App Version: 1.2      API Level: 28       Device Model: RMX1825
+2019-12-13 06:09:14   Info    userCompletedMyTasks(cropcode) is used to get the all the user completed data list     OS Type: Android    App Version: 1.2      API Level: 28       Device Model: RMX1825
+2019-12-13 06:09:21   Debug   Solved Road Blocks loaded     OS Type: Android    App Version: 1.2      API Level: 28       Device Model: RMX1825
+2019-12-13 06:09:21   Info    userCompletedMyTasks(cropcode) is used to get the all the user completed data list     OS Type: Android    App Version: 1.2      API Level: 28       Device Model: RMX1825
+2019-12-13 06:09:39   Debug   admin userpreference screen is loaded     OS Type: Android    App Version: 1.2      API Level: 28       Device Model: RMX1825
+2019-12-13 06:10:01   Info   adminApprovedProjects(role, userToken, cropcode) method is used to get all approved projects list     OS Type: Android    App Version: 1.2      API Level: 28       Device Model: RMX1825
+2019-12-13 06:10:32   Debug    getModules screen is loaded     OS Type: Android    App Version: 1.2      API Level: 28       Device Model: RMX1825
+2019-12-13 06:10:32   Info   Module() method is used to move module listing screen     OS Type: Android    App Version: 1.2      API Level: 28       Device Model: RMX1825
+2019-12-13 06:10:32   Debug   Add Module screen is loaded     OS Type: Android    App Version: 1.2      API Level: 28       Device Model: RMX1825
+2019-12-13 06:10:32   Debug   Add Module screen is loaded     OS Type: Android    App Version: 1.2      API Level: 28       Device Model: RMX1825
+2019-12-13 06:10:40   Debug    getModules screen is loaded     OS Type: Android    App Version: 1.2      API Level: 28       Device Model: RMX1825
+2019-12-13 06:10:40   Info   Module() method is used to move module listing screen     OS Type: Android    App Version: 1.2      API Level: 28       Device Model: RMX1825
+2019-12-13 06:10:54   Debug   Add Module screen is loaded     OS Type: Android    App Version: 1.2      API Level: 28       Device Model: RMX1825
+2019-12-13 06:10:54   Info   ProjectVerify() method is used to give alert     OS Type: Android    App Version: 1.2      API Level: 28       Device Model: RMX1825
+2019-12-13 06:10:55   Info   ProjectVerify() method is used to give alert     OS Type: Android    App Version: 1.2      API Level: 28       Device Model: RMX1825
+2019-12-13 06:10:58   Info   ReleaseOwner() method used to navigate to release owner screen     OS Type: Android    App Version: 1.2      API Level: 28       Device Model: RMX1825
+2019-12-13 06:10:58   Debug   Release Owner     OS Type: Android    App Version: 1.2      API Level: 28       Device Model: RMX1825
+2019-12-13 06:10:58   Info    getEmployeesList(role, userToken, cropcode) Getting Employees List for adding releaseowner     OS Type: Android    App Version: 1.2      API Level: 28       Device Model: RMX1825
+2019-12-13 06:11:01   Debug   Add Module screen is loaded     OS Type: Android    App Version: 1.2      API Level: 28       Device Model: RMX1825
+2019-12-13 06:11:01   Info   deleteAction() method used to give delete alert     OS Type: Android    App Version: 1.2      API Level: 28       Device Model: RMX1825
+2019-12-13 06:11:12   Debug   admin request projects screen is loaded     OS Type: Android    App Version: 1.2      API Level: 28       Device Model: RMX1825
+2019-12-13 06:11:15   Info    getRequestedIdeas(role, userToken, cropcode) is used to get all requested projects at admin side     OS Type: Android    App Version: 1.2      API Level: 28       Device Model: RMX1825
+2019-12-13 06:11:19   Debug   admin project info screen is loaded     OS Type: Android    App Version: 1.2      API Level: 28       Device Model: RMX1825
+2019-12-13 06:11:19   Info   AdminProjectInfo:Disabling() method is used to diable accept button based on condition     OS Type: Android    App Version: 1.2      API Level: 28       Device Model: RMX1825
+2019-12-13 06:11:19   Info   AdminProjectInfo method is used to move requested project to project info screen     OS Type: Android    App Version: 1.2      API Level: 28       Device Model: RMX1825
+2019-12-13 06:42:17   Debug   admin request projects screen is loaded     OS Type: Android    App Version: 1.2      API Level: 28       Device Model: RMX1825
+2019-12-13 06:42:17   Info    getRequestedIdeas(role, userToken, cropcode) is used to get all requested projects at admin side     OS Type: Android    App Version: 1.2      API Level: 28       Device Model: RMX1825
+2019-12-13 06:42:20   Info    userCompletedMyTasks(cropcode) is used to get the all the user completed data list     OS Type: Android    App Version: 1.2      API Level: 28       Device Model: RMX1825
+2019-12-13 06:42:20   Debug   getting the CompletedMyTask List     OS Type: Android    App Version: 1.2      API Level: 28       Device Model: RMX1825
+2019-12-13 06:42:33   Info    userCompletedMyTasks(cropcode) is used to get the all the user completed data list     OS Type: Android    App Version: 1.2      API Level: 28       Device Model: RMX1825
+2019-12-13 06:42:33   Debug   Solved Road Blocks loaded     OS Type: Android    App Version: 1.2      API Level: 28       Device Model: RMX1825
+2019-12-13 06:42:50   Debug   Road Block screen is loaded     OS Type: Android    App Version: 1.2      API Level: 28       Device Model: RMX1825
+2019-12-13 06:42:50   Info    getRoadBlocks(role, userToken, cropcode) is used to getting the RoadBlocks     OS Type: Android    App Version: 1.2      API Level: 28       Device Model: RMX1825
+2019-12-13 06:47:02   Debug   Login Screen is Loaded     OS Type: Android    App Version: 1.2      API Level: 28       Device Model: RMX1825
+2019-12-13 06:52:47   Debug   Login Screen is Loaded     OS Type: Android    App Version: 1.2      API Level: 28       Device Model: RMX1825
+2019-12-13 06:57:05   Debug   Login Screen is Loaded     OS Type: Android    App Version: 1.2      API Level: 28       Device Model: RMX1825
+2019-12-13 07:08:49   Info   onSignIn() is used for login purpose and based on usertype data is authorizised     OS Type: Android    App Version: 1.2      API Level: 28       Device Model: RMX1825
+2019-12-13 07:08:50   Debug   admin request projects screen is loaded     OS Type: Android    App Version: 1.2      API Level: 28       Device Model: RMX1825
+2019-12-13 07:08:50   Info    getRequestedIdeas(role, userToken, cropcode) is used to get all requested projects at admin side     OS Type: Android    App Version: 1.2      API Level: 28       Device Model: RMX1825
+2019-12-13 07:12:29   Debug   admin userpreference screen is loaded     OS Type: Android    App Version: 1.2      API Level: 28       Device Model: RMX1825
+2019-12-13 07:14:50   Info   adminApprovedProjects(role, userToken, cropcode) method is used to get all approved projects list     OS Type: Android    App Version: 1.2      API Level: 28       Device Model: RMX1825

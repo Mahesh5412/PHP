@@ -1,0 +1,490 @@
+2019-12-27 04:08:16   Debug   user pending mytask tasks screen is loaded at user side     OS Type: Android    App Version: 1.2      API Level: 26       Device Model: generic_x86
+2019-12-27 04:08:16   Info   UserPendingMyTask:getdata() method is used to get pending my tasks at user side     OS Type: Android    App Version: 1.2      API Level: 26       Device Model: generic_x86
+2019-12-27 04:08:16   Info   UserPendingMyTask:getdata() method is used to get pending my tasks at user side     OS Type: Android    App Version: 1.2      API Level: 26       Device Model: generic_x86
+2019-12-27 04:12:41   Debug   user pending mytask tasks screen is loaded at user side     OS Type: Android    App Version: 1.2      API Level: 26       Device Model: generic_x86
+2019-12-27 04:12:41   Info   UserPendingMyTask:getdata() method is used to get pending my tasks at user side     OS Type: Android    App Version: 1.2      API Level: 26       Device Model: generic_x86
+2019-12-27 04:12:42   Info   UserPendingMyTask:getdata() method is used to get pending my tasks at user side     OS Type: Android    App Version: 1.2      API Level: 26       Device Model: generic_x86
+2019-12-27 04:25:32   Info   UserProfile:GetStatus() method is used to get status of employee     OS Type: Android    App Version: 1.2      API Level: 26       Device Model: generic_x86
+2019-12-27 04:25:32   Debug   UserProfile screen is loaded     OS Type: Android    App Version: 1.2      API Level: 26       Device Model: generic_x86
+2019-12-27 04:25:32   Info   UserProfile:profile() method is used get employee profile data     OS Type: Android    App Version: 1.2      API Level: 26       Device Model: generic_x86
+2019-12-27 04:25:38   Debug   admin request projects screen is loaded     OS Type: Android    App Version: 1.2      API Level: 25       Device Model: ugg
+2019-12-27 04:25:38   Warn   no requested projects found     OS Type: Android    App Version: 1.2      API Level: 25       Device Model: ugg
+2019-12-27 04:25:38   Info    getRequestedIdeas(role, userToken, cropcode) is used to get all requested projects at admin side     OS Type: Android    App Version: 1.2      API Level: 25       Device Model: ugg
+2019-12-27 04:25:38   Info    getRequestedIdeas(role, userToken, cropcode) is used to get all requested projects at admin side     OS Type: Android    App Version: 1.2      API Level: 25       Device Model: ugg
+2019-12-27 04:25:44   Debug   Login Screen is Loaded     OS Type: Android    App Version: 1.2      API Level: 25       Device Model: ugg
+2019-12-27 04:26:04   Warn   UserName and Password is not entered correctly     OS Type: Android    App Version: 1.2      API Level: 25       Device Model: ugg
+2019-12-27 04:26:04   Info   onSignIn() is used for login purpose and based on usertype data is authorizised     OS Type: Android    App Version: 1.2      API Level: 25       Device Model: ugg
+2019-12-27 04:26:10   Info   onSignIn() is used for login purpose and based on usertype data is authorizised     OS Type: Android    App Version: 1.2      API Level: 25       Device Model: ugg
+2019-12-27 04:26:11   Debug   user pending mytask tasks screen is loaded at user side     OS Type: Android    App Version: 1.2      API Level: 25       Device Model: ugg
+2019-12-27 04:26:11   Info   UserPendingMyTask:getdata() method is used to get pending my tasks at user side     OS Type: Android    App Version: 1.2      API Level: 25       Device Model: ugg
+2019-12-27 04:26:11   Info   UserPendingMyTask:getdata() method is used to get pending my tasks at user side     OS Type: Android    App Version: 1.2      API Level: 25       Device Model: ugg
+2019-12-27 04:26:17   Debug   UserProfile screen is loaded     OS Type: Android    App Version: 1.2      API Level: 25       Device Model: ugg
+2019-12-27 04:26:17   Info   UserProfile:GetStatus() method is used to get status of employee     OS Type: Android    App Version: 1.2      API Level: 25       Device Model: ugg
+2019-12-27 04:26:17   Info   UserProfile:profile() method is used get employee profile data     OS Type: Android    App Version: 1.2      API Level: 25       Device Model: ugg
+2019-12-27 04:28:32   Debug   user pending mytask tasks screen is loaded at user side     OS Type: Android    App Version: 1.2      API Level: 26       Device Model: generic_x86
+2019-12-27 04:28:33   Info   UserPendingMyTask:getdata() method is used to get pending my tasks at user side     OS Type: Android    App Version: 1.2      API Level: 26       Device Model: generic_x86
+2019-12-27 04:28:33   Info   UserPendingMyTask:getdata() method is used to get pending my tasks at user side     OS Type: Android    App Version: 1.2      API Level: 26       Device Model: generic_x86
+2019-12-27 04:30:19   Info   UserManageEmployees:getEmployeeList() method is used to get employee list     OS Type: Android    App Version: 1.2      API Level: 26       Device Model: generic_x86
+2019-12-27 04:30:19   Debug   Employees list getting screen is loaded at user side     OS Type: Android    App Version: 1.2      API Level: 26       Device Model: generic_x86
+2019-12-27 04:30:27   Info   UserManageEmployees:SearchFilterFunction(text) method is used for search functionality     OS Type: Android    App Version: 1.2      API Level: 26       Device Model: generic_x86
+2019-12-27 04:30:29   Info   UserManageEmployees:SearchFilterFunction(text) method is used for search functionality     OS Type: Android    App Version: 1.2      API Level: 26       Device Model: generic_x86
+2019-12-27 04:30:42   Info   UserManageEmployeeTaskPending:getEmployeesPendingTaskList() used to get employee pending tasks     OS Type: Android    App Version: 1.2      API Level: 26       Device Model: generic_x86
+2019-12-27 04:30:42   Debug   user Manageemployee view pending tasks screen is loaded     OS Type: Android    App Version: 1.2      API Level: 26       Device Model: generic_x86
+2019-12-27 04:30:56   Debug   user Manageemployee view completed tasks screen is loaded     OS Type: Android    App Version: 1.2      API Level: 26       Device Model: generic_x86
+2019-12-27 04:30:56   Info   UserManageEmployeeTaskCompleted:getEmployeeSubTasksCompleted() method is used to get employee completed tasks     OS Type: Android    App Version: 1.2      API Level: 26       Device Model: generic_x86
+2019-12-27 04:31:03   Debug   user Manageemployee view verified tasks screen is loaded     OS Type: Android    App Version: 1.2      API Level: 26       Device Model: generic_x86
+2019-12-27 04:31:03   Info   UserManageEmployeeTaskVerified:getEmployeesPendingTaskList() method is used to get employee verified tasks     OS Type: Android    App Version: 1.2      API Level: 26       Device Model: generic_x86
+2019-12-27 04:33:00   Info   UserManageEmployeeTaskPending:getEmployeesPendingTaskList() used to get employee pending tasks     OS Type: Android    App Version: 1.2      API Level: 26       Device Model: generic_x86
+2019-12-27 04:33:00   Debug   user Manageemployee view pending tasks screen is loaded     OS Type: Android    App Version: 1.2      API Level: 26       Device Model: generic_x86
+2019-12-27 04:33:19   Info   UserManageEmployees:getEmployeeList() method is used to get employee list     OS Type: Android    App Version: 1.2      API Level: 25       Device Model: ugg
+2019-12-27 04:33:19   Debug   Employees list getting screen is loaded at user side     OS Type: Android    App Version: 1.2      API Level: 25       Device Model: ugg
+2019-12-27 04:33:34   Debug   Login Screen is Loaded     OS Type: Android    App Version: 1.2      API Level: 25       Device Model: ugg
+2019-12-27 04:33:42   Info   UserManageEmployees:getEmployeeList() method is used to get employee list     OS Type: Android    App Version: 1.2      API Level: 26       Device Model: generic_x86
+2019-12-27 04:33:51   Debug   Login Screen is Loaded     OS Type: Android    App Version: 1.2      API Level: 26       Device Model: generic_x86
+2019-12-27 04:33:51   Info   onSignIn() is used for login purpose and based on usertype data is authorizised     OS Type: Android    App Version: 1.2      API Level: 25       Device Model: ugg
+2019-12-27 04:33:52   Debug   admin request projects screen is loaded     OS Type: Android    App Version: 1.2      API Level: 25       Device Model: ugg
+2019-12-27 04:33:52   Info    getRequestedIdeas(role, userToken, cropcode) is used to get all requested projects at admin side     OS Type: Android    App Version: 1.2      API Level: 25       Device Model: ugg
+2019-12-27 04:33:52   Info    getRequestedIdeas(role, userToken, cropcode) is used to get all requested projects at admin side     OS Type: Android    App Version: 1.2      API Level: 25       Device Model: ugg
+2019-12-27 04:33:52   Warn   no requested projects found     OS Type: Android    App Version: 1.2      API Level: 25       Device Model: ugg
+2019-12-27 04:34:15   Info   AdminPendingManageTasks:adminPendingManageTasks() method is used to get pending manage tasks at admin side     OS Type: Android    App Version: 1.2      API Level: 25       Device Model: ugg
+2019-12-27 04:34:17   Info   to get level no     OS Type: Android    App Version: 1.2      API Level: 25       Device Model: ugg
+2019-12-27 04:34:17   Info   to get level no     OS Type: Android    App Version: 1.2      API Level: 25       Device Model: ugg
+2019-12-27 04:34:17   Info   to get level no     OS Type: Android    App Version: 1.2      API Level: 25       Device Model: ugg
+2019-12-27 04:34:17   Info   to get level no     OS Type: Android    App Version: 1.2      API Level: 25       Device Model: ugg
+2019-12-27 04:34:17   Info   to get level no     OS Type: Android    App Version: 1.2      API Level: 25       Device Model: ugg
+2019-12-27 04:34:17   Info   to get level no     OS Type: Android    App Version: 1.2      API Level: 25       Device Model: ugg
+2019-12-27 04:34:17   Info   to get level no     OS Type: Android    App Version: 1.2      API Level: 25       Device Model: ugg
+2019-12-27 04:34:17   Info   to get level no     OS Type: Android    App Version: 1.2      API Level: 25       Device Model: ugg
+2019-12-27 04:34:17   Info   to get level no     OS Type: Android    App Version: 1.2      API Level: 25       Device Model: ugg
+2019-12-27 04:34:17   Info   to get level no     OS Type: Android    App Version: 1.2      API Level: 25       Device Model: ugg
+2019-12-27 04:34:17   Info   to get level no     OS Type: Android    App Version: 1.2      API Level: 25       Device Model: ugg
+2019-12-27 04:34:17   Info   to get level no     OS Type: Android    App Version: 1.2      API Level: 25       Device Model: ugg
+2019-12-27 04:34:17   Info   to get level no     OS Type: Android    App Version: 1.2      API Level: 25       Device Model: ugg
+2019-12-27 04:34:17   Info   to get level no     OS Type: Android    App Version: 1.2      API Level: 25       Device Model: ugg
+2019-12-27 04:34:17   Info   to get level no     OS Type: Android    App Version: 1.2      API Level: 25       Device Model: ugg
+2019-12-27 04:34:17   Info   to get level no     OS Type: Android    App Version: 1.2      API Level: 25       Device Model: ugg
+2019-12-27 04:34:18   Info   to get level no     OS Type: Android    App Version: 1.2      API Level: 25       Device Model: ugg
+2019-12-27 04:34:18   Info   to get level no     OS Type: Android    App Version: 1.2      API Level: 25       Device Model: ugg
+2019-12-27 04:34:18   Info   to get level no     OS Type: Android    App Version: 1.2      API Level: 25       Device Model: ugg
+2019-12-27 04:34:21   Debug   Employees list getting screen is loaded at admin side     OS Type: Android    App Version: 1.2      API Level: 25       Device Model: ugg
+2019-12-27 04:34:21   Info   UserManageEmployees:getEmployeeList() method is used to get employee list     OS Type: Android    App Version: 1.2      API Level: 25       Device Model: ugg
+2019-12-27 04:34:24   Info   onSignIn() is used for login purpose and based on usertype data is authorizised     OS Type: Android    App Version: 1.2      API Level: 26       Device Model: generic_x86
+2019-12-27 04:34:24   Warn   UserName and Password is not entered correctly     OS Type: Android    App Version: 1.2      API Level: 26       Device Model: generic_x86
+2019-12-27 04:34:31   Debug   Admin Manageemployee view pendingtasks screen is loaded     OS Type: Android    App Version: 1.2      API Level: 25       Device Model: ugg
+2019-12-27 04:34:31   Info   AdminManageEmployeeTaskPending:getEmployeesPendingTaskList() used to get employee pending tasks     OS Type: Android    App Version: 1.2      API Level: 25       Device Model: ugg
+2019-12-27 04:34:36   Info   UserManageEmployees:getEmployeeList() method is used to get employee list     OS Type: Android    App Version: 1.2      API Level: 25       Device Model: ugg
+2019-12-27 04:34:39   Info   onSignIn() is used for login purpose and based on usertype data is authorizised     OS Type: Android    App Version: 1.2      API Level: 26       Device Model: generic_x86
+2019-12-27 04:34:40   Debug   admin request projects screen is loaded     OS Type: Android    App Version: 1.2      API Level: 26       Device Model: generic_x86
+2019-12-27 04:34:40   Info    getRequestedIdeas(role, userToken, cropcode) is used to get all requested projects at admin side     OS Type: Android    App Version: 1.2      API Level: 26       Device Model: generic_x86
+2019-12-27 04:34:40   Info    getRequestedIdeas(role, userToken, cropcode) is used to get all requested projects at admin side     OS Type: Android    App Version: 1.2      API Level: 26       Device Model: generic_x86
+2019-12-27 04:34:40   Warn   no requested projects found     OS Type: Android    App Version: 1.2      API Level: 26       Device Model: generic_x86
+2019-12-27 04:34:46   Info   UserManageEmployees:getEmployeeList() method is used to get employee list     OS Type: Android    App Version: 1.2      API Level: 26       Device Model: generic_x86
+2019-12-27 04:34:46   Debug   Employees list getting screen is loaded at admin side     OS Type: Android    App Version: 1.2      API Level: 26       Device Model: generic_x86
+2019-12-27 04:34:48   Info   UserManageEmployees:SearchFilterFunction(text) method is used for search functionality     OS Type: Android    App Version: 1.2      API Level: 25       Device Model: ugg
+2019-12-27 04:34:48   Info   UserManageEmployees:SearchFilterFunction(text) method is used for search functionality     OS Type: Android    App Version: 1.2      API Level: 25       Device Model: ugg
+2019-12-27 04:34:48   Info   UserManageEmployees:SearchFilterFunction(text) method is used for search functionality     OS Type: Android    App Version: 1.2      API Level: 25       Device Model: ugg
+2019-12-27 04:34:48   Info   UserManageEmployees:SearchFilterFunction(text) method is used for search functionality     OS Type: Android    App Version: 1.2      API Level: 25       Device Model: ugg
+2019-12-27 04:34:48   Info   UserManageEmployees:SearchFilterFunction(text) method is used for search functionality     OS Type: Android    App Version: 1.2      API Level: 25       Device Model: ugg
+2019-12-27 04:34:53   Info   UserManageEmployees:SearchFilterFunction(text) method is used for search functionality     OS Type: Android    App Version: 1.2      API Level: 26       Device Model: generic_x86
+2019-12-27 04:34:53   Info   UserManageEmployees:SearchFilterFunction(text) method is used for search functionality     OS Type: Android    App Version: 1.2      API Level: 26       Device Model: generic_x86
+2019-12-27 04:34:58   Debug   Admin Manageemployee view pendingtasks screen is loaded     OS Type: Android    App Version: 1.2      API Level: 26       Device Model: generic_x86
+2019-12-27 04:34:59   Info   AdminManageEmployeeTaskPending:getEmployeesPendingTaskList() used to get employee pending tasks     OS Type: Android    App Version: 1.2      API Level: 26       Device Model: generic_x86
+2019-12-27 04:35:03   Debug   Admin Manageemployee view pendingtasks screen is loaded     OS Type: Android    App Version: 1.2      API Level: 25       Device Model: ugg
+2019-12-27 04:35:03   Info   AdminManageEmployeeTaskPending:getEmployeesPendingTaskList() used to get employee pending tasks     OS Type: Android    App Version: 1.2      API Level: 25       Device Model: ugg
+2019-12-27 04:35:08   Info   AdminManageEmployeeTaskCompleted:getEmployeeSubTasksCompleted() method is used to get employee completed tasks     OS Type: Android    App Version: 1.2      API Level: 25       Device Model: ugg
+2019-12-27 04:35:08   Debug   Admin Manageemployee view completed tasks screen is loaded     OS Type: Android    App Version: 1.2      API Level: 25       Device Model: ugg
+2019-12-27 04:35:09   Debug   Admin Manageemployee view verified tasks screen is loaded     OS Type: Android    App Version: 1.2      API Level: 25       Device Model: ugg
+2019-12-27 04:35:09   Info   AdminManageEmployeeTaskVerified:getEmployeesPendingTaskList() method is used to get employee verified tasks     OS Type: Android    App Version: 1.2      API Level: 25       Device Model: ugg
+2019-12-27 04:35:14   Debug   Admin Manageemployee view verified tasks screen is loaded     OS Type: Android    App Version: 1.2      API Level: 26       Device Model: generic_x86
+2019-12-27 04:35:14   Info   AdminManageEmployeeTaskVerified:getEmployeesPendingTaskList() method is used to get employee verified tasks     OS Type: Android    App Version: 1.2      API Level: 26       Device Model: generic_x86
+2019-12-27 04:35:17   Info   UserManageEmployees:getEmployeeList() method is used to get employee list     OS Type: Android    App Version: 1.2      API Level: 25       Device Model: ugg
+2019-12-27 04:36:33   Info   UserManageEmployees:SearchFilterFunction(text) method is used for search functionality     OS Type: Android    App Version: 1.2      API Level: 26       Device Model: generic_x86
+2019-12-27 04:36:33   Info   UserManageEmployees:SearchFilterFunction(text) method is used for search functionality     OS Type: Android    App Version: 1.2      API Level: 26       Device Model: generic_x86
+2019-12-27 04:36:42   Debug   admin request projects screen is loaded     OS Type: Android    App Version: 1.2      API Level: 26       Device Model: generic_x86
+2019-12-27 04:36:42   Info    getRequestedIdeas(role, userToken, cropcode) is used to get all requested projects at admin side     OS Type: Android    App Version: 1.2      API Level: 26       Device Model: generic_x86
+2019-12-27 04:36:42   Info    getRequestedIdeas(role, userToken, cropcode) is used to get all requested projects at admin side     OS Type: Android    App Version: 1.2      API Level: 26       Device Model: generic_x86
+2019-12-27 04:36:42   Warn   no requested projects found     OS Type: Android    App Version: 1.2      API Level: 26       Device Model: generic_x86
+2019-12-27 04:37:06   Info   UserManageEmployees:getEmployeeList() method is used to get employee list     OS Type: Android    App Version: 1.2      API Level: 26       Device Model: generic_x86
+2019-12-27 04:37:06   Debug   Employees list getting screen is loaded at admin side     OS Type: Android    App Version: 1.2      API Level: 26       Device Model: generic_x86
+2019-12-27 04:37:14   Info   UserManageEmployees:SearchFilterFunction(text) method is used for search functionality     OS Type: Android    App Version: 1.2      API Level: 26       Device Model: generic_x86
+2019-12-27 04:37:14   Info   UserManageEmployees:SearchFilterFunction(text) method is used for search functionality     OS Type: Android    App Version: 1.2      API Level: 26       Device Model: generic_x86
+2019-12-27 04:37:20   Debug   Admin Manageemployee view pendingtasks screen is loaded     OS Type: Android    App Version: 1.2      API Level: 26       Device Model: generic_x86
+2019-12-27 04:37:20   Info   AdminManageEmployeeTaskPending:getEmployeesPendingTaskList() used to get employee pending tasks     OS Type: Android    App Version: 1.2      API Level: 26       Device Model: generic_x86
+2019-12-27 04:37:29   Debug   Admin Manageemployee view verified tasks screen is loaded     OS Type: Android    App Version: 1.2      API Level: 26       Device Model: generic_x86
+2019-12-27 04:37:29   Info   AdminManageEmployeeTaskVerified:getEmployeesPendingTaskList() method is used to get employee verified tasks     OS Type: Android    App Version: 1.2      API Level: 26       Device Model: generic_x86
+2019-12-27 04:38:53   Info   UserManageEmployees:SearchFilterFunction(text) method is used for search functionality     OS Type: Android    App Version: 1.2      API Level: 26       Device Model: generic_x86
+2019-12-27 04:38:53   Info   UserManageEmployees:SearchFilterFunction(text) method is used for search functionality     OS Type: Android    App Version: 1.2      API Level: 26       Device Model: generic_x86
+2019-12-27 04:39:01   Debug   admin request projects screen is loaded     OS Type: Android    App Version: 1.2      API Level: 26       Device Model: generic_x86
+2019-12-27 04:39:02   Info    getRequestedIdeas(role, userToken, cropcode) is used to get all requested projects at admin side     OS Type: Android    App Version: 1.2      API Level: 26       Device Model: generic_x86
+2019-12-27 04:39:02   Warn   no requested projects found     OS Type: Android    App Version: 1.2      API Level: 26       Device Model: generic_x86
+2019-12-27 04:39:02   Info    getRequestedIdeas(role, userToken, cropcode) is used to get all requested projects at admin side     OS Type: Android    App Version: 1.2      API Level: 26       Device Model: generic_x86
+2019-12-27 04:39:09   Debug   Employees list getting screen is loaded at admin side     OS Type: Android    App Version: 1.2      API Level: 26       Device Model: generic_x86
+2019-12-27 04:39:09   Info   UserManageEmployees:getEmployeeList() method is used to get employee list     OS Type: Android    App Version: 1.2      API Level: 26       Device Model: generic_x86
+2019-12-27 04:39:25   Info   UserManageEmployees:SearchFilterFunction(text) method is used for search functionality     OS Type: Android    App Version: 1.2      API Level: 26       Device Model: generic_x86
+2019-12-27 04:39:26   Info   UserManageEmployees:SearchFilterFunction(text) method is used for search functionality     OS Type: Android    App Version: 1.2      API Level: 26       Device Model: generic_x86
+2019-12-27 04:39:31   Debug   Admin Manageemployee view pendingtasks screen is loaded     OS Type: Android    App Version: 1.2      API Level: 26       Device Model: generic_x86
+2019-12-27 04:39:31   Info   AdminManageEmployeeTaskPending:getEmployeesPendingTaskList() used to get employee pending tasks     OS Type: Android    App Version: 1.2      API Level: 26       Device Model: generic_x86
+2019-12-27 04:39:41   Info   AdminManageEmployeeTaskVerified:getEmployeesPendingTaskList() method is used to get employee verified tasks     OS Type: Android    App Version: 1.2      API Level: 26       Device Model: generic_x86
+2019-12-27 04:39:41   Debug   Admin Manageemployee view verified tasks screen is loaded     OS Type: Android    App Version: 1.2      API Level: 26       Device Model: generic_x86
+2019-12-27 04:40:05   Info   UserManageEmployees:getEmployeeList() method is used to get employee list     OS Type: Android    App Version: 1.2      API Level: 26       Device Model: generic_x86
+2019-12-27 04:40:25   Debug   Login Screen is Loaded     OS Type: Android    App Version: 1.2      API Level: 26       Device Model: generic_x86
+2019-12-27 04:40:55   Info   onSignIn() is used for login purpose and based on usertype data is authorizised     OS Type: Android    App Version: 1.2      API Level: 26       Device Model: generic_x86
+2019-12-27 04:40:56   Info   UserPendingMyTask:getdata() method is used to get pending my tasks at user side     OS Type: Android    App Version: 1.2      API Level: 26       Device Model: generic_x86
+2019-12-27 04:40:56   Debug   user pending mytask tasks screen is loaded at user side     OS Type: Android    App Version: 1.2      API Level: 26       Device Model: generic_x86
+2019-12-27 04:40:56   Info   UserPendingMyTask:getdata() method is used to get pending my tasks at user side     OS Type: Android    App Version: 1.2      API Level: 26       Device Model: generic_x86
+2019-12-27 04:41:06   Debug   user pending mytask tasks screen is loaded at user side     OS Type: Android    App Version: 1.2      API Level: 26       Device Model: generic_x86
+2019-12-27 04:41:06   Info   UserPendingMyTask:getdata() method is used to get pending my tasks at user side     OS Type: Android    App Version: 1.2      API Level: 26       Device Model: generic_x86
+2019-12-27 04:41:06   Info   UserPendingMyTask:getdata() method is used to get pending my tasks at user side     OS Type: Android    App Version: 1.2      API Level: 26       Device Model: generic_x86
+2019-12-27 04:41:14   Info    getdata() is used to get all requested projects at user side     OS Type: Android    App Version: 1.2      API Level: 26       Device Model: generic_x86
+2019-12-27 04:41:14   Debug   user request projects screen is loaded     OS Type: Android    App Version: 1.2      API Level: 26       Device Model: generic_x86
+2019-12-27 04:41:35   Debug   admin request projects screen is loaded     OS Type: Android    App Version: 1.2      API Level: 25       Device Model: ugg
+2019-12-27 04:41:35   Info    getRequestedIdeas(role, userToken, cropcode) is used to get all requested projects at admin side     OS Type: Android    App Version: 1.2      API Level: 25       Device Model: ugg
+2019-12-27 04:41:35   Info    getRequestedIdeas(role, userToken, cropcode) is used to get all requested projects at admin side     OS Type: Android    App Version: 1.2      API Level: 25       Device Model: ugg
+2019-12-27 04:41:36   Warn   no requested projects found     OS Type: Android    App Version: 1.2      API Level: 25       Device Model: ugg
+2019-12-27 04:41:43   Debug   Login Screen is Loaded     OS Type: Android    App Version: 1.2      API Level: 25       Device Model: ugg
+2019-12-27 04:42:01   Info   onSignIn() is used for login purpose and based on usertype data is authorizised     OS Type: Android    App Version: 1.2      API Level: 25       Device Model: ugg
+2019-12-27 04:42:02   Debug   user pending mytask tasks screen is loaded at user side     OS Type: Android    App Version: 1.2      API Level: 25       Device Model: ugg
+2019-12-27 04:42:02   Info   UserPendingMyTask:getdata() method is used to get pending my tasks at user side     OS Type: Android    App Version: 1.2      API Level: 25       Device Model: ugg
+2019-12-27 04:42:03   Info   UserPendingMyTask:getdata() method is used to get pending my tasks at user side     OS Type: Android    App Version: 1.2      API Level: 25       Device Model: ugg
+2019-12-27 04:42:05   Debug   user request projects screen is loaded     OS Type: Android    App Version: 1.2      API Level: 25       Device Model: ugg
+2019-12-27 04:42:05   Info    getdata() is used to get all requested projects at user side     OS Type: Android    App Version: 1.2      API Level: 25       Device Model: ugg
+2019-12-27 04:42:19   Info   SearchFilterFunction(text) method  used for searching     OS Type: Android    App Version: 1.2      API Level: 25       Device Model: ugg
+2019-12-27 04:42:19   Info   SearchFilterFunction(text) method  used for searching     OS Type: Android    App Version: 1.2      API Level: 25       Device Model: ugg
+2019-12-27 04:42:19   Info   SearchFilterFunction(text) method  used for searching     OS Type: Android    App Version: 1.2      API Level: 25       Device Model: ugg
+2019-12-27 04:42:19   Info   SearchFilterFunction(text) method  used for searching     OS Type: Android    App Version: 1.2      API Level: 25       Device Model: ugg
+2019-12-27 04:42:20   Info   SearchFilterFunction(text) method  used for searching     OS Type: Android    App Version: 1.2      API Level: 25       Device Model: ugg
+2019-12-27 04:42:20   Info   SearchFilterFunction(text) method  used for searching     OS Type: Android    App Version: 1.2      API Level: 25       Device Model: ugg
+2019-12-27 04:42:20   Info   SearchFilterFunction(text) method  used for searching     OS Type: Android    App Version: 1.2      API Level: 25       Device Model: ugg
+2019-12-27 04:42:20   Info   SearchFilterFunction(text) method  used for searching     OS Type: Android    App Version: 1.2      API Level: 25       Device Model: ugg
+2019-12-27 04:42:21   Info   SearchFilterFunction(text) method  used for searching     OS Type: Android    App Version: 1.2      API Level: 25       Device Model: ugg
+2019-12-27 04:42:21   Info   SearchFilterFunction(text) method  used for searching     OS Type: Android    App Version: 1.2      API Level: 25       Device Model: ugg
+2019-12-27 04:42:21   Info   SearchFilterFunction(text) method  used for searching     OS Type: Android    App Version: 1.2      API Level: 25       Device Model: ugg
+2019-12-27 04:42:21   Info   SearchFilterFunction(text) method  used for searching     OS Type: Android    App Version: 1.2      API Level: 25       Device Model: ugg
+2019-12-27 04:55:39   Debug   user pending mytask tasks screen is loaded at user side     OS Type: Android    App Version: 1.2      API Level: 28       Device Model: generic_x86_arm
+2019-12-27 04:55:39   Info   UserPendingMyTask:getdata() method is used to get pending my tasks at user side     OS Type: Android    App Version: 1.2      API Level: 28       Device Model: generic_x86_arm
+2019-12-27 04:55:40   Info   UserPendingMyTask:getdata() method is used to get pending my tasks at user side     OS Type: Android    App Version: 1.2      API Level: 28       Device Model: generic_x86_arm
+2019-12-27 05:00:22   Info   UserPendingMyTasks:TaskChat(item, index) used to navigate to taskchat     OS Type: Android    App Version: 1.2      API Level: 28       Device Model: generic_x86_arm
+2019-12-27 05:00:22   Info    groupMembersList(role, userToken, cropcode) is used getting task related group members     OS Type: Android    App Version: 1.2      API Level: 28       Device Model: generic_x86_arm
+2019-12-27 05:00:22   Info    getMessages(role, userToken, cropcode) is used getting task related messages     OS Type: Android    App Version: 1.2      API Level: 28       Device Model: generic_x86_arm
+2019-12-27 05:00:22   Debug   Task Chat screen is loaded     OS Type: Android    App Version: 1.2      API Level: 28       Device Model: generic_x86_arm
+2019-12-27 05:00:37   Info   UserPendingMyTask:getdata() method is used to get pending my tasks at user side     OS Type: Android    App Version: 1.2      API Level: 28       Device Model: generic_x86_arm
+2019-12-27 05:00:40   Info   to get level no     OS Type: Android    App Version: 1.2      API Level: 26       Device Model: generic_x86
+2019-12-27 05:00:40   Info   userPendingManageTasks:DeleteMaintask(maintaskid) method is used to delete maintask     OS Type: Android    App Version: 1.2      API Level: 26       Device Model: generic_x86
+2019-12-27 05:00:41   Info   to get level no     OS Type: Android    App Version: 1.2      API Level: 26       Device Model: generic_x86
+2019-12-27 05:00:41   Info   userPendingManageTasks:DeleteMaintask(maintaskid) method is used to delete maintask     OS Type: Android    App Version: 1.2      API Level: 26       Device Model: generic_x86
+2019-12-27 05:00:41   Debug   user pending manage tasks screen is loaded     OS Type: Android    App Version: 1.2      API Level: 26       Device Model: generic_x86
+2019-12-27 05:00:41   Info   userPendingManageTasks:DeleteMaintask(maintaskid) method is used to delete maintask     OS Type: Android    App Version: 1.2      API Level: 26       Device Model: generic_x86
+2019-12-27 05:00:55   Info   to get level no     OS Type: Android    App Version: 1.2      API Level: 26       Device Model: generic_x86
+2019-12-27 05:00:55   Info   to get level no     OS Type: Android    App Version: 1.2      API Level: 26       Device Model: generic_x86
+2019-12-27 05:00:55   Info   to get level no     OS Type: Android    App Version: 1.2      API Level: 26       Device Model: generic_x86
+2019-12-27 05:00:55   Info   to get level no     OS Type: Android    App Version: 1.2      API Level: 26       Device Model: generic_x86
+2019-12-27 05:00:55   Info   no pending manage tasks at user side     OS Type: Android    App Version: 1.2      API Level: 26       Device Model: generic_x86
+2019-12-27 05:00:56   Info   to get level no     OS Type: Android    App Version: 1.2      API Level: 26       Device Model: generic_x86
+2019-12-27 05:00:56   Info   to get level no     OS Type: Android    App Version: 1.2      API Level: 26       Device Model: generic_x86
+2019-12-27 05:00:56   Info   to get level no     OS Type: Android    App Version: 1.2      API Level: 26       Device Model: generic_x86
+2019-12-27 05:00:56   Info   to get level no     OS Type: Android    App Version: 1.2      API Level: 26       Device Model: generic_x86
+2019-12-27 05:00:56   Info   to get level no     OS Type: Android    App Version: 1.2      API Level: 26       Device Model: generic_x86
+2019-12-27 05:00:56   Info   to get level no     OS Type: Android    App Version: 1.2      API Level: 26       Device Model: generic_x86
+2019-12-27 05:00:56   Info   no pending manage tasks at user side     OS Type: Android    App Version: 1.2      API Level: 26       Device Model: generic_x86
+2019-12-27 05:00:56   Info   no pending manage tasks at user side     OS Type: Android    App Version: 1.2      API Level: 26       Device Model: generic_x86
+2019-12-27 05:00:56   Info   no pending manage tasks at user side     OS Type: Android    App Version: 1.2      API Level: 26       Device Model: generic_x86
+2019-12-27 05:00:56   Info   no pending manage tasks at user side     OS Type: Android    App Version: 1.2      API Level: 26       Device Model: generic_x86
+2019-12-27 05:00:56   Info   no pending manage tasks at user side     OS Type: Android    App Version: 1.2      API Level: 26       Device Model: generic_x86
+2019-12-27 05:00:56   Info   no pending manage tasks at user side     OS Type: Android    App Version: 1.2      API Level: 26       Device Model: generic_x86
+2019-12-27 05:00:56   Info   no pending manage tasks at user side     OS Type: Android    App Version: 1.2      API Level: 26       Device Model: generic_x86
+2019-12-27 05:00:56   Info   no pending manage tasks at user side     OS Type: Android    App Version: 1.2      API Level: 26       Device Model: generic_x86
+2019-12-27 05:00:56   Info   no pending manage tasks at user side     OS Type: Android    App Version: 1.2      API Level: 26       Device Model: generic_x86
+2019-12-27 05:00:56   Info   no pending manage tasks at user side     OS Type: Android    App Version: 1.2      API Level: 26       Device Model: generic_x86
+2019-12-27 05:00:57   Info   no pending manage tasks at user side     OS Type: Android    App Version: 1.2      API Level: 26       Device Model: generic_x86
+2019-12-27 05:00:57   Info   no pending manage tasks at user side     OS Type: Android    App Version: 1.2      API Level: 26       Device Model: generic_x86
+2019-12-27 05:00:57   Info   no pending manage tasks at user side     OS Type: Android    App Version: 1.2      API Level: 26       Device Model: generic_x86
+2019-12-27 05:00:57   Info   no pending manage tasks at user side     OS Type: Android    App Version: 1.2      API Level: 26       Device Model: generic_x86
+2019-12-27 05:00:57   Info   no pending manage tasks at user side     OS Type: Android    App Version: 1.2      API Level: 26       Device Model: generic_x86
+2019-12-27 05:00:57   Info   no pending manage tasks at user side     OS Type: Android    App Version: 1.2      API Level: 26       Device Model: generic_x86
+2019-12-27 05:00:57   Info   no pending manage tasks at user side     OS Type: Android    App Version: 1.2      API Level: 26       Device Model: generic_x86
+2019-12-27 05:00:57   Info   no pending manage tasks at user side     OS Type: Android    App Version: 1.2      API Level: 26       Device Model: generic_x86
+2019-12-27 05:01:04   Info   no pending manage tasks at user side     OS Type: Android    App Version: 1.2      API Level: 26       Device Model: generic_x86
+2019-12-27 05:01:04   Info   no pending manage tasks at user side     OS Type: Android    App Version: 1.2      API Level: 26       Device Model: generic_x86
+2019-12-27 05:01:04   Info   no pending manage tasks at user side     OS Type: Android    App Version: 1.2      API Level: 26       Device Model: generic_x86
+2019-12-27 05:01:04   Info   no pending manage tasks at user side     OS Type: Android    App Version: 1.2      API Level: 26       Device Model: generic_x86
+2019-12-27 05:01:04   Info   no pending manage tasks at user side     OS Type: Android    App Version: 1.2      API Level: 26       Device Model: generic_x86
+2019-12-27 05:01:05   Info   no pending manage tasks at user side     OS Type: Android    App Version: 1.2      API Level: 26       Device Model: generic_x86
+2019-12-27 05:01:05   Info   no pending manage tasks at user side     OS Type: Android    App Version: 1.2      API Level: 26       Device Model: generic_x86
+2019-12-27 05:01:05   Info   no pending manage tasks at user side     OS Type: Android    App Version: 1.2      API Level: 26       Device Model: generic_x86
+2019-12-27 05:01:05   Info   no pending manage tasks at user side     OS Type: Android    App Version: 1.2      API Level: 26       Device Model: generic_x86
+2019-12-27 05:01:05   Info   no pending manage tasks at user side     OS Type: Android    App Version: 1.2      API Level: 26       Device Model: generic_x86
+2019-12-27 05:01:05   Info   no pending manage tasks at user side     OS Type: Android    App Version: 1.2      API Level: 26       Device Model: generic_x86
+2019-12-27 05:01:05   Info   no pending manage tasks at user side     OS Type: Android    App Version: 1.2      API Level: 26       Device Model: generic_x86
+2019-12-27 05:01:05   Info   no pending manage tasks at user side     OS Type: Android    App Version: 1.2      API Level: 26       Device Model: generic_x86
+2019-12-27 05:01:05   Info   no pending manage tasks at user side     OS Type: Android    App Version: 1.2      API Level: 26       Device Model: generic_x86
+2019-12-27 05:01:05   Info   no pending manage tasks at user side     OS Type: Android    App Version: 1.2      API Level: 26       Device Model: generic_x86
+2019-12-27 05:01:06   Info   no pending manage tasks at user side     OS Type: Android    App Version: 1.2      API Level: 26       Device Model: generic_x86
+2019-12-27 05:01:06   Info   no pending manage tasks at user side     OS Type: Android    App Version: 1.2      API Level: 26       Device Model: generic_x86
+2019-12-27 05:01:06   Info   no pending manage tasks at user side     OS Type: Android    App Version: 1.2      API Level: 26       Device Model: generic_x86
+2019-12-27 05:01:06   Info   no pending manage tasks at user side     OS Type: Android    App Version: 1.2      API Level: 26       Device Model: generic_x86
+2019-12-27 05:01:12   Info   no pending manage tasks at user side     OS Type: Android    App Version: 1.2      API Level: 26       Device Model: generic_x86
+2019-12-27 05:01:12   Info   no pending manage tasks at user side     OS Type: Android    App Version: 1.2      API Level: 26       Device Model: generic_x86
+2019-12-27 05:01:12   Info   no pending manage tasks at user side     OS Type: Android    App Version: 1.2      API Level: 26       Device Model: generic_x86
+2019-12-27 05:01:12   Info   no pending manage tasks at user side     OS Type: Android    App Version: 1.2      API Level: 26       Device Model: generic_x86
+2019-12-27 05:01:12   Info   no pending manage tasks at user side     OS Type: Android    App Version: 1.2      API Level: 26       Device Model: generic_x86
+2019-12-27 05:01:12   Info   no pending manage tasks at user side     OS Type: Android    App Version: 1.2      API Level: 26       Device Model: generic_x86
+2019-12-27 05:01:12   Info   no pending manage tasks at user side     OS Type: Android    App Version: 1.2      API Level: 26       Device Model: generic_x86
+2019-12-27 05:01:12   Info   no pending manage tasks at user side     OS Type: Android    App Version: 1.2      API Level: 26       Device Model: generic_x86
+2019-12-27 05:01:12   Info   no pending manage tasks at user side     OS Type: Android    App Version: 1.2      API Level: 26       Device Model: generic_x86
+2019-12-27 05:01:12   Info   no pending manage tasks at user side     OS Type: Android    App Version: 1.2      API Level: 26       Device Model: generic_x86
+2019-12-27 05:01:12   Info   no pending manage tasks at user side     OS Type: Android    App Version: 1.2      API Level: 26       Device Model: generic_x86
+2019-12-27 05:01:12   Info   no pending manage tasks at user side     OS Type: Android    App Version: 1.2      API Level: 26       Device Model: generic_x86
+2019-12-27 05:01:12   Info   no pending manage tasks at user side     OS Type: Android    App Version: 1.2      API Level: 26       Device Model: generic_x86
+2019-12-27 05:01:12   Info   no pending manage tasks at user side     OS Type: Android    App Version: 1.2      API Level: 26       Device Model: generic_x86
+2019-12-27 05:01:12   Info   no pending manage tasks at user side     OS Type: Android    App Version: 1.2      API Level: 26       Device Model: generic_x86
+2019-12-27 05:01:13   Info   no pending manage tasks at user side     OS Type: Android    App Version: 1.2      API Level: 26       Device Model: generic_x86
+2019-12-27 05:01:13   Info   no pending manage tasks at user side     OS Type: Android    App Version: 1.2      API Level: 26       Device Model: generic_x86
+2019-12-27 05:01:13   Info   no pending manage tasks at user side     OS Type: Android    App Version: 1.2      API Level: 26       Device Model: generic_x86
+2019-12-27 05:01:13   Info   no pending manage tasks at user side     OS Type: Android    App Version: 1.2      API Level: 26       Device Model: generic_x86
+2019-12-27 05:01:13   Debug   user completed manage tasks screen is loaded     OS Type: Android    App Version: 1.2      API Level: 26       Device Model: generic_x86
+2019-12-27 05:01:13   Info   UserCompletedManageTasks:manageTasksCompleted() method is used to get completed manage tasks at admin side     OS Type: Android    App Version: 1.2      API Level: 26       Device Model: generic_x86
+2019-12-27 05:01:14   Info   to get level no     OS Type: Android    App Version: 1.2      API Level: 26       Device Model: generic_x86
+2019-12-27 05:01:14   Info   to get level no     OS Type: Android    App Version: 1.2      API Level: 26       Device Model: generic_x86
+2019-12-27 05:01:14   Info   to get level no     OS Type: Android    App Version: 1.2      API Level: 26       Device Model: generic_x86
+2019-12-27 05:01:14   Info   to get level no     OS Type: Android    App Version: 1.2      API Level: 26       Device Model: generic_x86
+2019-12-27 05:01:14   Info   to get level no     OS Type: Android    App Version: 1.2      API Level: 26       Device Model: generic_x86
+2019-12-27 05:01:14   Info   to get level no     OS Type: Android    App Version: 1.2      API Level: 26       Device Model: generic_x86
+2019-12-27 05:01:14   Info   to get level no     OS Type: Android    App Version: 1.2      API Level: 26       Device Model: generic_x86
+2019-12-27 05:01:14   Info   to get level no     OS Type: Android    App Version: 1.2      API Level: 26       Device Model: generic_x86
+2019-12-27 05:01:14   Info   to get level no     OS Type: Android    App Version: 1.2      API Level: 26       Device Model: generic_x86
+2019-12-27 05:01:18   Info   no completed manage tasks at user side     OS Type: Android    App Version: 1.2      API Level: 26       Device Model: generic_x86
+2019-12-27 05:01:18   Info   to get level no     OS Type: Android    App Version: 1.2      API Level: 26       Device Model: generic_x86
+2019-12-27 05:01:18   Info   to get level no     OS Type: Android    App Version: 1.2      API Level: 26       Device Model: generic_x86
+2019-12-27 05:01:18   Info   to get level no     OS Type: Android    App Version: 1.2      API Level: 26       Device Model: generic_x86
+2019-12-27 05:01:18   Info   to get level no     OS Type: Android    App Version: 1.2      API Level: 26       Device Model: generic_x86
+2019-12-27 05:01:18   Info   to get level no     OS Type: Android    App Version: 1.2      API Level: 26       Device Model: generic_x86
+2019-12-27 05:01:18   Info   no completed manage tasks at user side     OS Type: Android    App Version: 1.2      API Level: 26       Device Model: generic_x86
+2019-12-27 05:01:18   Info   no completed manage tasks at user side     OS Type: Android    App Version: 1.2      API Level: 26       Device Model: generic_x86
+2019-12-27 05:01:18   Info   no completed manage tasks at user side     OS Type: Android    App Version: 1.2      API Level: 26       Device Model: generic_x86
+2019-12-27 05:01:18   Info   no completed manage tasks at user side     OS Type: Android    App Version: 1.2      API Level: 26       Device Model: generic_x86
+2019-12-27 05:07:03   Debug   user pending mytask tasks screen is loaded at user side     OS Type: Android    App Version: 1.2      API Level: 26       Device Model: generic_x86
+2019-12-27 05:07:04   Info   UserPendingMyTask:getdata() method is used to get pending my tasks at user side     OS Type: Android    App Version: 1.2      API Level: 26       Device Model: generic_x86
+2019-12-27 05:07:04   Info   UserPendingMyTask:getdata() method is used to get pending my tasks at user side     OS Type: Android    App Version: 1.2      API Level: 26       Device Model: generic_x86
+2019-12-27 05:26:32   Debug   Login Screen is Loaded     OS Type: Android    App Version: 1.3      API Level: 26       Device Model: generic_x86
+2019-12-27 05:31:33   Debug   Login Screen is Loaded     OS Type: Android    App Version: 1.3      API Level: 23       Device Model: calypso
+2019-12-27 05:31:59   Info   onSignIn() is used for login purpose and based on usertype data is authorizised     OS Type: Android    App Version: 1.3      API Level: 26       Device Model: generic_x86
+2019-12-27 05:31:59   Warn   UserName and Password is not entered correctly     OS Type: Android    App Version: 1.3      API Level: 26       Device Model: generic_x86
+2019-12-27 05:32:11   Info   onSignIn() is used for login purpose and based on usertype data is authorizised     OS Type: Android    App Version: 1.3      API Level: 26       Device Model: generic_x86
+2019-12-27 05:32:12   Debug   user pending mytask tasks screen is loaded at user side     OS Type: Android    App Version: 1.3      API Level: 26       Device Model: generic_x86
+2019-12-27 05:32:12   Info   UserPendingMyTask:getdata() method is used to get pending my tasks at user side     OS Type: Android    App Version: 1.3      API Level: 26       Device Model: generic_x86
+2019-12-27 05:32:12   Info   UserPendingMyTask:getdata() method is used to get pending my tasks at user side     OS Type: Android    App Version: 1.3      API Level: 26       Device Model: generic_x86
+2019-12-27 05:32:13   Info   no pending my tasks at user side     OS Type: Android    App Version: 1.3      API Level: 26       Device Model: generic_x86
+2019-12-27 05:32:13   Info   no pending my tasks at user side     OS Type: Android    App Version: 1.3      API Level: 26       Device Model: generic_x86
+2019-12-27 05:32:19   Info   userPendingManageTasks:DeleteMaintask(maintaskid) method is used to delete maintask     OS Type: Android    App Version: 1.3      API Level: 26       Device Model: generic_x86
+2019-12-27 05:32:19   Info   to get level no     OS Type: Android    App Version: 1.3      API Level: 26       Device Model: generic_x86
+2019-12-27 05:32:19   Info   to get level no     OS Type: Android    App Version: 1.3      API Level: 26       Device Model: generic_x86
+2019-12-27 05:32:19   Debug   user pending manage tasks screen is loaded     OS Type: Android    App Version: 1.3      API Level: 26       Device Model: generic_x86
+2019-12-27 05:32:19   Info   userPendingManageTasks:DeleteMaintask(maintaskid) method is used to delete maintask     OS Type: Android    App Version: 1.3      API Level: 26       Device Model: generic_x86
+2019-12-27 05:32:20   Info   userPendingManageTasks:DeleteMaintask(maintaskid) method is used to delete maintask     OS Type: Android    App Version: 1.3      API Level: 26       Device Model: generic_x86
+2019-12-27 05:32:20   Info   no pending manage tasks at user side     OS Type: Android    App Version: 1.3      API Level: 26       Device Model: generic_x86
+2019-12-27 05:32:20   Info   to get level no     OS Type: Android    App Version: 1.3      API Level: 26       Device Model: generic_x86
+2019-12-27 05:32:20   Info   no pending manage tasks at user side     OS Type: Android    App Version: 1.3      API Level: 26       Device Model: generic_x86
+2019-12-27 05:32:20   Info   no pending manage tasks at user side     OS Type: Android    App Version: 1.3      API Level: 26       Device Model: generic_x86
+2019-12-27 05:32:21   Info   UserCompletedManageTasks:manageTasksCompleted() method is used to get completed manage tasks at admin side     OS Type: Android    App Version: 1.3      API Level: 26       Device Model: generic_x86
+2019-12-27 05:32:21   Debug   user completed manage tasks screen is loaded     OS Type: Android    App Version: 1.3      API Level: 26       Device Model: generic_x86
+2019-12-27 05:32:22   Info   no completed manage tasks at user side     OS Type: Android    App Version: 1.3      API Level: 26       Device Model: generic_x86
+2019-12-27 05:32:22   Info   to get level no     OS Type: Android    App Version: 1.3      API Level: 26       Device Model: generic_x86
+2019-12-27 05:32:22   Info   to get level no     OS Type: Android    App Version: 1.3      API Level: 26       Device Model: generic_x86
+2019-12-27 05:32:22   Info   to get level no     OS Type: Android    App Version: 1.3      API Level: 26       Device Model: generic_x86
+2019-12-27 05:32:22   Info   to get level no     OS Type: Android    App Version: 1.3      API Level: 26       Device Model: generic_x86
+2019-12-27 05:32:22   Info   to get level no     OS Type: Android    App Version: 1.3      API Level: 26       Device Model: generic_x86
+2019-12-27 05:32:22   Info   no completed manage tasks at user side     OS Type: Android    App Version: 1.3      API Level: 26       Device Model: generic_x86
+2019-12-27 05:32:22   Info   no completed manage tasks at user side     OS Type: Android    App Version: 1.3      API Level: 26       Device Model: generic_x86
+2019-12-27 05:32:22   Info   no completed manage tasks at user side     OS Type: Android    App Version: 1.3      API Level: 26       Device Model: generic_x86
+2019-12-27 05:32:22   Info   no completed manage tasks at user side     OS Type: Android    App Version: 1.3      API Level: 26       Device Model: generic_x86
+2019-12-27 05:32:23   Info   userPendingManageTasks:DeleteMaintask(maintaskid) method is used to delete maintask     OS Type: Android    App Version: 1.3      API Level: 26       Device Model: generic_x86
+2019-12-27 05:32:23   Info   no pending manage tasks at user side     OS Type: Android    App Version: 1.3      API Level: 26       Device Model: generic_x86
+2019-12-27 05:32:43   Info   empSearch(cropcode) method is used to employee's data     OS Type: Android    App Version: 1.3      API Level: 26       Device Model: generic_x86
+2019-12-27 05:32:43   Debug   Add Sub Task Modal screen is loaded     OS Type: Android    App Version: 1.3      API Level: 26       Device Model: generic_x86
+2019-12-27 05:32:43   Info   UserCompletedManageTasks:AddSubTask()To navigate to add subtask modal     OS Type: Android    App Version: 1.3      API Level: 26       Device Model: generic_x86
+2019-12-27 05:33:47   Info    addSubTask() is used to add sub task     OS Type: Android    App Version: 1.3      API Level: 26       Device Model: generic_x86
+2019-12-27 05:33:48   Info   UserCompletedManageTasks:manageTasksCompleted() method is used to get completed manage tasks at admin side     OS Type: Android    App Version: 1.3      API Level: 26       Device Model: generic_x86
+2019-12-27 05:33:48   Info   userPendingManageTasks:DeleteMaintask(maintaskid) method is used to delete maintask     OS Type: Android    App Version: 1.3      API Level: 26       Device Model: generic_x86
+2019-12-27 05:33:48   Info   no completed manage tasks at user side     OS Type: Android    App Version: 1.3      API Level: 26       Device Model: generic_x86
+2019-12-27 05:33:48   Info   to get level no     OS Type: Android    App Version: 1.3      API Level: 26       Device Model: generic_x86
+2019-12-27 05:33:48   Info   to get level no     OS Type: Android    App Version: 1.3      API Level: 26       Device Model: generic_x86
+2019-12-27 05:33:48   Info   to get level no     OS Type: Android    App Version: 1.3      API Level: 26       Device Model: generic_x86
+2019-12-27 05:33:48   Info   to get level no     OS Type: Android    App Version: 1.3      API Level: 26       Device Model: generic_x86
+2019-12-27 05:33:49   Info   no completed manage tasks at user side     OS Type: Android    App Version: 1.3      API Level: 26       Device Model: generic_x86
+2019-12-27 05:33:49   Info   no completed manage tasks at user side     OS Type: Android    App Version: 1.3      API Level: 26       Device Model: generic_x86
+2019-12-27 05:33:49   Info   no completed manage tasks at user side     OS Type: Android    App Version: 1.3      API Level: 26       Device Model: generic_x86
+2019-12-27 05:33:49   Info   no pending manage tasks at user side     OS Type: Android    App Version: 1.3      API Level: 26       Device Model: generic_x86
+2019-12-27 05:33:49   Info   to get level no     OS Type: Android    App Version: 1.3      API Level: 26       Device Model: generic_x86
+2019-12-27 05:33:49   Info   to get level no     OS Type: Android    App Version: 1.3      API Level: 26       Device Model: generic_x86
+2019-12-27 05:33:49   Info   no pending manage tasks at user side     OS Type: Android    App Version: 1.3      API Level: 26       Device Model: generic_x86
+2019-12-27 05:33:55   Info   empSearch(cropcode) method is used to employee's data     OS Type: Android    App Version: 1.3      API Level: 26       Device Model: generic_x86
+2019-12-27 05:33:55   Debug   Add Sub Task Modal screen is loaded     OS Type: Android    App Version: 1.3      API Level: 26       Device Model: generic_x86
+2019-12-27 05:33:55   Info   UsrePendingManageTasks:AddSubTask(item, index) used to navigate to modify addsubtask screen     OS Type: Android    App Version: 1.3      API Level: 26       Device Model: generic_x86
+2019-12-27 05:34:51   Info    addSubTask() is used to add sub task     OS Type: Android    App Version: 1.3      API Level: 26       Device Model: generic_x86
+2019-12-27 05:34:52   Info   UserCompletedManageTasks:manageTasksCompleted() method is used to get completed manage tasks at admin side     OS Type: Android    App Version: 1.3      API Level: 26       Device Model: generic_x86
+2019-12-27 05:34:52   Info   userPendingManageTasks:DeleteMaintask(maintaskid) method is used to delete maintask     OS Type: Android    App Version: 1.3      API Level: 26       Device Model: generic_x86
+2019-12-27 05:34:52   Info   no completed manage tasks at user side     OS Type: Android    App Version: 1.3      API Level: 26       Device Model: generic_x86
+2019-12-27 05:34:52   Info   to get level no     OS Type: Android    App Version: 1.3      API Level: 26       Device Model: generic_x86
+2019-12-27 05:34:52   Info   to get level no     OS Type: Android    App Version: 1.3      API Level: 26       Device Model: generic_x86
+2019-12-27 05:34:52   Info   to get level no     OS Type: Android    App Version: 1.3      API Level: 26       Device Model: generic_x86
+2019-12-27 05:34:52   Info   to get level no     OS Type: Android    App Version: 1.3      API Level: 26       Device Model: generic_x86
+2019-12-27 05:34:52   Info   no completed manage tasks at user side     OS Type: Android    App Version: 1.3      API Level: 26       Device Model: generic_x86
+2019-12-27 05:34:52   Info   no completed manage tasks at user side     OS Type: Android    App Version: 1.3      API Level: 26       Device Model: generic_x86
+2019-12-27 05:34:52   Info   no pending manage tasks at user side     OS Type: Android    App Version: 1.3      API Level: 26       Device Model: generic_x86
+2019-12-27 05:34:52   Info   no completed manage tasks at user side     OS Type: Android    App Version: 1.3      API Level: 26       Device Model: generic_x86
+2019-12-27 05:34:52   Info   to get level no     OS Type: Android    App Version: 1.3      API Level: 26       Device Model: generic_x86
+2019-12-27 05:34:53   Info   no pending manage tasks at user side     OS Type: Android    App Version: 1.3      API Level: 26       Device Model: generic_x86
+2019-12-27 05:34:53   Info   to get level no     OS Type: Android    App Version: 1.3      API Level: 26       Device Model: generic_x86
+2019-12-27 05:34:56   Info   getSubTasksList(taskId) method is used to Getting the subtasks      OS Type: Android    App Version: 1.3      API Level: 26       Device Model: generic_x86
+2019-12-27 05:34:57   Info   getSubTasksList(taskId) method is used to Getting the subtasks      OS Type: Android    App Version: 1.3      API Level: 26       Device Model: generic_x86
+2019-12-27 05:34:57   Debug   View SubTask screen is loaded     OS Type: Android    App Version: 1.3      API Level: 26       Device Model: generic_x86
+2019-12-27 05:34:57   Debug   View SubTask screen is loaded     OS Type: Android    App Version: 1.3      API Level: 26       Device Model: generic_x86
+2019-12-27 05:34:57   Debug   View SubTask screen is loaded     OS Type: Android    App Version: 1.3      API Level: 26       Device Model: generic_x86
+2019-12-27 05:34:57   Debug   View SubTask screen is loaded     OS Type: Android    App Version: 1.3      API Level: 26       Device Model: generic_x86
+2019-12-27 05:34:58   Debug   View SubTask screen is loaded     OS Type: Android    App Version: 1.3      API Level: 26       Device Model: generic_x86
+2019-12-27 05:34:58   Debug   View SubTask screen is loaded     OS Type: Android    App Version: 1.3      API Level: 26       Device Model: generic_x86
+2019-12-27 05:34:58   Debug   View SubTask screen is loaded     OS Type: Android    App Version: 1.3      API Level: 26       Device Model: generic_x86
+2019-12-27 05:34:58   Debug   View SubTask screen is loaded     OS Type: Android    App Version: 1.3      API Level: 26       Device Model: generic_x86
+2019-12-27 05:34:58   Debug   View SubTask screen is loaded     OS Type: Android    App Version: 1.3      API Level: 26       Device Model: generic_x86
+2019-12-27 05:34:58   Debug   View SubTask screen is loaded     OS Type: Android    App Version: 1.3      API Level: 26       Device Model: generic_x86
+2019-12-27 05:34:58   Debug   View SubTask screen is loaded     OS Type: Android    App Version: 1.3      API Level: 26       Device Model: generic_x86
+2019-12-27 05:34:58   Debug   View SubTask screen is loaded     OS Type: Android    App Version: 1.3      API Level: 26       Device Model: generic_x86
+2019-12-27 05:34:58   Debug   View SubTask screen is loaded     OS Type: Android    App Version: 1.3      API Level: 26       Device Model: generic_x86
+2019-12-27 05:34:58   Debug   View SubTask screen is loaded     OS Type: Android    App Version: 1.3      API Level: 26       Device Model: generic_x86
+2019-12-27 05:34:58   Debug   View SubTask screen is loaded     OS Type: Android    App Version: 1.3      API Level: 26       Device Model: generic_x86
+2019-12-27 05:34:58   Debug   View SubTask screen is loaded     OS Type: Android    App Version: 1.3      API Level: 26       Device Model: generic_x86
+2019-12-27 05:34:58   Debug   View SubTask screen is loaded     OS Type: Android    App Version: 1.3      API Level: 26       Device Model: generic_x86
+2019-12-27 05:34:58   Debug   View SubTask screen is loaded     OS Type: Android    App Version: 1.3      API Level: 26       Device Model: generic_x86
+2019-12-27 05:34:58   Debug   View SubTask screen is loaded     OS Type: Android    App Version: 1.3      API Level: 26       Device Model: generic_x86
+2019-12-27 05:34:58   Debug   View SubTask screen is loaded     OS Type: Android    App Version: 1.3      API Level: 26       Device Model: generic_x86
+2019-12-27 05:34:58   Debug   View SubTask screen is loaded     OS Type: Android    App Version: 1.3      API Level: 26       Device Model: generic_x86
+2019-12-27 05:35:08   Info   UserCompletedManageTasks:manageTasksCompleted() method is used to get completed manage tasks at admin side     OS Type: Android    App Version: 1.3      API Level: 26       Device Model: generic_x86
+2019-12-27 05:35:08   Info   userPendingManageTasks:DeleteMaintask(maintaskid) method is used to delete maintask     OS Type: Android    App Version: 1.3      API Level: 26       Device Model: generic_x86
+2019-12-27 05:35:09   Info   no pending manage tasks at user side     OS Type: Android    App Version: 1.3      API Level: 26       Device Model: generic_x86
+2019-12-27 05:35:09   Info   to get level no     OS Type: Android    App Version: 1.3      API Level: 26       Device Model: generic_x86
+2019-12-27 05:35:09   Info   to get level no     OS Type: Android    App Version: 1.3      API Level: 26       Device Model: generic_x86
+2019-12-27 05:35:09   Info   no completed manage tasks at user side     OS Type: Android    App Version: 1.3      API Level: 26       Device Model: generic_x86
+2019-12-27 05:35:09   Info   to get level no     OS Type: Android    App Version: 1.3      API Level: 26       Device Model: generic_x86
+2019-12-27 05:35:09   Info   to get level no     OS Type: Android    App Version: 1.3      API Level: 26       Device Model: generic_x86
+2019-12-27 05:35:09   Info   to get level no     OS Type: Android    App Version: 1.3      API Level: 26       Device Model: generic_x86
+2019-12-27 05:35:09   Info   no pending manage tasks at user side     OS Type: Android    App Version: 1.3      API Level: 26       Device Model: generic_x86
+2019-12-27 05:35:09   Info   to get level no     OS Type: Android    App Version: 1.3      API Level: 26       Device Model: generic_x86
+2019-12-27 05:35:09   Info   no completed manage tasks at user side     OS Type: Android    App Version: 1.3      API Level: 26       Device Model: generic_x86
+2019-12-27 05:35:09   Info   no completed manage tasks at user side     OS Type: Android    App Version: 1.3      API Level: 26       Device Model: generic_x86
+2019-12-27 05:35:09   Info   no completed manage tasks at user side     OS Type: Android    App Version: 1.3      API Level: 26       Device Model: generic_x86
+2019-12-27 05:35:19   Debug   Login Screen is Loaded     OS Type: Android    App Version: 1.3      API Level: 23       Device Model: bullhead
+2019-12-27 05:35:35   Debug   Login Screen is Loaded     OS Type: Android    App Version: 1.3      API Level: 23       Device Model: bullhead
+2019-12-27 05:36:15   Info   onSignIn() is used for login purpose and based on usertype data is authorizised     OS Type: Android    App Version: 1.3      API Level: 23       Device Model: bullhead
+2019-12-27 05:36:15   Warn   Password must be entered     OS Type: Android    App Version: 1.3      API Level: 23       Device Model: bullhead
+2019-12-27 05:36:27   Info   onSignIn() is used for login purpose and based on usertype data is authorizised     OS Type: Android    App Version: 1.3      API Level: 23       Device Model: bullhead
+2019-12-27 05:36:28   Warn   UserName and Password is not entered correctly     OS Type: Android    App Version: 1.3      API Level: 23       Device Model: bullhead
+2019-12-27 05:36:45   Info   onSignIn() is used for login purpose and based on usertype data is authorizised     OS Type: Android    App Version: 1.3      API Level: 23       Device Model: bullhead
+2019-12-27 05:36:45   Warn   UserName and Password is not entered correctly     OS Type: Android    App Version: 1.3      API Level: 23       Device Model: bullhead
+2019-12-27 05:37:15   Info   onSignIn() is used for login purpose and based on usertype data is authorizised     OS Type: Android    App Version: 1.3      API Level: 23       Device Model: bullhead
+2019-12-27 05:37:16   Warn   UserName and Password is not entered correctly     OS Type: Android    App Version: 1.3      API Level: 23       Device Model: bullhead
+2019-12-27 05:37:19   Debug   Login Screen is Loaded     OS Type: Android    App Version: 1.3      API Level: 23       Device Model: bullhead
+2019-12-27 05:37:31   Info   onSignIn() is used for login purpose and based on usertype data is authorizised     OS Type: Android    App Version: 1.3      API Level: 23       Device Model: bullhead
+2019-12-27 05:37:32   Warn   UserName and Password is not entered correctly     OS Type: Android    App Version: 1.3      API Level: 23       Device Model: bullhead
+2019-12-27 05:37:36   Debug   Login Screen is Loaded     OS Type: Android    App Version: 1.3      API Level: 23       Device Model: bullhead
+2019-12-27 05:37:42   Info   onSignIn() is used for login purpose and based on usertype data is authorizised     OS Type: Android    App Version: 1.3      API Level: 23       Device Model: bullhead
+2019-12-27 05:37:42   Warn   UserName have not entered as per given     OS Type: Android    App Version: 1.3      API Level: 23       Device Model: bullhead
+2019-12-27 05:38:07   Info   onSignIn() is used for login purpose and based on usertype data is authorizised     OS Type: Android    App Version: 1.3      API Level: 23       Device Model: bullhead
+2019-12-27 05:38:07   Warn   UserName have not entered as per given     OS Type: Android    App Version: 1.3      API Level: 23       Device Model: bullhead
+2019-12-27 05:38:11   Debug   Login Screen is Loaded     OS Type: Android    App Version: 1.3      API Level: 23       Device Model: bullhead
+2019-12-27 05:38:20   Info   onSignIn() is used for login purpose and based on usertype data is authorizised     OS Type: Android    App Version: 1.3      API Level: 23       Device Model: bullhead
+2019-12-27 05:38:20   Warn   UserName have not entered as per given     OS Type: Android    App Version: 1.3      API Level: 23       Device Model: bullhead
+2019-12-27 05:38:47   Info   onSignIn() is used for login purpose and based on usertype data is authorizised     OS Type: Android    App Version: 1.3      API Level: 23       Device Model: bullhead
+2019-12-27 05:38:48   Warn   UserName and Password is not entered correctly     OS Type: Android    App Version: 1.3      API Level: 23       Device Model: bullhead
+2019-12-27 05:38:56   Debug   Login Screen is Loaded     OS Type: Android    App Version: 1.3      API Level: 23       Device Model: bullhead
+2019-12-27 05:39:22   Debug   Login Screen is Loaded     OS Type: Android    App Version: 1.3      API Level: 23       Device Model: bullhead
+2019-12-27 05:52:04   Debug   Login Screen is Loaded     OS Type: iOS    App Version: 1.15      API Level: -1       Device Model: unknown
+2019-12-27 05:52:49   Info   onSignIn() is used for login purpose and based on usertype data is authorizised     OS Type: iOS    App Version: 1.15      API Level: -1       Device Model: unknown
+2019-12-27 05:52:49   Warn   UserName and Password is not entered correctly     OS Type: iOS    App Version: 1.15      API Level: -1       Device Model: unknown
+2019-12-27 05:53:11   Info   onSignIn() is used for login purpose and based on usertype data is authorizised     OS Type: iOS    App Version: 1.15      API Level: -1       Device Model: unknown
+2019-12-27 05:53:11   Warn   UserName and Password is not entered correctly     OS Type: iOS    App Version: 1.15      API Level: -1       Device Model: unknown
+2019-12-27 05:53:26   Info   onSignIn() is used for login purpose and based on usertype data is authorizised     OS Type: iOS    App Version: 1.15      API Level: -1       Device Model: unknown
+2019-12-27 05:53:28   Info   UserPendingMyTask:getdata() method is used to get pending my tasks at user side     OS Type: iOS    App Version: 1.15      API Level: -1       Device Model: unknown
+2019-12-27 05:53:28   Debug   user pending mytask tasks screen is loaded at user side     OS Type: iOS    App Version: 1.15      API Level: -1       Device Model: unknown
+2019-12-27 05:53:28   Info   UserPendingMyTask:getdata() method is used to get pending my tasks at user side     OS Type: iOS    App Version: 1.15      API Level: -1       Device Model: unknown
+2019-12-27 05:53:48   Debug   user completed manage tasks screen is loaded     OS Type: iOS    App Version: 1.15      API Level: -1       Device Model: unknown
+2019-12-27 05:53:48   Info   UserCompletedMyTask:userCompletedMyTasks() method is used to get completed my tasks at user side     OS Type: iOS    App Version: 1.15      API Level: -1       Device Model: unknown
+2019-12-27 05:54:20   Info   UserPendingMyTask:getdata() method is used to get pending my tasks at user side     OS Type: iOS    App Version: 1.15      API Level: -1       Device Model: unknown
+2019-12-27 05:54:29   Info    groupMembersList(role, userToken, cropcode) is used getting task related group members     OS Type: iOS    App Version: 1.15      API Level: -1       Device Model: unknown
+2019-12-27 05:54:29   Debug   Task Chat screen is loaded     OS Type: iOS    App Version: 1.15      API Level: -1       Device Model: unknown
+2019-12-27 05:54:29   Info   UserPendingMyTasks:TaskChat(item, index) used to navigate to taskchat     OS Type: iOS    App Version: 1.15      API Level: -1       Device Model: unknown
+2019-12-27 05:54:30   Info    getMessages(role, userToken, cropcode) is used getting task related messages     OS Type: iOS    App Version: 1.15      API Level: -1       Device Model: unknown
+2019-12-27 06:00:39   Debug   Login Screen is Loaded     OS Type: Android    App Version: 1.3      API Level: 27       Device Model: vince
+2019-12-27 06:00:52   Info   onSignIn() is used for login purpose and based on usertype data is authorizised     OS Type: Android    App Version: 1.3      API Level: 27       Device Model: vince
+2019-12-27 06:00:53   Debug   user pending mytask tasks screen is loaded at user side     OS Type: Android    App Version: 1.3      API Level: 27       Device Model: vince
+2019-12-27 06:00:53   Info   UserPendingMyTask:getdata() method is used to get pending my tasks at user side     OS Type: Android    App Version: 1.3      API Level: 27       Device Model: vince
+2019-12-27 06:00:54   Info   UserPendingMyTask:getdata() method is used to get pending my tasks at user side     OS Type: Android    App Version: 1.3      API Level: 27       Device Model: vince
+2019-12-27 06:00:57   Info   UserCompletedMyTask:userCompletedMyTasks() method is used to get completed my tasks at user side     OS Type: Android    App Version: 1.3      API Level: 27       Device Model: vince
+2019-12-27 06:00:57   Debug   user completed manage tasks screen is loaded     OS Type: Android    App Version: 1.3      API Level: 27       Device Model: vince
+2019-12-27 06:00:58   Info   UserPendingMyTask:getdata() method is used to get pending my tasks at user side     OS Type: Android    App Version: 1.3      API Level: 27       Device Model: vince
+2019-12-27 06:01:12   Info   UserCompletedMyTasks:SearchFilterFunction(text) for search functionality     OS Type: Android    App Version: 1.3      API Level: 27       Device Model: vince
+2019-12-27 06:01:12   Info   UserCompletedMyTasks:SearchFilterFunction(text) for search functionality     OS Type: Android    App Version: 1.3      API Level: 27       Device Model: vince
+2019-12-27 06:01:13   Info   UserCompletedMyTasks:SearchFilterFunction(text) for search functionality     OS Type: Android    App Version: 1.3      API Level: 27       Device Model: vince
+2019-12-27 06:01:13   Info   UserCompletedMyTasks:SearchFilterFunction(text) for search functionality     OS Type: Android    App Version: 1.3      API Level: 27       Device Model: vince
+2019-12-27 06:01:13   Info   UserCompletedMyTasks:SearchFilterFunction(text) for search functionality     OS Type: Android    App Version: 1.3      API Level: 27       Device Model: vince
+2019-12-27 06:01:13   Info   UserCompletedMyTasks:SearchFilterFunction(text) for search functionality     OS Type: Android    App Version: 1.3      API Level: 27       Device Model: vince
+2019-12-27 06:01:15   Info   UserCompletedMyTasks:SearchFilterFunction(text) for search functionality     OS Type: Android    App Version: 1.3      API Level: 27       Device Model: vince
+2019-12-27 06:01:15   Info   UserCompletedMyTasks:SearchFilterFunction(text) for search functionality     OS Type: Android    App Version: 1.3      API Level: 27       Device Model: vince
+2019-12-27 06:01:15   Info   UserCompletedMyTasks:SearchFilterFunction(text) for search functionality     OS Type: Android    App Version: 1.3      API Level: 27       Device Model: vince
+2019-12-27 06:01:15   Info   UserCompletedMyTasks:SearchFilterFunction(text) for search functionality     OS Type: Android    App Version: 1.3      API Level: 27       Device Model: vince
+2019-12-27 06:01:16   Info   UserCompletedMyTasks:SearchFilterFunction(text) for search functionality     OS Type: Android    App Version: 1.3      API Level: 27       Device Model: vince
+2019-12-27 06:01:16   Info   UserCompletedMyTasks:SearchFilterFunction(text) for search functionality     OS Type: Android    App Version: 1.3      API Level: 27       Device Model: vince
+2019-12-27 06:01:17   Info   UserCompletedMyTasks:SearchFilterFunction(text) for search functionality     OS Type: Android    App Version: 1.3      API Level: 27       Device Model: vince
+2019-12-27 06:01:17   Info   UserCompletedMyTasks:SearchFilterFunction(text) for search functionality     OS Type: Android    App Version: 1.3      API Level: 27       Device Model: vince
+2019-12-27 06:05:52   Debug   user pending mytask tasks screen is loaded at user side     OS Type: iOS    App Version: 1.16      API Level: -1       Device Model: unknown
+2019-12-27 06:05:52   Info   UserPendingMyTask:getdata() method is used to get pending my tasks at user side     OS Type: iOS    App Version: 1.16      API Level: -1       Device Model: unknown
+2019-12-27 06:05:53   Info   UserPendingMyTask:getdata() method is used to get pending my tasks at user side     OS Type: iOS    App Version: 1.16      API Level: -1       Device Model: unknown
+2019-12-27 06:06:21   Debug   Task Chat screen is loaded     OS Type: iOS    App Version: 1.16      API Level: -1       Device Model: unknown
+2019-12-27 06:06:21   Info   UserPendingMyTasks:TaskChat(item, index) used to navigate to taskchat     OS Type: iOS    App Version: 1.16      API Level: -1       Device Model: unknown
+2019-12-27 06:06:21   Info    getMessages(role, userToken, cropcode) is used getting task related messages     OS Type: iOS    App Version: 1.16      API Level: -1       Device Model: unknown
+2019-12-27 06:06:21   Info    groupMembersList(role, userToken, cropcode) is used getting task related group members     OS Type: iOS    App Version: 1.16      API Level: -1       Device Model: unknown
+2019-12-27 10:34:01   Debug   user pending mytask tasks screen is loaded at user side     OS Type: Android    App Version: 1.3      API Level: 27       Device Model: vince
+2019-12-27 10:34:02   Info   UserPendingMyTask:getdata() method is used to get pending my tasks at user side     OS Type: Android    App Version: 1.3      API Level: 27       Device Model: vince
+2019-12-27 10:34:02   Info   UserPendingMyTask:getdata() method is used to get pending my tasks at user side     OS Type: Android    App Version: 1.3      API Level: 27       Device Model: vince
+2019-12-27 10:34:05   Debug   Login Screen is Loaded     OS Type: Android    App Version: 1.3      API Level: 27       Device Model: vince
+2019-12-27 10:34:35   Info   onSignIn() is used for login purpose and based on usertype data is authorizised     OS Type: Android    App Version: 1.3      API Level: 27       Device Model: vince
+2019-12-27 10:34:36   Info   UserPendingMyTask:getdata() method is used to get pending my tasks at user side     OS Type: Android    App Version: 1.3      API Level: 27       Device Model: vince
+2019-12-27 10:34:36   Debug   user pending mytask tasks screen is loaded at user side     OS Type: Android    App Version: 1.3      API Level: 27       Device Model: vince
+2019-12-27 10:34:37   Info   UserPendingMyTask:getdata() method is used to get pending my tasks at user side     OS Type: Android    App Version: 1.3      API Level: 27       Device Model: vince
+2019-12-27 10:34:37   Info   no pending my tasks at user side     OS Type: Android    App Version: 1.3      API Level: 27       Device Model: vince
+2019-12-27 10:34:37   Info   no pending my tasks at user side     OS Type: Android    App Version: 1.3      API Level: 27       Device Model: vince
+2019-12-27 10:34:43   Debug   Login Screen is Loaded     OS Type: Android    App Version: 1.3      API Level: 27       Device Model: vince
+2019-12-27 10:35:03   Info   onSignIn() is used for login purpose and based on usertype data is authorizised     OS Type: Android    App Version: 1.3      API Level: 27       Device Model: vince
+2019-12-27 10:35:04   Debug   admin request projects screen is loaded     OS Type: Android    App Version: 1.3      API Level: 27       Device Model: vince
+2019-12-27 10:35:04   Info    getRequestedIdeas(role, userToken, cropcode) is used to get all requested projects at admin side     OS Type: Android    App Version: 1.3      API Level: 27       Device Model: vince
+2019-12-27 10:35:04   Info    getRequestedIdeas(role, userToken, cropcode) is used to get all requested projects at admin side     OS Type: Android    App Version: 1.3      API Level: 27       Device Model: vince
+2019-12-27 10:35:04   Warn   no requested projects found     OS Type: Android    App Version: 1.3      API Level: 27       Device Model: vince
+2019-12-27 16:56:59   Debug   Login Screen is Loaded     OS Type: Android    App Version: 1.3      API Level: 28       Device Model: gce_x86
+2019-12-27 16:57:06   Info   onSignIn() is used for login purpose and based on usertype data is authorizised     OS Type: Android    App Version: 1.3      API Level: 28       Device Model: gce_x86
+2019-12-27 16:57:07   Warn   UserName have not entered as per given     OS Type: Android    App Version: 1.3      API Level: 28       Device Model: gce_x86
+2019-12-27 16:57:14   Info   onSignIn() is used for login purpose and based on usertype data is authorizised     OS Type: Android    App Version: 1.3      API Level: 28       Device Model: gce_x86
+2019-12-27 16:57:14   Warn   UserName have not entered as per given     OS Type: Android    App Version: 1.3      API Level: 28       Device Model: gce_x86
+2019-12-27 16:57:28   Info   onSignIn() is used for login purpose and based on usertype data is authorizised     OS Type: Android    App Version: 1.3      API Level: 28       Device Model: gce_x86
+2019-12-27 16:57:28   Warn   UserName have not entered as per given     OS Type: Android    App Version: 1.3      API Level: 28       Device Model: gce_x86
+2019-12-27 16:57:40   Info   onSignIn() is used for login purpose and based on usertype data is authorizised     OS Type: Android    App Version: 1.3      API Level: 28       Device Model: gce_x86
+2019-12-27 16:57:40   Warn   UserName have not entered as per given     OS Type: Android    App Version: 1.3      API Level: 28       Device Model: gce_x86
+2019-12-27 16:58:01   Debug   Login Screen is Loaded     OS Type: Android    App Version: 1.3      API Level: 28       Device Model: gce_x86
+2019-12-27 16:58:23   Debug   Login Screen is Loaded     OS Type: Android    App Version: 1.3      API Level: 28       Device Model: gce_x86
+2019-12-27 16:58:36   Debug   Login Screen is Loaded     OS Type: Android    App Version: 1.3      API Level: 28       Device Model: gce_x86
+2019-12-27 16:58:55   Debug   Login Screen is Loaded     OS Type: Android    App Version: 1.3      API Level: 28       Device Model: gce_x86
+2019-12-27 16:59:01   Info   onSignIn() is used for login purpose and based on usertype data is authorizised     OS Type: Android    App Version: 1.3      API Level: 28       Device Model: gce_x86
+2019-12-27 16:59:01   Warn   UserName have not entered as per given     OS Type: Android    App Version: 1.3      API Level: 28       Device Model: gce_x86
+2019-12-27 16:59:08   Warn   UserName have not entered as per given     OS Type: Android    App Version: 1.3      API Level: 28       Device Model: gce_x86
+2019-12-27 16:59:08   Info   onSignIn() is used for login purpose and based on usertype data is authorizised     OS Type: Android    App Version: 1.3      API Level: 28       Device Model: gce_x86
+2019-12-27 16:59:24   Debug   Login Screen is Loaded     OS Type: Android    App Version: 1.3      API Level: 28       Device Model: gce_x86
+2019-12-27 16:59:31   Info   onSignIn() is used for login purpose and based on usertype data is authorizised     OS Type: Android    App Version: 1.3      API Level: 28       Device Model: gce_x86
+2019-12-27 16:59:31   Warn   UserName have not entered as per given     OS Type: Android    App Version: 1.3      API Level: 28       Device Model: gce_x86
+2019-12-27 16:59:47   Debug   Login Screen is Loaded     OS Type: Android    App Version: 1.3      API Level: 28       Device Model: gce_x86
+2019-12-27 17:00:00   Debug   Login Screen is Loaded     OS Type: Android    App Version: 1.3      API Level: 28       Device Model: gce_x86
+2019-12-27 17:00:14   Debug   Login Screen is Loaded     OS Type: Android    App Version: 1.3      API Level: 28       Device Model: gce_x86
+2019-12-27 17:00:28   Debug   Login Screen is Loaded     OS Type: Android    App Version: 1.3      API Level: 28       Device Model: gce_x86
+2019-12-27 17:00:43   Debug   Login Screen is Loaded     OS Type: Android    App Version: 1.3      API Level: 28       Device Model: gce_x86
+2019-12-27 17:00:56   Debug   Login Screen is Loaded     OS Type: Android    App Version: 1.3      API Level: 28       Device Model: gce_x86
+2019-12-27 17:01:09   Debug   Login Screen is Loaded     OS Type: Android    App Version: 1.3      API Level: 28       Device Model: gce_x86
+2019-12-27 17:01:23   Debug   Login Screen is Loaded     OS Type: Android    App Version: 1.3      API Level: 28       Device Model: gce_x86
+2019-12-27 17:01:36   Debug   Login Screen is Loaded     OS Type: Android    App Version: 1.3      API Level: 28       Device Model: gce_x86
+2019-12-27 17:01:50   Debug   Login Screen is Loaded     OS Type: Android    App Version: 1.3      API Level: 28       Device Model: gce_x86

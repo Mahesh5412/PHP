@@ -1,0 +1,565 @@
+2019-12-04 04:19:58   Debug   user pending mytask tasks screen is loaded at user side     OS Type: Android    App Version: 1.1      API Level: 26       Device Model: generic_x86
+2019-12-04 04:19:59   Info   UserPendingMyTask:getdata() method is used to get pending my tasks at user side     OS Type: Android    App Version: 1.1      API Level: 26       Device Model: generic_x86
+2019-12-04 04:20:00   Info   no pending my tasks at user side     OS Type: Android    App Version: 1.1      API Level: 26       Device Model: generic_x86
+2019-12-04 04:23:05   Debug   user pending mytask tasks screen is loaded at user side     OS Type: Android    App Version: 1.1      API Level: 26       Device Model: generic_x86
+2019-12-04 04:23:05   Info   UserPendingMyTask:getdata() method is used to get pending my tasks at user side     OS Type: Android    App Version: 1.1      API Level: 26       Device Model: generic_x86
+2019-12-04 04:23:06   Info   no pending my tasks at user side     OS Type: Android    App Version: 1.1      API Level: 26       Device Model: generic_x86
+2019-12-04 04:27:15   Debug   Login Screen is Loaded     OS Type: Android    App Version: 1.1      API Level: 26       Device Model: generic_x86
+2019-12-04 04:27:52   Info   onSignIn() is used for login purpose and based on usertype data is authorizised     OS Type: Android    App Version: 1.1      API Level: 26       Device Model: generic_x86
+2019-12-04 04:27:53   Debug   user pending mytask tasks screen is loaded at user side     OS Type: Android    App Version: 1.1      API Level: 26       Device Model: generic_x86
+2019-12-04 04:27:53   Info   UserPendingMyTask:getdata() method is used to get pending my tasks at user side     OS Type: Android    App Version: 1.1      API Level: 26       Device Model: generic_x86
+2019-12-04 04:30:33   Info   UserPendingMyTasks:RoadBlock(item, index) used to navigate to RoadBlock     OS Type: Android    App Version: 1.1      API Level: 26       Device Model: generic_x86
+2019-12-04 04:30:33   Debug   Road Block screen is loaded     OS Type: Android    App Version: 1.1      API Level: 26       Device Model: generic_x86
+2019-12-04 04:30:34   Info    getRoadBlocks(role, userToken, cropcode) is used to getting the RoadBlocks     OS Type: Android    App Version: 1.1      API Level: 26       Device Model: generic_x86
+2019-12-04 04:30:37   Info    getRoadBlocks(role, userToken, cropcode) is used to getting the RoadBlocks     OS Type: Android    App Version: 1.1      API Level: 26       Device Model: generic_x86
+2019-12-04 04:30:40   Info    getRoadBlocks(role, userToken, cropcode) is used to getting the RoadBlocks     OS Type: Android    App Version: 1.1      API Level: 26       Device Model: generic_x86
+2019-12-04 04:31:19   Debug   UserProfile screen is loaded     OS Type: Android    App Version: 1.1      API Level: 26       Device Model: generic_x86
+2019-12-04 04:31:19   Info   UserProfile:profile() method is used get employee profile data     OS Type: Android    App Version: 1.1      API Level: 26       Device Model: generic_x86
+2019-12-04 04:31:19   Info   UserProfile:GetStatus() method is used to get status of employee     OS Type: Android    App Version: 1.1      API Level: 26       Device Model: generic_x86
+2019-12-04 04:31:37   Info   UserProfile:UpdateStatus(status) method is used to update status of employee     OS Type: Android    App Version: 1.1      API Level: 26       Device Model: generic_x86
+2019-12-04 04:31:39   Info   UserProfile:save() method is used to update mobile number     OS Type: Android    App Version: 1.1      API Level: 26       Device Model: generic_x86
+2019-12-04 04:47:17   Debug   Login Screen is Loaded     OS Type: iOS    App Version: 1.13      API Level: -1       Device Model: unknown
+2019-12-04 04:47:42   Info   onSignIn() is used for login purpose and based on usertype data is authorizised     OS Type: iOS    App Version: 1.13      API Level: -1       Device Model: unknown
+2019-12-04 04:47:43   Debug   admin request projects screen is loaded     OS Type: iOS    App Version: 1.13      API Level: -1       Device Model: unknown
+2019-12-04 04:47:44   Info    getRequestedIdeas(role, userToken, cropcode) is used to get all requested projects at admin side     OS Type: iOS    App Version: 1.13      API Level: -1       Device Model: unknown
+2019-12-04 04:48:29   Info   addProject() method is used to add new project at admin side     OS Type: iOS    App Version: 1.13      API Level: -1       Device Model: unknown
+2019-12-04 04:48:35   Info    getRequestedIdeas(role, userToken, cropcode) is used to get all requested projects at admin side     OS Type: iOS    App Version: 1.13      API Level: -1       Device Model: unknown
+2019-12-04 04:48:36   Debug   admin project info screen is loaded     OS Type: iOS    App Version: 1.13      API Level: -1       Device Model: unknown
+2019-12-04 04:48:36   Info   AdminProjectInfo method is used to move requested project to project info screen     OS Type: iOS    App Version: 1.13      API Level: -1       Device Model: unknown
+2019-12-04 04:48:37   Info   AdminProjectInfo:Disabling() method is used to diable accept button based on condition     OS Type: iOS    App Version: 1.13      API Level: -1       Device Model: unknown
+2019-12-04 04:48:41   Info   AdminProjectInfo method is used to move requested project to project info screen     OS Type: iOS    App Version: 1.13      API Level: -1       Device Model: unknown
+2019-12-04 04:48:41   Debug   admin project info screen is loaded     OS Type: iOS    App Version: 1.13      API Level: -1       Device Model: unknown
+2019-12-04 04:48:41   Info   AdminProjectInfo:Disabling() method is used to diable accept button based on condition     OS Type: iOS    App Version: 1.13      API Level: -1       Device Model: unknown
+2019-12-04 04:48:50   Info   AdminProjectInfo method is used to move requested project to project info screen     OS Type: iOS    App Version: 1.13      API Level: -1       Device Model: unknown
+2019-12-04 04:48:50   Debug   admin project info screen is loaded     OS Type: iOS    App Version: 1.13      API Level: -1       Device Model: unknown
+2019-12-04 04:48:50   Info   AdminProjectInfo:Disabling() method is used to diable accept button based on condition     OS Type: iOS    App Version: 1.13      API Level: -1       Device Model: unknown
+2019-12-04 04:48:53   Debug   admin project info screen is loaded     OS Type: iOS    App Version: 1.13      API Level: -1       Device Model: unknown
+2019-12-04 04:48:53   Info   AdminProjectInfo method is used to move requested project to project info screen     OS Type: iOS    App Version: 1.13      API Level: -1       Device Model: unknown
+2019-12-04 04:48:53   Info   AdminProjectInfo:Disabling() method is used to diable accept button based on condition     OS Type: iOS    App Version: 1.13      API Level: -1       Device Model: unknown
+2019-12-04 04:49:08   Info    getRequestedIdeas(role, userToken, cropcode) is used to get all requested projects at admin side     OS Type: iOS    App Version: 1.13      API Level: -1       Device Model: unknown
+2019-12-04 04:49:09   Info   AdminProjectInfo method is used to move requested project to project info screen     OS Type: iOS    App Version: 1.13      API Level: -1       Device Model: unknown
+2019-12-04 04:49:09   Debug   admin project info screen is loaded     OS Type: iOS    App Version: 1.13      API Level: -1       Device Model: unknown
+2019-12-04 04:49:10   Info   AdminProjectInfo:Disabling() method is used to diable accept button based on condition     OS Type: iOS    App Version: 1.13      API Level: -1       Device Model: unknown
+2019-12-04 04:49:30   Info   AdminProjectInfo method is used to move requested project to project info screen     OS Type: iOS    App Version: 1.13      API Level: -1       Device Model: unknown
+2019-12-04 04:49:30   Info   AdminProjectInfo:Disabling() method is used to diable accept button based on condition     OS Type: iOS    App Version: 1.13      API Level: -1       Device Model: unknown
+2019-12-04 04:49:30   Debug   admin project info screen is loaded     OS Type: iOS    App Version: 1.13      API Level: -1       Device Model: unknown
+2019-12-04 04:50:55   Info    userCompletedMyTasks(cropcode) is used to get the all the user completed data list     OS Type: iOS    App Version: 1.13      API Level: -1       Device Model: unknown
+2019-12-04 04:50:55   Debug   getting the CompletedMyTask List     OS Type: iOS    App Version: 1.13      API Level: -1       Device Model: unknown
+2019-12-04 04:51:05   Info    getMessages(role, userToken, cropcode) is used getting task related messages     OS Type: iOS    App Version: 1.13      API Level: -1       Device Model: unknown
+2019-12-04 04:51:05   Info    groupMembersList(role, userToken, cropcode) is used getting task related group members     OS Type: iOS    App Version: 1.13      API Level: -1       Device Model: unknown
+2019-12-04 04:51:05   Debug   Task Chat screen is loaded     OS Type: iOS    App Version: 1.13      API Level: -1       Device Model: unknown
+2019-12-04 05:03:27   Debug   admin request projects screen is loaded     OS Type: Android    App Version: 1.1      API Level: 28       Device Model: violet
+2019-12-04 05:03:28   Info    getRequestedIdeas(role, userToken, cropcode) is used to get all requested projects at admin side     OS Type: Android    App Version: 1.1      API Level: 28       Device Model: violet
+2019-12-04 05:03:35   Info   AdminPendingManageTasks:adminPendingManageTasks() method is used to get pending manage tasks at admin side     OS Type: Android    App Version: 1.1      API Level: 28       Device Model: violet
+2019-12-04 05:03:35   Info   to get level no     OS Type: Android    App Version: 1.1      API Level: 28       Device Model: violet
+2019-12-04 05:03:41   Info   AdminCompletedManageTasks:manageTasksCompleted() method is used to get completed manage tasks at admin side     OS Type: Android    App Version: 1.1      API Level: 28       Device Model: violet
+2019-12-04 05:03:41   Info   to get level no     OS Type: Android    App Version: 1.1      API Level: 28       Device Model: violet
+2019-12-04 05:03:41   Debug   Admin completed manage tasks screen is loaded     OS Type: Android    App Version: 1.1      API Level: 28       Device Model: violet
+2019-12-04 05:03:42   Info   No completed manage tasks at admin side     OS Type: Android    App Version: 1.1      API Level: 28       Device Model: violet
+2019-12-04 05:03:42   Info   No completed manage tasks at admin side     OS Type: Android    App Version: 1.1      API Level: 28       Device Model: violet
+2019-12-04 05:03:42   Info   No completed manage tasks at admin side     OS Type: Android    App Version: 1.1      API Level: 28       Device Model: violet
+2019-12-04 05:03:42   Info   No completed manage tasks at admin side     OS Type: Android    App Version: 1.1      API Level: 28       Device Model: violet
+2019-12-04 05:03:43   Info   No completed manage tasks at admin side     OS Type: Android    App Version: 1.1      API Level: 28       Device Model: violet
+2019-12-04 05:03:43   Info   No completed manage tasks at admin side     OS Type: Android    App Version: 1.1      API Level: 28       Device Model: violet
+2019-12-04 05:16:49   Info    getdata() is used to get all requested projects at user side     OS Type: Android    App Version: 1.1      API Level: 26       Device Model: generic_x86
+2019-12-04 05:16:49   Debug   user request projects screen is loaded     OS Type: Android    App Version: 1.1      API Level: 26       Device Model: generic_x86
+2019-12-04 05:16:52   Debug   user project info screen is loaded     OS Type: Android    App Version: 1.1      API Level: 26       Device Model: generic_x86
+2019-12-04 05:16:52   Info   UserProjectInfo method is used to move requested project to project info screen     OS Type: Android    App Version: 1.1      API Level: 26       Device Model: generic_x86
+2019-12-04 05:16:52   Info   UserProjectInfo:Disabling() method is used to diable accept button based on condition     OS Type: Android    App Version: 1.1      API Level: 26       Device Model: generic_x86
+2019-12-04 05:17:03   Info    getdata() is used to get all requested projects at user side     OS Type: Android    App Version: 1.1      API Level: 26       Device Model: generic_x86
+2019-12-04 05:17:06   Debug   User Approved projects screen is loaded     OS Type: Android    App Version: 1.1      API Level: 26       Device Model: generic_x86
+2019-12-04 05:17:06   Info   UserApprovedProjects:setRO(userApprovedProjects() method is used to list the user approved projects     OS Type: Android    App Version: 1.1      API Level: 26       Device Model: generic_x86
+2019-12-04 05:17:06   Info   UserApprovedProjects:getResource() method is used to get all employee list     OS Type: Android    App Version: 1.1      API Level: 26       Device Model: generic_x86
+2019-12-04 05:17:12   Info   UserApprovedProjects:setRO(userApprovedProjects() method is used to list the user approved projects     OS Type: Android    App Version: 1.1      API Level: 26       Device Model: generic_x86
+2019-12-04 05:17:16   Debug   getting the CompletedMyTask List     OS Type: Android    App Version: 1.1      API Level: 26       Device Model: generic_x86
+2019-12-04 05:17:16   Info    userCompletedMyTasks(cropcode) is used to get the all the user completed data list     OS Type: Android    App Version: 1.1      API Level: 26       Device Model: generic_x86
+2019-12-04 05:17:19   Info    userCompletedMyTasks(cropcode) is used to get the all the user completed data list     OS Type: Android    App Version: 1.1      API Level: 26       Device Model: generic_x86
+2019-12-04 05:17:23   Debug   Solved Road Blocks loaded     OS Type: Android    App Version: 1.1      API Level: 26       Device Model: generic_x86
+2019-12-04 05:17:23   Info    userCompletedMyTasks(cropcode) is used to get the all the user completed data list     OS Type: Android    App Version: 1.1      API Level: 26       Device Model: generic_x86
+2019-12-04 05:17:26   Info    userCompletedMyTasks(cropcode) is used to get the all the user completed data list     OS Type: Android    App Version: 1.1      API Level: 26       Device Model: generic_x86
+2019-12-04 05:20:54   Debug   Login Screen is Loaded     OS Type: iOS    App Version: 1.13      API Level: -1       Device Model: unknown
+2019-12-04 05:21:32   Info   onSignIn() is used for login purpose and based on usertype data is authorizised     OS Type: iOS    App Version: 1.13      API Level: -1       Device Model: unknown
+2019-12-04 05:21:33   Debug   admin request projects screen is loaded     OS Type: iOS    App Version: 1.13      API Level: -1       Device Model: unknown
+2019-12-04 05:21:33   Info    getRequestedIdeas(role, userToken, cropcode) is used to get all requested projects at admin side     OS Type: iOS    App Version: 1.13      API Level: -1       Device Model: unknown
+2019-12-04 05:21:47   Info   adminApprovedProjects(role, userToken, cropcode) method is used to get all approved projects list     OS Type: iOS    App Version: 1.13      API Level: -1       Device Model: unknown
+2019-12-04 05:22:16   Info   addProject() method is used to add new project at admin side     OS Type: iOS    App Version: 1.13      API Level: -1       Device Model: unknown
+2019-12-04 05:22:40   Debug   user pending mytask tasks screen is loaded at user side     OS Type: Android    App Version: 1.1      API Level: 26       Device Model: generic_x86
+2019-12-04 05:22:40   Info   UserPendingMyTask:getdata() method is used to get pending my tasks at user side     OS Type: Android    App Version: 1.1      API Level: 26       Device Model: generic_x86
+2019-12-04 05:24:21   Info    getRequestedIdeas(role, userToken, cropcode) is used to get all requested projects at admin side     OS Type: iOS    App Version: 1.13      API Level: -1       Device Model: unknown
+2019-12-04 05:24:25   Info   AdminProjectInfo method is used to move requested project to project info screen     OS Type: iOS    App Version: 1.13      API Level: -1       Device Model: unknown
+2019-12-04 05:24:25   Debug   admin project info screen is loaded     OS Type: iOS    App Version: 1.13      API Level: -1       Device Model: unknown
+2019-12-04 05:24:25   Info   AdminProjectInfo:Disabling() method is used to diable accept button based on condition     OS Type: iOS    App Version: 1.13      API Level: -1       Device Model: unknown
+2019-12-04 05:24:28   Info   AdminProjectInfo method is used to move requested project to project info screen     OS Type: iOS    App Version: 1.13      API Level: -1       Device Model: unknown
+2019-12-04 05:24:28   Info   AdminProjectInfo:Disabling() method is used to diable accept button based on condition     OS Type: iOS    App Version: 1.13      API Level: -1       Device Model: unknown
+2019-12-04 05:24:28   Debug   admin project info screen is loaded     OS Type: iOS    App Version: 1.13      API Level: -1       Device Model: unknown
+2019-12-04 05:24:30   Info   AdminProjectInfo method is used to move requested project to project info screen     OS Type: iOS    App Version: 1.13      API Level: -1       Device Model: unknown
+2019-12-04 05:24:30   Info   AdminProjectInfo:Disabling() method is used to diable accept button based on condition     OS Type: iOS    App Version: 1.13      API Level: -1       Device Model: unknown
+2019-12-04 05:24:30   Debug   admin project info screen is loaded     OS Type: iOS    App Version: 1.13      API Level: -1       Device Model: unknown
+2019-12-04 05:24:35   Info   AdminProjectInfo method is used to move requested project to project info screen     OS Type: iOS    App Version: 1.13      API Level: -1       Device Model: unknown
+2019-12-04 05:24:35   Info   AdminProjectInfo:Disabling() method is used to diable accept button based on condition     OS Type: iOS    App Version: 1.13      API Level: -1       Device Model: unknown
+2019-12-04 05:24:35   Debug   admin project info screen is loaded     OS Type: iOS    App Version: 1.13      API Level: -1       Device Model: unknown
+2019-12-04 05:27:44   Debug   getting the CompletedMyTask List     OS Type: Android    App Version: 1.1      API Level: 26       Device Model: generic_x86
+2019-12-04 05:27:45   Info    userCompletedMyTasks(cropcode) is used to get the all the user completed data list     OS Type: Android    App Version: 1.1      API Level: 26       Device Model: generic_x86
+2019-12-04 05:28:04   Info    userCompletedMyTasks(cropcode) is used to get the all the user completed data list     OS Type: Android    App Version: 1.1      API Level: 26       Device Model: generic_x86
+2019-12-04 05:28:04   Debug   Solved Road Blocks loaded     OS Type: Android    App Version: 1.1      API Level: 26       Device Model: generic_x86
+2019-12-04 05:36:50   Debug   user pending mytask tasks screen is loaded at user side     OS Type: Android    App Version: 1.1      API Level: 26       Device Model: generic_x86
+2019-12-04 05:36:51   Info   UserPendingMyTask:getdata() method is used to get pending my tasks at user side     OS Type: Android    App Version: 1.1      API Level: 26       Device Model: generic_x86
+2019-12-04 05:38:02   Debug   user pending mytask tasks screen is loaded at user side     OS Type: Android    App Version: 1.1      API Level: 26       Device Model: generic_x86
+2019-12-04 05:38:03   Info   UserPendingMyTask:getdata() method is used to get pending my tasks at user side     OS Type: Android    App Version: 1.1      API Level: 26       Device Model: generic_x86
+2019-12-04 05:38:13   Debug   getting the CompletedMyTask List     OS Type: Android    App Version: 1.1      API Level: 26       Device Model: generic_x86
+2019-12-04 05:38:13   Info    userCompletedMyTasks(cropcode) is used to get the all the user completed data list     OS Type: Android    App Version: 1.1      API Level: 26       Device Model: generic_x86
+2019-12-04 05:38:18   Debug   Solved Road Blocks loaded     OS Type: Android    App Version: 1.1      API Level: 26       Device Model: generic_x86
+2019-12-04 05:38:18   Info    userCompletedMyTasks(cropcode) is used to get the all the user completed data list     OS Type: Android    App Version: 1.1      API Level: 26       Device Model: generic_x86
+2019-12-04 05:40:07   Info    getdata() is used to get all requested projects at user side     OS Type: Android    App Version: 1.1      API Level: 26       Device Model: generic_x86
+2019-12-04 05:40:07   Debug   user request projects screen is loaded     OS Type: Android    App Version: 1.1      API Level: 26       Device Model: generic_x86
+2019-12-04 05:40:09   Info   UserProjectInfo method is used to move requested project to project info screen     OS Type: Android    App Version: 1.1      API Level: 26       Device Model: generic_x86
+2019-12-04 05:40:09   Debug   user project info screen is loaded     OS Type: Android    App Version: 1.1      API Level: 26       Device Model: generic_x86
+2019-12-04 05:40:09   Info   UserProjectInfo:Disabling() method is used to diable accept button based on condition     OS Type: Android    App Version: 1.1      API Level: 26       Device Model: generic_x86
+2019-12-04 05:40:12   Debug   User Approved projects screen is loaded     OS Type: Android    App Version: 1.1      API Level: 26       Device Model: generic_x86
+2019-12-04 05:40:12   Info   UserApprovedProjects:setRO(userApprovedProjects() method is used to list the user approved projects     OS Type: Android    App Version: 1.1      API Level: 26       Device Model: generic_x86
+2019-12-04 05:40:12   Info   UserApprovedProjects:getResource() method is used to get all employee list     OS Type: Android    App Version: 1.1      API Level: 26       Device Model: generic_x86
+2019-12-04 05:42:42   Info   UserApprovedProjects:setRO(userApprovedProjects() method is used to list the user approved projects     OS Type: Android    App Version: 1.1      API Level: 26       Device Model: generic_x86
+2019-12-04 06:04:12   Info    getEmployeesList(role, userToken, cropcode) Getting Employees List for adding releaseowner     OS Type: Android    App Version: 1.1      API Level: 26       Device Model: generic_x86
+2019-12-04 06:04:12   Debug   Release Owner     OS Type: Android    App Version: 1.1      API Level: 26       Device Model: generic_x86
+2019-12-04 06:04:12   Info   UserApprovedProjects:ReleaseOwner = (item, index) method used to navigate to Release owner screen     OS Type: Android    App Version: 1.1      API Level: 26       Device Model: generic_x86
+2019-12-04 06:04:29   Info    selectRO(role, userToken, cropcode) Adding ReleaseOwner for Project      OS Type: Android    App Version: 1.1      API Level: 26       Device Model: generic_x86
+2019-12-04 06:04:30   Info   modalDidClose is used to move UserManageProjects screen     OS Type: Android    App Version: 1.1      API Level: 26       Device Model: generic_x86
+2019-12-04 06:04:30   Info   UserApprovedProjects:setRO(userApprovedProjects() method is used to list the user approved projects     OS Type: Android    App Version: 1.1      API Level: 26       Device Model: generic_x86
+2019-12-04 06:04:35   Info   UserApprovedProjects:setRO(userApprovedProjects() method is used to list the user approved projects     OS Type: Android    App Version: 1.1      API Level: 26       Device Model: generic_x86
+2019-12-04 06:17:50   Info    getRequestedIdeas(role, userToken, cropcode) is used to get all requested projects at admin side     OS Type: Android    App Version: 1.1      API Level: 28       Device Model: violet
+2019-12-04 06:17:50   Debug   admin request projects screen is loaded     OS Type: Android    App Version: 1.1      API Level: 28       Device Model: violet
+2019-12-04 06:17:52   Info   AdminProjectInfo method is used to move requested project to project info screen     OS Type: Android    App Version: 1.1      API Level: 28       Device Model: violet
+2019-12-04 06:17:52   Info   AdminProjectInfo:Disabling() method is used to diable accept button based on condition     OS Type: Android    App Version: 1.1      API Level: 28       Device Model: violet
+2019-12-04 06:17:52   Debug   admin project info screen is loaded     OS Type: Android    App Version: 1.1      API Level: 28       Device Model: violet
+2019-12-04 06:17:56   Info   AdminPendingManageTasks:adminPendingManageTasks() method is used to get pending manage tasks at admin side     OS Type: Android    App Version: 1.1      API Level: 28       Device Model: violet
+2019-12-04 06:17:56   Info   to get level no     OS Type: Android    App Version: 1.1      API Level: 28       Device Model: violet
+2019-12-04 06:18:06   Info    groupMembersList(role, userToken, cropcode) is used getting task related group members     OS Type: Android    App Version: 1.1      API Level: 28       Device Model: violet
+2019-12-04 06:18:06   Info    getMessages(role, userToken, cropcode) is used getting task related messages     OS Type: Android    App Version: 1.1      API Level: 28       Device Model: violet
+2019-12-04 06:18:06   Info   AdminPendingManageTasks:TaskChat(item, index) used to navigate to taskchat     OS Type: Android    App Version: 1.1      API Level: 28       Device Model: violet
+2019-12-04 06:18:06   Debug   Task Chat screen is loaded     OS Type: Android    App Version: 1.1      API Level: 28       Device Model: violet
+2019-12-04 06:18:15   Info   adminApprovedProjects(role, userToken, cropcode) method is used to get all approved projects list     OS Type: Android    App Version: 1.1      API Level: 28       Device Model: violet
+2019-12-04 06:18:25   Debug   admin request projects screen is loaded     OS Type: Android    App Version: 1.1      API Level: 28       Device Model: violet
+2019-12-04 06:18:25   Info    getRequestedIdeas(role, userToken, cropcode) is used to get all requested projects at admin side     OS Type: Android    App Version: 1.1      API Level: 28       Device Model: violet
+2019-12-04 06:18:34   Info   AdminPendingManageTasks:adminPendingManageTasks() method is used to get pending manage tasks at admin side     OS Type: Android    App Version: 1.1      API Level: 28       Device Model: violet
+2019-12-04 06:18:34   Info   to get level no     OS Type: Android    App Version: 1.1      API Level: 28       Device Model: violet
+2019-12-04 06:19:07   Info   AdminPendingManageTasks:Module()To navigate to viewsubtask     OS Type: Android    App Version: 1.1      API Level: 28       Device Model: violet
+2019-12-04 06:19:07   Info   getSubTasksList(taskId) method is used to Getting the subtasks      OS Type: Android    App Version: 1.1      API Level: 28       Device Model: violet
+2019-12-04 06:19:08   Debug   View SubTask screen is loaded     OS Type: Android    App Version: 1.1      API Level: 28       Device Model: violet
+2019-12-04 06:21:04   Debug    getModules screen is loaded     OS Type: Android    App Version: 1.1      API Level: 26       Device Model: generic_x86
+2019-12-04 06:21:04   Info   UserApprovedProjects:Module() method is used to move module listing screen     OS Type: Android    App Version: 1.1      API Level: 26       Device Model: generic_x86
+2019-12-04 06:21:04   Debug   Add Module screen is loaded     OS Type: Android    App Version: 1.1      API Level: 26       Device Model: generic_x86
+2019-12-04 06:21:06   Info   MainTask() method is used to move Add Module to Add MainTask screen     OS Type: Android    App Version: 1.1      API Level: 26       Device Model: generic_x86
+2019-12-04 06:21:06   Debug   Main Task Screen is loaded     OS Type: Android    App Version: 1.1      API Level: 26       Device Model: generic_x86
+2019-12-04 06:21:06   Info    getModulesList(cropcode) is used to get all module list     OS Type: Android    App Version: 1.1      API Level: 26       Device Model: generic_x86
+2019-12-04 06:23:06   Debug    getModules screen is loaded     OS Type: Android    App Version: 1.1      API Level: 26       Device Model: generic_x86
+2019-12-04 06:23:06   Info   UserApprovedProjects:Module() method is used to move module listing screen     OS Type: Android    App Version: 1.1      API Level: 26       Device Model: generic_x86
+2019-12-04 06:23:07   Debug   Add Module screen is loaded     OS Type: Android    App Version: 1.1      API Level: 26       Device Model: generic_x86
+2019-12-04 06:23:11   Info   MainTask() method is used to move Add Module to Add MainTask screen     OS Type: Android    App Version: 1.1      API Level: 26       Device Model: generic_x86
+2019-12-04 06:23:11   Debug   Main Task Screen is loaded     OS Type: Android    App Version: 1.1      API Level: 26       Device Model: generic_x86
+2019-12-04 06:23:12   Info    getModulesList(cropcode) is used to get all module list     OS Type: Android    App Version: 1.1      API Level: 26       Device Model: generic_x86
+2019-12-04 06:25:01   Debug   user pending mytask tasks screen is loaded at user side     OS Type: Android    App Version: 1.1      API Level: 26       Device Model: generic_x86
+2019-12-04 06:25:01   Info   UserPendingMyTask:getdata() method is used to get pending my tasks at user side     OS Type: Android    App Version: 1.1      API Level: 26       Device Model: generic_x86
+2019-12-04 06:25:10   Info    getdata() is used to get all requested projects at user side     OS Type: Android    App Version: 1.1      API Level: 26       Device Model: generic_x86
+2019-12-04 06:25:10   Debug   user request projects screen is loaded     OS Type: Android    App Version: 1.1      API Level: 26       Device Model: generic_x86
+2019-12-04 06:25:12   Debug   User Approved projects screen is loaded     OS Type: Android    App Version: 1.1      API Level: 26       Device Model: generic_x86
+2019-12-04 06:25:12   Info   UserApprovedProjects:setRO(userApprovedProjects() method is used to list the user approved projects     OS Type: Android    App Version: 1.1      API Level: 26       Device Model: generic_x86
+2019-12-04 06:25:12   Info   UserApprovedProjects:getResource() method is used to get all employee list     OS Type: Android    App Version: 1.1      API Level: 26       Device Model: generic_x86
+2019-12-04 06:25:15   Info   UserApprovedProjects:Module() method is used to move module listing screen     OS Type: Android    App Version: 1.1      API Level: 26       Device Model: generic_x86
+2019-12-04 06:25:15   Debug    getModules screen is loaded     OS Type: Android    App Version: 1.1      API Level: 26       Device Model: generic_x86
+2019-12-04 06:25:16   Debug   Add Module screen is loaded     OS Type: Android    App Version: 1.1      API Level: 26       Device Model: generic_x86
+2019-12-04 06:25:17   Info   MainTask() method is used to move Add Module to Add MainTask screen     OS Type: Android    App Version: 1.1      API Level: 26       Device Model: generic_x86
+2019-12-04 06:25:17   Debug   Main Task Screen is loaded     OS Type: Android    App Version: 1.1      API Level: 26       Device Model: generic_x86
+2019-12-04 06:25:17   Info    getModulesList(cropcode) is used to get all module list     OS Type: Android    App Version: 1.1      API Level: 26       Device Model: generic_x86
+2019-12-04 06:26:28   Debug   user pending mytask tasks screen is loaded at user side     OS Type: Android    App Version: 1.1      API Level: 26       Device Model: generic_x86
+2019-12-04 06:26:28   Info   UserPendingMyTask:getdata() method is used to get pending my tasks at user side     OS Type: Android    App Version: 1.1      API Level: 26       Device Model: generic_x86
+2019-12-04 06:27:07   Debug   user request projects screen is loaded     OS Type: Android    App Version: 1.1      API Level: 26       Device Model: generic_x86
+2019-12-04 06:27:07   Info    getdata() is used to get all requested projects at user side     OS Type: Android    App Version: 1.1      API Level: 26       Device Model: generic_x86
+2019-12-04 06:27:11   Info   UserProjectInfo method is used to move requested project to project info screen     OS Type: Android    App Version: 1.1      API Level: 26       Device Model: generic_x86
+2019-12-04 06:27:11   Debug   user project info screen is loaded     OS Type: Android    App Version: 1.1      API Level: 26       Device Model: generic_x86
+2019-12-04 06:27:11   Info   UserProjectInfo:Disabling() method is used to diable accept button based on condition     OS Type: Android    App Version: 1.1      API Level: 26       Device Model: generic_x86
+2019-12-04 06:27:17   Info   UserApprovedProjects:getResource() method is used to get all employee list     OS Type: Android    App Version: 1.1      API Level: 26       Device Model: generic_x86
+2019-12-04 06:27:17   Info   UserApprovedProjects:setRO(userApprovedProjects() method is used to list the user approved projects     OS Type: Android    App Version: 1.1      API Level: 26       Device Model: generic_x86
+2019-12-04 06:27:17   Debug   User Approved projects screen is loaded     OS Type: Android    App Version: 1.1      API Level: 26       Device Model: generic_x86
+2019-12-04 06:27:20   Info   UserApprovedProjects:Module() method is used to move module listing screen     OS Type: Android    App Version: 1.1      API Level: 26       Device Model: generic_x86
+2019-12-04 06:27:20   Debug    getModules screen is loaded     OS Type: Android    App Version: 1.1      API Level: 26       Device Model: generic_x86
+2019-12-04 06:27:21   Debug   Add Module screen is loaded     OS Type: Android    App Version: 1.1      API Level: 26       Device Model: generic_x86
+2019-12-04 06:27:24   Info   MainTask() method is used to move Add Module to Add MainTask screen     OS Type: Android    App Version: 1.1      API Level: 26       Device Model: generic_x86
+2019-12-04 06:27:24   Debug   Main Task Screen is loaded     OS Type: Android    App Version: 1.1      API Level: 26       Device Model: generic_x86
+2019-12-04 06:27:24   Info    getModulesList(cropcode) is used to get all module list     OS Type: Android    App Version: 1.1      API Level: 26       Device Model: generic_x86
+2019-12-04 06:27:34   Info   userPendingManageTasks:DeleteMaintask(maintaskid) method is used to delete maintask     OS Type: Android    App Version: 1.1      API Level: 26       Device Model: generic_x86
+2019-12-04 06:27:34   Debug   user pending manage tasks screen is loaded     OS Type: Android    App Version: 1.1      API Level: 26       Device Model: generic_x86
+2019-12-04 06:27:34   Info   userPendingManageTasks:DeleteMaintask(maintaskid) method is used to delete maintask     OS Type: Android    App Version: 1.1      API Level: 26       Device Model: generic_x86
+2019-12-04 06:27:34   Info   to get level no     OS Type: Android    App Version: 1.1      API Level: 26       Device Model: generic_x86
+2019-12-04 06:27:34   Info   to get level no     OS Type: Android    App Version: 1.1      API Level: 26       Device Model: generic_x86
+2019-12-04 06:27:35   Info   no pending manage tasks at user side     OS Type: Android    App Version: 1.1      API Level: 26       Device Model: generic_x86
+2019-12-04 06:27:39   Debug   user completed manage tasks screen is loaded     OS Type: Android    App Version: 1.1      API Level: 26       Device Model: generic_x86
+2019-12-04 06:27:39   Info   to get level no     OS Type: Android    App Version: 1.1      API Level: 26       Device Model: generic_x86
+2019-12-04 06:27:39   Info   UserCompletedManageTasks:manageTasksCompleted() method is used to get completed manage tasks at admin side     OS Type: Android    App Version: 1.1      API Level: 26       Device Model: generic_x86
+2019-12-04 06:27:40   Info   no completed manage tasks at user side     OS Type: Android    App Version: 1.1      API Level: 26       Device Model: generic_x86
+2019-12-04 06:27:40   Info   no completed manage tasks at user side     OS Type: Android    App Version: 1.1      API Level: 26       Device Model: generic_x86
+2019-12-04 06:28:07   Debug   Login Screen is Loaded     OS Type: Android    App Version: 1.1      API Level: 26       Device Model: generic_x86
+2019-12-04 06:28:26   Info   onSignIn() is used for login purpose and based on usertype data is authorizised     OS Type: Android    App Version: 1.1      API Level: 26       Device Model: generic_x86
+2019-12-04 06:28:27   Debug   user pending mytask tasks screen is loaded at user side     OS Type: Android    App Version: 1.1      API Level: 26       Device Model: generic_x86
+2019-12-04 06:28:27   Info   UserPendingMyTask:getdata() method is used to get pending my tasks at user side     OS Type: Android    App Version: 1.1      API Level: 26       Device Model: generic_x86
+2019-12-04 06:28:28   Info   no pending my tasks at user side     OS Type: Android    App Version: 1.1      API Level: 26       Device Model: generic_x86
+2019-12-04 06:28:46   Debug   user pending manage tasks screen is loaded     OS Type: Android    App Version: 1.1      API Level: 26       Device Model: generic_x86
+2019-12-04 06:28:46   Info   to get level no     OS Type: Android    App Version: 1.1      API Level: 26       Device Model: generic_x86
+2019-12-04 06:28:46   Info   userPendingManageTasks:DeleteMaintask(maintaskid) method is used to delete maintask     OS Type: Android    App Version: 1.1      API Level: 26       Device Model: generic_x86
+2019-12-04 06:28:46   Info   to get level no     OS Type: Android    App Version: 1.1      API Level: 26       Device Model: generic_x86
+2019-12-04 06:28:46   Info   userPendingManageTasks:DeleteMaintask(maintaskid) method is used to delete maintask     OS Type: Android    App Version: 1.1      API Level: 26       Device Model: generic_x86
+2019-12-04 06:28:54   Info   no pending manage tasks at user side     OS Type: Android    App Version: 1.1      API Level: 26       Device Model: generic_x86
+2019-12-04 06:28:54   Info   no pending manage tasks at user side     OS Type: Android    App Version: 1.1      API Level: 26       Device Model: generic_x86
+2019-12-04 06:28:54   Info   no pending manage tasks at user side     OS Type: Android    App Version: 1.1      API Level: 26       Device Model: generic_x86
+2019-12-04 06:28:54   Info   no pending manage tasks at user side     OS Type: Android    App Version: 1.1      API Level: 26       Device Model: generic_x86
+2019-12-04 06:28:54   Info   no pending manage tasks at user side     OS Type: Android    App Version: 1.1      API Level: 26       Device Model: generic_x86
+2019-12-04 06:28:54   Info   no pending manage tasks at user side     OS Type: Android    App Version: 1.1      API Level: 26       Device Model: generic_x86
+2019-12-04 06:28:54   Info   no pending manage tasks at user side     OS Type: Android    App Version: 1.1      API Level: 26       Device Model: generic_x86
+2019-12-04 06:28:54   Info   no pending manage tasks at user side     OS Type: Android    App Version: 1.1      API Level: 26       Device Model: generic_x86
+2019-12-04 06:28:54   Info   no pending manage tasks at user side     OS Type: Android    App Version: 1.1      API Level: 26       Device Model: generic_x86
+2019-12-04 06:28:54   Info   no pending manage tasks at user side     OS Type: Android    App Version: 1.1      API Level: 26       Device Model: generic_x86
+2019-12-04 06:28:54   Info   no pending manage tasks at user side     OS Type: Android    App Version: 1.1      API Level: 26       Device Model: generic_x86
+2019-12-04 06:28:54   Info   no pending manage tasks at user side     OS Type: Android    App Version: 1.1      API Level: 26       Device Model: generic_x86
+2019-12-04 06:28:58   Info   getSubTasksList(taskId) method is used to Getting the subtasks      OS Type: Android    App Version: 1.1      API Level: 26       Device Model: generic_x86
+2019-12-04 06:28:59   Debug   View SubTask screen is loaded     OS Type: Android    App Version: 1.1      API Level: 26       Device Model: generic_x86
+2019-12-04 06:29:09   Info   UsrePendingManageTasks:ModifyMaintask(item, index) used to navigate to modify maintask screen     OS Type: Android    App Version: 1.1      API Level: 26       Device Model: generic_x86
+2019-12-04 06:29:09   Info    getEmployees(cropcode) is used for getting the Employees list for addind maintask     OS Type: Android    App Version: 1.1      API Level: 26       Device Model: generic_x86
+2019-12-04 06:29:09   Debug   Add Task screen is loaded     OS Type: Android    App Version: 1.1      API Level: 26       Device Model: generic_x86
+2019-12-04 06:29:16   Info   UserCompletedManageTasks:manageTasksCompleted() method is used to get completed manage tasks at admin side     OS Type: Android    App Version: 1.1      API Level: 26       Device Model: generic_x86
+2019-12-04 06:29:16   Info   to get level no     OS Type: Android    App Version: 1.1      API Level: 26       Device Model: generic_x86
+2019-12-04 06:29:16   Debug   user completed manage tasks screen is loaded     OS Type: Android    App Version: 1.1      API Level: 26       Device Model: generic_x86
+2019-12-04 06:29:17   Info   no completed manage tasks at user side     OS Type: Android    App Version: 1.1      API Level: 26       Device Model: generic_x86
+2019-12-04 06:29:17   Info   no completed manage tasks at user side     OS Type: Android    App Version: 1.1      API Level: 26       Device Model: generic_x86
+2019-12-04 06:29:17   Info   no completed manage tasks at user side     OS Type: Android    App Version: 1.1      API Level: 26       Device Model: generic_x86
+2019-12-04 06:29:17   Info   no completed manage tasks at user side     OS Type: Android    App Version: 1.1      API Level: 26       Device Model: generic_x86
+2019-12-04 06:29:18   Info   no completed manage tasks at user side     OS Type: Android    App Version: 1.1      API Level: 26       Device Model: generic_x86
+2019-12-04 06:29:18   Info   no completed manage tasks at user side     OS Type: Android    App Version: 1.1      API Level: 26       Device Model: generic_x86
+2019-12-04 06:29:36   Debug   user request projects screen is loaded     OS Type: Android    App Version: 1.1      API Level: 26       Device Model: generic_x86
+2019-12-04 06:29:36   Info    getdata() is used to get all requested projects at user side     OS Type: Android    App Version: 1.1      API Level: 26       Device Model: generic_x86
+2019-12-04 06:29:38   Info   UserProjectInfo method is used to move requested project to project info screen     OS Type: Android    App Version: 1.1      API Level: 26       Device Model: generic_x86
+2019-12-04 06:29:38   Debug   user project info screen is loaded     OS Type: Android    App Version: 1.1      API Level: 26       Device Model: generic_x86
+2019-12-04 06:29:38   Info   UserProjectInfo:Disabling() method is used to diable accept button based on condition     OS Type: Android    App Version: 1.1      API Level: 26       Device Model: generic_x86
+2019-12-04 06:29:42   Debug   User Approved projects screen is loaded     OS Type: Android    App Version: 1.1      API Level: 26       Device Model: generic_x86
+2019-12-04 06:29:42   Info   UserApprovedProjects:getResource() method is used to get all employee list     OS Type: Android    App Version: 1.1      API Level: 26       Device Model: generic_x86
+2019-12-04 06:29:42   Info   UserApprovedProjects:setRO(userApprovedProjects() method is used to list the user approved projects     OS Type: Android    App Version: 1.1      API Level: 26       Device Model: generic_x86
+2019-12-04 06:29:46   Info   UserApprovedProjects:Module() method is used to move module listing screen     OS Type: Android    App Version: 1.1      API Level: 26       Device Model: generic_x86
+2019-12-04 06:29:46   Debug    getModules screen is loaded     OS Type: Android    App Version: 1.1      API Level: 26       Device Model: generic_x86
+2019-12-04 06:29:54   Debug    getModules screen is loaded     OS Type: Android    App Version: 1.1      API Level: 26       Device Model: generic_x86
+2019-12-04 06:29:54   Info   UserApprovedProjects:Module() method is used to move module listing screen     OS Type: Android    App Version: 1.1      API Level: 26       Device Model: generic_x86
+2019-12-04 06:30:03   Debug    getModules screen is loaded     OS Type: Android    App Version: 1.1      API Level: 26       Device Model: generic_x86
+2019-12-04 06:30:03   Info   UserApprovedProjects:Module() method is used to move module listing screen     OS Type: Android    App Version: 1.1      API Level: 26       Device Model: generic_x86
+2019-12-04 06:30:11   Info   UserApprovedProjects:Module() method is used to move module listing screen     OS Type: Android    App Version: 1.1      API Level: 26       Device Model: generic_x86
+2019-12-04 06:30:11   Debug    getModules screen is loaded     OS Type: Android    App Version: 1.1      API Level: 26       Device Model: generic_x86
+2019-12-04 06:30:17   Info   UserApprovedProjects:Module() method is used to move module listing screen     OS Type: Android    App Version: 1.1      API Level: 26       Device Model: generic_x86
+2019-12-04 06:30:17   Debug    getModules screen is loaded     OS Type: Android    App Version: 1.1      API Level: 26       Device Model: generic_x86
+2019-12-04 06:30:18   Debug   Add Module screen is loaded     OS Type: Android    App Version: 1.1      API Level: 26       Device Model: generic_x86
+2019-12-04 06:30:23   Info   UserApprovedProjects:Module() method is used to move module listing screen     OS Type: Android    App Version: 1.1      API Level: 26       Device Model: generic_x86
+2019-12-04 06:30:23   Debug    getModules screen is loaded     OS Type: Android    App Version: 1.1      API Level: 26       Device Model: generic_x86
+2019-12-04 06:30:24   Info   UserApprovedProjects:Module() method is used to move module listing screen     OS Type: Android    App Version: 1.1      API Level: 26       Device Model: generic_x86
+2019-12-04 06:30:24   Debug   Add Module screen is loaded     OS Type: Android    App Version: 1.1      API Level: 26       Device Model: generic_x86
+2019-12-04 06:30:26   Debug   Main Task Screen is loaded     OS Type: Android    App Version: 1.1      API Level: 26       Device Model: generic_x86
+2019-12-04 06:30:26   Info   MainTask() method is used to move Add Module to Add MainTask screen     OS Type: Android    App Version: 1.1      API Level: 26       Device Model: generic_x86
+2019-12-04 06:30:26   Info    getModulesList(cropcode) is used to get all module list     OS Type: Android    App Version: 1.1      API Level: 26       Device Model: generic_x86
+2019-12-04 06:31:10   Debug   Login Screen is Loaded     OS Type: Android    App Version: 1.1      API Level: 26       Device Model: generic_x86
+2019-12-04 06:31:38   Info   onSignIn() is used for login purpose and based on usertype data is authorizised     OS Type: Android    App Version: 1.1      API Level: 26       Device Model: generic_x86
+2019-12-04 06:31:39   Debug   admin request projects screen is loaded     OS Type: Android    App Version: 1.1      API Level: 26       Device Model: generic_x86
+2019-12-04 06:31:39   Info    getRequestedIdeas(role, userToken, cropcode) is used to get all requested projects at admin side     OS Type: Android    App Version: 1.1      API Level: 26       Device Model: generic_x86
+2019-12-04 06:31:44   Info   AdminProjectInfo method is used to move requested project to project info screen     OS Type: Android    App Version: 1.1      API Level: 26       Device Model: generic_x86
+2019-12-04 06:31:44   Info   AdminProjectInfo:Disabling() method is used to diable accept button based on condition     OS Type: Android    App Version: 1.1      API Level: 26       Device Model: generic_x86
+2019-12-04 06:31:44   Debug   admin project info screen is loaded     OS Type: Android    App Version: 1.1      API Level: 26       Device Model: generic_x86
+2019-12-04 06:31:51   Info   AdminPendingManageTasks:adminPendingManageTasks() method is used to get pending manage tasks at admin side     OS Type: Android    App Version: 1.1      API Level: 26       Device Model: generic_x86
+2019-12-04 06:31:51   Info   to get level no     OS Type: Android    App Version: 1.1      API Level: 26       Device Model: generic_x86
+2019-12-04 06:35:57   Debug   admin request projects screen is loaded     OS Type: Android    App Version: 1.1      API Level: 26       Device Model: generic_x86
+2019-12-04 06:35:57   Info    getRequestedIdeas(role, userToken, cropcode) is used to get all requested projects at admin side     OS Type: Android    App Version: 1.1      API Level: 26       Device Model: generic_x86
+2019-12-04 06:36:04   Info   AdminPendingManageTasks:adminPendingManageTasks() method is used to get pending manage tasks at admin side     OS Type: Android    App Version: 1.1      API Level: 26       Device Model: generic_x86
+2019-12-04 06:36:04   Info   to get level no     OS Type: Android    App Version: 1.1      API Level: 26       Device Model: generic_x86
+2019-12-04 06:37:53   Debug   admin request projects screen is loaded     OS Type: Android    App Version: 1.1      API Level: 26       Device Model: generic_x86
+2019-12-04 06:37:53   Info    getRequestedIdeas(role, userToken, cropcode) is used to get all requested projects at admin side     OS Type: Android    App Version: 1.1      API Level: 26       Device Model: generic_x86
+2019-12-04 06:38:03   Info   AdminPendingManageTasks:adminPendingManageTasks() method is used to get pending manage tasks at admin side     OS Type: Android    App Version: 1.1      API Level: 26       Device Model: generic_x86
+2019-12-04 06:38:03   Info   to get level no     OS Type: Android    App Version: 1.1      API Level: 26       Device Model: generic_x86
+2019-12-04 06:38:22   Info   to get level no     OS Type: Android    App Version: 1.1      API Level: 26       Device Model: generic_x86
+2019-12-04 06:38:22   Debug   Admin completed manage tasks screen is loaded     OS Type: Android    App Version: 1.1      API Level: 26       Device Model: generic_x86
+2019-12-04 06:38:22   Info   AdminCompletedManageTasks:manageTasksCompleted() method is used to get completed manage tasks at admin side     OS Type: Android    App Version: 1.1      API Level: 26       Device Model: generic_x86
+2019-12-04 06:38:26   Info   No completed manage tasks at admin side     OS Type: Android    App Version: 1.1      API Level: 26       Device Model: generic_x86
+2019-12-04 06:38:26   Info   No completed manage tasks at admin side     OS Type: Android    App Version: 1.1      API Level: 26       Device Model: generic_x86
+2019-12-04 06:38:26   Info   No completed manage tasks at admin side     OS Type: Android    App Version: 1.1      API Level: 26       Device Model: generic_x86
+2019-12-04 06:38:26   Info   No completed manage tasks at admin side     OS Type: Android    App Version: 1.1      API Level: 26       Device Model: generic_x86
+2019-12-04 06:38:26   Info   No completed manage tasks at admin side     OS Type: Android    App Version: 1.1      API Level: 26       Device Model: generic_x86
+2019-12-04 06:38:26   Info   No completed manage tasks at admin side     OS Type: Android    App Version: 1.1      API Level: 26       Device Model: generic_x86
+2019-12-04 06:39:25   Debug   admin request projects screen is loaded     OS Type: Android    App Version: 1.1      API Level: 26       Device Model: generic_x86
+2019-12-04 06:39:26   Info    getRequestedIdeas(role, userToken, cropcode) is used to get all requested projects at admin side     OS Type: Android    App Version: 1.1      API Level: 26       Device Model: generic_x86
+2019-12-04 06:39:36   Info   AdminPendingManageTasks:adminPendingManageTasks() method is used to get pending manage tasks at admin side     OS Type: Android    App Version: 1.1      API Level: 26       Device Model: generic_x86
+2019-12-04 06:39:36   Info   to get level no     OS Type: Android    App Version: 1.1      API Level: 26       Device Model: generic_x86
+2019-12-04 06:40:50   Debug   admin request projects screen is loaded     OS Type: Android    App Version: 1.1      API Level: 26       Device Model: generic_x86
+2019-12-04 06:40:51   Info    getRequestedIdeas(role, userToken, cropcode) is used to get all requested projects at admin side     OS Type: Android    App Version: 1.1      API Level: 26       Device Model: generic_x86
+2019-12-04 06:41:14   Info   AdminPendingManageTasks:adminPendingManageTasks() method is used to get pending manage tasks at admin side     OS Type: Android    App Version: 1.1      API Level: 26       Device Model: generic_x86
+2019-12-04 06:41:14   Info   to get level no     OS Type: Android    App Version: 1.1      API Level: 26       Device Model: generic_x86
+2019-12-04 06:43:37   Debug   admin request projects screen is loaded     OS Type: Android    App Version: 1.1      API Level: 26       Device Model: generic_x86
+2019-12-04 06:43:38   Info    getRequestedIdeas(role, userToken, cropcode) is used to get all requested projects at admin side     OS Type: Android    App Version: 1.1      API Level: 26       Device Model: generic_x86
+2019-12-04 06:43:46   Info   AdminPendingManageTasks:adminPendingManageTasks() method is used to get pending manage tasks at admin side     OS Type: Android    App Version: 1.1      API Level: 26       Device Model: generic_x86
+2019-12-04 06:43:46   Info   to get level no     OS Type: Android    App Version: 1.1      API Level: 26       Device Model: generic_x86
+2019-12-04 06:43:56   Info   AdminCompletedManageTasks:manageTasksCompleted() method is used to get completed manage tasks at admin side     OS Type: Android    App Version: 1.1      API Level: 26       Device Model: generic_x86
+2019-12-04 06:43:56   Debug   Admin completed manage tasks screen is loaded     OS Type: Android    App Version: 1.1      API Level: 26       Device Model: generic_x86
+2019-12-04 06:43:56   Info   to get level no     OS Type: Android    App Version: 1.1      API Level: 26       Device Model: generic_x86
+2019-12-04 06:44:00   Info   No completed manage tasks at admin side     OS Type: Android    App Version: 1.1      API Level: 26       Device Model: generic_x86
+2019-12-04 06:44:00   Info   No completed manage tasks at admin side     OS Type: Android    App Version: 1.1      API Level: 26       Device Model: generic_x86
+2019-12-04 06:44:00   Info   No completed manage tasks at admin side     OS Type: Android    App Version: 1.1      API Level: 26       Device Model: generic_x86
+2019-12-04 06:44:00   Info   No completed manage tasks at admin side     OS Type: Android    App Version: 1.1      API Level: 26       Device Model: generic_x86
+2019-12-04 06:44:01   Info   No completed manage tasks at admin side     OS Type: Android    App Version: 1.1      API Level: 26       Device Model: generic_x86
+2019-12-04 06:44:01   Info   No completed manage tasks at admin side     OS Type: Android    App Version: 1.1      API Level: 26       Device Model: generic_x86
+2019-12-04 06:45:04   Debug   admin request projects screen is loaded     OS Type: Android    App Version: 1.1      API Level: 26       Device Model: generic_x86
+2019-12-04 06:45:04   Info    getRequestedIdeas(role, userToken, cropcode) is used to get all requested projects at admin side     OS Type: Android    App Version: 1.1      API Level: 26       Device Model: generic_x86
+2019-12-04 06:45:10   Info   adminApprovedProjects(role, userToken, cropcode) method is used to get all approved projects list     OS Type: Android    App Version: 1.1      API Level: 26       Device Model: generic_x86
+2019-12-04 06:45:15   Info   Module() method is used to move module listing screen     OS Type: Android    App Version: 1.1      API Level: 26       Device Model: generic_x86
+2019-12-04 06:45:15   Debug    getModules screen is loaded     OS Type: Android    App Version: 1.1      API Level: 26       Device Model: generic_x86
+2019-12-04 06:45:27   Info   AdminPendingManageTasks:adminPendingManageTasks() method is used to get pending manage tasks at admin side     OS Type: Android    App Version: 1.1      API Level: 26       Device Model: generic_x86
+2019-12-04 06:45:27   Info   to get level no     OS Type: Android    App Version: 1.1      API Level: 26       Device Model: generic_x86
+2019-12-04 06:45:37   Info   AdminCompletedManageTasks:manageTasksCompleted() method is used to get completed manage tasks at admin side     OS Type: Android    App Version: 1.1      API Level: 26       Device Model: generic_x86
+2019-12-04 06:45:37   Info   to get level no     OS Type: Android    App Version: 1.1      API Level: 26       Device Model: generic_x86
+2019-12-04 06:45:37   Debug   Admin completed manage tasks screen is loaded     OS Type: Android    App Version: 1.1      API Level: 26       Device Model: generic_x86
+2019-12-04 06:45:43   Info   No completed manage tasks at admin side     OS Type: Android    App Version: 1.1      API Level: 26       Device Model: generic_x86
+2019-12-04 06:45:43   Info   No completed manage tasks at admin side     OS Type: Android    App Version: 1.1      API Level: 26       Device Model: generic_x86
+2019-12-04 06:45:43   Info   No completed manage tasks at admin side     OS Type: Android    App Version: 1.1      API Level: 26       Device Model: generic_x86
+2019-12-04 06:45:43   Info   No completed manage tasks at admin side     OS Type: Android    App Version: 1.1      API Level: 26       Device Model: generic_x86
+2019-12-04 06:45:43   Info   No completed manage tasks at admin side     OS Type: Android    App Version: 1.1      API Level: 26       Device Model: generic_x86
+2019-12-04 06:45:43   Info   No completed manage tasks at admin side     OS Type: Android    App Version: 1.1      API Level: 26       Device Model: generic_x86
+2019-12-04 06:46:34   Debug   admin request projects screen is loaded     OS Type: Android    App Version: 1.1      API Level: 26       Device Model: generic_x86
+2019-12-04 06:46:35   Info    getRequestedIdeas(role, userToken, cropcode) is used to get all requested projects at admin side     OS Type: Android    App Version: 1.1      API Level: 26       Device Model: generic_x86
+2019-12-04 06:46:58   Info   AdminPendingManageTasks:adminPendingManageTasks() method is used to get pending manage tasks at admin side     OS Type: Android    App Version: 1.1      API Level: 26       Device Model: generic_x86
+2019-12-04 06:46:58   Info   to get level no     OS Type: Android    App Version: 1.1      API Level: 26       Device Model: generic_x86
+2019-12-04 06:47:08   Info   AdminCompletedManageTasks:manageTasksCompleted() method is used to get completed manage tasks at admin side     OS Type: Android    App Version: 1.1      API Level: 26       Device Model: generic_x86
+2019-12-04 06:47:08   Debug   Admin completed manage tasks screen is loaded     OS Type: Android    App Version: 1.1      API Level: 26       Device Model: generic_x86
+2019-12-04 06:47:08   Info   to get level no     OS Type: Android    App Version: 1.1      API Level: 26       Device Model: generic_x86
+2019-12-04 06:47:14   Info   No completed manage tasks at admin side     OS Type: Android    App Version: 1.1      API Level: 26       Device Model: generic_x86
+2019-12-04 06:47:14   Info   No completed manage tasks at admin side     OS Type: Android    App Version: 1.1      API Level: 26       Device Model: generic_x86
+2019-12-04 06:47:14   Info   No completed manage tasks at admin side     OS Type: Android    App Version: 1.1      API Level: 26       Device Model: generic_x86
+2019-12-04 06:47:14   Info   No completed manage tasks at admin side     OS Type: Android    App Version: 1.1      API Level: 26       Device Model: generic_x86
+2019-12-04 06:47:14   Info   No completed manage tasks at admin side     OS Type: Android    App Version: 1.1      API Level: 26       Device Model: generic_x86
+2019-12-04 06:47:14   Info   No completed manage tasks at admin side     OS Type: Android    App Version: 1.1      API Level: 26       Device Model: generic_x86
+2019-12-04 06:48:12   Debug   admin request projects screen is loaded     OS Type: Android    App Version: 1.1      API Level: 26       Device Model: generic_x86
+2019-12-04 06:48:12   Info    getRequestedIdeas(role, userToken, cropcode) is used to get all requested projects at admin side     OS Type: Android    App Version: 1.1      API Level: 26       Device Model: generic_x86
+2019-12-04 06:48:44   Info   AdminPendingManageTasks:adminPendingManageTasks() method is used to get pending manage tasks at admin side     OS Type: Android    App Version: 1.1      API Level: 26       Device Model: generic_x86
+2019-12-04 06:48:44   Info   to get level no     OS Type: Android    App Version: 1.1      API Level: 26       Device Model: generic_x86
+2019-12-04 06:48:54   Info   AdminCompletedManageTasks:manageTasksCompleted() method is used to get completed manage tasks at admin side     OS Type: Android    App Version: 1.1      API Level: 26       Device Model: generic_x86
+2019-12-04 06:48:54   Info   to get level no     OS Type: Android    App Version: 1.1      API Level: 26       Device Model: generic_x86
+2019-12-04 06:48:54   Debug   Admin completed manage tasks screen is loaded     OS Type: Android    App Version: 1.1      API Level: 26       Device Model: generic_x86
+2019-12-04 06:49:00   Info   No completed manage tasks at admin side     OS Type: Android    App Version: 1.1      API Level: 26       Device Model: generic_x86
+2019-12-04 06:49:00   Info   No completed manage tasks at admin side     OS Type: Android    App Version: 1.1      API Level: 26       Device Model: generic_x86
+2019-12-04 06:49:00   Info   No completed manage tasks at admin side     OS Type: Android    App Version: 1.1      API Level: 26       Device Model: generic_x86
+2019-12-04 06:49:00   Info   No completed manage tasks at admin side     OS Type: Android    App Version: 1.1      API Level: 26       Device Model: generic_x86
+2019-12-04 06:49:00   Info   No completed manage tasks at admin side     OS Type: Android    App Version: 1.1      API Level: 26       Device Model: generic_x86
+2019-12-04 06:49:00   Info   No completed manage tasks at admin side     OS Type: Android    App Version: 1.1      API Level: 26       Device Model: generic_x86
+2019-12-04 06:49:46   Debug   admin request projects screen is loaded     OS Type: Android    App Version: 1.1      API Level: 26       Device Model: generic_x86
+2019-12-04 06:49:46   Info    getRequestedIdeas(role, userToken, cropcode) is used to get all requested projects at admin side     OS Type: Android    App Version: 1.1      API Level: 26       Device Model: generic_x86
+2019-12-04 06:49:58   Info   to get level no     OS Type: Android    App Version: 1.1      API Level: 26       Device Model: generic_x86
+2019-12-04 06:49:58   Info   AdminPendingManageTasks:adminPendingManageTasks() method is used to get pending manage tasks at admin side     OS Type: Android    App Version: 1.1      API Level: 26       Device Model: generic_x86
+2019-12-04 06:50:14   Debug   Admin completed manage tasks screen is loaded     OS Type: Android    App Version: 1.1      API Level: 26       Device Model: generic_x86
+2019-12-04 06:50:14   Info   to get level no     OS Type: Android    App Version: 1.1      API Level: 26       Device Model: generic_x86
+2019-12-04 06:50:14   Info   AdminCompletedManageTasks:manageTasksCompleted() method is used to get completed manage tasks at admin side     OS Type: Android    App Version: 1.1      API Level: 26       Device Model: generic_x86
+2019-12-04 06:50:18   Info   No completed manage tasks at admin side     OS Type: Android    App Version: 1.1      API Level: 26       Device Model: generic_x86
+2019-12-04 06:50:18   Info   No completed manage tasks at admin side     OS Type: Android    App Version: 1.1      API Level: 26       Device Model: generic_x86
+2019-12-04 06:50:18   Info   No completed manage tasks at admin side     OS Type: Android    App Version: 1.1      API Level: 26       Device Model: generic_x86
+2019-12-04 06:50:18   Info   No completed manage tasks at admin side     OS Type: Android    App Version: 1.1      API Level: 26       Device Model: generic_x86
+2019-12-04 06:50:18   Info   No completed manage tasks at admin side     OS Type: Android    App Version: 1.1      API Level: 26       Device Model: generic_x86
+2019-12-04 06:50:18   Info   No completed manage tasks at admin side     OS Type: Android    App Version: 1.1      API Level: 26       Device Model: generic_x86
+2019-12-04 07:34:41   Debug   admin request projects screen is loaded     OS Type: Android    App Version: 1.1      API Level: 26       Device Model: generic_x86
+2019-12-04 07:34:42   Info    getRequestedIdeas(role, userToken, cropcode) is used to get all requested projects at admin side     OS Type: Android    App Version: 1.1      API Level: 26       Device Model: generic_x86
+2019-12-04 07:50:07   Info   adminApprovedProjects(role, userToken, cropcode) method is used to get all approved projects list     OS Type: Android    App Version: 1.1      API Level: 26       Device Model: generic_x86
+2019-12-04 07:50:10   Info   Module() method is used to move module listing screen     OS Type: Android    App Version: 1.1      API Level: 26       Device Model: generic_x86
+2019-12-04 07:50:10   Debug    getModules screen is loaded     OS Type: Android    App Version: 1.1      API Level: 26       Device Model: generic_x86
+2019-12-04 09:34:33   Debug   admin request projects screen is loaded     OS Type: Android    App Version: 1.1      API Level: 26       Device Model: generic_x86
+2019-12-04 09:34:34   Info    getRequestedIdeas(role, userToken, cropcode) is used to get all requested projects at admin side     OS Type: Android    App Version: 1.1      API Level: 26       Device Model: generic_x86
+2019-12-04 09:36:22   Debug   Admin completed projects screen is loaded     OS Type: Android    App Version: 1.1      API Level: 26       Device Model: generic_x86
+2019-12-04 09:36:22   Info   AdminCompletedProjects:adminCompletedProjects(role, userToken, cropcode) method used to get all completed projects at admin side     OS Type: Android    App Version: 1.1      API Level: 26       Device Model: generic_x86
+2019-12-04 10:20:38   Debug   user pending mytask tasks screen is loaded at user side     OS Type: iOS    App Version: 1.13      API Level: -1       Device Model: unknown
+2019-12-04 10:20:38   Info   UserPendingMyTask:getdata() method is used to get pending my tasks at user side     OS Type: iOS    App Version: 1.13      API Level: -1       Device Model: unknown
+2019-12-04 10:20:38   Info   no pending my tasks at user side     OS Type: iOS    App Version: 1.13      API Level: -1       Device Model: unknown
+2019-12-04 10:20:41   Debug   user request projects screen is loaded     OS Type: iOS    App Version: 1.13      API Level: -1       Device Model: unknown
+2019-12-04 10:20:41   Info    getdata() is used to get all requested projects at user side     OS Type: iOS    App Version: 1.13      API Level: -1       Device Model: unknown
+2019-12-04 10:20:43   Info   UserApprovedProjects:setRO(userApprovedProjects() method is used to list the user approved projects     OS Type: iOS    App Version: 1.13      API Level: -1       Device Model: unknown
+2019-12-04 10:20:43   Debug   User Approved projects screen is loaded     OS Type: iOS    App Version: 1.13      API Level: -1       Device Model: unknown
+2019-12-04 10:20:43   Info   UserApprovedProjects:getResource() method is used to get all employee list     OS Type: iOS    App Version: 1.13      API Level: -1       Device Model: unknown
+2019-12-04 10:20:45   Info   UserApprovedProjects:Module() method is used to move module listing screen     OS Type: iOS    App Version: 1.13      API Level: -1       Device Model: unknown
+2019-12-04 10:20:46   Debug    getModules screen is loaded     OS Type: iOS    App Version: 1.13      API Level: -1       Device Model: unknown
+2019-12-04 10:20:50   Debug    getModules screen is loaded     OS Type: iOS    App Version: 1.13      API Level: -1       Device Model: unknown
+2019-12-04 10:20:50   Info   UserApprovedProjects:Module() method is used to move module listing screen     OS Type: iOS    App Version: 1.13      API Level: -1       Device Model: unknown
+2019-12-04 10:20:54   Info   UserApprovedProjects:Module() method is used to move module listing screen     OS Type: iOS    App Version: 1.13      API Level: -1       Device Model: unknown
+2019-12-04 10:20:54   Debug    getModules screen is loaded     OS Type: iOS    App Version: 1.13      API Level: -1       Device Model: unknown
+2019-12-04 10:20:54   Debug   Add Module screen is loaded     OS Type: iOS    App Version: 1.13      API Level: -1       Device Model: unknown
+2019-12-04 10:21:40   Info   UserApprovedProjects:Module() method is used to move module listing screen     OS Type: iOS    App Version: 1.13      API Level: -1       Device Model: unknown
+2019-12-04 10:21:40   Debug    getModules screen is loaded     OS Type: iOS    App Version: 1.13      API Level: -1       Device Model: unknown
+2019-12-04 10:21:45   Info   UserApprovedProjects:Module() method is used to move module listing screen     OS Type: iOS    App Version: 1.13      API Level: -1       Device Model: unknown
+2019-12-04 10:21:45   Debug    getModules screen is loaded     OS Type: iOS    App Version: 1.13      API Level: -1       Device Model: unknown
+2019-12-04 10:21:50   Info   UserApprovedProjects:Module() method is used to move module listing screen     OS Type: iOS    App Version: 1.13      API Level: -1       Device Model: unknown
+2019-12-04 10:21:50   Debug    getModules screen is loaded     OS Type: iOS    App Version: 1.13      API Level: -1       Device Model: unknown
+2019-12-04 10:21:50   Debug   Add Module screen is loaded     OS Type: iOS    App Version: 1.13      API Level: -1       Device Model: unknown
+2019-12-04 10:21:52   Info   MainTask() method is used to move Add Module to Add MainTask screen     OS Type: iOS    App Version: 1.13      API Level: -1       Device Model: unknown
+2019-12-04 10:21:52   Debug   Main Task Screen is loaded     OS Type: iOS    App Version: 1.13      API Level: -1       Device Model: unknown
+2019-12-04 10:21:52   Info    getModulesList(cropcode) is used to get all module list     OS Type: iOS    App Version: 1.13      API Level: -1       Device Model: unknown
+2019-12-04 10:22:04   Debug    getModules screen is loaded     OS Type: iOS    App Version: 1.13      API Level: -1       Device Model: unknown
+2019-12-04 10:22:04   Info   UserApprovedProjects:Module() method is used to move module listing screen     OS Type: iOS    App Version: 1.13      API Level: -1       Device Model: unknown
+2019-12-04 10:22:05   Debug   Add Module screen is loaded     OS Type: iOS    App Version: 1.13      API Level: -1       Device Model: unknown
+2019-12-04 10:22:06   Info   MainTask() method is used to move Add Module to Add MainTask screen     OS Type: iOS    App Version: 1.13      API Level: -1       Device Model: unknown
+2019-12-04 10:22:06   Debug   Main Task Screen is loaded     OS Type: iOS    App Version: 1.13      API Level: -1       Device Model: unknown
+2019-12-04 10:22:06   Info    getModulesList(cropcode) is used to get all module list     OS Type: iOS    App Version: 1.13      API Level: -1       Device Model: unknown
+2019-12-04 10:22:15   Info   MainTask() method is used to move Add Module to Add MainTask screen     OS Type: iOS    App Version: 1.13      API Level: -1       Device Model: unknown
+2019-12-04 10:22:15   Debug   Main Task Screen is loaded     OS Type: iOS    App Version: 1.13      API Level: -1       Device Model: unknown
+2019-12-04 10:22:15   Info    getModulesList(cropcode) is used to get all module list     OS Type: iOS    App Version: 1.13      API Level: -1       Device Model: unknown
+2019-12-04 10:22:20   Info   UserManageEmployees:getEmployeeList() method is used to get employee list     OS Type: iOS    App Version: 1.13      API Level: -1       Device Model: unknown
+2019-12-04 10:22:21   Debug   Employees list getting screen is loaded at user side     OS Type: iOS    App Version: 1.13      API Level: -1       Device Model: unknown
+2019-12-04 10:22:23   Debug   user Manageemployee view pending tasks screen is loaded     OS Type: iOS    App Version: 1.13      API Level: -1       Device Model: unknown
+2019-12-04 10:22:23   Info   UserManageEmployeeTaskPending:getEmployeesPendingTaskList() used to get employee pending tasks     OS Type: iOS    App Version: 1.13      API Level: -1       Device Model: unknown
+2019-12-04 10:22:24   Info   no  employee pending tasks at user side     OS Type: iOS    App Version: 1.13      API Level: -1       Device Model: unknown
+2019-12-04 10:22:26   Debug   user Manageemployee view completed tasks screen is loaded     OS Type: iOS    App Version: 1.13      API Level: -1       Device Model: unknown
+2019-12-04 10:22:26   Info   UserManageEmployeeTaskCompleted:getEmployeeSubTasksCompleted() method is used to get employee completed tasks     OS Type: iOS    App Version: 1.13      API Level: -1       Device Model: unknown
+2019-12-04 10:22:31   Debug   user Manageemployee view pending tasks screen is loaded     OS Type: iOS    App Version: 1.13      API Level: -1       Device Model: unknown
+2019-12-04 10:22:31   Info   UserManageEmployeeTaskPending:getEmployeesPendingTaskList() used to get employee pending tasks     OS Type: iOS    App Version: 1.13      API Level: -1       Device Model: unknown
+2019-12-04 10:22:32   Info   no  employee pending tasks at user side     OS Type: iOS    App Version: 1.13      API Level: -1       Device Model: unknown
+2019-12-04 10:22:41   Debug   user Manageemployee view pending tasks screen is loaded     OS Type: iOS    App Version: 1.13      API Level: -1       Device Model: unknown
+2019-12-04 10:22:41   Info   UserManageEmployeeTaskPending:getEmployeesPendingTaskList() used to get employee pending tasks     OS Type: iOS    App Version: 1.13      API Level: -1       Device Model: unknown
+2019-12-04 10:22:56   Debug   user Manageemployee view pending tasks screen is loaded     OS Type: iOS    App Version: 1.13      API Level: -1       Device Model: unknown
+2019-12-04 10:22:56   Info   UserManageEmployeeTaskPending:getEmployeesPendingTaskList() used to get employee pending tasks     OS Type: iOS    App Version: 1.13      API Level: -1       Device Model: unknown
+2019-12-04 10:23:00   Debug   Task Chat screen is loaded     OS Type: iOS    App Version: 1.13      API Level: -1       Device Model: unknown
+2019-12-04 10:23:00   Info    getMessages(role, userToken, cropcode) is used getting task related messages     OS Type: iOS    App Version: 1.13      API Level: -1       Device Model: unknown
+2019-12-04 10:23:00   Info    groupMembersList(role, userToken, cropcode) is used getting task related group members     OS Type: iOS    App Version: 1.13      API Level: -1       Device Model: unknown
+2019-12-04 10:23:00   Info   userManageEmployeeTaskPending:TaskChat(item, index) method is used to naviagate to chat     OS Type: iOS    App Version: 1.13      API Level: -1       Device Model: unknown
+2019-12-04 10:27:21   Debug   user Manageemployee view pending tasks screen is loaded     OS Type: iOS    App Version: 1.13      API Level: -1       Device Model: unknown
+2019-12-04 10:27:21   Info   UserManageEmployeeTaskPending:getEmployeesPendingTaskList() used to get employee pending tasks     OS Type: iOS    App Version: 1.13      API Level: -1       Device Model: unknown
+2019-12-04 10:27:24   Info   userManageEmployeeTaskPending:TaskChat(item, index) method is used to naviagate to chat     OS Type: iOS    App Version: 1.13      API Level: -1       Device Model: unknown
+2019-12-04 10:27:24   Debug   Task Chat screen is loaded     OS Type: iOS    App Version: 1.13      API Level: -1       Device Model: unknown
+2019-12-04 10:27:24   Info    groupMembersList(role, userToken, cropcode) is used getting task related group members     OS Type: iOS    App Version: 1.13      API Level: -1       Device Model: unknown
+2019-12-04 10:27:24   Info    getMessages(role, userToken, cropcode) is used getting task related messages     OS Type: iOS    App Version: 1.13      API Level: -1       Device Model: unknown
+2019-12-04 10:27:33   Info    sendMessage(role, userToken, cropcode) is used to send messages     OS Type: iOS    App Version: 1.13      API Level: -1       Device Model: unknown
+2019-12-04 10:27:33   Info    getMessages(role, userToken, cropcode) is used getting task related messages     OS Type: iOS    App Version: 1.13      API Level: -1       Device Model: unknown
+2019-12-04 10:28:45   Debug   user Manageemployee view completed tasks screen is loaded     OS Type: iOS    App Version: 1.13      API Level: -1       Device Model: unknown
+2019-12-04 10:28:45   Info   UserManageEmployeeTaskCompleted:getEmployeeSubTasksCompleted() method is used to get employee completed tasks     OS Type: iOS    App Version: 1.13      API Level: -1       Device Model: unknown
+2019-12-04 10:29:08   Info    getMessages(role, userToken, cropcode) is used getting task related messages     OS Type: iOS    App Version: 1.13      API Level: -1       Device Model: unknown
+2019-12-04 10:29:08   Info    groupMembersList(role, userToken, cropcode) is used getting task related group members     OS Type: iOS    App Version: 1.13      API Level: -1       Device Model: unknown
+2019-12-04 10:29:08   Debug   Task Chat screen is loaded     OS Type: iOS    App Version: 1.13      API Level: -1       Device Model: unknown
+2019-12-04 10:29:08   Info   userManageEmployeeTaskPending:TaskChat(item, index) method is used to naviagate to chat     OS Type: iOS    App Version: 1.13      API Level: -1       Device Model: unknown
+2019-12-04 10:29:23   Info   userManageEmployeeTaskPending:TaskChat(item, index) method is used to naviagate to chat     OS Type: iOS    App Version: 1.13      API Level: -1       Device Model: unknown
+2019-12-04 10:29:23   Info    groupMembersList(role, userToken, cropcode) is used getting task related group members     OS Type: iOS    App Version: 1.13      API Level: -1       Device Model: unknown
+2019-12-04 10:29:23   Info    getMessages(role, userToken, cropcode) is used getting task related messages     OS Type: iOS    App Version: 1.13      API Level: -1       Device Model: unknown
+2019-12-04 10:29:23   Debug   Task Chat screen is loaded     OS Type: iOS    App Version: 1.13      API Level: -1       Device Model: unknown
+2019-12-04 10:29:34   Info    sendMessage(role, userToken, cropcode) is used to send messages     OS Type: iOS    App Version: 1.13      API Level: -1       Device Model: unknown
+2019-12-04 10:29:35   Info    sendMessage(role, userToken, cropcode) is used to send messages     OS Type: iOS    App Version: 1.13      API Level: -1       Device Model: unknown
+2019-12-04 10:29:36   Info    getMessages(role, userToken, cropcode) is used getting task related messages     OS Type: iOS    App Version: 1.13      API Level: -1       Device Model: unknown
+2019-12-04 10:29:36   Info    getMessages(role, userToken, cropcode) is used getting task related messages     OS Type: iOS    App Version: 1.13      API Level: -1       Device Model: unknown
+2019-12-04 10:29:38   Warn   message should not be empty     OS Type: iOS    App Version: 1.13      API Level: -1       Device Model: unknown
+2019-12-04 10:31:31   Debug   user Manageemployee view pending tasks screen is loaded     OS Type: iOS    App Version: 1.13      API Level: -1       Device Model: unknown
+2019-12-04 10:31:31   Info   UserManageEmployeeTaskPending:getEmployeesPendingTaskList() used to get employee pending tasks     OS Type: iOS    App Version: 1.13      API Level: -1       Device Model: unknown
+2019-12-04 10:31:32   Info   no  employee pending tasks at user side     OS Type: iOS    App Version: 1.13      API Level: -1       Device Model: unknown
+2019-12-04 10:31:35   Info   UserManageEmployeeTaskCompleted:getEmployeeSubTasksCompleted() method is used to get employee completed tasks     OS Type: iOS    App Version: 1.13      API Level: -1       Device Model: unknown
+2019-12-04 10:31:35   Debug   user Manageemployee view completed tasks screen is loaded     OS Type: iOS    App Version: 1.13      API Level: -1       Device Model: unknown
+2019-12-04 10:31:41   Debug   user Manageemployee view verified tasks screen is loaded     OS Type: iOS    App Version: 1.13      API Level: -1       Device Model: unknown
+2019-12-04 10:31:41   Info   UserManageEmployeeTaskVerified:getEmployeesPendingTaskList() method is used to get employee verified tasks     OS Type: iOS    App Version: 1.13      API Level: -1       Device Model: unknown
+2019-12-04 10:31:41   Info   no employee verified tasks at user side     OS Type: iOS    App Version: 1.13      API Level: -1       Device Model: unknown
+2019-12-04 10:31:53   Debug   user Manageemployee view pending tasks screen is loaded     OS Type: iOS    App Version: 1.13      API Level: -1       Device Model: unknown
+2019-12-04 10:31:53   Info   UserManageEmployeeTaskPending:getEmployeesPendingTaskList() used to get employee pending tasks     OS Type: iOS    App Version: 1.13      API Level: -1       Device Model: unknown
+2019-12-04 10:31:53   Info   no  employee pending tasks at user side     OS Type: iOS    App Version: 1.13      API Level: -1       Device Model: unknown
+2019-12-04 10:31:55   Debug   user Manageemployee view completed tasks screen is loaded     OS Type: iOS    App Version: 1.13      API Level: -1       Device Model: unknown
+2019-12-04 10:31:55   Info   UserManageEmployeeTaskCompleted:getEmployeeSubTasksCompleted() method is used to get employee completed tasks     OS Type: iOS    App Version: 1.13      API Level: -1       Device Model: unknown
+2019-12-04 10:31:55   Debug   user Manageemployee view verified tasks screen is loaded     OS Type: iOS    App Version: 1.13      API Level: -1       Device Model: unknown
+2019-12-04 10:31:55   Info   UserManageEmployeeTaskVerified:getEmployeesPendingTaskList() method is used to get employee verified tasks     OS Type: iOS    App Version: 1.13      API Level: -1       Device Model: unknown
+2019-12-04 10:31:56   Info   no employee verified tasks at user side     OS Type: iOS    App Version: 1.13      API Level: -1       Device Model: unknown
+2019-12-04 10:57:33   Debug   admin request projects screen is loaded     OS Type: iOS    App Version: 1.13      API Level: -1       Device Model: unknown
+2019-12-04 10:57:33   Info    getRequestedIdeas(role, userToken, cropcode) is used to get all requested projects at admin side     OS Type: iOS    App Version: 1.13      API Level: -1       Device Model: unknown
+2019-12-04 10:57:35   Info   adminApprovedProjects(role, userToken, cropcode) method is used to get all approved projects list     OS Type: iOS    App Version: 1.13      API Level: -1       Device Model: unknown
+2019-12-04 10:58:19   Debug   Employees list getting screen is loaded at admin side     OS Type: iOS    App Version: 1.13      API Level: -1       Device Model: unknown
+2019-12-04 10:58:19   Info   UserManageEmployees:getEmployeeList() method is used to get employee list     OS Type: iOS    App Version: 1.13      API Level: -1       Device Model: unknown
+2019-12-04 12:17:46   Debug   Login Screen is Loaded     OS Type: iOS    App Version: 1.14      API Level: -1       Device Model: unknown
+2019-12-04 12:19:09   Info   onSignIn() is used for login purpose and based on usertype data is authorizised     OS Type: iOS    App Version: 1.14      API Level: -1       Device Model: unknown
+2019-12-04 12:19:10   Debug   admin request projects screen is loaded     OS Type: iOS    App Version: 1.14      API Level: -1       Device Model: unknown
+2019-12-04 12:19:11   Info    getRequestedIdeas(role, userToken, cropcode) is used to get all requested projects at admin side     OS Type: iOS    App Version: 1.14      API Level: -1       Device Model: unknown
+2019-12-04 12:19:23   Info    userCompletedMyTasks(cropcode) is used to get the all the user completed data list     OS Type: iOS    App Version: 1.14      API Level: -1       Device Model: unknown
+2019-12-04 12:19:23   Debug   getting the CompletedMyTask List     OS Type: iOS    App Version: 1.14      API Level: -1       Device Model: unknown
+2019-12-04 12:19:30   Info    getMessages(role, userToken, cropcode) is used getting task related messages     OS Type: iOS    App Version: 1.14      API Level: -1       Device Model: unknown
+2019-12-04 12:19:30   Info    groupMembersList(role, userToken, cropcode) is used getting task related group members     OS Type: iOS    App Version: 1.14      API Level: -1       Device Model: unknown
+2019-12-04 12:19:30   Debug   Task Chat screen is loaded     OS Type: iOS    App Version: 1.14      API Level: -1       Device Model: unknown
+2019-12-04 12:37:33   Debug   admin request projects screen is loaded     OS Type: iOS    App Version: 1.14      API Level: -1       Device Model: unknown
+2019-12-04 12:37:34   Info    getRequestedIdeas(role, userToken, cropcode) is used to get all requested projects at admin side     OS Type: iOS    App Version: 1.14      API Level: -1       Device Model: unknown
+2019-12-04 12:37:37   Debug   getting the CompletedMyTask List     OS Type: iOS    App Version: 1.14      API Level: -1       Device Model: unknown
+2019-12-04 12:37:37   Info    userCompletedMyTasks(cropcode) is used to get the all the user completed data list     OS Type: iOS    App Version: 1.14      API Level: -1       Device Model: unknown
+2019-12-04 12:37:40   Info    groupMembersList(role, userToken, cropcode) is used getting task related group members     OS Type: iOS    App Version: 1.14      API Level: -1       Device Model: unknown
+2019-12-04 12:37:40   Info    getMessages(role, userToken, cropcode) is used getting task related messages     OS Type: iOS    App Version: 1.14      API Level: -1       Device Model: unknown
+2019-12-04 12:37:41   Debug   Task Chat screen is loaded     OS Type: iOS    App Version: 1.14      API Level: -1       Device Model: unknown
+2019-12-04 13:42:34   Debug   admin request projects screen is loaded     OS Type: iOS    App Version: 1.14      API Level: -1       Device Model: unknown
+2019-12-04 13:42:41   Info    getRequestedIdeas(role, userToken, cropcode) is used to get all requested projects at admin side     OS Type: iOS    App Version: 1.14      API Level: -1       Device Model: unknown
+2019-12-04 13:43:33   Debug   Login Screen is Loaded     OS Type: iOS    App Version: 1.14      API Level: -1       Device Model: unknown
+2019-12-04 13:47:09   Info   onSignIn() is used for login purpose and based on usertype data is authorizised     OS Type: iOS    App Version: 1.14      API Level: -1       Device Model: unknown
+2019-12-04 13:47:10   Debug   user pending mytask tasks screen is loaded at user side     OS Type: iOS    App Version: 1.14      API Level: -1       Device Model: unknown
+2019-12-04 13:47:10   Info   UserPendingMyTask:getdata() method is used to get pending my tasks at user side     OS Type: iOS    App Version: 1.14      API Level: -1       Device Model: unknown
+2019-12-04 13:47:11   Info   no pending my tasks at user side     OS Type: iOS    App Version: 1.14      API Level: -1       Device Model: unknown
+2019-12-04 13:47:21   Debug   Login Screen is Loaded     OS Type: iOS    App Version: 1.14      API Level: -1       Device Model: unknown
+2019-12-04 13:47:34   Info   onSignIn() is used for login purpose and based on usertype data is authorizised     OS Type: iOS    App Version: 1.14      API Level: -1       Device Model: unknown
+2019-12-04 13:47:34   Debug   admin request projects screen is loaded     OS Type: iOS    App Version: 1.14      API Level: -1       Device Model: unknown
+2019-12-04 13:47:35   Info    getRequestedIdeas(role, userToken, cropcode) is used to get all requested projects at admin side     OS Type: iOS    App Version: 1.14      API Level: -1       Device Model: unknown
+2019-12-04 13:47:57   Debug   Login Screen is Loaded     OS Type: iOS    App Version: 1.14      API Level: -1       Device Model: unknown
+2019-12-04 13:58:33   Debug   Login Screen is Loaded     OS Type: iOS    App Version: 1.14      API Level: -1       Device Model: unknown
+2019-12-04 13:59:54   Debug   Login Screen is Loaded     OS Type: iOS    App Version: 1.14      API Level: -1       Device Model: unknown
+2019-12-04 15:03:26   Debug   user pending mytask tasks screen is loaded at user side     OS Type: iOS    App Version: 1.13      API Level: -1       Device Model: unknown
+2019-12-04 15:03:26   Info   UserPendingMyTask:getdata() method is used to get pending my tasks at user side     OS Type: iOS    App Version: 1.13      API Level: -1       Device Model: unknown
+2019-12-04 15:03:26   Info   no pending my tasks at user side     OS Type: iOS    App Version: 1.13      API Level: -1       Device Model: unknown
+2019-12-04 15:03:29   Info    getdata() is used to get all requested projects at user side     OS Type: iOS    App Version: 1.13      API Level: -1       Device Model: unknown
+2019-12-04 15:03:29   Debug   user request projects screen is loaded     OS Type: iOS    App Version: 1.13      API Level: -1       Device Model: unknown
+2019-12-04 15:03:32   Info   UserApprovedProjects:setRO(userApprovedProjects() method is used to list the user approved projects     OS Type: iOS    App Version: 1.13      API Level: -1       Device Model: unknown
+2019-12-04 15:03:32   Info   UserApprovedProjects:getResource() method is used to get all employee list     OS Type: iOS    App Version: 1.13      API Level: -1       Device Model: unknown
+2019-12-04 15:03:32   Debug   User Approved projects screen is loaded     OS Type: iOS    App Version: 1.13      API Level: -1       Device Model: unknown
+2019-12-04 15:03:35   Info   UserApprovedProjects:SearchFilterFunction(text) method is used for search functionality     OS Type: iOS    App Version: 1.13      API Level: -1       Device Model: unknown
+2019-12-04 15:03:35   Info   UserApprovedProjects:SearchFilterFunction(text) method is used for search functionality     OS Type: iOS    App Version: 1.13      API Level: -1       Device Model: unknown
+2019-12-04 15:03:35   Info   UserApprovedProjects:SearchFilterFunction(text) method is used for search functionality     OS Type: iOS    App Version: 1.13      API Level: -1       Device Model: unknown
+2019-12-04 15:03:36   Info   UserApprovedProjects:SearchFilterFunction(text) method is used for search functionality     OS Type: iOS    App Version: 1.13      API Level: -1       Device Model: unknown
+2019-12-04 15:03:41   Info   UserApprovedProjects:SearchFilterFunction(text) method is used for search functionality     OS Type: iOS    App Version: 1.13      API Level: -1       Device Model: unknown
+2019-12-04 15:03:41   Info   UserApprovedProjects:SearchFilterFunction(text) method is used for search functionality     OS Type: iOS    App Version: 1.13      API Level: -1       Device Model: unknown
+2019-12-04 15:03:42   Info   UserApprovedProjects:SearchFilterFunction(text) method is used for search functionality     OS Type: iOS    App Version: 1.13      API Level: -1       Device Model: unknown
+2019-12-04 15:03:42   Info   UserApprovedProjects:SearchFilterFunction(text) method is used for search functionality     OS Type: iOS    App Version: 1.13      API Level: -1       Device Model: unknown
+2019-12-04 15:03:42   Info   UserApprovedProjects:SearchFilterFunction(text) method is used for search functionality     OS Type: iOS    App Version: 1.13      API Level: -1       Device Model: unknown
+2019-12-04 15:03:43   Info   UserApprovedProjects:SearchFilterFunction(text) method is used for search functionality     OS Type: iOS    App Version: 1.13      API Level: -1       Device Model: unknown
+2019-12-04 15:03:43   Info   UserApprovedProjects:SearchFilterFunction(text) method is used for search functionality     OS Type: iOS    App Version: 1.13      API Level: -1       Device Model: unknown
+2019-12-04 15:03:43   Info   UserApprovedProjects:SearchFilterFunction(text) method is used for search functionality     OS Type: iOS    App Version: 1.13      API Level: -1       Device Model: unknown
+2019-12-04 15:03:47   Info   UserApprovedProjects:SearchFilterFunction(text) method is used for search functionality     OS Type: iOS    App Version: 1.13      API Level: -1       Device Model: unknown
+2019-12-04 15:03:47   Info   UserApprovedProjects:SearchFilterFunction(text) method is used for search functionality     OS Type: iOS    App Version: 1.13      API Level: -1       Device Model: unknown
+2019-12-04 15:03:48   Info   UserApprovedProjects:SearchFilterFunction(text) method is used for search functionality     OS Type: iOS    App Version: 1.13      API Level: -1       Device Model: unknown
+2019-12-04 15:03:48   Info   UserApprovedProjects:SearchFilterFunction(text) method is used for search functionality     OS Type: iOS    App Version: 1.13      API Level: -1       Device Model: unknown
+2019-12-04 15:03:49   Info   UserApprovedProjects:SearchFilterFunction(text) method is used for search functionality     OS Type: iOS    App Version: 1.13      API Level: -1       Device Model: unknown
+2019-12-04 15:03:49   Info   UserApprovedProjects:SearchFilterFunction(text) method is used for search functionality     OS Type: iOS    App Version: 1.13      API Level: -1       Device Model: unknown
+2019-12-04 15:03:49   Info   UserApprovedProjects:SearchFilterFunction(text) method is used for search functionality     OS Type: iOS    App Version: 1.13      API Level: -1       Device Model: unknown
+2019-12-04 15:03:49   Info   UserApprovedProjects:SearchFilterFunction(text) method is used for search functionality     OS Type: iOS    App Version: 1.13      API Level: -1       Device Model: unknown
+2019-12-04 15:03:55   Info   UserApprovedProjects:Module() method is used to move module listing screen     OS Type: iOS    App Version: 1.13      API Level: -1       Device Model: unknown
+2019-12-04 15:03:55   Debug    getModules screen is loaded     OS Type: iOS    App Version: 1.13      API Level: -1       Device Model: unknown
+2019-12-04 15:03:56   Debug   Add Module screen is loaded     OS Type: iOS    App Version: 1.13      API Level: -1       Device Model: unknown
+2019-12-04 15:03:56   Debug   Add Module screen is loaded     OS Type: iOS    App Version: 1.13      API Level: -1       Device Model: unknown
+2019-12-04 15:03:56   Debug   Add Module screen is loaded     OS Type: iOS    App Version: 1.13      API Level: -1       Device Model: unknown
+2019-12-04 15:03:58   Debug   Main Task Screen is loaded     OS Type: iOS    App Version: 1.13      API Level: -1       Device Model: unknown
+2019-12-04 15:03:58   Info   MainTask() method is used to move Add Module to Add MainTask screen     OS Type: iOS    App Version: 1.13      API Level: -1       Device Model: unknown
+2019-12-04 15:03:58   Info    getModulesList(cropcode) is used to get all module list     OS Type: iOS    App Version: 1.13      API Level: -1       Device Model: unknown
+2019-12-04 15:04:10   Info   ViewSubTasks method is used to move Add Main Task  to ViewSubTasks screen to see the  sub tasks     OS Type: iOS    App Version: 1.13      API Level: -1       Device Model: unknown
+2019-12-04 15:04:10   Info   getSubTasksList(taskId) method is used to Getting the subtasks      OS Type: iOS    App Version: 1.13      API Level: -1       Device Model: unknown
+2019-12-04 15:04:10   Debug   View SubTask screen is loaded     OS Type: iOS    App Version: 1.13      API Level: -1       Device Model: unknown
+2019-12-04 15:04:10   Debug   View SubTask screen is loaded     OS Type: iOS    App Version: 1.13      API Level: -1       Device Model: unknown
+2019-12-04 15:04:10   Debug   View SubTask screen is loaded     OS Type: iOS    App Version: 1.13      API Level: -1       Device Model: unknown
+2019-12-04 17:34:28   Debug   admin request projects screen is loaded     OS Type: Android    App Version: 1.1      API Level: 28       Device Model: violet
+2019-12-04 17:34:28   Info    getRequestedIdeas(role, userToken, cropcode) is used to get all requested projects at admin side     OS Type: Android    App Version: 1.1      API Level: 28       Device Model: violet
+2019-12-04 17:34:30   Debug   admin project info screen is loaded     OS Type: Android    App Version: 1.1      API Level: 28       Device Model: violet
+2019-12-04 17:34:30   Info   AdminProjectInfo method is used to move requested project to project info screen     OS Type: Android    App Version: 1.1      API Level: 28       Device Model: violet
+2019-12-04 17:34:30   Info   AdminProjectInfo:Disabling() method is used to diable accept button based on condition     OS Type: Android    App Version: 1.1      API Level: 28       Device Model: violet
+2019-12-04 17:34:36   Info   AdminPendingManageTasks:adminPendingManageTasks() method is used to get pending manage tasks at admin side     OS Type: Android    App Version: 1.1      API Level: 28       Device Model: violet
+2019-12-04 17:34:36   Info   to get level no     OS Type: Android    App Version: 1.1      API Level: 28       Device Model: violet
+2019-12-04 17:34:50   Info   AdminCompletedManageTasks:manageTasksCompleted() method is used to get completed manage tasks at admin side     OS Type: Android    App Version: 1.1      API Level: 28       Device Model: violet
+2019-12-04 17:34:50   Info   to get level no     OS Type: Android    App Version: 1.1      API Level: 28       Device Model: violet
+2019-12-04 17:34:50   Debug   Admin completed manage tasks screen is loaded     OS Type: Android    App Version: 1.1      API Level: 28       Device Model: violet
+2019-12-04 17:34:50   Info   No completed manage tasks at admin side     OS Type: Android    App Version: 1.1      API Level: 28       Device Model: violet
+2019-12-04 17:34:50   Info   No completed manage tasks at admin side     OS Type: Android    App Version: 1.1      API Level: 28       Device Model: violet
+2019-12-04 17:34:50   Info   No completed manage tasks at admin side     OS Type: Android    App Version: 1.1      API Level: 28       Device Model: violet
+2019-12-04 17:34:50   Info   No completed manage tasks at admin side     OS Type: Android    App Version: 1.1      API Level: 28       Device Model: violet
+2019-12-04 17:34:50   Info   No completed manage tasks at admin side     OS Type: Android    App Version: 1.1      API Level: 28       Device Model: violet
+2019-12-04 17:34:51   Info   No completed manage tasks at admin side     OS Type: Android    App Version: 1.1      API Level: 28       Device Model: violet
+2019-12-04 17:35:05   Info   AdminPendingManageTasks:adminPendingManageTasks() method is used to get pending manage tasks at admin side     OS Type: Android    App Version: 1.1      API Level: 28       Device Model: violet
+2019-12-04 23:46:06   Debug   Login Screen is Loaded     OS Type: iOS    App Version: 1.14      API Level: -1       Device Model: unknown
+2019-12-04 23:47:10   Info   onSignIn() is used for login purpose and based on usertype data is authorizised     OS Type: iOS    App Version: 1.14      API Level: -1       Device Model: unknown
+2019-12-04 23:47:10   Warn   UserName and Password is not entered correctly     OS Type: iOS    App Version: 1.14      API Level: -1       Device Model: unknown
+2019-12-04 23:47:18   Info   onSignIn() is used for login purpose and based on usertype data is authorizised     OS Type: iOS    App Version: 1.14      API Level: -1       Device Model: unknown
+2019-12-04 23:47:18   Warn   UserName and Password is not entered correctly     OS Type: iOS    App Version: 1.14      API Level: -1       Device Model: unknown
+2019-12-04 23:47:29   Info   onSignIn() is used for login purpose and based on usertype data is authorizised     OS Type: iOS    App Version: 1.14      API Level: -1       Device Model: unknown
+2019-12-04 23:47:29   Info   UserPendingMyTask:getdata() method is used to get pending my tasks at user side     OS Type: iOS    App Version: 1.14      API Level: -1       Device Model: unknown
+2019-12-04 23:47:29   Debug   user pending mytask tasks screen is loaded at user side     OS Type: iOS    App Version: 1.14      API Level: -1       Device Model: unknown
+2019-12-04 23:47:29   Info   no pending my tasks at user side     OS Type: iOS    App Version: 1.14      API Level: -1       Device Model: unknown

@@ -1,0 +1,52 @@
+intooo
+intooo
+intooo
+intooo
+intooo
+intooo
+intooo
+intooo
+intooodebug
+loginInfo
+loginInfo
+loginInfo
+loginInfo
+loginInfo
+loginInfo
+login purposeInfo
+login purpose     OS Type Android    App Version 1.0      API Level 27       Device Model generic_x86Info
+2019-11-19 08:36:00Infologin purpose     OS Type Android    App Version 1.0      API Level 27       Device Model generic_x86
+2019-11-19 08:40:01   Info   login purpose     OS Type Android    App Version 1.0      API Level 27       Device Model generic_x86
+2019-11-19 11:51:13   Debug   Login Screen is Loaded     OS Type: Android    App Version: 1.0      API Level: 26       Device Model: generic_x86
+2019-11-19 11:51:40   Info   onSignIn() is used for login purpose and based on usertype data is authorizised     OS Type: Android    App Version: 1.0      API Level: 26       Device Model: generic_x86
+2019-11-19 11:51:41   Debug   request projects screen is loaded     OS Type: Android    App Version: 1.0      API Level: 26       Device Model: generic_x86
+2019-11-19 11:51:41   Info    getRequestedIdeas(role, userToken, cropcode) is used to get all requested projects     OS Type: Android    App Version: 1.0      API Level: 26       Device Model: generic_x86
+2019-11-19 11:53:21   Info   AdminProjectInfo method is used to move requested project to project info screen     OS Type: Android    App Version: 1.0      API Level: 26       Device Model: generic_x86
+2019-11-19 11:53:21   Info   AdminProjectInfo:Disabling() method is used to diable accept button based on condition     OS Type: Android    App Version: 1.0      API Level: 26       Device Model: generic_x86
+2019-11-19 11:53:21   Debug   admin project info screen is loaded     OS Type: Android    App Version: 1.0      API Level: 26       Device Model: generic_x86
+2019-11-19 11:53:28   Debug   request projects screen is loaded     OS Type: Android    App Version: 1.0      API Level: 26       Device Model: generic_x86
+2019-11-19 11:53:28   Info    getRequestedIdeas(role, userToken, cropcode) is used to get all requested projects     OS Type: Android    App Version: 1.0      API Level: 26       Device Model: generic_x86
+2019-11-19 11:53:40   Debug   Employees list getting screen is loaded     OS Type: Android    App Version: 1.0      API Level: 26       Device Model: generic_x86
+2019-11-19 11:53:40   Info   UserManageEmployees:getEmployeeList() method is used to get employee list     OS Type: Android    App Version: 1.0      API Level: 26       Device Model: generic_x86
+2019-11-19 11:53:48   Debug   Admin Manageemployee view pendingtasks screen is loaded     OS Type: Android    App Version: 1.0      API Level: 26       Device Model: generic_x86
+2019-11-19 11:53:48   Info   AdminManageEmployeeTaskPending:getEmployeesPendingTaskList() used to get employee pending tasks     OS Type: Android    App Version: 1.0      API Level: 26       Device Model: generic_x86
+2019-11-19 11:55:09   Debug   request projects screen is loaded     OS Type: Android    App Version: 1.0      API Level: 26       Device Model: generic_x86
+2019-11-19 11:55:09   Info    getRequestedIdeas(role, userToken, cropcode) is used to get all requested projects     OS Type: Android    App Version: 1.0      API Level: 26       Device Model: generic_x86
+2019-11-19 11:56:26   Info   UserManageEmployees:getEmployeeList() method is used to get employee list     OS Type: Android    App Version: 1.0      API Level: 26       Device Model: generic_x86
+2019-11-19 11:56:26   Debug   Employees list getting screen is loaded     OS Type: Android    App Version: 1.0      API Level: 26       Device Model: generic_x86
+2019-11-19 12:00:16   Debug    Message request projects screen is loaded     OS Type: Android    App Version: 1.0      API Level: 26       Device Model: generic_x86
+2019-11-19 12:00:16   Info    Message  getRequestedIdeas(role, userToken, cropcode) is used to get all requested projects     OS Type: Android    App Version: 1.0      API Level: 26       Device Model: generic_x86
+2019-11-19 12:35:31   Debug    Message Approved projects screen is loaded     OS Type: Android    App Version: 1.0      API Level: 26       Device Model: generic_x86
+2019-11-19 12:35:31   Debug    Message adminApprovedProjects(role, userToken, cropcode) method is used to get all approved projects list     OS Type: Android    App Version: 1.0      API Level: 26       Device Model: generic_x86
+2019-11-19 12:43:08   Debug    Message request projects screen is loaded     OS Type: Android    App Version: 1.0      API Level: 26       Device Model: generic_x86
+2019-11-19 12:43:08   Info    Message  getRequestedIdeas(role, userToken, cropcode) is used to get all requested projects     OS Type: Android    App Version: 1.0      API Level: 26       Device Model: generic_x86
+2019-11-19 12:44:55   Info    Message AdminProjectInfo method is used to move requested project to project info screen     OS Type: Android    App Version: 1.0      API Level: 26       Device Model: generic_x86
+2019-11-19 12:44:55   Info    Message AdminProjectInfo:Disabling() method is used to diable accept button based on condition     OS Type: Android    App Version: 1.0      API Level: 26       Device Model: generic_x86
+2019-11-19 12:44:55   Debug    Message admin project info screen is loaded     OS Type: Android    App Version: 1.0      API Level: 26       Device Model: generic_x86
+2019-11-19 13:05:16   Debug    Message request projects screen is loaded     OS Type: Android    App Version: 1.0      API Level: 26       Device Model: generic_x86
+2019-11-19 13:05:16   Info    Message  getRequestedIdeas(role, userToken, cropcode) is used to get all requested projects     OS Type: Android    App Version: 1.0      API Level: 26       Device Model: generic_x86
+2019-11-19 13:20:33   Debug   user pending mytask tasks screen is loaded at user side     OS Type: Android    App Version: 1.0      API Level: 28       Device Model: generic_x86_arm
+2019-11-19 13:20:33   Info   UserPendingMyTask:getdata() method is used to get pending my tasks at user side     OS Type: Android    App Version: 1.0      API Level: 28       Device Model: generic_x86_arm
+2019-11-19 13:20:35   Info   no pending my tasks at user side     OS Type: Android    App Version: 1.0      API Level: 28       Device Model: generic_x86_arm
+2019-11-19 13:21:20   Debug   user completed mytask tasks screen is loaded     OS Type: Android    App Version: 1.0      API Level: 28       Device Model: generic_x86_arm
+2019-11-19 13:21:20   Info   UserCompletedMyTask:userCompletedMyTasks() method is used to get completed my tasks at user side     OS Type: Android    App Version: 1.0      API Level: 28       Device Model: generic_x86_arm

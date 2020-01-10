@@ -1,0 +1,31 @@
+2019-12-31 03:13:24   Debug   Login Screen is Loaded     OS Type: iOS    App Version: 1.16      API Level: -1       Device Model: unknown
+2019-12-31 03:14:13   Info   onSignIn() is used for login purpose and based on usertype data is authorizised     OS Type: iOS    App Version: 1.16      API Level: -1       Device Model: unknown
+2019-12-31 03:14:13   Warn   UserName and Password is not entered correctly     OS Type: iOS    App Version: 1.16      API Level: -1       Device Model: unknown
+2019-12-31 03:14:21   Info   onSignIn() is used for login purpose and based on usertype data is authorizised     OS Type: iOS    App Version: 1.16      API Level: -1       Device Model: unknown
+2019-12-31 03:14:21   Info   UserPendingMyTask:getdata() method is used to get pending my tasks at user side     OS Type: iOS    App Version: 1.16      API Level: -1       Device Model: unknown
+2019-12-31 03:14:21   Debug   user pending mytask tasks screen is loaded at user side     OS Type: iOS    App Version: 1.16      API Level: -1       Device Model: unknown
+2019-12-31 03:14:21   Info   UserPendingMyTask:getdata() method is used to get pending my tasks at user side     OS Type: iOS    App Version: 1.16      API Level: -1       Device Model: unknown
+2019-12-31 03:14:21   Info   no pending my tasks at user side     OS Type: iOS    App Version: 1.16      API Level: -1       Device Model: unknown
+2019-12-31 03:14:21   Info   no pending my tasks at user side     OS Type: iOS    App Version: 1.16      API Level: -1       Device Model: unknown
+2019-12-31 03:14:28   Debug   user completed manage tasks screen is loaded     OS Type: iOS    App Version: 1.16      API Level: -1       Device Model: unknown
+2019-12-31 03:14:28   Info   UserCompletedMyTask:userCompletedMyTasks() method is used to get completed my tasks at user side     OS Type: iOS    App Version: 1.16      API Level: -1       Device Model: unknown
+2019-12-31 03:44:06   Debug   user pending mytask tasks screen is loaded at user side     OS Type: Android    App Version: 1.3      API Level: 28       Device Model: m30s
+2019-12-31 03:44:06   Info   UserPendingMyTask:getdata() method is used to get pending my tasks at user side     OS Type: Android    App Version: 1.3      API Level: 28       Device Model: m30s
+2019-12-31 03:44:06   Info   UserPendingMyTask:getdata() method is used to get pending my tasks at user side     OS Type: Android    App Version: 1.3      API Level: 28       Device Model: m30s
+2019-12-31 03:44:08   Info   UserManageEmployees:getEmployeeList() method is used to get employee list     OS Type: Android    App Version: 1.3      API Level: 28       Device Model: m30s
+2019-12-31 03:44:08   Debug   Employees list getting screen is loaded at user side     OS Type: Android    App Version: 1.3      API Level: 28       Device Model: m30s
+2019-12-31 03:44:13   Info   UserManageEmployees:SearchFilterFunction(text) method is used for search functionality     OS Type: Android    App Version: 1.3      API Level: 28       Device Model: m30s
+2019-12-31 03:44:13   Info   UserManageEmployees:SearchFilterFunction(text) method is used for search functionality     OS Type: Android    App Version: 1.3      API Level: 28       Device Model: m30s
+2019-12-31 03:44:13   Info   UserManageEmployees:SearchFilterFunction(text) method is used for search functionality     OS Type: Android    App Version: 1.3      API Level: 28       Device Model: m30s
+2019-12-31 03:44:50   Info   UserManageEmployees:SearchFilterFunction(text) method is used for search functionality     OS Type: Android    App Version: 1.3      API Level: 28       Device Model: m30s
+2019-12-31 03:44:51   Info   UserManageEmployees:SearchFilterFunction(text) method is used for search functionality     OS Type: Android    App Version: 1.3      API Level: 28       Device Model: m30s
+2019-12-31 03:44:51   Info   UserManageEmployees:SearchFilterFunction(text) method is used for search functionality     OS Type: Android    App Version: 1.3      API Level: 28       Device Model: m30s
+2019-12-31 03:44:51   Info   UserManageEmployees:SearchFilterFunction(text) method is used for search functionality     OS Type: Android    App Version: 1.3      API Level: 28       Device Model: m30s
+2019-12-31 03:44:52   Info   UserManageEmployees:SearchFilterFunction(text) method is used for search functionality     OS Type: Android    App Version: 1.3      API Level: 28       Device Model: m30s
+2019-12-31 03:44:52   Info   UserManageEmployees:SearchFilterFunction(text) method is used for search functionality     OS Type: Android    App Version: 1.3      API Level: 28       Device Model: m30s
+2019-12-31 03:44:54   Info   UserManageEmployees:SearchFilterFunction(text) method is used for search functionality     OS Type: Android    App Version: 1.3      API Level: 28       Device Model: m30s
+2019-12-31 03:44:55   Info   UserManageEmployees:SearchFilterFunction(text) method is used for search functionality     OS Type: Android    App Version: 1.3      API Level: 28       Device Model: m30s
+2019-12-31 03:44:55   Info   UserManageEmployees:SearchFilterFunction(text) method is used for search functionality     OS Type: Android    App Version: 1.3      API Level: 28       Device Model: m30s
+2019-12-31 03:44:56   Info   UserManageEmployees:SearchFilterFunction(text) method is used for search functionality     OS Type: Android    App Version: 1.3      API Level: 28       Device Model: m30s
+2019-12-31 03:44:56   Info   UserManageEmployees:SearchFilterFunction(text) method is used for search functionality     OS Type: Android    App Version: 1.3      API Level: 28       Device Model: m30s
+2019-12-31 03:44:56   Info   UserManageEmployees:SearchFilterFunction(text) method is used for search functionality     OS Type: Android    App Version: 1.3      API Level: 28       Device Model: m30s

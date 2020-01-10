@@ -1,0 +1,205 @@
+2019-12-16 03:55:18   Debug   admin request projects screen is loaded     OS Type: Android    App Version: 1.2      API Level: 28       Device Model: RMX1825
+2019-12-16 04:22:51   Debug   admin request projects screen is loaded     OS Type: Android    App Version: 1.2      API Level: 28       Device Model: RMX1825
+2019-12-16 04:22:51   Info    getRequestedIdeas(role, userToken, cropcode) is used to get all requested projects at admin side     OS Type: Android    App Version: 1.2      API Level: 28       Device Model: RMX1825
+2019-12-16 04:27:17   Info   adminApprovedProjects(role, userToken, cropcode) method is used to get all approved projects list     OS Type: Android    App Version: 1.2      API Level: 28       Device Model: RMX1825
+2019-12-16 04:27:23   Info   Module() method is used to move module listing screen     OS Type: Android    App Version: 1.2      API Level: 28       Device Model: RMX1825
+2019-12-16 04:27:23   Debug    getModules screen is loaded     OS Type: Android    App Version: 1.2      API Level: 28       Device Model: RMX1825
+2019-12-16 04:27:24   Debug   Add Module screen is loaded     OS Type: Android    App Version: 1.2      API Level: 28       Device Model: RMX1825
+2019-12-16 04:27:24   Debug   Add Module screen is loaded     OS Type: Android    App Version: 1.2      API Level: 28       Device Model: RMX1825
+2019-12-16 04:27:29   Info   Module() method is used to move module listing screen     OS Type: Android    App Version: 1.2      API Level: 28       Device Model: RMX1825
+2019-12-16 04:27:29   Debug    getModules screen is loaded     OS Type: Android    App Version: 1.2      API Level: 28       Device Model: RMX1825
+2019-12-16 04:27:30   Info   ProjectVerify() method is used to give alert     OS Type: Android    App Version: 1.2      API Level: 28       Device Model: RMX1825
+2019-12-16 04:27:35   Info   ProjectVerify() method is used to give alert     OS Type: Android    App Version: 1.2      API Level: 28       Device Model: RMX1825
+2019-12-16 04:45:43   Debug   user pending mytask tasks screen is loaded at user side     OS Type: Android    App Version: 1.2      API Level: 29       Device Model: OnePlus6T
+2019-12-16 04:45:44   Info   UserPendingMyTask:getdata() method is used to get pending my tasks at user side     OS Type: Android    App Version: 1.2      API Level: 29       Device Model: OnePlus6T
+2019-12-16 04:45:44   Info   no pending my tasks at user side     OS Type: Android    App Version: 1.2      API Level: 29       Device Model: OnePlus6T
+2019-12-16 04:45:58   Debug   user request projects screen is loaded     OS Type: Android    App Version: 1.2      API Level: 29       Device Model: OnePlus6T
+2019-12-16 04:45:58   Info    getdata() is used to get all requested projects at user side     OS Type: Android    App Version: 1.2      API Level: 29       Device Model: OnePlus6T
+2019-12-16 04:45:58   Info   UserApprovedProjects:getResource() method is used to get all employee list     OS Type: Android    App Version: 1.2      API Level: 29       Device Model: OnePlus6T
+2019-12-16 04:45:59   Debug   User Approved projects screen is loaded     OS Type: Android    App Version: 1.2      API Level: 29       Device Model: OnePlus6T
+2019-12-16 04:45:59   Info   UserApprovedProjects:setRO(userApprovedProjects() method is used to list the user approved projects     OS Type: Android    App Version: 1.2      API Level: 29       Device Model: OnePlus6T
+2019-12-16 04:46:17   Info   UserApprovedProjects:Module() method is used to move module listing screen     OS Type: Android    App Version: 1.2      API Level: 29       Device Model: OnePlus6T
+2019-12-16 04:46:17   Debug    getModules screen is loaded     OS Type: Android    App Version: 1.2      API Level: 29       Device Model: OnePlus6T
+2019-12-16 04:46:18   Debug   Add Module screen is loaded     OS Type: Android    App Version: 1.2      API Level: 29       Device Model: OnePlus6T
+2019-12-16 04:46:18   Debug   Add Module screen is loaded     OS Type: Android    App Version: 1.2      API Level: 29       Device Model: OnePlus6T
+2019-12-16 04:46:18   Debug   Add Module screen is loaded     OS Type: Android    App Version: 1.2      API Level: 29       Device Model: OnePlus6T
+2019-12-16 04:46:18   Debug   Add Module screen is loaded     OS Type: Android    App Version: 1.2      API Level: 29       Device Model: OnePlus6T
+2019-12-16 04:46:18   Debug   Add Module screen is loaded     OS Type: Android    App Version: 1.2      API Level: 29       Device Model: OnePlus6T
+2019-12-16 04:46:20   Debug   Main Task Screen is loaded     OS Type: Android    App Version: 1.2      API Level: 29       Device Model: OnePlus6T
+2019-12-16 04:46:20   Info   MainTask() method is used to move Add Module to Add MainTask screen     OS Type: Android    App Version: 1.2      API Level: 29       Device Model: OnePlus6T
+2019-12-16 04:46:20   Info    getModulesList(cropcode) is used to get all module list     OS Type: Android    App Version: 1.2      API Level: 29       Device Model: OnePlus6T
+2019-12-16 04:46:30   Debug   Add Sub Task Modal screen is loaded     OS Type: Android    App Version: 1.2      API Level: 29       Device Model: OnePlus6T
+2019-12-16 04:46:30   Info   empSearch(cropcode) method is used to employee's data     OS Type: Android    App Version: 1.2      API Level: 29       Device Model: OnePlus6T
+2019-12-16 04:46:30   Info   AddSubTask method is used to move Add Main Task  to Add SubTask Modal screen     OS Type: Android    App Version: 1.2      API Level: 29       Device Model: OnePlus6T
+2019-12-16 04:47:02   Debug   user pending mytask tasks screen is loaded at user side     OS Type: Android    App Version: 1.2      API Level: 26       Device Model: generic_x86
+2019-12-16 04:47:02   Info   UserPendingMyTask:getdata() method is used to get pending my tasks at user side     OS Type: Android    App Version: 1.2      API Level: 26       Device Model: generic_x86
+2019-12-16 04:47:30   Info    addSubTask() is used to add sub task     OS Type: Android    App Version: 1.2      API Level: 29       Device Model: OnePlus6T
+2019-12-16 04:53:53   Debug   user pending mytask tasks screen is loaded at user side     OS Type: Android    App Version: 1.2      API Level: 26       Device Model: generic_x86
+2019-12-16 04:53:53   Info   UserPendingMyTask:getdata() method is used to get pending my tasks at user side     OS Type: Android    App Version: 1.2      API Level: 26       Device Model: generic_x86
+2019-12-16 04:55:05   Debug   user pending mytask tasks screen is loaded at user side     OS Type: Android    App Version: 1.2      API Level: 26       Device Model: generic_x86
+2019-12-16 04:55:06   Info   UserPendingMyTask:getdata() method is used to get pending my tasks at user side     OS Type: Android    App Version: 1.2      API Level: 26       Device Model: generic_x86
+2019-12-16 05:28:58   Debug   admin request projects screen is loaded     OS Type: Android    App Version: 1.2      API Level: 28       Device Model: RMX1825
+2019-12-16 05:28:59   Info    getRequestedIdeas(role, userToken, cropcode) is used to get all requested projects at admin side     OS Type: Android    App Version: 1.2      API Level: 28       Device Model: RMX1825
+2019-12-16 05:29:06   Debug   getting the CompletedMyTask List     OS Type: Android    App Version: 1.2      API Level: 28       Device Model: RMX1825
+2019-12-16 05:29:08   Info    userCompletedMyTasks(cropcode) is used to get the all the user completed data list     OS Type: Android    App Version: 1.2      API Level: 28       Device Model: RMX1825
+2019-12-16 05:29:12   Info    userCompletedMyTasks(cropcode) is used to get the all the user completed data list     OS Type: Android    App Version: 1.2      API Level: 28       Device Model: RMX1825
+2019-12-16 05:29:12   Debug   Solved Road Blocks loaded     OS Type: Android    App Version: 1.2      API Level: 28       Device Model: RMX1825
+2019-12-16 05:55:58   Debug   user pending mytask tasks screen is loaded at user side     OS Type: Android    App Version: 1.2      API Level: 28       Device Model: generic_x86_arm
+2019-12-16 05:55:58   Info   UserPendingMyTask:getdata() method is used to get pending my tasks at user side     OS Type: Android    App Version: 1.2      API Level: 28       Device Model: generic_x86_arm
+2019-12-16 05:57:39   Debug   user pending mytask tasks screen is loaded at user side     OS Type: Android    App Version: 1.2      API Level: 28       Device Model: generic_x86_arm
+2019-12-16 05:57:39   Info   UserPendingMyTask:getdata() method is used to get pending my tasks at user side     OS Type: Android    App Version: 1.2      API Level: 28       Device Model: generic_x86_arm
+2019-12-16 06:22:26   Debug   user pending mytask tasks screen is loaded at user side     OS Type: Android    App Version: 1.2      API Level: 28       Device Model: generic_x86_arm
+2019-12-16 06:22:26   Info   UserPendingMyTask:getdata() method is used to get pending my tasks at user side     OS Type: Android    App Version: 1.2      API Level: 28       Device Model: generic_x86_arm
+2019-12-16 06:22:35   Info    getdata() is used to get all requested projects at user side     OS Type: Android    App Version: 1.2      API Level: 28       Device Model: generic_x86_arm
+2019-12-16 06:22:35   Debug   user request projects screen is loaded     OS Type: Android    App Version: 1.2      API Level: 28       Device Model: generic_x86_arm
+2019-12-16 06:22:59   Info   UserManageEmployees:getEmployeeList() method is used to get employee list     OS Type: Android    App Version: 1.2      API Level: 28       Device Model: generic_x86_arm
+2019-12-16 06:22:59   Debug   Employees list getting screen is loaded at user side     OS Type: Android    App Version: 1.2      API Level: 28       Device Model: generic_x86_arm
+2019-12-16 06:23:49   Debug   Employees list getting screen is loaded at user side     OS Type: Android    App Version: 1.2      API Level: 26       Device Model: generic_x86
+2019-12-16 06:23:49   Info   UserManageEmployees:getEmployeeList() method is used to get employee list     OS Type: Android    App Version: 1.2      API Level: 26       Device Model: generic_x86
+2019-12-16 06:24:15   Debug   user Manageemployee view pending tasks screen is loaded     OS Type: Android    App Version: 1.2      API Level: 26       Device Model: generic_x86
+2019-12-16 06:24:15   Info   UserManageEmployeeTaskPending:getEmployeesPendingTaskList() used to get employee pending tasks     OS Type: Android    App Version: 1.2      API Level: 26       Device Model: generic_x86
+2019-12-16 06:24:16   Info   no  employee pending tasks at user side     OS Type: Android    App Version: 1.2      API Level: 26       Device Model: generic_x86
+2019-12-16 06:25:29   Info    userCompletedMyTasks(cropcode) is used to get the all the user completed data list     OS Type: Android    App Version: 1.2      API Level: 26       Device Model: generic_x86
+2019-12-16 06:25:29   Debug   getting the CompletedMyTask List     OS Type: Android    App Version: 1.2      API Level: 26       Device Model: generic_x86
+2019-12-16 06:27:23   Debug   user pending mytask tasks screen is loaded at user side     OS Type: Android    App Version: 1.2      API Level: 28       Device Model: generic_x86_arm
+2019-12-16 06:27:23   Info   UserPendingMyTask:getdata() method is used to get pending my tasks at user side     OS Type: Android    App Version: 1.2      API Level: 28       Device Model: generic_x86_arm
+2019-12-16 06:27:31   Info   UserManageEmployees:getEmployeeList() method is used to get employee list     OS Type: Android    App Version: 1.2      API Level: 28       Device Model: generic_x86_arm
+2019-12-16 06:27:31   Debug   Employees list getting screen is loaded at user side     OS Type: Android    App Version: 1.2      API Level: 28       Device Model: generic_x86_arm
+2019-12-16 06:27:44   Debug   user Manageemployee view pending tasks screen is loaded     OS Type: Android    App Version: 1.2      API Level: 28       Device Model: generic_x86_arm
+2019-12-16 06:27:45   Info   UserManageEmployeeTaskPending:getEmployeesPendingTaskList() used to get employee pending tasks     OS Type: Android    App Version: 1.2      API Level: 28       Device Model: generic_x86_arm
+2019-12-16 06:27:53   Info    userCompletedMyTasks(cropcode) is used to get the all the user completed data list     OS Type: Android    App Version: 1.2      API Level: 28       Device Model: generic_x86_arm
+2019-12-16 06:27:53   Debug   getting the CompletedMyTask List     OS Type: Android    App Version: 1.2      API Level: 28       Device Model: generic_x86_arm
+2019-12-16 06:27:56   Debug   Solved Road Blocks loaded     OS Type: Android    App Version: 1.2      API Level: 28       Device Model: generic_x86_arm
+2019-12-16 06:27:56   Info    userCompletedMyTasks(cropcode) is used to get the all the user completed data list     OS Type: Android    App Version: 1.2      API Level: 28       Device Model: generic_x86_arm
+2019-12-16 06:32:00   Debug   user completed projects screen is loaded     OS Type: Android    App Version: 1.2      API Level: 26       Device Model: generic_x86
+2019-12-16 06:32:00   Info   UserCompletedProjects:userCompletedProjects(role, userToken, cropcode) method used to get all completed projects at user side     OS Type: Android    App Version: 1.2      API Level: 26       Device Model: generic_x86
+2019-12-16 06:32:00   Info   no completed projects at user side     OS Type: Android    App Version: 1.2      API Level: 26       Device Model: generic_x86
+2019-12-16 07:22:27   Info    userCompletedMyTasks(cropcode) is used to get the all the user completed data list     OS Type: Android    App Version: 1.2      API Level: 28       Device Model: generic_x86_arm
+2019-12-16 07:22:41   Debug   user completed manage tasks screen is loaded     OS Type: Android    App Version: 1.2      API Level: 28       Device Model: generic_x86_arm
+2019-12-16 07:22:41   Info   UserCompletedMyTask:userCompletedMyTasks() method is used to get completed my tasks at user side     OS Type: Android    App Version: 1.2      API Level: 28       Device Model: generic_x86_arm
+2019-12-16 07:23:33   Debug   user request projects screen is loaded     OS Type: Android    App Version: 1.2      API Level: 28       Device Model: generic_x86_arm
+2019-12-16 07:23:33   Info    getdata() is used to get all requested projects at user side     OS Type: Android    App Version: 1.2      API Level: 28       Device Model: generic_x86_arm
+2019-12-16 07:23:36   Debug   User Approved projects screen is loaded     OS Type: Android    App Version: 1.2      API Level: 28       Device Model: generic_x86_arm
+2019-12-16 07:23:36   Info   UserApprovedProjects:setRO(userApprovedProjects() method is used to list the user approved projects     OS Type: Android    App Version: 1.2      API Level: 28       Device Model: generic_x86_arm
+2019-12-16 07:23:36   Info   UserApprovedProjects:getResource() method is used to get all employee list     OS Type: Android    App Version: 1.2      API Level: 28       Device Model: generic_x86_arm
+2019-12-16 09:14:53   Debug   Login Screen is Loaded     OS Type: iOS    App Version: 1.12      API Level: -1       Device Model: unknown
+2019-12-16 09:15:21   Info   onSignIn() is used for login purpose and based on usertype data is authorizised     OS Type: iOS    App Version: 1.12      API Level: -1       Device Model: unknown
+2019-12-16 09:15:23   Debug   admin request projects screen is loaded     OS Type: iOS    App Version: 1.12      API Level: -1       Device Model: unknown
+2019-12-16 09:15:24   Info    getRequestedIdeas(role, userToken, cropcode) is used to get all requested projects at admin side     OS Type: iOS    App Version: 1.12      API Level: -1       Device Model: unknown
+2019-12-16 09:15:28   Debug   Employees list getting screen is loaded at admin side     OS Type: iOS    App Version: 1.12      API Level: -1       Device Model: unknown
+2019-12-16 09:15:29   Info   UserManageEmployees:getEmployeeList() method is used to get employee list     OS Type: iOS    App Version: 1.12      API Level: -1       Device Model: unknown
+2019-12-16 09:17:32   Debug   user Manageemployee view pending tasks screen is loaded     OS Type: Android    App Version: 1.2      API Level: 28       Device Model: generic_x86_arm
+2019-12-16 09:17:32   Info   UserManageEmployeeTaskPending:getEmployeesPendingTaskList() used to get employee pending tasks     OS Type: Android    App Version: 1.2      API Level: 28       Device Model: generic_x86_arm
+2019-12-16 09:17:39   Info    userCompletedMyTasks(cropcode) is used to get the all the user completed data list     OS Type: Android    App Version: 1.2      API Level: 28       Device Model: generic_x86_arm
+2019-12-16 09:17:54   Info   UserManageEmployeeTaskPending:getEmployeesPendingTaskList() used to get employee pending tasks     OS Type: Android    App Version: 1.2      API Level: 28       Device Model: generic_x86_arm
+2019-12-16 09:17:54   Debug   user Manageemployee view pending tasks screen is loaded     OS Type: Android    App Version: 1.2      API Level: 28       Device Model: generic_x86_arm
+2019-12-16 09:17:58   Info    userCompletedMyTasks(cropcode) is used to get the all the user completed data list     OS Type: Android    App Version: 1.2      API Level: 28       Device Model: generic_x86_arm
+2019-12-16 09:18:38   Debug   user Manageemployee view pending tasks screen is loaded     OS Type: Android    App Version: 1.2      API Level: 28       Device Model: generic_x86_arm
+2019-12-16 09:18:38   Info   UserManageEmployeeTaskPending:getEmployeesPendingTaskList() used to get employee pending tasks     OS Type: Android    App Version: 1.2      API Level: 28       Device Model: generic_x86_arm
+2019-12-16 09:18:39   Info   no  employee pending tasks at user side     OS Type: Android    App Version: 1.2      API Level: 28       Device Model: generic_x86_arm
+2019-12-16 09:18:45   Info    userCompletedMyTasks(cropcode) is used to get the all the user completed data list     OS Type: Android    App Version: 1.2      API Level: 28       Device Model: generic_x86_arm
+2019-12-16 09:18:56   Debug   user pending mytask tasks screen is loaded at user side     OS Type: Android    App Version: 1.2      API Level: 28       Device Model: generic_x86_arm
+2019-12-16 09:18:56   Info   UserPendingMyTask:getdata() method is used to get pending my tasks at user side     OS Type: Android    App Version: 1.2      API Level: 28       Device Model: generic_x86_arm
+2019-12-16 09:58:33   Debug   user pending mytask tasks screen is loaded at user side     OS Type: Android    App Version: 1.2      API Level: 28       Device Model: generic_x86_arm
+2019-12-16 09:58:34   Info   UserPendingMyTask:getdata() method is used to get pending my tasks at user side     OS Type: Android    App Version: 1.2      API Level: 28       Device Model: generic_x86_arm
+2019-12-16 09:58:42   Debug   Employees list getting screen is loaded at user side     OS Type: Android    App Version: 1.2      API Level: 28       Device Model: generic_x86_arm
+2019-12-16 09:58:42   Info   UserManageEmployees:getEmployeeList() method is used to get employee list     OS Type: Android    App Version: 1.2      API Level: 28       Device Model: generic_x86_arm
+2019-12-16 09:59:04   Debug   user Manageemployee view pending tasks screen is loaded     OS Type: Android    App Version: 1.2      API Level: 28       Device Model: generic_x86_arm
+2019-12-16 09:59:04   Info   UserManageEmployeeTaskPending:getEmployeesPendingTaskList() used to get employee pending tasks     OS Type: Android    App Version: 1.2      API Level: 28       Device Model: generic_x86_arm
+2019-12-16 09:59:54   Debug   user pending mytask tasks screen is loaded at user side     OS Type: Android    App Version: 1.2      API Level: 28       Device Model: generic_x86_arm
+2019-12-16 09:59:54   Info   UserPendingMyTask:getdata() method is used to get pending my tasks at user side     OS Type: Android    App Version: 1.2      API Level: 28       Device Model: generic_x86_arm
+2019-12-16 10:00:04   Debug   Employees list getting screen is loaded at user side     OS Type: Android    App Version: 1.2      API Level: 28       Device Model: generic_x86_arm
+2019-12-16 10:00:04   Info   UserManageEmployees:getEmployeeList() method is used to get employee list     OS Type: Android    App Version: 1.2      API Level: 28       Device Model: generic_x86_arm
+2019-12-16 10:00:18   Debug   user request projects screen is loaded     OS Type: Android    App Version: 1.2      API Level: 28       Device Model: generic_x86_arm
+2019-12-16 10:00:18   Info    getdata() is used to get all requested projects at user side     OS Type: Android    App Version: 1.2      API Level: 28       Device Model: generic_x86_arm
+2019-12-16 10:04:09   Debug   user pending mytask tasks screen is loaded at user side     OS Type: Android    App Version: 1.2      API Level: 28       Device Model: generic_x86_arm
+2019-12-16 10:04:10   Info   UserPendingMyTask:getdata() method is used to get pending my tasks at user side     OS Type: Android    App Version: 1.2      API Level: 28       Device Model: generic_x86_arm
+2019-12-16 10:04:14   Info   UserManageEmployees:getEmployeeList() method is used to get employee list     OS Type: Android    App Version: 1.2      API Level: 28       Device Model: generic_x86_arm
+2019-12-16 10:04:14   Debug   Employees list getting screen is loaded at user side     OS Type: Android    App Version: 1.2      API Level: 28       Device Model: generic_x86_arm
+2019-12-16 10:05:32   Debug   user Manageemployee view pending tasks screen is loaded     OS Type: Android    App Version: 1.2      API Level: 28       Device Model: generic_x86_arm
+2019-12-16 10:05:33   Info   UserManageEmployeeTaskPending:getEmployeesPendingTaskList() used to get employee pending tasks     OS Type: Android    App Version: 1.2      API Level: 28       Device Model: generic_x86_arm
+2019-12-16 10:05:37   Info    getdata() is used to get all requested projects at user side     OS Type: Android    App Version: 1.2      API Level: 28       Device Model: generic_x86_arm
+2019-12-16 10:05:38   Debug   user request projects screen is loaded     OS Type: Android    App Version: 1.2      API Level: 28       Device Model: generic_x86_arm
+2019-12-16 10:05:49   Debug   user completed projects screen is loaded     OS Type: Android    App Version: 1.2      API Level: 28       Device Model: generic_x86_arm
+2019-12-16 10:05:49   Info   UserCompletedProjects:userCompletedProjects(role, userToken, cropcode) method used to get all completed projects at user side     OS Type: Android    App Version: 1.2      API Level: 28       Device Model: generic_x86_arm
+2019-12-16 10:05:49   Info   no completed projects at user side     OS Type: Android    App Version: 1.2      API Level: 28       Device Model: generic_x86_arm
+2019-12-16 10:25:47   Debug   user pending mytask tasks screen is loaded at user side     OS Type: Android    App Version: 1.2      API Level: 28       Device Model: generic_x86_arm
+2019-12-16 10:25:48   Info   UserPendingMyTask:getdata() method is used to get pending my tasks at user side     OS Type: Android    App Version: 1.2      API Level: 28       Device Model: generic_x86_arm
+2019-12-16 10:25:55   Info   UserManageEmployees:getEmployeeList() method is used to get employee list     OS Type: Android    App Version: 1.2      API Level: 28       Device Model: generic_x86_arm
+2019-12-16 10:25:55   Debug   Employees list getting screen is loaded at user side     OS Type: Android    App Version: 1.2      API Level: 28       Device Model: generic_x86_arm
+2019-12-16 10:26:08   Info    getdata() is used to get all requested projects at user side     OS Type: Android    App Version: 1.2      API Level: 28       Device Model: generic_x86_arm
+2019-12-16 10:26:08   Debug   user request projects screen is loaded     OS Type: Android    App Version: 1.2      API Level: 28       Device Model: generic_x86_arm
+2019-12-16 10:27:31   Debug   user pending mytask tasks screen is loaded at user side     OS Type: Android    App Version: 1.2      API Level: 28       Device Model: generic_x86_arm
+2019-12-16 10:27:31   Info   UserPendingMyTask:getdata() method is used to get pending my tasks at user side     OS Type: Android    App Version: 1.2      API Level: 28       Device Model: generic_x86_arm
+2019-12-16 10:28:30   Debug   user pending mytask tasks screen is loaded at user side     OS Type: Android    App Version: 1.2      API Level: 28       Device Model: generic_x86_arm
+2019-12-16 10:28:30   Info   UserPendingMyTask:getdata() method is used to get pending my tasks at user side     OS Type: Android    App Version: 1.2      API Level: 28       Device Model: generic_x86_arm
+2019-12-16 10:28:36   Debug   Employees list getting screen is loaded at user side     OS Type: Android    App Version: 1.2      API Level: 28       Device Model: generic_x86_arm
+2019-12-16 10:28:36   Info   UserManageEmployees:getEmployeeList() method is used to get employee list     OS Type: Android    App Version: 1.2      API Level: 28       Device Model: generic_x86_arm
+2019-12-16 10:28:49   Debug   user request projects screen is loaded     OS Type: Android    App Version: 1.2      API Level: 28       Device Model: generic_x86_arm
+2019-12-16 10:28:49   Info    getdata() is used to get all requested projects at user side     OS Type: Android    App Version: 1.2      API Level: 28       Device Model: generic_x86_arm
+2019-12-16 10:29:38   Debug   user pending mytask tasks screen is loaded at user side     OS Type: Android    App Version: 1.2      API Level: 28       Device Model: generic_x86_arm
+2019-12-16 10:29:38   Info   UserPendingMyTask:getdata() method is used to get pending my tasks at user side     OS Type: Android    App Version: 1.2      API Level: 28       Device Model: generic_x86_arm
+2019-12-16 10:29:45   Debug   Employees list getting screen is loaded at user side     OS Type: Android    App Version: 1.2      API Level: 28       Device Model: generic_x86_arm
+2019-12-16 10:29:45   Info   UserManageEmployees:getEmployeeList() method is used to get employee list     OS Type: Android    App Version: 1.2      API Level: 28       Device Model: generic_x86_arm
+2019-12-16 10:30:01   Debug   user request projects screen is loaded     OS Type: Android    App Version: 1.2      API Level: 28       Device Model: generic_x86_arm
+2019-12-16 10:30:01   Info    getdata() is used to get all requested projects at user side     OS Type: Android    App Version: 1.2      API Level: 28       Device Model: generic_x86_arm
+2019-12-16 10:31:31   Debug   user pending mytask tasks screen is loaded at user side     OS Type: Android    App Version: 1.2      API Level: 28       Device Model: generic_x86_arm
+2019-12-16 10:31:31   Info   UserPendingMyTask:getdata() method is used to get pending my tasks at user side     OS Type: Android    App Version: 1.2      API Level: 28       Device Model: generic_x86_arm
+2019-12-16 10:31:36   Info   UserManageEmployees:getEmployeeList() method is used to get employee list     OS Type: Android    App Version: 1.2      API Level: 28       Device Model: generic_x86_arm
+2019-12-16 10:31:37   Debug   Employees list getting screen is loaded at user side     OS Type: Android    App Version: 1.2      API Level: 28       Device Model: generic_x86_arm
+2019-12-16 10:31:49   Debug   user request projects screen is loaded     OS Type: Android    App Version: 1.2      API Level: 28       Device Model: generic_x86_arm
+2019-12-16 10:31:50   Info    getdata() is used to get all requested projects at user side     OS Type: Android    App Version: 1.2      API Level: 28       Device Model: generic_x86_arm
+2019-12-16 10:32:53   Debug   user pending mytask tasks screen is loaded at user side     OS Type: Android    App Version: 1.2      API Level: 28       Device Model: generic_x86_arm
+2019-12-16 10:32:53   Info   UserPendingMyTask:getdata() method is used to get pending my tasks at user side     OS Type: Android    App Version: 1.2      API Level: 28       Device Model: generic_x86_arm
+2019-12-16 10:32:58   Info   UserManageEmployees:getEmployeeList() method is used to get employee list     OS Type: Android    App Version: 1.2      API Level: 28       Device Model: generic_x86_arm
+2019-12-16 10:32:58   Debug   Employees list getting screen is loaded at user side     OS Type: Android    App Version: 1.2      API Level: 28       Device Model: generic_x86_arm
+2019-12-16 10:33:12   Info    getdata() is used to get all requested projects at user side     OS Type: Android    App Version: 1.2      API Level: 28       Device Model: generic_x86_arm
+2019-12-16 10:33:12   Debug   user request projects screen is loaded     OS Type: Android    App Version: 1.2      API Level: 28       Device Model: generic_x86_arm
+2019-12-16 10:33:27   Info   UserManageEmployees:SearchFilterFunction(text) method is used for search functionality     OS Type: Android    App Version: 1.2      API Level: 28       Device Model: generic_x86_arm
+2019-12-16 10:33:27   Info   UserManageEmployees:SearchFilterFunction(text) method is used for search functionality     OS Type: Android    App Version: 1.2      API Level: 28       Device Model: generic_x86_arm
+2019-12-16 10:33:27   Info   UserManageEmployees:SearchFilterFunction(text) method is used for search functionality     OS Type: Android    App Version: 1.2      API Level: 28       Device Model: generic_x86_arm
+2019-12-16 10:33:27   Info   UserManageEmployees:SearchFilterFunction(text) method is used for search functionality     OS Type: Android    App Version: 1.2      API Level: 28       Device Model: generic_x86_arm
+2019-12-16 10:33:40   Info    getdata() is used to get all requested projects at user side     OS Type: Android    App Version: 1.2      API Level: 28       Device Model: generic_x86_arm
+2019-12-16 10:33:47   Info    getdata() is used to get all requested projects at user side     OS Type: Android    App Version: 1.2      API Level: 28       Device Model: generic_x86_arm
+2019-12-16 10:34:00   Debug   user pending mytask tasks screen is loaded at user side     OS Type: Android    App Version: 1.2      API Level: 28       Device Model: generic_x86_arm
+2019-12-16 10:34:00   Info   UserPendingMyTask:getdata() method is used to get pending my tasks at user side     OS Type: Android    App Version: 1.2      API Level: 28       Device Model: generic_x86_arm
+2019-12-16 10:34:10   Debug   Employees list getting screen is loaded at user side     OS Type: Android    App Version: 1.2      API Level: 28       Device Model: generic_x86_arm
+2019-12-16 10:34:10   Info   UserManageEmployees:getEmployeeList() method is used to get employee list     OS Type: Android    App Version: 1.2      API Level: 28       Device Model: generic_x86_arm
+2019-12-16 10:34:15   Info   UserManageEmployees:SearchFilterFunction(text) method is used for search functionality     OS Type: Android    App Version: 1.2      API Level: 28       Device Model: generic_x86_arm
+2019-12-16 10:34:23   Debug   user request projects screen is loaded     OS Type: Android    App Version: 1.2      API Level: 28       Device Model: generic_x86_arm
+2019-12-16 10:34:23   Info    getdata() is used to get all requested projects at user side     OS Type: Android    App Version: 1.2      API Level: 28       Device Model: generic_x86_arm
+2019-12-16 10:34:34   Info   UserApprovedProjects:getResource() method is used to get all employee list     OS Type: Android    App Version: 1.2      API Level: 28       Device Model: generic_x86_arm
+2019-12-16 10:34:34   Debug   User Approved projects screen is loaded     OS Type: Android    App Version: 1.2      API Level: 28       Device Model: generic_x86_arm
+2019-12-16 10:34:34   Info   UserApprovedProjects:setRO(userApprovedProjects() method is used to list the user approved projects     OS Type: Android    App Version: 1.2      API Level: 28       Device Model: generic_x86_arm
+2019-12-16 10:34:39   Info    getdata() is used to get all requested projects at user side     OS Type: Android    App Version: 1.2      API Level: 28       Device Model: generic_x86_arm
+2019-12-16 10:34:44   Info    getdata() is used to get all requested projects at user side     OS Type: Android    App Version: 1.2      API Level: 28       Device Model: generic_x86_arm
+2019-12-16 10:35:48   Debug   Login Screen is Loaded     OS Type: Android    App Version: 1.2      API Level: 28       Device Model: generic_x86_arm
+2019-12-16 10:36:18   Info   onSignIn() is used for login purpose and based on usertype data is authorizised     OS Type: Android    App Version: 1.2      API Level: 28       Device Model: generic_x86_arm
+2019-12-16 10:36:18   Info   UserPendingMyTask:getdata() method is used to get pending my tasks at user side     OS Type: Android    App Version: 1.2      API Level: 28       Device Model: generic_x86_arm
+2019-12-16 10:36:18   Debug   user pending mytask tasks screen is loaded at user side     OS Type: Android    App Version: 1.2      API Level: 28       Device Model: generic_x86_arm
+2019-12-16 10:37:08   Debug   user pending mytask tasks screen is loaded at user side     OS Type: Android    App Version: 1.2      API Level: 28       Device Model: generic_x86_arm
+2019-12-16 10:37:08   Info   UserPendingMyTask:getdata() method is used to get pending my tasks at user side     OS Type: Android    App Version: 1.2      API Level: 28       Device Model: generic_x86_arm
+2019-12-16 10:37:16   Info   UserManageEmployees:getEmployeeList() method is used to get employee list     OS Type: Android    App Version: 1.2      API Level: 28       Device Model: generic_x86_arm
+2019-12-16 10:37:16   Debug   Employees list getting screen is loaded at user side     OS Type: Android    App Version: 1.2      API Level: 28       Device Model: generic_x86_arm
+2019-12-16 10:37:23   Info   UserManageEmployees:SearchFilterFunction(text) method is used for search functionality     OS Type: Android    App Version: 1.2      API Level: 28       Device Model: generic_x86_arm
+2019-12-16 10:37:24   Info   UserManageEmployees:SearchFilterFunction(text) method is used for search functionality     OS Type: Android    App Version: 1.2      API Level: 28       Device Model: generic_x86_arm
+2019-12-16 10:37:25   Info   UserManageEmployees:SearchFilterFunction(text) method is used for search functionality     OS Type: Android    App Version: 1.2      API Level: 28       Device Model: generic_x86_arm
+2019-12-16 10:37:32   Debug   user request projects screen is loaded     OS Type: Android    App Version: 1.2      API Level: 28       Device Model: generic_x86_arm
+2019-12-16 10:37:32   Info    getdata() is used to get all requested projects at user side     OS Type: Android    App Version: 1.2      API Level: 28       Device Model: generic_x86_arm
+2019-12-16 10:37:36   Info   UserApprovedProjects:setRO(userApprovedProjects() method is used to list the user approved projects     OS Type: Android    App Version: 1.2      API Level: 28       Device Model: generic_x86_arm
+2019-12-16 10:37:36   Debug   User Approved projects screen is loaded     OS Type: Android    App Version: 1.2      API Level: 28       Device Model: generic_x86_arm
+2019-12-16 10:37:36   Info   UserApprovedProjects:getResource() method is used to get all employee list     OS Type: Android    App Version: 1.2      API Level: 28       Device Model: generic_x86_arm
+2019-12-16 10:37:42   Info    getdata() is used to get all requested projects at user side     OS Type: Android    App Version: 1.2      API Level: 28       Device Model: generic_x86_arm
+2019-12-16 10:48:07   Info   UserApprovedProjects:Module() method is used to move module listing screen     OS Type: Android    App Version: 1.2      API Level: 28       Device Model: generic_x86_arm
+2019-12-16 10:48:07   Debug    getModules screen is loaded     OS Type: Android    App Version: 1.2      API Level: 28       Device Model: generic_x86_arm
+2019-12-16 10:48:08   Debug   Add Module screen is loaded     OS Type: Android    App Version: 1.2      API Level: 28       Device Model: generic_x86_arm
+2019-12-16 12:25:03   Debug   user pending mytask tasks screen is loaded at user side     OS Type: Android    App Version: 1.2      API Level: 28       Device Model: generic_x86_arm
+2019-12-16 12:25:03   Info   UserPendingMyTask:getdata() method is used to get pending my tasks at user side     OS Type: Android    App Version: 1.2      API Level: 28       Device Model: generic_x86_arm
+2019-12-16 12:25:17   Debug   Login Screen is Loaded     OS Type: Android    App Version: 1.2      API Level: 28       Device Model: generic_x86_arm
+2019-12-16 12:26:39   Info   onSignIn() is used for login purpose and based on usertype data is authorizised     OS Type: Android    App Version: 1.2      API Level: 28       Device Model: generic_x86_arm
+2019-12-16 12:26:40   Debug   user pending mytask tasks screen is loaded at user side     OS Type: Android    App Version: 1.2      API Level: 28       Device Model: generic_x86_arm
+2019-12-16 12:26:40   Info   UserPendingMyTask:getdata() method is used to get pending my tasks at user side     OS Type: Android    App Version: 1.2      API Level: 28       Device Model: generic_x86_arm
+2019-12-16 12:27:06   Info   UserManageEmployees:getEmployeeList() method is used to get employee list     OS Type: Android    App Version: 1.2      API Level: 28       Device Model: generic_x86_arm
+2019-12-16 12:27:06   Debug   Employees list getting screen is loaded at user side     OS Type: Android    App Version: 1.2      API Level: 28       Device Model: generic_x86_arm
+2019-12-16 12:27:18   Debug   user Manageemployee view pending tasks screen is loaded     OS Type: Android    App Version: 1.2      API Level: 28       Device Model: generic_x86_arm
+2019-12-16 12:27:18   Info   UserManageEmployeeTaskPending:getEmployeesPendingTaskList() used to get employee pending tasks     OS Type: Android    App Version: 1.2      API Level: 28       Device Model: generic_x86_arm

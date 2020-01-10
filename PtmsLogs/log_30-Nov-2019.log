@@ -1,0 +1,42 @@
+2019-11-30 13:33:14   Debug   Login Screen is Loaded     OS Type: iOS    App Version: 1.13      API Level: -1       Device Model: unknown
+2019-11-30 13:33:59   Info   onSignIn() is used for login purpose and based on usertype data is authorizised     OS Type: iOS    App Version: 1.13      API Level: -1       Device Model: unknown
+2019-11-30 13:33:59   Debug   user pending mytask tasks screen is loaded at user side     OS Type: iOS    App Version: 1.13      API Level: -1       Device Model: unknown
+2019-11-30 13:33:59   Info   UserPendingMyTask:getdata() method is used to get pending my tasks at user side     OS Type: iOS    App Version: 1.13      API Level: -1       Device Model: unknown
+2019-11-30 13:34:00   Info   no pending my tasks at user side     OS Type: iOS    App Version: 1.13      API Level: -1       Device Model: unknown
+2019-11-30 13:34:02   Debug   user completed manage tasks screen is loaded     OS Type: iOS    App Version: 1.13      API Level: -1       Device Model: unknown
+2019-11-30 13:34:02   Info   UserCompletedMyTask:userCompletedMyTasks() method is used to get completed my tasks at user side     OS Type: iOS    App Version: 1.13      API Level: -1       Device Model: unknown
+2019-11-30 13:34:02   Info   no completed my tasks at user side     OS Type: iOS    App Version: 1.13      API Level: -1       Device Model: unknown
+2019-11-30 13:34:08   Debug   UserProfile screen is loaded     OS Type: iOS    App Version: 1.13      API Level: -1       Device Model: unknown
+2019-11-30 13:34:08   Info   UserProfile:GetStatus() method is used to get status of employee     OS Type: iOS    App Version: 1.13      API Level: -1       Device Model: unknown
+2019-11-30 13:34:08   Info   UserProfile:profile() method is used get employee profile data     OS Type: iOS    App Version: 1.13      API Level: -1       Device Model: unknown
+2019-11-30 13:34:14   Info   UserProfile:UpdateStatus(status) method is used to update status of employee     OS Type: iOS    App Version: 1.13      API Level: -1       Device Model: unknown
+2019-11-30 13:34:15   Info   UserProfile:save() method is used to update mobile number     OS Type: iOS    App Version: 1.13      API Level: -1       Device Model: unknown
+2019-11-30 13:34:22   Info   userPendingManageTasks:DeleteMaintask(maintaskid) method is used to delete maintask     OS Type: iOS    App Version: 1.13      API Level: -1       Device Model: unknown
+2019-11-30 13:34:22   Info   userPendingManageTasks:DeleteMaintask(maintaskid) method is used to delete maintask     OS Type: iOS    App Version: 1.13      API Level: -1       Device Model: unknown
+2019-11-30 13:34:22   Debug   user pending manage tasks screen is loaded     OS Type: iOS    App Version: 1.13      API Level: -1       Device Model: unknown
+2019-11-30 13:34:22   Info   to get level no     OS Type: iOS    App Version: 1.13      API Level: -1       Device Model: unknown
+2019-11-30 13:34:22   Info   to get level no     OS Type: iOS    App Version: 1.13      API Level: -1       Device Model: unknown
+2019-11-30 13:34:23   Info   no pending manage tasks at user side     OS Type: iOS    App Version: 1.13      API Level: -1       Device Model: unknown
+2019-11-30 13:34:23   Info   no pending manage tasks at user side     OS Type: iOS    App Version: 1.13      API Level: -1       Device Model: unknown
+2019-11-30 13:34:23   Info   no pending manage tasks at user side     OS Type: iOS    App Version: 1.13      API Level: -1       Device Model: unknown
+2019-11-30 13:34:23   Info   no pending manage tasks at user side     OS Type: iOS    App Version: 1.13      API Level: -1       Device Model: unknown
+2019-11-30 13:34:23   Info   no pending manage tasks at user side     OS Type: iOS    App Version: 1.13      API Level: -1       Device Model: unknown
+2019-11-30 13:34:23   Info   no pending manage tasks at user side     OS Type: iOS    App Version: 1.13      API Level: -1       Device Model: unknown
+2019-11-30 13:34:23   Info   no pending manage tasks at user side     OS Type: iOS    App Version: 1.13      API Level: -1       Device Model: unknown
+2019-11-30 13:34:23   Info   no pending manage tasks at user side     OS Type: iOS    App Version: 1.13      API Level: -1       Device Model: unknown
+2019-11-30 13:34:26   Info   UsrePendingManageTasks:AddSubTask(item, index) used to navigate to modify addsubtask screen     OS Type: iOS    App Version: 1.13      API Level: -1       Device Model: unknown
+2019-11-30 13:34:26   Debug   Add Sub Task Modal screen is loaded     OS Type: iOS    App Version: 1.13      API Level: -1       Device Model: unknown
+2019-11-30 13:34:26   Info   empSearch(cropcode) method is used to employee's data     OS Type: iOS    App Version: 1.13      API Level: -1       Device Model: unknown
+2019-11-30 13:34:30   Debug   user userpreference screen is loaded     OS Type: iOS    App Version: 1.13      API Level: -1       Device Model: unknown
+2019-11-30 13:34:31   Info   userPendingManageTasks:DeleteMaintask(maintaskid) method is used to delete maintask     OS Type: iOS    App Version: 1.13      API Level: -1       Device Model: unknown
+2019-11-30 13:34:35   Debug   user completed projects screen is loaded     OS Type: iOS    App Version: 1.13      API Level: -1       Device Model: unknown
+2019-11-30 13:34:36   Info   UserCompletedProjects:userCompletedProjects(role, userToken, cropcode) method used to get all completed projects at user side     OS Type: iOS    App Version: 1.13      API Level: -1       Device Model: unknown
+2019-11-30 13:34:37   Info   no completed projects at user side     OS Type: iOS    App Version: 1.13      API Level: -1       Device Model: unknown
+2019-11-30 13:34:50   Info    userCompletedMyTasks(cropcode) is used to get the all the user completed data list     OS Type: iOS    App Version: 1.13      API Level: -1       Device Model: unknown
+2019-11-30 13:34:50   Debug   getting the CompletedMyTask List     OS Type: iOS    App Version: 1.13      API Level: -1       Device Model: unknown
+2019-11-30 13:34:51   Debug   Solved Road Blocks loaded     OS Type: iOS    App Version: 1.13      API Level: -1       Device Model: unknown
+2019-11-30 13:34:51   Info    userCompletedMyTasks(cropcode) is used to get the all the user completed data list     OS Type: iOS    App Version: 1.13      API Level: -1       Device Model: unknown
+2019-11-30 13:34:53   Debug   Task Chat screen is loaded     OS Type: iOS    App Version: 1.13      API Level: -1       Device Model: unknown
+2019-11-30 13:34:53   Info    getMessages(role, userToken, cropcode) is used getting task related messages     OS Type: iOS    App Version: 1.13      API Level: -1       Device Model: unknown
+2019-11-30 13:34:53   Info    groupMembersList(role, userToken, cropcode) is used getting task related group members     OS Type: iOS    App Version: 1.13      API Level: -1       Device Model: unknown
+2019-11-30 13:35:06   Debug   Login Screen is Loaded     OS Type: iOS    App Version: 1.13      API Level: -1       Device Model: unknown

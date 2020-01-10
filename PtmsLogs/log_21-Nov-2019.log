@@ -1,0 +1,500 @@
+2019-11-21 03:54:27   Debug   user pending mytask tasks screen is loaded at user side     OS Type: Android    App Version: 1.0      API Level: 26       Device Model: generic_x86
+2019-11-21 03:54:27   Info   UserPendingMyTask:getdata() method is used to get pending my tasks at user side     OS Type: Android    App Version: 1.0      API Level: 26       Device Model: generic_x86
+2019-11-21 03:54:28   Info   no pending my tasks at user side     OS Type: Android    App Version: 1.0      API Level: 26       Device Model: generic_x86
+2019-11-21 04:23:52   Debug   user pending mytask tasks screen is loaded at user side     OS Type: Android    App Version: 1.0      API Level: 26       Device Model: generic_x86
+2019-11-21 04:23:53   Info   UserPendingMyTask:getdata() method is used to get pending my tasks at user side     OS Type: Android    App Version: 1.0      API Level: 26       Device Model: generic_x86
+2019-11-21 04:23:54   Info   no pending my tasks at user side     OS Type: Android    App Version: 1.0      API Level: 26       Device Model: generic_x86
+2019-11-21 04:34:09   Debug   Login Screen is Loaded     OS Type: Android    App Version: 1.0      API Level: 28       Device Model: m30s
+2019-11-21 04:57:19   Debug   user pending mytask tasks screen is loaded at user side     OS Type: Android    App Version: 1.0      API Level: 26       Device Model: generic_x86
+2019-11-21 04:57:20   Info   UserPendingMyTask:getdata() method is used to get pending my tasks at user side     OS Type: Android    App Version: 1.0      API Level: 26       Device Model: generic_x86
+2019-11-21 04:57:20   Info   no pending my tasks at user side     OS Type: Android    App Version: 1.0      API Level: 26       Device Model: generic_x86
+2019-11-21 04:57:32   Debug   Login Screen is Loaded     OS Type: Android    App Version: 1.0      API Level: 26       Device Model: generic_x86
+2019-11-21 04:57:54   Info   onSignIn() is used for login purpose and based on usertype data is authorizised     OS Type: Android    App Version: 1.0      API Level: 26       Device Model: generic_x86
+2019-11-21 04:57:55   Debug   user pending mytask tasks screen is loaded at user side     OS Type: Android    App Version: 1.0      API Level: 26       Device Model: generic_x86
+2019-11-21 04:57:55   Info   UserPendingMyTask:getdata() method is used to get pending my tasks at user side     OS Type: Android    App Version: 1.0      API Level: 26       Device Model: generic_x86
+2019-11-21 04:57:58   Info   updateActiveTaskStatus() method is used to make subtask as active     OS Type: Android    App Version: 1.0      API Level: 26       Device Model: generic_x86
+2019-11-21 04:57:58   Info   userActiveTaskStatusUpdate() method is used to check the active status of subtask     OS Type: Android    App Version: 1.0      API Level: 26       Device Model: generic_x86
+2019-11-21 04:57:58   Error   Error in making subtask as active     OS Type: Android    App Version: 1.0      API Level: 26       Device Model: generic_x86
+2019-11-21 04:58:30   Debug   user pending mytask tasks screen is loaded at user side     OS Type: Android    App Version: 1.0      API Level: 26       Device Model: generic_x86
+2019-11-21 04:58:31   Info   UserPendingMyTask:getdata() method is used to get pending my tasks at user side     OS Type: Android    App Version: 1.0      API Level: 26       Device Model: generic_x86
+2019-11-21 04:58:35   Info   userActiveTaskStatusUpdate() method is used to check the active status of subtask     OS Type: Android    App Version: 1.0      API Level: 26       Device Model: generic_x86
+2019-11-21 04:58:35   Info   updateActiveTaskStatus() method is used to make subtask as active     OS Type: Android    App Version: 1.0      API Level: 26       Device Model: generic_x86
+2019-11-21 04:58:35   Error   Error in making subtask as active     OS Type: Android    App Version: 1.0      API Level: 26       Device Model: generic_x86
+2019-11-21 04:59:19   Debug   user pending mytask tasks screen is loaded at user side     OS Type: Android    App Version: 1.0      API Level: 26       Device Model: generic_x86
+2019-11-21 04:59:19   Info   UserPendingMyTask:getdata() method is used to get pending my tasks at user side     OS Type: Android    App Version: 1.0      API Level: 26       Device Model: generic_x86
+2019-11-21 04:59:23   Info   userActiveTaskStatusUpdate() method is used to check the active status of subtask     OS Type: Android    App Version: 1.0      API Level: 26       Device Model: generic_x86
+2019-11-21 04:59:23   Info   updateActiveTaskStatus() method is used to make subtask as active     OS Type: Android    App Version: 1.0      API Level: 26       Device Model: generic_x86
+2019-11-21 04:59:23   Error   Error in making subtask as active     OS Type: Android    App Version: 1.0      API Level: 26       Device Model: generic_x86
+2019-11-21 05:00:27   Debug   user pending mytask tasks screen is loaded at user side     OS Type: Android    App Version: 1.0      API Level: 26       Device Model: generic_x86
+2019-11-21 05:00:27   Info   UserPendingMyTask:getdata() method is used to get pending my tasks at user side     OS Type: Android    App Version: 1.0      API Level: 26       Device Model: generic_x86
+2019-11-21 05:00:30   Info   updateActiveTaskStatus() method is used to make subtask as active     OS Type: Android    App Version: 1.0      API Level: 26       Device Model: generic_x86
+2019-11-21 05:00:30   Info   userActiveTaskStatusUpdate() method is used to check the active status of subtask     OS Type: Android    App Version: 1.0      API Level: 26       Device Model: generic_x86
+2019-11-21 05:00:30   Error   Error in making subtask as active     OS Type: Android    App Version: 1.0      API Level: 26       Device Model: generic_x86
+2019-11-21 05:01:58   Debug   user pending mytask tasks screen is loaded at user side     OS Type: Android    App Version: 1.0      API Level: 26       Device Model: generic_x86
+2019-11-21 05:01:59   Info   UserPendingMyTask:getdata() method is used to get pending my tasks at user side     OS Type: Android    App Version: 1.0      API Level: 26       Device Model: generic_x86
+2019-11-21 05:02:06   Info   userActiveTaskStatusUpdate() method is used to check the active status of subtask     OS Type: Android    App Version: 1.0      API Level: 26       Device Model: generic_x86
+2019-11-21 05:02:06   Info   updateActiveTaskStatus() method is used to make subtask as active     OS Type: Android    App Version: 1.0      API Level: 26       Device Model: generic_x86
+2019-11-21 05:02:06   Error   Error in making subtask as active     OS Type: Android    App Version: 1.0      API Level: 26       Device Model: generic_x86
+2019-11-21 05:03:16   Debug   user pending mytask tasks screen is loaded at user side     OS Type: Android    App Version: 1.0      API Level: 26       Device Model: generic_x86
+2019-11-21 05:03:16   Info   UserPendingMyTask:getdata() method is used to get pending my tasks at user side     OS Type: Android    App Version: 1.0      API Level: 26       Device Model: generic_x86
+2019-11-21 05:03:20   Info   updateActiveTaskStatus() method is used to make subtask as active     OS Type: Android    App Version: 1.0      API Level: 26       Device Model: generic_x86
+2019-11-21 05:03:20   Info   userActiveTaskStatusUpdate() method is used to check the active status of subtask     OS Type: Android    App Version: 1.0      API Level: 26       Device Model: generic_x86
+2019-11-21 05:03:21   Error   Error in making subtask as active     OS Type: Android    App Version: 1.0      API Level: 26       Device Model: generic_x86
+2019-11-21 05:05:14   Debug   user pending mytask tasks screen is loaded at user side     OS Type: Android    App Version: 1.0      API Level: 26       Device Model: generic_x86
+2019-11-21 05:05:14   Info   UserPendingMyTask:getdata() method is used to get pending my tasks at user side     OS Type: Android    App Version: 1.0      API Level: 26       Device Model: generic_x86
+2019-11-21 05:05:27   Info   userActiveTaskStatusUpdate() method is used to check the active status of subtask     OS Type: Android    App Version: 1.0      API Level: 26       Device Model: generic_x86
+2019-11-21 05:05:27   Info   updateActiveTaskStatus() method is used to make subtask as active     OS Type: Android    App Version: 1.0      API Level: 26       Device Model: generic_x86
+2019-11-21 05:05:27   Error   Error in making subtask as active     OS Type: Android    App Version: 1.0      API Level: 26       Device Model: generic_x86
+2019-11-21 05:07:39   Info   UserPendingMyTask:getdata() method is used to get pending my tasks at user side     OS Type: Android    App Version: 1.0      API Level: 26       Device Model: generic_x86
+2019-11-21 05:07:44   Info   UserPendingMyTask:getdata() method is used to get pending my tasks at user side     OS Type: Android    App Version: 1.0      API Level: 26       Device Model: generic_x86
+2019-11-21 05:07:57   Debug   user pending mytask tasks screen is loaded at user side     OS Type: Android    App Version: 1.0      API Level: 26       Device Model: generic_x86
+2019-11-21 05:07:57   Info   UserPendingMyTask:getdata() method is used to get pending my tasks at user side     OS Type: Android    App Version: 1.0      API Level: 26       Device Model: generic_x86
+2019-11-21 05:08:04   Info   userActiveTaskStatusUpdate() method is used to check the active status of subtask     OS Type: Android    App Version: 1.0      API Level: 26       Device Model: generic_x86
+2019-11-21 05:08:04   Info   updateActiveTaskStatus() method is used to make subtask as active     OS Type: Android    App Version: 1.0      API Level: 26       Device Model: generic_x86
+2019-11-21 05:08:04   Warn   You not able active this task untill complete your activated task     OS Type: Android    App Version: 1.0      API Level: 26       Device Model: generic_x86
+2019-11-21 05:08:29   Debug   user pending mytask tasks screen is loaded at user side     OS Type: Android    App Version: 1.0      API Level: 26       Device Model: generic_x86
+2019-11-21 05:08:30   Info   UserPendingMyTask:getdata() method is used to get pending my tasks at user side     OS Type: Android    App Version: 1.0      API Level: 26       Device Model: generic_x86
+2019-11-21 05:08:45   Info   userActiveTaskStatusUpdate() method is used to check the active status of subtask     OS Type: Android    App Version: 1.0      API Level: 26       Device Model: generic_x86
+2019-11-21 05:08:45   Info   updateActiveTaskStatus() method is used to make subtask as active     OS Type: Android    App Version: 1.0      API Level: 26       Device Model: generic_x86
+2019-11-21 05:08:45   Warn   You not able active this task untill complete your activated task     OS Type: Android    App Version: 1.0      API Level: 26       Device Model: generic_x86
+2019-11-21 05:09:25   Debug   user pending mytask tasks screen is loaded at user side     OS Type: Android    App Version: 1.0      API Level: 26       Device Model: generic_x86
+2019-11-21 05:09:25   Info   UserPendingMyTask:getdata() method is used to get pending my tasks at user side     OS Type: Android    App Version: 1.0      API Level: 26       Device Model: generic_x86
+2019-11-21 05:09:33   Info   updateActiveTaskStatus() method is used to make subtask as active     OS Type: Android    App Version: 1.0      API Level: 26       Device Model: generic_x86
+2019-11-21 05:09:33   Info   userActiveTaskStatusUpdate() method is used to check the active status of subtask     OS Type: Android    App Version: 1.0      API Level: 26       Device Model: generic_x86
+2019-11-21 05:09:34   Error   Error in making subtask as active     OS Type: Android    App Version: 1.0      API Level: 26       Device Model: generic_x86
+2019-11-21 05:09:56   Debug   user pending mytask tasks screen is loaded at user side     OS Type: Android    App Version: 1.0      API Level: 26       Device Model: generic_x86
+2019-11-21 05:09:56   Info   UserPendingMyTask:getdata() method is used to get pending my tasks at user side     OS Type: Android    App Version: 1.0      API Level: 26       Device Model: generic_x86
+2019-11-21 05:10:07   Info   UserCompletedMyTask:userCompletedMyTasks() method is used to get completed my tasks at user side     OS Type: Android    App Version: 1.0      API Level: 26       Device Model: generic_x86
+2019-11-21 05:10:07   Debug   user completed mytask tasks screen is loaded     OS Type: Android    App Version: 1.0      API Level: 26       Device Model: generic_x86
+2019-11-21 05:10:15   Debug   user pending mytask tasks screen is loaded at user side     OS Type: Android    App Version: 1.0      API Level: 26       Device Model: generic_x86
+2019-11-21 05:10:16   Info   UserPendingMyTask:getdata() method is used to get pending my tasks at user side     OS Type: Android    App Version: 1.0      API Level: 26       Device Model: generic_x86
+2019-11-21 05:10:20   Info   userActiveTaskStatusUpdate() method is used to check the active status of subtask     OS Type: Android    App Version: 1.0      API Level: 26       Device Model: generic_x86
+2019-11-21 05:10:20   Info   updateActiveTaskStatus() method is used to make subtask as active     OS Type: Android    App Version: 1.0      API Level: 26       Device Model: generic_x86
+2019-11-21 05:10:20   Warn   You not able active this task untill complete your activated task     OS Type: Android    App Version: 1.0      API Level: 26       Device Model: generic_x86
+2019-11-21 05:10:31   Info   UserPendingMyTask:getdata() method is used to get pending my tasks at user side     OS Type: Android    App Version: 1.0      API Level: 26       Device Model: generic_x86
+2019-11-21 05:10:35   Info   UserPendingMyTask:getdata() method is used to get pending my tasks at user side     OS Type: Android    App Version: 1.0      API Level: 26       Device Model: generic_x86
+2019-11-21 05:11:02   Debug   user pending mytask tasks screen is loaded at user side     OS Type: Android    App Version: 1.0      API Level: 26       Device Model: generic_x86
+2019-11-21 05:11:02   Info   UserPendingMyTask:getdata() method is used to get pending my tasks at user side     OS Type: Android    App Version: 1.0      API Level: 26       Device Model: generic_x86
+2019-11-21 05:11:06   Info   userActiveTaskStatusUpdate() method is used to check the active status of subtask     OS Type: Android    App Version: 1.0      API Level: 26       Device Model: generic_x86
+2019-11-21 05:11:06   Info   updateActiveTaskStatus() method is used to make subtask as active     OS Type: Android    App Version: 1.0      API Level: 26       Device Model: generic_x86
+2019-11-21 05:11:06   Warn   You not able active this task untill complete your activated task     OS Type: Android    App Version: 1.0      API Level: 26       Device Model: generic_x86
+2019-11-21 05:11:29   Debug   user pending mytask tasks screen is loaded at user side     OS Type: Android    App Version: 1.0      API Level: 26       Device Model: generic_x86
+2019-11-21 05:11:30   Info   UserPendingMyTask:getdata() method is used to get pending my tasks at user side     OS Type: Android    App Version: 1.0      API Level: 26       Device Model: generic_x86
+2019-11-21 05:11:33   Info   userActiveTaskStatusUpdate() method is used to check the active status of subtask     OS Type: Android    App Version: 1.0      API Level: 26       Device Model: generic_x86
+2019-11-21 05:11:33   Info   updateActiveTaskStatus() method is used to make subtask as active     OS Type: Android    App Version: 1.0      API Level: 26       Device Model: generic_x86
+2019-11-21 05:11:34   Warn   You not able active this task untill complete your activated task     OS Type: Android    App Version: 1.0      API Level: 26       Device Model: generic_x86
+2019-11-21 05:11:37   Info   UserPendingMyTask:getdata() method is used to get pending my tasks at user side     OS Type: Android    App Version: 1.0      API Level: 26       Device Model: generic_x86
+2019-11-21 05:12:04   Debug   user pending mytask tasks screen is loaded at user side     OS Type: Android    App Version: 1.0      API Level: 26       Device Model: generic_x86
+2019-11-21 05:12:04   Info   UserPendingMyTask:getdata() method is used to get pending my tasks at user side     OS Type: Android    App Version: 1.0      API Level: 26       Device Model: generic_x86
+2019-11-21 05:12:08   Info   updateActiveTaskStatus() method is used to make subtask as active     OS Type: Android    App Version: 1.0      API Level: 26       Device Model: generic_x86
+2019-11-21 05:12:08   Info   userActiveTaskStatusUpdate() method is used to check the active status of subtask     OS Type: Android    App Version: 1.0      API Level: 26       Device Model: generic_x86
+2019-11-21 05:12:08   Warn   You not able active this task untill complete your activated task     OS Type: Android    App Version: 1.0      API Level: 26       Device Model: generic_x86
+2019-11-21 05:12:12   Info   UserCompletedMyTask:userCompletedMyTasks() method is used to get completed my tasks at user side     OS Type: Android    App Version: 1.0      API Level: 26       Device Model: generic_x86
+2019-11-21 05:12:12   Debug   user completed mytask tasks screen is loaded     OS Type: Android    App Version: 1.0      API Level: 26       Device Model: generic_x86
+2019-11-21 05:12:16   Info   UserPendingMyTask:getdata() method is used to get pending my tasks at user side     OS Type: Android    App Version: 1.0      API Level: 26       Device Model: generic_x86
+2019-11-21 05:13:18   Debug   user pending mytask tasks screen is loaded at user side     OS Type: Android    App Version: 1.0      API Level: 26       Device Model: generic_x86
+2019-11-21 05:13:19   Info   UserPendingMyTask:getdata() method is used to get pending my tasks at user side     OS Type: Android    App Version: 1.0      API Level: 26       Device Model: generic_x86
+2019-11-21 05:13:23   Info   userActiveTaskStatusUpdate() method is used to check the active status of subtask     OS Type: Android    App Version: 1.0      API Level: 26       Device Model: generic_x86
+2019-11-21 05:13:23   Info   updateActiveTaskStatus() method is used to make subtask as active     OS Type: Android    App Version: 1.0      API Level: 26       Device Model: generic_x86
+2019-11-21 05:13:23   Warn   You not able active this task untill complete your activated task     OS Type: Android    App Version: 1.0      API Level: 26       Device Model: generic_x86
+2019-11-21 05:13:26   Info   UserPendingMyTask:getdata() method is used to get pending my tasks at user side     OS Type: Android    App Version: 1.0      API Level: 26       Device Model: generic_x86
+2019-11-21 05:13:28   Info   UserPendingMyTask:getdata() method is used to get pending my tasks at user side     OS Type: Android    App Version: 1.0      API Level: 26       Device Model: generic_x86
+2019-11-21 05:13:30   Info   UserPendingMyTask:getdata() method is used to get pending my tasks at user side     OS Type: Android    App Version: 1.0      API Level: 26       Device Model: generic_x86
+2019-11-21 05:13:33   Info   UserPendingMyTask:getdata() method is used to get pending my tasks at user side     OS Type: Android    App Version: 1.0      API Level: 26       Device Model: generic_x86
+2019-11-21 05:13:40   Info   UserPendingMyTask:getdata() method is used to get pending my tasks at user side     OS Type: Android    App Version: 1.0      API Level: 26       Device Model: generic_x86
+2019-11-21 05:15:15   Debug   user pending mytask tasks screen is loaded at user side     OS Type: Android    App Version: 1.0      API Level: 26       Device Model: generic_x86
+2019-11-21 05:15:16   Info   UserPendingMyTask:getdata() method is used to get pending my tasks at user side     OS Type: Android    App Version: 1.0      API Level: 26       Device Model: generic_x86
+2019-11-21 05:15:19   Info   userActiveTaskStatusUpdate() method is used to check the active status of subtask     OS Type: Android    App Version: 1.0      API Level: 26       Device Model: generic_x86
+2019-11-21 05:15:19   Info   updateActiveTaskStatus() method is used to make subtask as active     OS Type: Android    App Version: 1.0      API Level: 26       Device Model: generic_x86
+2019-11-21 05:15:20   Warn   You not able active this task untill complete your activated task     OS Type: Android    App Version: 1.0      API Level: 26       Device Model: generic_x86
+2019-11-21 05:15:24   Info   UserPendingMyTask:getdata() method is used to get pending my tasks at user side     OS Type: Android    App Version: 1.0      API Level: 26       Device Model: generic_x86
+2019-11-21 05:15:28   Info   UserPendingMyTask:getdata() method is used to get pending my tasks at user side     OS Type: Android    App Version: 1.0      API Level: 26       Device Model: generic_x86
+2019-11-21 05:15:32   Info   UserPendingMyTask:getdata() method is used to get pending my tasks at user side     OS Type: Android    App Version: 1.0      API Level: 26       Device Model: generic_x86
+2019-11-21 05:20:15   Debug   user pending mytask tasks screen is loaded at user side     OS Type: Android    App Version: 1.0      API Level: 26       Device Model: generic_x86
+2019-11-21 05:20:16   Info   UserPendingMyTask:getdata() method is used to get pending my tasks at user side     OS Type: Android    App Version: 1.0      API Level: 26       Device Model: generic_x86
+2019-11-21 05:20:19   Info   userActiveTaskStatusUpdate() method is used to check the active status of subtask     OS Type: Android    App Version: 1.0      API Level: 26       Device Model: generic_x86
+2019-11-21 05:20:19   Info   updateActiveTaskStatus() method is used to make subtask as active     OS Type: Android    App Version: 1.0      API Level: 26       Device Model: generic_x86
+2019-11-21 05:20:20   Warn   You not able active this task untill complete your activated task     OS Type: Android    App Version: 1.0      API Level: 26       Device Model: generic_x86
+2019-11-21 05:20:26   Info   UserPendingMyTask:getdata() method is used to get pending my tasks at user side     OS Type: Android    App Version: 1.0      API Level: 26       Device Model: generic_x86
+2019-11-21 05:20:28   Info   UserPendingMyTask:getdata() method is used to get pending my tasks at user side     OS Type: Android    App Version: 1.0      API Level: 26       Device Model: generic_x86
+2019-11-21 05:23:26   Debug   user pending mytask tasks screen is loaded at user side     OS Type: Android    App Version: 1.0      API Level: 26       Device Model: generic_x86
+2019-11-21 05:23:26   Info   UserPendingMyTask:getdata() method is used to get pending my tasks at user side     OS Type: Android    App Version: 1.0      API Level: 26       Device Model: generic_x86
+2019-11-21 05:23:29   Info   updateActiveTaskStatus() method is used to make subtask as active     OS Type: Android    App Version: 1.0      API Level: 26       Device Model: generic_x86
+2019-11-21 05:23:29   Info   userActiveTaskStatusUpdate() method is used to check the active status of subtask     OS Type: Android    App Version: 1.0      API Level: 26       Device Model: generic_x86
+2019-11-21 05:23:30   Warn   You not able active this task untill complete your activated task     OS Type: Android    App Version: 1.0      API Level: 26       Device Model: generic_x86
+2019-11-21 05:25:24   Debug   user pending mytask tasks screen is loaded at user side     OS Type: Android    App Version: 1.0      API Level: 26       Device Model: generic_x86
+2019-11-21 05:25:24   Info   UserPendingMyTask:getdata() method is used to get pending my tasks at user side     OS Type: Android    App Version: 1.0      API Level: 26       Device Model: generic_x86
+2019-11-21 05:25:28   Info   updateActiveTaskStatus() method is used to make subtask as active     OS Type: Android    App Version: 1.0      API Level: 26       Device Model: generic_x86
+2019-11-21 05:25:28   Info   userActiveTaskStatusUpdate() method is used to check the active status of subtask     OS Type: Android    App Version: 1.0      API Level: 26       Device Model: generic_x86
+2019-11-21 05:25:29   Warn   You not able active this task untill complete your activated task     OS Type: Android    App Version: 1.0      API Level: 26       Device Model: generic_x86
+2019-11-21 05:28:34   Debug   user pending mytask tasks screen is loaded at user side     OS Type: Android    App Version: 1.0      API Level: 26       Device Model: generic_x86
+2019-11-21 05:28:34   Info   UserPendingMyTask:getdata() method is used to get pending my tasks at user side     OS Type: Android    App Version: 1.0      API Level: 26       Device Model: generic_x86
+2019-11-21 05:28:39   Info   userActiveTaskStatusUpdate() method is used to check the active status of subtask     OS Type: Android    App Version: 1.0      API Level: 26       Device Model: generic_x86
+2019-11-21 05:28:39   Info   updateActiveTaskStatus() method is used to make subtask as active     OS Type: Android    App Version: 1.0      API Level: 26       Device Model: generic_x86
+2019-11-21 05:28:39   Warn   You not able active this task untill complete your activated task     OS Type: Android    App Version: 1.0      API Level: 26       Device Model: generic_x86
+2019-11-21 05:28:43   Info   UserPendingMyTask:getdata() method is used to get pending my tasks at user side     OS Type: Android    App Version: 1.0      API Level: 26       Device Model: generic_x86
+2019-11-21 05:31:06   Debug   user pending mytask tasks screen is loaded at user side     OS Type: Android    App Version: 1.0      API Level: 26       Device Model: generic_x86
+2019-11-21 05:31:06   Info   UserPendingMyTask:getdata() method is used to get pending my tasks at user side     OS Type: Android    App Version: 1.0      API Level: 26       Device Model: generic_x86
+2019-11-21 05:31:36   Debug   user pending mytask tasks screen is loaded at user side     OS Type: Android    App Version: 1.0      API Level: 26       Device Model: generic_x86
+2019-11-21 05:31:36   Info   UserPendingMyTask:getdata() method is used to get pending my tasks at user side     OS Type: Android    App Version: 1.0      API Level: 26       Device Model: generic_x86
+2019-11-21 05:31:40   Info   updateActiveTaskStatus() method is used to make subtask as active     OS Type: Android    App Version: 1.0      API Level: 26       Device Model: generic_x86
+2019-11-21 05:31:40   Info   userActiveTaskStatusUpdate() method is used to check the active status of subtask     OS Type: Android    App Version: 1.0      API Level: 26       Device Model: generic_x86
+2019-11-21 05:31:40   Warn   You not able active this task untill complete your activated task     OS Type: Android    App Version: 1.0      API Level: 26       Device Model: generic_x86
+2019-11-21 05:31:43   Info   UserPendingMyTask:getdata() method is used to get pending my tasks at user side     OS Type: Android    App Version: 1.0      API Level: 26       Device Model: generic_x86
+2019-11-21 05:31:45   Info   UserPendingMyTask:getdata() method is used to get pending my tasks at user side     OS Type: Android    App Version: 1.0      API Level: 26       Device Model: generic_x86
+2019-11-21 05:31:46   Info   UserPendingMyTask:getdata() method is used to get pending my tasks at user side     OS Type: Android    App Version: 1.0      API Level: 26       Device Model: generic_x86
+2019-11-21 05:32:11   Debug   user pending mytask tasks screen is loaded at user side     OS Type: Android    App Version: 1.0      API Level: 26       Device Model: generic_x86
+2019-11-21 05:32:11   Info   UserPendingMyTask:getdata() method is used to get pending my tasks at user side     OS Type: Android    App Version: 1.0      API Level: 26       Device Model: generic_x86
+2019-11-21 05:32:14   Info   updateActiveTaskStatus() method is used to make subtask as active     OS Type: Android    App Version: 1.0      API Level: 26       Device Model: generic_x86
+2019-11-21 05:32:14   Info   userActiveTaskStatusUpdate() method is used to check the active status of subtask     OS Type: Android    App Version: 1.0      API Level: 26       Device Model: generic_x86
+2019-11-21 05:32:15   Warn   You not able active this task untill complete your activated task     OS Type: Android    App Version: 1.0      API Level: 26       Device Model: generic_x86
+2019-11-21 05:32:18   Info   UserPendingMyTask:getdata() method is used to get pending my tasks at user side     OS Type: Android    App Version: 1.0      API Level: 26       Device Model: generic_x86
+2019-11-21 05:32:52   Debug   user pending mytask tasks screen is loaded at user side     OS Type: Android    App Version: 1.0      API Level: 26       Device Model: generic_x86
+2019-11-21 05:32:52   Info   UserPendingMyTask:getdata() method is used to get pending my tasks at user side     OS Type: Android    App Version: 1.0      API Level: 26       Device Model: generic_x86
+2019-11-21 05:32:55   Info   userActiveTaskStatusUpdate() method is used to check the active status of subtask     OS Type: Android    App Version: 1.0      API Level: 26       Device Model: generic_x86
+2019-11-21 05:32:55   Info   updateActiveTaskStatus() method is used to make subtask as active     OS Type: Android    App Version: 1.0      API Level: 26       Device Model: generic_x86
+2019-11-21 05:32:56   Warn   You not able active this task untill complete your activated task     OS Type: Android    App Version: 1.0      API Level: 26       Device Model: generic_x86
+2019-11-21 05:32:59   Info   UserPendingMyTask:getdata() method is used to get pending my tasks at user side     OS Type: Android    App Version: 1.0      API Level: 26       Device Model: generic_x86
+2019-11-21 05:33:01   Info   UserPendingMyTask:getdata() method is used to get pending my tasks at user side     OS Type: Android    App Version: 1.0      API Level: 26       Device Model: generic_x86
+2019-11-21 05:42:25   Debug   user pending mytask tasks screen is loaded at user side     OS Type: Android    App Version: 1.0      API Level: 26       Device Model: generic_x86
+2019-11-21 05:42:25   Info   UserPendingMyTask:getdata() method is used to get pending my tasks at user side     OS Type: Android    App Version: 1.0      API Level: 26       Device Model: generic_x86
+2019-11-21 05:42:30   Info   UserPendingMyTask:getdata() method is used to get pending my tasks at user side     OS Type: Android    App Version: 1.0      API Level: 26       Device Model: generic_x86
+2019-11-21 05:42:32   Info   UserPendingMyTask:getdata() method is used to get pending my tasks at user side     OS Type: Android    App Version: 1.0      API Level: 26       Device Model: generic_x86
+2019-11-21 05:43:31   Debug   user pending mytask tasks screen is loaded at user side     OS Type: Android    App Version: 1.0      API Level: 26       Device Model: generic_x86
+2019-11-21 05:43:32   Info   UserPendingMyTask:getdata() method is used to get pending my tasks at user side     OS Type: Android    App Version: 1.0      API Level: 26       Device Model: generic_x86
+2019-11-21 05:43:43   Info   userActiveTaskStatusUpdate() method is used to check the active status of subtask     OS Type: Android    App Version: 1.0      API Level: 26       Device Model: generic_x86
+2019-11-21 05:43:43   Info   updateActiveTaskStatus() method is used to make subtask as active     OS Type: Android    App Version: 1.0      API Level: 26       Device Model: generic_x86
+2019-11-21 05:43:44   Warn   You not able active this task untill complete your activated task     OS Type: Android    App Version: 1.0      API Level: 26       Device Model: generic_x86
+2019-11-21 05:43:47   Info   UserPendingMyTask:getdata() method is used to get pending my tasks at user side     OS Type: Android    App Version: 1.0      API Level: 26       Device Model: generic_x86
+2019-11-21 05:43:49   Info   UserPendingMyTask:getdata() method is used to get pending my tasks at user side     OS Type: Android    App Version: 1.0      API Level: 26       Device Model: generic_x86
+2019-11-21 05:43:51   Info   UserPendingMyTask:getdata() method is used to get pending my tasks at user side     OS Type: Android    App Version: 1.0      API Level: 26       Device Model: generic_x86
+2019-11-21 05:43:55   Info   UserPendingMyTask:getdata() method is used to get pending my tasks at user side     OS Type: Android    App Version: 1.0      API Level: 26       Device Model: generic_x86
+2019-11-21 05:45:45   Debug   user pending mytask tasks screen is loaded at user side     OS Type: Android    App Version: 1.0      API Level: 26       Device Model: generic_x86
+2019-11-21 05:45:46   Info   UserPendingMyTask:getdata() method is used to get pending my tasks at user side     OS Type: Android    App Version: 1.0      API Level: 26       Device Model: generic_x86
+2019-11-21 05:46:10   Debug   user pending mytask tasks screen is loaded at user side     OS Type: Android    App Version: 1.0      API Level: 26       Device Model: generic_x86
+2019-11-21 05:46:10   Info   UserPendingMyTask:getdata() method is used to get pending my tasks at user side     OS Type: Android    App Version: 1.0      API Level: 26       Device Model: generic_x86
+2019-11-21 05:47:08   Debug   user pending mytask tasks screen is loaded at user side     OS Type: Android    App Version: 1.0      API Level: 26       Device Model: generic_x86
+2019-11-21 05:47:08   Info   UserPendingMyTask:getdata() method is used to get pending my tasks at user side     OS Type: Android    App Version: 1.0      API Level: 26       Device Model: generic_x86
+2019-11-21 05:47:47   Info   UserPendingMyTask:getdata() method is used to get pending my tasks at user side     OS Type: Android    App Version: 1.0      API Level: 26       Device Model: generic_x86
+2019-11-21 05:49:04   Debug   user pending mytask tasks screen is loaded at user side     OS Type: Android    App Version: 1.0      API Level: 26       Device Model: generic_x86
+2019-11-21 05:49:04   Info   UserPendingMyTask:getdata() method is used to get pending my tasks at user side     OS Type: Android    App Version: 1.0      API Level: 26       Device Model: generic_x86
+2019-11-21 05:50:17   Info   UserPendingMyTask:getdata() method is used to get pending my tasks at user side     OS Type: Android    App Version: 1.0      API Level: 26       Device Model: generic_x86
+2019-11-21 05:51:00   Info   UserPendingMyTask:getdata() method is used to get pending my tasks at user side     OS Type: Android    App Version: 1.0      API Level: 26       Device Model: generic_x86
+2019-11-21 05:51:17   Info   userActiveTaskStatusUpdate() method is used to check the active status of subtask     OS Type: Android    App Version: 1.0      API Level: 26       Device Model: generic_x86
+2019-11-21 05:51:17   Warn   You can't update until your dependency task completed     OS Type: Android    App Version: 1.0      API Level: 26       Device Model: generic_x86
+2019-11-21 05:51:21   Info   UserPendingMyTask:getdata() method is used to get pending my tasks at user side     OS Type: Android    App Version: 1.0      API Level: 26       Device Model: generic_x86
+2019-11-21 05:51:37   Info   UserPendingMyTask:getdata() method is used to get pending my tasks at user side     OS Type: Android    App Version: 1.0      API Level: 26       Device Model: generic_x86
+2019-11-21 05:51:42   Info   UserPendingMyTask:getdata() method is used to get pending my tasks at user side     OS Type: Android    App Version: 1.0      API Level: 26       Device Model: generic_x86
+2019-11-21 05:53:13   Debug   user pending mytask tasks screen is loaded at user side     OS Type: Android    App Version: 1.0      API Level: 26       Device Model: generic_x86
+2019-11-21 05:53:13   Info   UserPendingMyTask:getdata() method is used to get pending my tasks at user side     OS Type: Android    App Version: 1.0      API Level: 26       Device Model: generic_x86
+2019-11-21 05:53:24   Info   userActiveTaskStatusUpdate() method is used to check the active status of subtask     OS Type: Android    App Version: 1.0      API Level: 26       Device Model: generic_x86
+2019-11-21 05:53:24   Warn   You can't update until your dependency task completed     OS Type: Android    App Version: 1.0      API Level: 26       Device Model: generic_x86
+2019-11-21 05:53:27   Info   UserPendingMyTask:getdata() method is used to get pending my tasks at user side     OS Type: Android    App Version: 1.0      API Level: 26       Device Model: generic_x86
+2019-11-21 05:54:44   Debug   user pending mytask tasks screen is loaded at user side     OS Type: Android    App Version: 1.0      API Level: 26       Device Model: generic_x86
+2019-11-21 05:54:45   Info   UserPendingMyTask:getdata() method is used to get pending my tasks at user side     OS Type: Android    App Version: 1.0      API Level: 26       Device Model: generic_x86
+2019-11-21 05:55:06   Debug   user pending mytask tasks screen is loaded at user side     OS Type: Android    App Version: 1.0      API Level: 26       Device Model: generic_x86
+2019-11-21 05:55:06   Info   UserPendingMyTask:getdata() method is used to get pending my tasks at user side     OS Type: Android    App Version: 1.0      API Level: 26       Device Model: generic_x86
+2019-11-21 05:55:36   Info   userActiveTaskStatusUpdate() method is used to check the active status of subtask     OS Type: Android    App Version: 1.0      API Level: 26       Device Model: generic_x86
+2019-11-21 05:55:36   Warn   You can't update until your dependency task completed     OS Type: Android    App Version: 1.0      API Level: 26       Device Model: generic_x86
+2019-11-21 05:55:40   Info   UserPendingMyTask:getdata() method is used to get pending my tasks at user side     OS Type: Android    App Version: 1.0      API Level: 26       Device Model: generic_x86
+2019-11-21 05:56:20   Debug   user pending mytask tasks screen is loaded at user side     OS Type: Android    App Version: 1.0      API Level: 26       Device Model: generic_x86
+2019-11-21 05:56:20   Info   UserPendingMyTask:getdata() method is used to get pending my tasks at user side     OS Type: Android    App Version: 1.0      API Level: 26       Device Model: generic_x86
+2019-11-21 05:56:30   Warn   You can't update until your dependency task completed     OS Type: Android    App Version: 1.0      API Level: 26       Device Model: generic_x86
+2019-11-21 05:56:30   Info   userActiveTaskStatusUpdate() method is used to check the active status of subtask     OS Type: Android    App Version: 1.0      API Level: 26       Device Model: generic_x86
+2019-11-21 05:56:34   Info   UserPendingMyTask:getdata() method is used to get pending my tasks at user side     OS Type: Android    App Version: 1.0      API Level: 26       Device Model: generic_x86
+2019-11-21 05:57:25   Debug   user pending mytask tasks screen is loaded at user side     OS Type: Android    App Version: 1.0      API Level: 26       Device Model: generic_x86
+2019-11-21 05:57:25   Info   UserPendingMyTask:getdata() method is used to get pending my tasks at user side     OS Type: Android    App Version: 1.0      API Level: 26       Device Model: generic_x86
+2019-11-21 05:57:53   Warn   You can't update until your dependency task completed     OS Type: Android    App Version: 1.0      API Level: 26       Device Model: generic_x86
+2019-11-21 05:57:53   Info   userActiveTaskStatusUpdate() method is used to check the active status of subtask     OS Type: Android    App Version: 1.0      API Level: 26       Device Model: generic_x86
+2019-11-21 05:57:55   Info   UserPendingMyTask:getdata() method is used to get pending my tasks at user side     OS Type: Android    App Version: 1.0      API Level: 26       Device Model: generic_x86
+2019-11-21 05:58:01   Info   UserPendingMyTask:getdata() method is used to get pending my tasks at user side     OS Type: Android    App Version: 1.0      API Level: 26       Device Model: generic_x86
+2019-11-21 05:58:44   Debug   user pending mytask tasks screen is loaded at user side     OS Type: Android    App Version: 1.0      API Level: 26       Device Model: generic_x86
+2019-11-21 05:58:45   Info   UserPendingMyTask:getdata() method is used to get pending my tasks at user side     OS Type: Android    App Version: 1.0      API Level: 26       Device Model: generic_x86
+2019-11-21 05:58:53   Info   userActiveTaskStatusUpdate() method is used to check the active status of subtask     OS Type: Android    App Version: 1.0      API Level: 26       Device Model: generic_x86
+2019-11-21 05:58:53   Info   updateActiveTaskStatus() method is used to make subtask as active     OS Type: Android    App Version: 1.0      API Level: 26       Device Model: generic_x86
+2019-11-21 05:58:54   Warn   You not able active this task untill complete your activated task     OS Type: Android    App Version: 1.0      API Level: 26       Device Model: generic_x86
+2019-11-21 05:58:56   Info   UserPendingMyTask:getdata() method is used to get pending my tasks at user side     OS Type: Android    App Version: 1.0      API Level: 26       Device Model: generic_x86
+2019-11-21 05:58:59   Info   UserPendingMyTask:getdata() method is used to get pending my tasks at user side     OS Type: Android    App Version: 1.0      API Level: 26       Device Model: generic_x86
+2019-11-21 06:03:17   Debug   user pending mytask tasks screen is loaded at user side     OS Type: Android    App Version: 1.0      API Level: 26       Device Model: generic_x86
+2019-11-21 06:03:17   Info   UserPendingMyTask:getdata() method is used to get pending my tasks at user side     OS Type: Android    App Version: 1.0      API Level: 26       Device Model: generic_x86
+2019-11-21 06:03:49   Debug   user pending mytask tasks screen is loaded at user side     OS Type: Android    App Version: 1.0      API Level: 26       Device Model: generic_x86
+2019-11-21 06:03:49   Info   UserPendingMyTask:getdata() method is used to get pending my tasks at user side     OS Type: Android    App Version: 1.0      API Level: 26       Device Model: generic_x86
+2019-11-21 06:04:50   Debug   user pending mytask tasks screen is loaded at user side     OS Type: Android    App Version: 1.0      API Level: 26       Device Model: generic_x86
+2019-11-21 06:04:50   Info   UserPendingMyTask:getdata() method is used to get pending my tasks at user side     OS Type: Android    App Version: 1.0      API Level: 26       Device Model: generic_x86
+2019-11-21 06:05:07   Info   UserPendingMyTask:getdata() method is used to get pending my tasks at user side     OS Type: Android    App Version: 1.0      API Level: 26       Device Model: generic_x86
+2019-11-21 06:05:53   Debug   user pending mytask tasks screen is loaded at user side     OS Type: Android    App Version: 1.0      API Level: 26       Device Model: generic_x86
+2019-11-21 06:05:53   Info   UserPendingMyTask:getdata() method is used to get pending my tasks at user side     OS Type: Android    App Version: 1.0      API Level: 26       Device Model: generic_x86
+2019-11-21 06:07:16   Debug   user pending mytask tasks screen is loaded at user side     OS Type: Android    App Version: 1.0      API Level: 26       Device Model: generic_x86
+2019-11-21 06:07:17   Info   UserPendingMyTask:getdata() method is used to get pending my tasks at user side     OS Type: Android    App Version: 1.0      API Level: 26       Device Model: generic_x86
+2019-11-21 06:08:41   Debug   user pending mytask tasks screen is loaded at user side     OS Type: Android    App Version: 1.0      API Level: 26       Device Model: generic_x86
+2019-11-21 06:08:41   Info   UserPendingMyTask:getdata() method is used to get pending my tasks at user side     OS Type: Android    App Version: 1.0      API Level: 26       Device Model: generic_x86
+2019-11-21 06:09:40   Debug   user pending mytask tasks screen is loaded at user side     OS Type: Android    App Version: 1.0      API Level: 26       Device Model: generic_x86
+2019-11-21 06:09:41   Info   UserPendingMyTask:getdata() method is used to get pending my tasks at user side     OS Type: Android    App Version: 1.0      API Level: 26       Device Model: generic_x86
+2019-11-21 06:11:27   Debug   user completed mytask tasks screen is loaded     OS Type: Android    App Version: 1.0      API Level: 26       Device Model: generic_x86
+2019-11-21 06:11:27   Info   UserCompletedMyTask:userCompletedMyTasks() method is used to get completed my tasks at user side     OS Type: Android    App Version: 1.0      API Level: 26       Device Model: generic_x86
+2019-11-21 06:11:36   Debug   user pending mytask tasks screen is loaded at user side     OS Type: Android    App Version: 1.0      API Level: 26       Device Model: generic_x86
+2019-11-21 06:11:36   Info   UserPendingMyTask:getdata() method is used to get pending my tasks at user side     OS Type: Android    App Version: 1.0      API Level: 26       Device Model: generic_x86
+2019-11-21 06:11:52   Info   UserPendingMyTask:getdata() method is used to get pending my tasks at user side     OS Type: Android    App Version: 1.0      API Level: 26       Device Model: generic_x86
+2019-11-21 06:12:22   Warn   You can't update until your dependency task completed     OS Type: Android    App Version: 1.0      API Level: 26       Device Model: generic_x86
+2019-11-21 06:12:22   Info   userActiveTaskStatusUpdate() method is used to check the active status of subtask     OS Type: Android    App Version: 1.0      API Level: 26       Device Model: generic_x86
+2019-11-21 06:12:32   Info   UserPendingMyTask:getdata() method is used to get pending my tasks at user side     OS Type: Android    App Version: 1.0      API Level: 26       Device Model: generic_x86
+2019-11-21 06:12:39   Info   UserPendingMyTask:getdata() method is used to get pending my tasks at user side     OS Type: Android    App Version: 1.0      API Level: 26       Device Model: generic_x86
+2019-11-21 06:14:24   Debug   user pending mytask tasks screen is loaded at user side     OS Type: Android    App Version: 1.0      API Level: 26       Device Model: generic_x86
+2019-11-21 06:14:25   Info   UserPendingMyTask:getdata() method is used to get pending my tasks at user side     OS Type: Android    App Version: 1.0      API Level: 26       Device Model: generic_x86
+2019-11-21 06:14:29   Info   userActiveTaskStatusUpdate() method is used to check the active status of subtask     OS Type: Android    App Version: 1.0      API Level: 26       Device Model: generic_x86
+2019-11-21 06:14:29   Warn   You can't update until your dependency task completed     OS Type: Android    App Version: 1.0      API Level: 26       Device Model: generic_x86
+2019-11-21 06:14:33   Info   UserPendingMyTask:getdata() method is used to get pending my tasks at user side     OS Type: Android    App Version: 1.0      API Level: 26       Device Model: generic_x86
+2019-11-21 06:14:38   Info   UserPendingMyTask:getdata() method is used to get pending my tasks at user side     OS Type: Android    App Version: 1.0      API Level: 26       Device Model: generic_x86
+2019-11-21 06:14:59   Info   UserPendingMyTask:getdata() method is used to get pending my tasks at user side     OS Type: Android    App Version: 1.0      API Level: 26       Device Model: generic_x86
+2019-11-21 06:15:09   Debug   user pending mytask tasks screen is loaded at user side     OS Type: Android    App Version: 1.0      API Level: 26       Device Model: generic_x86
+2019-11-21 06:15:09   Info   UserPendingMyTask:getdata() method is used to get pending my tasks at user side     OS Type: Android    App Version: 1.0      API Level: 26       Device Model: generic_x86
+2019-11-21 06:15:28   Info   UserPendingMyTask:getdata() method is used to get pending my tasks at user side     OS Type: Android    App Version: 1.0      API Level: 26       Device Model: generic_x86
+2019-11-21 06:15:30   Info   UserPendingMyTask:getdata() method is used to get pending my tasks at user side     OS Type: Android    App Version: 1.0      API Level: 26       Device Model: generic_x86
+2019-11-21 06:15:33   Warn   You can't update until your dependency task completed     OS Type: Android    App Version: 1.0      API Level: 26       Device Model: generic_x86
+2019-11-21 06:15:33   Info   userActiveTaskStatusUpdate() method is used to check the active status of subtask     OS Type: Android    App Version: 1.0      API Level: 26       Device Model: generic_x86
+2019-11-21 06:15:36   Info   UserPendingMyTask:getdata() method is used to get pending my tasks at user side     OS Type: Android    App Version: 1.0      API Level: 26       Device Model: generic_x86
+2019-11-21 06:15:41   Info   UserPendingMyTask:getdata() method is used to get pending my tasks at user side     OS Type: Android    App Version: 1.0      API Level: 26       Device Model: generic_x86
+2019-11-21 06:15:43   Info   UserPendingMyTask:getdata() method is used to get pending my tasks at user side     OS Type: Android    App Version: 1.0      API Level: 26       Device Model: generic_x86
+2019-11-21 06:16:44   Debug   user pending mytask tasks screen is loaded at user side     OS Type: Android    App Version: 1.0      API Level: 26       Device Model: generic_x86
+2019-11-21 06:16:45   Info   UserPendingMyTask:getdata() method is used to get pending my tasks at user side     OS Type: Android    App Version: 1.0      API Level: 26       Device Model: generic_x86
+2019-11-21 06:16:49   Info   userActiveTaskStatusUpdate() method is used to check the active status of subtask     OS Type: Android    App Version: 1.0      API Level: 26       Device Model: generic_x86
+2019-11-21 06:16:49   Warn   You can't update until your dependency task completed     OS Type: Android    App Version: 1.0      API Level: 26       Device Model: generic_x86
+2019-11-21 06:16:52   Info   UserPendingMyTask:getdata() method is used to get pending my tasks at user side     OS Type: Android    App Version: 1.0      API Level: 26       Device Model: generic_x86
+2019-11-21 06:16:55   Warn   You can't update until your dependency task completed     OS Type: Android    App Version: 1.0      API Level: 26       Device Model: generic_x86
+2019-11-21 06:16:55   Info   userActiveTaskStatusUpdate() method is used to check the active status of subtask     OS Type: Android    App Version: 1.0      API Level: 26       Device Model: generic_x86
+2019-11-21 06:16:58   Info   UserPendingMyTask:getdata() method is used to get pending my tasks at user side     OS Type: Android    App Version: 1.0      API Level: 26       Device Model: generic_x86
+2019-11-21 06:17:19   Info   UserPendingMyTask:getdata() method is used to get pending my tasks at user side     OS Type: Android    App Version: 1.0      API Level: 26       Device Model: generic_x86
+2019-11-21 06:19:49   Debug   user pending mytask tasks screen is loaded at user side     OS Type: Android    App Version: 1.0      API Level: 26       Device Model: generic_x86
+2019-11-21 06:19:50   Info   UserPendingMyTask:getdata() method is used to get pending my tasks at user side     OS Type: Android    App Version: 1.0      API Level: 26       Device Model: generic_x86
+2019-11-21 06:19:54   Info   userActiveTaskStatusUpdate() method is used to check the active status of subtask     OS Type: Android    App Version: 1.0      API Level: 26       Device Model: generic_x86
+2019-11-21 06:19:54   Warn   You can't update until your dependency task completed     OS Type: Android    App Version: 1.0      API Level: 26       Device Model: generic_x86
+2019-11-21 06:19:59   Info   UserPendingMyTask:getdata() method is used to get pending my tasks at user side     OS Type: Android    App Version: 1.0      API Level: 26       Device Model: generic_x86
+2019-11-21 06:20:03   Info   UserPendingMyTask:getdata() method is used to get pending my tasks at user side     OS Type: Android    App Version: 1.0      API Level: 26       Device Model: generic_x86
+2019-11-21 06:20:11   Debug   user completed mytask tasks screen is loaded     OS Type: Android    App Version: 1.0      API Level: 26       Device Model: generic_x86
+2019-11-21 06:20:11   Info   UserCompletedMyTask:userCompletedMyTasks() method is used to get completed my tasks at user side     OS Type: Android    App Version: 1.0      API Level: 26       Device Model: generic_x86
+2019-11-21 06:20:19   Info   UserPendingMyTask:getdata() method is used to get pending my tasks at user side     OS Type: Android    App Version: 1.0      API Level: 26       Device Model: generic_x86
+2019-11-21 06:21:00   Debug   Login Screen is Loaded     OS Type: Android    App Version: 1.0      API Level: 26       Device Model: generic_x86
+2019-11-21 06:21:22   Info   onSignIn() is used for login purpose and based on usertype data is authorizised     OS Type: Android    App Version: 1.0      API Level: 26       Device Model: generic_x86
+2019-11-21 06:21:22   Info   UserPendingMyTask:getdata() method is used to get pending my tasks at user side     OS Type: Android    App Version: 1.0      API Level: 26       Device Model: generic_x86
+2019-11-21 06:21:22   Debug   user pending mytask tasks screen is loaded at user side     OS Type: Android    App Version: 1.0      API Level: 26       Device Model: generic_x86
+2019-11-21 06:21:35   Info   userPendingManageTasks:DeleteMaintask(maintaskid) method is used to delete maintask     OS Type: Android    App Version: 1.0      API Level: 26       Device Model: generic_x86
+2019-11-21 06:21:35   Info   to get level no     OS Type: Android    App Version: 1.0      API Level: 26       Device Model: generic_x86
+2019-11-21 06:21:35   Info   to get level no     OS Type: Android    App Version: 1.0      API Level: 26       Device Model: generic_x86
+2019-11-21 06:21:35   Debug   user pending manage tasks screen is loaded     OS Type: Android    App Version: 1.0      API Level: 26       Device Model: generic_x86
+2019-11-21 06:21:35   Info   userPendingManageTasks:DeleteMaintask(maintaskid) method is used to delete maintask     OS Type: Android    App Version: 1.0      API Level: 26       Device Model: generic_x86
+2019-11-21 06:21:36   Info   no pending manage tasks at user side     OS Type: Android    App Version: 1.0      API Level: 26       Device Model: generic_x86
+2019-11-21 06:21:39   Info   UsrePendingManageTasks:AddSubTask(item, index) used to navigate to modify addsubtask screen     OS Type: Android    App Version: 1.0      API Level: 26       Device Model: generic_x86
+2019-11-21 06:21:39   Info   empSearch(cropcode) method is used to employee's data     OS Type: Android    App Version: 1.0      API Level: 26       Device Model: generic_x86
+2019-11-21 06:21:39   Debug   Add Sub Task Modal screen is loaded     OS Type: Android    App Version: 1.0      API Level: 26       Device Model: generic_x86
+2019-11-21 06:21:58   Info    addSubTask() is used to add sub task     OS Type: Android    App Version: 1.0      API Level: 26       Device Model: generic_x86
+2019-11-21 06:22:03   Info   UsrePendingManageTasks:AddSubTask(item, index) used to navigate to modify addsubtask screen     OS Type: Android    App Version: 1.0      API Level: 26       Device Model: generic_x86
+2019-11-21 06:22:03   Debug   Add Sub Task Modal screen is loaded     OS Type: Android    App Version: 1.0      API Level: 26       Device Model: generic_x86
+2019-11-21 06:22:03   Info   empSearch(cropcode) method is used to employee's data     OS Type: Android    App Version: 1.0      API Level: 26       Device Model: generic_x86
+2019-11-21 06:22:44   Info    addSubTask() is used to add sub task     OS Type: Android    App Version: 1.0      API Level: 26       Device Model: generic_x86
+2019-11-21 06:22:55   Info   UserPendingMyTask:getdata() method is used to get pending my tasks at user side     OS Type: Android    App Version: 1.0      API Level: 26       Device Model: generic_x86
+2019-11-21 06:23:51   Debug   user pending mytask tasks screen is loaded at user side     OS Type: Android    App Version: 1.0      API Level: 26       Device Model: generic_x86
+2019-11-21 06:23:52   Info   UserPendingMyTask:getdata() method is used to get pending my tasks at user side     OS Type: Android    App Version: 1.0      API Level: 26       Device Model: generic_x86
+2019-11-21 06:24:28   Info   updateActiveTaskStatus() method is used to make subtask as active     OS Type: Android    App Version: 1.0      API Level: 26       Device Model: generic_x86
+2019-11-21 06:24:28   Info   userActiveTaskStatusUpdate() method is used to check the active status of subtask     OS Type: Android    App Version: 1.0      API Level: 26       Device Model: generic_x86
+2019-11-21 06:24:32   Info   UserPendingMyTask:getdata() method is used to get pending my tasks at user side     OS Type: Android    App Version: 1.0      API Level: 26       Device Model: generic_x86
+2019-11-21 06:24:36   Info   userActiveTaskStatusUpdate() method is used to check the active status of subtask     OS Type: Android    App Version: 1.0      API Level: 26       Device Model: generic_x86
+2019-11-21 06:24:36   Info   updateActiveTaskStatus() method is used to make subtask as active     OS Type: Android    App Version: 1.0      API Level: 26       Device Model: generic_x86
+2019-11-21 06:24:37   Error   Error in making subtask as active     OS Type: Android    App Version: 1.0      API Level: 26       Device Model: generic_x86
+2019-11-21 06:24:54   Debug   user pending mytask tasks screen is loaded at user side     OS Type: Android    App Version: 1.0      API Level: 26       Device Model: generic_x86
+2019-11-21 06:24:54   Info   UserPendingMyTask:getdata() method is used to get pending my tasks at user side     OS Type: Android    App Version: 1.0      API Level: 26       Device Model: generic_x86
+2019-11-21 06:25:38   Debug   user pending mytask tasks screen is loaded at user side     OS Type: Android    App Version: 1.0      API Level: 26       Device Model: generic_x86
+2019-11-21 06:25:38   Info   UserPendingMyTask:getdata() method is used to get pending my tasks at user side     OS Type: Android    App Version: 1.0      API Level: 26       Device Model: generic_x86
+2019-11-21 06:26:24   Debug   user pending mytask tasks screen is loaded at user side     OS Type: Android    App Version: 1.0      API Level: 26       Device Model: generic_x86
+2019-11-21 06:26:25   Info   UserPendingMyTask:getdata() method is used to get pending my tasks at user side     OS Type: Android    App Version: 1.0      API Level: 26       Device Model: generic_x86
+2019-11-21 06:26:52   Debug   user pending mytask tasks screen is loaded at user side     OS Type: Android    App Version: 1.0      API Level: 26       Device Model: generic_x86
+2019-11-21 06:26:52   Info   UserPendingMyTask:getdata() method is used to get pending my tasks at user side     OS Type: Android    App Version: 1.0      API Level: 26       Device Model: generic_x86
+2019-11-21 06:27:19   Debug   user pending mytask tasks screen is loaded at user side     OS Type: Android    App Version: 1.0      API Level: 26       Device Model: generic_x86
+2019-11-21 06:27:20   Info   UserPendingMyTask:getdata() method is used to get pending my tasks at user side     OS Type: Android    App Version: 1.0      API Level: 26       Device Model: generic_x86
+2019-11-21 06:28:34   Debug   user pending mytask tasks screen is loaded at user side     OS Type: Android    App Version: 1.0      API Level: 26       Device Model: generic_x86
+2019-11-21 06:28:34   Info   UserPendingMyTask:getdata() method is used to get pending my tasks at user side     OS Type: Android    App Version: 1.0      API Level: 26       Device Model: generic_x86
+2019-11-21 06:28:41   Info   updateActiveTaskStatus() method is used to make subtask as active     OS Type: Android    App Version: 1.0      API Level: 26       Device Model: generic_x86
+2019-11-21 06:28:41   Info   userActiveTaskStatusUpdate() method is used to check the active status of subtask     OS Type: Android    App Version: 1.0      API Level: 26       Device Model: generic_x86
+2019-11-21 06:28:42   Error   Error in making subtask as active     OS Type: Android    App Version: 1.0      API Level: 26       Device Model: generic_x86
+2019-11-21 06:30:29   Debug   user pending mytask tasks screen is loaded at user side     OS Type: Android    App Version: 1.0      API Level: 26       Device Model: generic_x86
+2019-11-21 06:30:30   Info   UserPendingMyTask:getdata() method is used to get pending my tasks at user side     OS Type: Android    App Version: 1.0      API Level: 26       Device Model: generic_x86
+2019-11-21 06:30:43   Debug   user pending mytask tasks screen is loaded at user side     OS Type: Android    App Version: 1.0      API Level: 26       Device Model: generic_x86
+2019-11-21 06:30:43   Info   UserPendingMyTask:getdata() method is used to get pending my tasks at user side     OS Type: Android    App Version: 1.0      API Level: 26       Device Model: generic_x86
+2019-11-21 06:30:47   Info   userActiveTaskStatusUpdate() method is used to check the active status of subtask     OS Type: Android    App Version: 1.0      API Level: 26       Device Model: generic_x86
+2019-11-21 06:30:47   Info   updateActiveTaskStatus() method is used to make subtask as active     OS Type: Android    App Version: 1.0      API Level: 26       Device Model: generic_x86
+2019-11-21 06:30:47   Info   UserPendingMyTask:getdata() method is used to get pending my tasks at user side     OS Type: Android    App Version: 1.0      API Level: 26       Device Model: generic_x86
+2019-11-21 06:30:47   Error   Error in making subtask as active     OS Type: Android    App Version: 1.0      API Level: 26       Device Model: generic_x86
+2019-11-21 06:31:11   Debug   user pending mytask tasks screen is loaded at user side     OS Type: Android    App Version: 1.0      API Level: 26       Device Model: generic_x86
+2019-11-21 06:31:12   Info   UserPendingMyTask:getdata() method is used to get pending my tasks at user side     OS Type: Android    App Version: 1.0      API Level: 26       Device Model: generic_x86
+2019-11-21 06:31:16   Info   userActiveTaskStatusUpdate() method is used to check the active status of subtask     OS Type: Android    App Version: 1.0      API Level: 26       Device Model: generic_x86
+2019-11-21 06:31:16   Info   updateActiveTaskStatus() method is used to make subtask as active     OS Type: Android    App Version: 1.0      API Level: 26       Device Model: generic_x86
+2019-11-21 06:31:17   Info   UserPendingMyTask:getdata() method is used to get pending my tasks at user side     OS Type: Android    App Version: 1.0      API Level: 26       Device Model: generic_x86
+2019-11-21 06:31:17   Warn   You not able active this task untill complete your activated task     OS Type: Android    App Version: 1.0      API Level: 26       Device Model: generic_x86
+2019-11-21 06:31:27   Info   UserPendingMyTask:getdata() method is used to get pending my tasks at user side     OS Type: Android    App Version: 1.0      API Level: 26       Device Model: generic_x86
+2019-11-21 06:31:48   Debug   user pending mytask tasks screen is loaded at user side     OS Type: Android    App Version: 1.0      API Level: 26       Device Model: generic_x86
+2019-11-21 06:31:48   Info   UserPendingMyTask:getdata() method is used to get pending my tasks at user side     OS Type: Android    App Version: 1.0      API Level: 26       Device Model: generic_x86
+2019-11-21 06:31:51   Info   userActiveTaskStatusUpdate() method is used to check the active status of subtask     OS Type: Android    App Version: 1.0      API Level: 26       Device Model: generic_x86
+2019-11-21 06:31:51   Info   updateActiveTaskStatus() method is used to make subtask as active     OS Type: Android    App Version: 1.0      API Level: 26       Device Model: generic_x86
+2019-11-21 06:31:51   Warn   You not able active this task untill complete your activated task     OS Type: Android    App Version: 1.0      API Level: 26       Device Model: generic_x86
+2019-11-21 06:31:51   Info   UserPendingMyTask:getdata() method is used to get pending my tasks at user side     OS Type: Android    App Version: 1.0      API Level: 26       Device Model: generic_x86
+2019-11-21 06:32:03   Info   UserPendingMyTask:getdata() method is used to get pending my tasks at user side     OS Type: Android    App Version: 1.0      API Level: 26       Device Model: generic_x86
+2019-11-21 06:32:08   Info   updateActiveTaskStatus() method is used to make subtask as active     OS Type: Android    App Version: 1.0      API Level: 26       Device Model: generic_x86
+2019-11-21 06:32:08   Info   userActiveTaskStatusUpdate() method is used to check the active status of subtask     OS Type: Android    App Version: 1.0      API Level: 26       Device Model: generic_x86
+2019-11-21 06:32:08   Warn   You not able active this task untill complete your activated task     OS Type: Android    App Version: 1.0      API Level: 26       Device Model: generic_x86
+2019-11-21 06:32:08   Info   UserPendingMyTask:getdata() method is used to get pending my tasks at user side     OS Type: Android    App Version: 1.0      API Level: 26       Device Model: generic_x86
+2019-11-21 06:32:19   Info   UserPendingMyTask:getdata() method is used to get pending my tasks at user side     OS Type: Android    App Version: 1.0      API Level: 26       Device Model: generic_x86
+2019-11-21 06:35:11   Debug   Login Screen is Loaded     OS Type: Android    App Version: 1.0      API Level: 26       Device Model: generic_x86
+2019-11-21 06:35:29   Info   onSignIn() is used for login purpose and based on usertype data is authorizised     OS Type: Android    App Version: 1.0      API Level: 26       Device Model: generic_x86
+2019-11-21 06:35:29   Debug   admin request projects screen is loaded     OS Type: Android    App Version: 1.0      API Level: 26       Device Model: generic_x86
+2019-11-21 06:35:30   Info    getRequestedIdeas(role, userToken, cropcode) is used to get all requested projects at admin side     OS Type: Android    App Version: 1.0      API Level: 26       Device Model: generic_x86
+2019-11-21 06:35:39   Debug   Employees list getting screen is loaded at admin side     OS Type: Android    App Version: 1.0      API Level: 26       Device Model: generic_x86
+2019-11-21 06:35:39   Info   UserManageEmployees:getEmployeeList() method is used to get employee list     OS Type: Android    App Version: 1.0      API Level: 26       Device Model: generic_x86
+2019-11-21 06:36:01   Info   AdminManageEmployeeTaskPending:getEmployeesPendingTaskList() used to get employee pending tasks     OS Type: Android    App Version: 1.0      API Level: 26       Device Model: generic_x86
+2019-11-21 06:36:01   Debug   Admin Manageemployee view pendingtasks screen is loaded     OS Type: Android    App Version: 1.0      API Level: 26       Device Model: generic_x86
+2019-11-21 06:36:04   Debug   Edit screen is loaded     OS Type: Android    App Version: 1.0      API Level: 26       Device Model: generic_x86
+2019-11-21 06:36:04   Info    empDesignationSearch(cropcode) is used to fetch disgnation dropdown      OS Type: Android    App Version: 1.0      API Level: 26       Device Model: generic_x86
+2019-11-21 06:36:04   Info        empRoleSearc(cropcode) is used to fetch role dropdown       OS Type: Android    App Version: 1.0      API Level: 26       Device Model: generic_x86
+2019-11-21 06:36:47   Info   UserManageEmployees:SearchFilterFunction(text) method is used for search functionality     OS Type: Android    App Version: 1.0      API Level: 26       Device Model: generic_x86
+2019-11-21 06:36:47   Info   UserManageEmployees:SearchFilterFunction(text) method is used for search functionality     OS Type: Android    App Version: 1.0      API Level: 26       Device Model: generic_x86
+2019-11-21 06:36:50   Info   AdminManageEmployeeTaskPending:getEmployeesPendingTaskList() used to get employee pending tasks     OS Type: Android    App Version: 1.0      API Level: 26       Device Model: generic_x86
+2019-11-21 06:36:50   Debug   Admin Manageemployee view pendingtasks screen is loaded     OS Type: Android    App Version: 1.0      API Level: 26       Device Model: generic_x86
+2019-11-21 06:36:54   Info    empDesignationSearch(cropcode) is used to fetch disgnation dropdown      OS Type: Android    App Version: 1.0      API Level: 26       Device Model: generic_x86
+2019-11-21 06:36:54   Info        empRoleSearc(cropcode) is used to fetch role dropdown       OS Type: Android    App Version: 1.0      API Level: 26       Device Model: generic_x86
+2019-11-21 06:36:54   Debug   Edit screen is loaded     OS Type: Android    App Version: 1.0      API Level: 26       Device Model: generic_x86
+2019-11-21 06:38:58   Debug   admin request projects screen is loaded     OS Type: Android    App Version: 1.0      API Level: 26       Device Model: generic_x86
+2019-11-21 06:38:59   Info    getRequestedIdeas(role, userToken, cropcode) is used to get all requested projects at admin side     OS Type: Android    App Version: 1.0      API Level: 26       Device Model: generic_x86
+2019-11-21 06:39:22   Info   UserManageEmployees:getEmployeeList() method is used to get employee list     OS Type: Android    App Version: 1.0      API Level: 26       Device Model: generic_x86
+2019-11-21 06:39:22   Debug   Employees list getting screen is loaded at admin side     OS Type: Android    App Version: 1.0      API Level: 26       Device Model: generic_x86
+2019-11-21 06:39:37   Info   UserManageEmployees:SearchFilterFunction(text) method is used for search functionality     OS Type: Android    App Version: 1.0      API Level: 26       Device Model: generic_x86
+2019-11-21 06:39:39   Info   UserManageEmployees:SearchFilterFunction(text) method is used for search functionality     OS Type: Android    App Version: 1.0      API Level: 26       Device Model: generic_x86
+2019-11-21 06:39:40   Info   AdminManageEmployeeTaskPending:getEmployeesPendingTaskList() used to get employee pending tasks     OS Type: Android    App Version: 1.0      API Level: 26       Device Model: generic_x86
+2019-11-21 06:39:40   Debug   Admin Manageemployee view pendingtasks screen is loaded     OS Type: Android    App Version: 1.0      API Level: 26       Device Model: generic_x86
+2019-11-21 06:39:42   Info        empRoleSearc(cropcode) is used to fetch role dropdown       OS Type: Android    App Version: 1.0      API Level: 26       Device Model: generic_x86
+2019-11-21 06:39:42   Info    empDesignationSearch(cropcode) is used to fetch disgnation dropdown      OS Type: Android    App Version: 1.0      API Level: 26       Device Model: generic_x86
+2019-11-21 06:39:42   Debug   Edit screen is loaded     OS Type: Android    App Version: 1.0      API Level: 26       Device Model: generic_x86
+2019-11-21 06:39:56   Info    getRequestedIdeas(cropcode,empId,name,email,username,mobile,designation,workingStatus,team,role) is used to get all details of user     OS Type: Android    App Version: 1.0      API Level: 26       Device Model: generic_x86
+2019-11-21 06:45:02   Debug   admin request projects screen is loaded     OS Type: Android    App Version: 1.0      API Level: 26       Device Model: generic_x86
+2019-11-21 06:45:02   Info    getRequestedIdeas(role, userToken, cropcode) is used to get all requested projects at admin side     OS Type: Android    App Version: 1.0      API Level: 26       Device Model: generic_x86
+2019-11-21 06:45:12   Info   UserManageEmployees:getEmployeeList() method is used to get employee list     OS Type: Android    App Version: 1.0      API Level: 26       Device Model: generic_x86
+2019-11-21 06:45:12   Debug   Employees list getting screen is loaded at admin side     OS Type: Android    App Version: 1.0      API Level: 26       Device Model: generic_x86
+2019-11-21 06:45:23   Info   UserManageEmployees:SearchFilterFunction(text) method is used for search functionality     OS Type: Android    App Version: 1.0      API Level: 26       Device Model: generic_x86
+2019-11-21 06:45:23   Info   UserManageEmployees:SearchFilterFunction(text) method is used for search functionality     OS Type: Android    App Version: 1.0      API Level: 26       Device Model: generic_x86
+2019-11-21 06:45:26   Debug   Admin Manageemployee view pendingtasks screen is loaded     OS Type: Android    App Version: 1.0      API Level: 26       Device Model: generic_x86
+2019-11-21 06:45:26   Info   AdminManageEmployeeTaskPending:getEmployeesPendingTaskList() used to get employee pending tasks     OS Type: Android    App Version: 1.0      API Level: 26       Device Model: generic_x86
+2019-11-21 06:45:31   Debug   Edit screen is loaded     OS Type: Android    App Version: 1.0      API Level: 26       Device Model: generic_x86
+2019-11-21 06:45:31   Info        empRoleSearc(cropcode) is used to fetch role dropdown       OS Type: Android    App Version: 1.0      API Level: 26       Device Model: generic_x86
+2019-11-21 06:45:31   Info    empDesignationSearch(cropcode) is used to fetch disgnation dropdown      OS Type: Android    App Version: 1.0      API Level: 26       Device Model: generic_x86
+2019-11-21 06:45:46   Info    getRequestedIdeas(cropcode,empId,name,email,username,mobile,designation,workingStatus,team,role) is used to get all details of user     OS Type: Android    App Version: 1.0      API Level: 26       Device Model: generic_x86
+2019-11-21 06:45:46   Info    getRequestedIdeas(cropcode,empId,name,email,username,mobile,designation,workingStatus,team,role) is used to get all details of user     OS Type: Android    App Version: 1.0      API Level: 26       Device Model: generic_x86
+2019-11-21 06:45:51   Info    getRequestedIdeas(cropcode,empId,name,email,username,mobile,designation,workingStatus,team,role) is used to get all details of user     OS Type: Android    App Version: 1.0      API Level: 26       Device Model: generic_x86
+2019-11-21 06:45:54   Info    getRequestedIdeas(cropcode,empId,name,email,username,mobile,designation,workingStatus,team,role) is used to get all details of user     OS Type: Android    App Version: 1.0      API Level: 26       Device Model: generic_x86
+2019-11-21 06:45:55   Info    getRequestedIdeas(cropcode,empId,name,email,username,mobile,designation,workingStatus,team,role) is used to get all details of user     OS Type: Android    App Version: 1.0      API Level: 26       Device Model: generic_x86
+2019-11-21 06:45:55   Info    getRequestedIdeas(cropcode,empId,name,email,username,mobile,designation,workingStatus,team,role) is used to get all details of user     OS Type: Android    App Version: 1.0      API Level: 26       Device Model: generic_x86
+2019-11-21 06:45:55   Info    getRequestedIdeas(cropcode,empId,name,email,username,mobile,designation,workingStatus,team,role) is used to get all details of user     OS Type: Android    App Version: 1.0      API Level: 26       Device Model: generic_x86
+2019-11-21 06:46:28   Debug   admin request projects screen is loaded     OS Type: Android    App Version: 1.0      API Level: 26       Device Model: generic_x86
+2019-11-21 06:46:29   Info    getRequestedIdeas(role, userToken, cropcode) is used to get all requested projects at admin side     OS Type: Android    App Version: 1.0      API Level: 26       Device Model: generic_x86
+2019-11-21 06:46:48   Debug   Employees list getting screen is loaded at admin side     OS Type: Android    App Version: 1.0      API Level: 26       Device Model: generic_x86
+2019-11-21 06:46:48   Info   UserManageEmployees:getEmployeeList() method is used to get employee list     OS Type: Android    App Version: 1.0      API Level: 26       Device Model: generic_x86
+2019-11-21 06:46:59   Info   UserManageEmployees:SearchFilterFunction(text) method is used for search functionality     OS Type: Android    App Version: 1.0      API Level: 26       Device Model: generic_x86
+2019-11-21 06:46:59   Info   UserManageEmployees:SearchFilterFunction(text) method is used for search functionality     OS Type: Android    App Version: 1.0      API Level: 26       Device Model: generic_x86
+2019-11-21 06:47:02   Info   AdminManageEmployeeTaskPending:getEmployeesPendingTaskList() used to get employee pending tasks     OS Type: Android    App Version: 1.0      API Level: 26       Device Model: generic_x86
+2019-11-21 06:47:02   Debug   Admin Manageemployee view pendingtasks screen is loaded     OS Type: Android    App Version: 1.0      API Level: 26       Device Model: generic_x86
+2019-11-21 06:47:05   Debug   Edit screen is loaded     OS Type: Android    App Version: 1.0      API Level: 26       Device Model: generic_x86
+2019-11-21 06:47:05   Info    empDesignationSearch(cropcode) is used to fetch disgnation dropdown      OS Type: Android    App Version: 1.0      API Level: 26       Device Model: generic_x86
+2019-11-21 06:47:05   Info        empRoleSearc(cropcode) is used to fetch role dropdown       OS Type: Android    App Version: 1.0      API Level: 26       Device Model: generic_x86
+2019-11-21 06:47:16   Info    getRequestedIdeas(cropcode,empId,name,email,username,mobile,designation,workingStatus,team,role) is used to get all details of user     OS Type: Android    App Version: 1.0      API Level: 26       Device Model: generic_x86
+2019-11-21 06:47:16   Info    getRequestedIdeas(cropcode,empId,name,email,username,mobile,designation,workingStatus,team,role) is used to get all details of user     OS Type: Android    App Version: 1.0      API Level: 26       Device Model: generic_x86
+2019-11-21 06:47:16   Info    getRequestedIdeas(cropcode,empId,name,email,username,mobile,designation,workingStatus,team,role) is used to get all details of user     OS Type: Android    App Version: 1.0      API Level: 26       Device Model: generic_x86
+2019-11-21 06:47:23   Debug   Edit screen is loaded     OS Type: Android    App Version: 1.0      API Level: 26       Device Model: generic_x86
+2019-11-21 06:47:23   Info        empRoleSearc(cropcode) is used to fetch role dropdown       OS Type: Android    App Version: 1.0      API Level: 26       Device Model: generic_x86
+2019-11-21 06:47:23   Info    empDesignationSearch(cropcode) is used to fetch disgnation dropdown      OS Type: Android    App Version: 1.0      API Level: 26       Device Model: generic_x86
+2019-11-21 06:47:37   Info    getRequestedIdeas(cropcode,empId,name,email,username,mobile,designation,workingStatus,team,role) is used to get all details of user     OS Type: Android    App Version: 1.0      API Level: 26       Device Model: generic_x86
+2019-11-21 06:47:47   Debug   Edit screen is loaded     OS Type: Android    App Version: 1.0      API Level: 26       Device Model: generic_x86
+2019-11-21 06:47:47   Info    empDesignationSearch(cropcode) is used to fetch disgnation dropdown      OS Type: Android    App Version: 1.0      API Level: 26       Device Model: generic_x86
+2019-11-21 06:47:47   Info        empRoleSearc(cropcode) is used to fetch role dropdown       OS Type: Android    App Version: 1.0      API Level: 26       Device Model: generic_x86
+2019-11-21 06:48:04   Debug   admin request projects screen is loaded     OS Type: Android    App Version: 1.0      API Level: 26       Device Model: generic_x86
+2019-11-21 06:48:05   Info    getRequestedIdeas(role, userToken, cropcode) is used to get all requested projects at admin side     OS Type: Android    App Version: 1.0      API Level: 26       Device Model: generic_x86
+2019-11-21 06:48:15   Debug   Employees list getting screen is loaded at admin side     OS Type: Android    App Version: 1.0      API Level: 26       Device Model: generic_x86
+2019-11-21 06:48:15   Info   UserManageEmployees:getEmployeeList() method is used to get employee list     OS Type: Android    App Version: 1.0      API Level: 26       Device Model: generic_x86
+2019-11-21 06:48:23   Info   UserManageEmployees:SearchFilterFunction(text) method is used for search functionality     OS Type: Android    App Version: 1.0      API Level: 26       Device Model: generic_x86
+2019-11-21 06:48:23   Info   UserManageEmployees:SearchFilterFunction(text) method is used for search functionality     OS Type: Android    App Version: 1.0      API Level: 26       Device Model: generic_x86
+2019-11-21 06:48:23   Info   UserManageEmployees:SearchFilterFunction(text) method is used for search functionality     OS Type: Android    App Version: 1.0      API Level: 26       Device Model: generic_x86
+2019-11-21 06:48:26   Debug   Admin Manageemployee view pendingtasks screen is loaded     OS Type: Android    App Version: 1.0      API Level: 26       Device Model: generic_x86
+2019-11-21 06:48:26   Info   AdminManageEmployeeTaskPending:getEmployeesPendingTaskList() used to get employee pending tasks     OS Type: Android    App Version: 1.0      API Level: 26       Device Model: generic_x86
+2019-11-21 06:48:32   Info    empDesignationSearch(cropcode) is used to fetch disgnation dropdown      OS Type: Android    App Version: 1.0      API Level: 26       Device Model: generic_x86
+2019-11-21 06:48:32   Info        empRoleSearc(cropcode) is used to fetch role dropdown       OS Type: Android    App Version: 1.0      API Level: 26       Device Model: generic_x86
+2019-11-21 06:48:32   Debug   Edit screen is loaded     OS Type: Android    App Version: 1.0      API Level: 26       Device Model: generic_x86
+2019-11-21 06:48:58   Info    getRequestedIdeas(cropcode,empId,name,email,username,mobile,designation,workingStatus,team,role) is used to get all details of user     OS Type: Android    App Version: 1.0      API Level: 26       Device Model: generic_x86
+2019-11-21 06:49:03   Info   AdminManageEmployeeTaskCompleted:getEmployeeSubTasksCompleted() method is used to get employee completed tasks     OS Type: Android    App Version: 1.0      API Level: 26       Device Model: generic_x86
+2019-11-21 06:49:03   Debug   Admin Manageemployee view completed tasks screen is loaded     OS Type: Android    App Version: 1.0      API Level: 26       Device Model: generic_x86
+2019-11-21 06:49:06   Debug   Edit screen is loaded     OS Type: Android    App Version: 1.0      API Level: 26       Device Model: generic_x86
+2019-11-21 06:49:06   Info    empDesignationSearch(cropcode) is used to fetch disgnation dropdown      OS Type: Android    App Version: 1.0      API Level: 26       Device Model: generic_x86
+2019-11-21 06:49:06   Info        empRoleSearc(cropcode) is used to fetch role dropdown       OS Type: Android    App Version: 1.0      API Level: 26       Device Model: generic_x86
+2019-11-21 06:49:20   Info   AdminManageEmployeeTaskPending:getEmployeesPendingTaskList() used to get employee pending tasks     OS Type: Android    App Version: 1.0      API Level: 26       Device Model: generic_x86
+2019-11-21 06:49:20   Debug   Admin Manageemployee view pendingtasks screen is loaded     OS Type: Android    App Version: 1.0      API Level: 26       Device Model: generic_x86
+2019-11-21 06:49:31   Debug   admin request projects screen is loaded     OS Type: Android    App Version: 1.0      API Level: 26       Device Model: generic_x86
+2019-11-21 06:49:31   Info    getRequestedIdeas(role, userToken, cropcode) is used to get all requested projects at admin side     OS Type: Android    App Version: 1.0      API Level: 26       Device Model: generic_x86
+2019-11-21 06:49:49   Info   UserManageEmployees:getEmployeeList() method is used to get employee list     OS Type: Android    App Version: 1.0      API Level: 26       Device Model: generic_x86
+2019-11-21 06:49:49   Debug   Employees list getting screen is loaded at admin side     OS Type: Android    App Version: 1.0      API Level: 26       Device Model: generic_x86
+2019-11-21 06:49:57   Info   UserManageEmployees:SearchFilterFunction(text) method is used for search functionality     OS Type: Android    App Version: 1.0      API Level: 26       Device Model: generic_x86
+2019-11-21 06:49:57   Info   UserManageEmployees:SearchFilterFunction(text) method is used for search functionality     OS Type: Android    App Version: 1.0      API Level: 26       Device Model: generic_x86
+2019-11-21 06:50:09   Info   AdminManageEmployeeTaskPending:getEmployeesPendingTaskList() used to get employee pending tasks     OS Type: Android    App Version: 1.0      API Level: 26       Device Model: generic_x86
+2019-11-21 06:50:09   Debug   Admin Manageemployee view pendingtasks screen is loaded     OS Type: Android    App Version: 1.0      API Level: 26       Device Model: generic_x86
+2019-11-21 06:50:13   Info    empDesignationSearch(cropcode) is used to fetch disgnation dropdown      OS Type: Android    App Version: 1.0      API Level: 26       Device Model: generic_x86
+2019-11-21 06:50:13   Info        empRoleSearc(cropcode) is used to fetch role dropdown       OS Type: Android    App Version: 1.0      API Level: 26       Device Model: generic_x86
+2019-11-21 06:50:13   Debug   Edit screen is loaded     OS Type: Android    App Version: 1.0      API Level: 26       Device Model: generic_x86
+2019-11-21 06:50:37   Info    getRequestedIdeas(cropcode,empId,name,email,username,mobile,designation,workingStatus,team,role) is used to get all details of user     OS Type: Android    App Version: 1.0      API Level: 26       Device Model: generic_x86
+2019-11-21 07:03:48   Debug   admin request projects screen is loaded     OS Type: Android    App Version: 1.0      API Level: 26       Device Model: generic_x86
+2019-11-21 07:03:48   Info    getRequestedIdeas(role, userToken, cropcode) is used to get all requested projects at admin side     OS Type: Android    App Version: 1.0      API Level: 26       Device Model: generic_x86
+2019-11-21 07:04:43   Debug   admin request projects screen is loaded     OS Type: Android    App Version: 1.0      API Level: 26       Device Model: generic_x86
+2019-11-21 07:04:44   Info    getRequestedIdeas(role, userToken, cropcode) is used to get all requested projects at admin side     OS Type: Android    App Version: 1.0      API Level: 26       Device Model: generic_x86
+2019-11-21 07:16:07   Debug   Login Screen is Loaded     OS Type: Android    App Version: 1.0      API Level: 28       Device Model: m30s
+2019-11-21 07:16:22   Info   onSignIn() is used for login purpose and based on usertype data is authorizised     OS Type: Android    App Version: 1.0      API Level: 28       Device Model: m30s
+2019-11-21 07:16:22   Warn   UserName and Password is not entered correctly     OS Type: Android    App Version: 1.0      API Level: 28       Device Model: m30s
+2019-11-21 07:16:34   Info   onSignIn() is used for login purpose and based on usertype data is authorizised     OS Type: Android    App Version: 1.0      API Level: 28       Device Model: m30s
+2019-11-21 07:16:35   Warn   UserName and Password is not entered correctly     OS Type: Android    App Version: 1.0      API Level: 28       Device Model: m30s
+2019-11-21 07:16:41   Info   onSignIn() is used for login purpose and based on usertype data is authorizised     OS Type: Android    App Version: 1.0      API Level: 28       Device Model: m30s
+2019-11-21 07:16:41   Warn   UserName and Password is not entered correctly     OS Type: Android    App Version: 1.0      API Level: 28       Device Model: m30s
+2019-11-21 07:16:58   Info   onSignIn() is used for login purpose and based on usertype data is authorizised     OS Type: Android    App Version: 1.0      API Level: 28       Device Model: m30s
+2019-11-21 07:16:58   Info   UserPendingMyTask:getdata() method is used to get pending my tasks at user side     OS Type: Android    App Version: 1.0      API Level: 28       Device Model: m30s
+2019-11-21 07:16:58   Debug   user pending mytask tasks screen is loaded at user side     OS Type: Android    App Version: 1.0      API Level: 28       Device Model: m30s
+2019-11-21 07:16:59   Info   no pending my tasks at user side     OS Type: Android    App Version: 1.0      API Level: 28       Device Model: m30s
+2019-11-21 07:17:05   Info   UserProfile:profile() method is used get employee profile data     OS Type: Android    App Version: 1.0      API Level: 28       Device Model: m30s
+2019-11-21 07:17:05   Debug   UserProfile screen is loaded     OS Type: Android    App Version: 1.0      API Level: 28       Device Model: m30s
+2019-11-21 07:17:05   Info   UserProfile:GetStatus() method is used to get status of employee     OS Type: Android    App Version: 1.0      API Level: 28       Device Model: m30s
+2019-11-21 07:19:20   Debug   Login Screen is Loaded     OS Type: Android    App Version: 1.0      API Level: 26       Device Model: generic_x86
+2019-11-21 07:19:50   Info   onSignIn() is used for login purpose and based on usertype data is authorizised     OS Type: Android    App Version: 1.0      API Level: 26       Device Model: generic_x86
+2019-11-21 07:19:51   Debug   user pending mytask tasks screen is loaded at user side     OS Type: Android    App Version: 1.0      API Level: 26       Device Model: generic_x86
+2019-11-21 07:19:51   Info   UserPendingMyTask:getdata() method is used to get pending my tasks at user side     OS Type: Android    App Version: 1.0      API Level: 26       Device Model: generic_x86
+2019-11-21 07:19:58   Debug   Login Screen is Loaded     OS Type: Android    App Version: 1.0      API Level: 28       Device Model: m30s
+2019-11-21 07:20:14   Info   updateActiveTaskStatus() method is used to make subtask as active     OS Type: Android    App Version: 1.0      API Level: 26       Device Model: generic_x86
+2019-11-21 07:20:14   Info   userActiveTaskStatusUpdate() method is used to check the active status of subtask     OS Type: Android    App Version: 1.0      API Level: 26       Device Model: generic_x86
+2019-11-21 07:20:15   Info   UserPendingMyTask:getdata() method is used to get pending my tasks at user side     OS Type: Android    App Version: 1.0      API Level: 26       Device Model: generic_x86
+2019-11-21 07:20:15   Warn   You not able active this task untill complete your activated task     OS Type: Android    App Version: 1.0      API Level: 26       Device Model: generic_x86
+2019-11-21 07:20:27   Info   UserPendingMyTask:getdata() method is used to get pending my tasks at user side     OS Type: Android    App Version: 1.0      API Level: 26       Device Model: generic_x86
+2019-11-21 07:20:40   Info   userActiveTaskStatusUpdate() method is used to check the active status of subtask     OS Type: Android    App Version: 1.0      API Level: 26       Device Model: generic_x86
+2019-11-21 07:20:40   Info   updateActiveTaskStatus() method is used to make subtask as active     OS Type: Android    App Version: 1.0      API Level: 26       Device Model: generic_x86
+2019-11-21 07:20:40   Info   UserPendingMyTask:getdata() method is used to get pending my tasks at user side     OS Type: Android    App Version: 1.0      API Level: 26       Device Model: generic_x86
+2019-11-21 07:20:40   Warn   You not able active this task untill complete your activated task     OS Type: Android    App Version: 1.0      API Level: 26       Device Model: generic_x86
+2019-11-21 07:20:46   Info   UserPendingMyTask:getdata() method is used to get pending my tasks at user side     OS Type: Android    App Version: 1.0      API Level: 26       Device Model: generic_x86
+2019-11-21 07:24:45   Debug   user pending mytask tasks screen is loaded at user side     OS Type: Android    App Version: 1.0      API Level: 26       Device Model: generic_x86
+2019-11-21 07:24:46   Info   UserPendingMyTask:getdata() method is used to get pending my tasks at user side     OS Type: Android    App Version: 1.0      API Level: 26       Device Model: generic_x86
+2019-11-21 07:31:17   Debug   user pending mytask tasks screen is loaded at user side     OS Type: Android    App Version: 1.0      API Level: 26       Device Model: generic_x86
+2019-11-21 07:31:17   Info   UserPendingMyTask:getdata() method is used to get pending my tasks at user side     OS Type: Android    App Version: 1.0      API Level: 26       Device Model: generic_x86
+2019-11-21 07:33:41   Debug   user pending mytask tasks screen is loaded at user side     OS Type: Android    App Version: 1.0      API Level: 26       Device Model: generic_x86
+2019-11-21 07:33:41   Info   UserPendingMyTask:getdata() method is used to get pending my tasks at user side     OS Type: Android    App Version: 1.0      API Level: 26       Device Model: generic_x86
+2019-11-21 07:34:59   Debug   user pending mytask tasks screen is loaded at user side     OS Type: Android    App Version: 1.0      API Level: 26       Device Model: generic_x86
+2019-11-21 07:34:59   Info   UserPendingMyTask:getdata() method is used to get pending my tasks at user side     OS Type: Android    App Version: 1.0      API Level: 26       Device Model: generic_x86
+2019-11-21 07:35:51   Debug   user pending mytask tasks screen is loaded at user side     OS Type: Android    App Version: 1.0      API Level: 26       Device Model: generic_x86
+2019-11-21 07:35:52   Info   UserPendingMyTask:getdata() method is used to get pending my tasks at user side     OS Type: Android    App Version: 1.0      API Level: 26       Device Model: generic_x86
+2019-11-21 07:36:42   Debug   user pending mytask tasks screen is loaded at user side     OS Type: Android    App Version: 1.0      API Level: 26       Device Model: generic_x86
+2019-11-21 07:36:42   Info   UserPendingMyTask:getdata() method is used to get pending my tasks at user side     OS Type: Android    App Version: 1.0      API Level: 26       Device Model: generic_x86
+2019-11-21 07:44:05   Debug   user pending mytask tasks screen is loaded at user side     OS Type: Android    App Version: 1.0      API Level: 26       Device Model: generic_x86
+2019-11-21 07:44:05   Info   UserPendingMyTask:getdata() method is used to get pending my tasks at user side     OS Type: Android    App Version: 1.0      API Level: 26       Device Model: generic_x86
+2019-11-21 07:46:48   Debug   user pending mytask tasks screen is loaded at user side     OS Type: Android    App Version: 1.0      API Level: 26       Device Model: generic_x86
+2019-11-21 07:46:48   Info   UserPendingMyTask:getdata() method is used to get pending my tasks at user side     OS Type: Android    App Version: 1.0      API Level: 26       Device Model: generic_x86
+2019-11-21 08:38:23   Debug   user pending mytask tasks screen is loaded at user side     OS Type: Android    App Version: 1.0      API Level: 26       Device Model: generic_x86
+2019-11-21 08:38:23   Info   UserPendingMyTask:getdata() method is used to get pending my tasks at user side     OS Type: Android    App Version: 1.0      API Level: 26       Device Model: generic_x86
+2019-11-21 08:39:12   Debug   user pending mytask tasks screen is loaded at user side     OS Type: Android    App Version: 1.0      API Level: 26       Device Model: generic_x86
+2019-11-21 08:39:13   Info   UserPendingMyTask:getdata() method is used to get pending my tasks at user side     OS Type: Android    App Version: 1.0      API Level: 26       Device Model: generic_x86
+2019-11-21 08:47:44   Debug   user pending mytask tasks screen is loaded at user side     OS Type: Android    App Version: 1.0      API Level: 26       Device Model: generic_x86
+2019-11-21 08:47:44   Info   UserPendingMyTask:getdata() method is used to get pending my tasks at user side     OS Type: Android    App Version: 1.0      API Level: 26       Device Model: generic_x86

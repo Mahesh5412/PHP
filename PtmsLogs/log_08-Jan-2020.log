@@ -1,0 +1,903 @@
+2020-01-08 00:52:24      
+2020-01-08 13:11:17   Debug   user pending mytask tasks screen is loaded at user side     OS Type: iOS    App Version: 1.16      API Level: -1       Device Model: unknown
+2020-01-08 13:11:17   Info   UserPendingMyTask:getdata() method is used to get pending my tasks at user side     OS Type: iOS    App Version: 1.16      API Level: -1       Device Model: unknown
+2020-01-08 13:11:17   Info   UserPendingMyTask:getdata() method is used to get pending my tasks at user side     OS Type: iOS    App Version: 1.16      API Level: -1       Device Model: unknown
+2020-01-08 13:11:17   Info   no pending my tasks at user side     OS Type: iOS    App Version: 1.16      API Level: -1       Device Model: unknown
+2020-01-08 13:11:17   Info   no pending my tasks at user side     OS Type: iOS    App Version: 1.16      API Level: -1       Device Model: unknown
+2020-01-08 13:11:33   Info    getdata() is used to get all requested projects at user side     OS Type: iOS    App Version: 1.16      API Level: -1       Device Model: unknown
+2020-01-08 13:11:33   Debug   user request projects screen is loaded     OS Type: iOS    App Version: 1.16      API Level: -1       Device Model: unknown
+2020-01-08 13:11:35   Info   UserProjectInfo method is used to move requested project to project info screen     OS Type: iOS    App Version: 1.16      API Level: -1       Device Model: unknown
+2020-01-08 13:11:35   Info   UserProjectInfo:Disabling() method is used to diable accept button based on condition     OS Type: iOS    App Version: 1.16      API Level: -1       Device Model: unknown
+2020-01-08 13:11:35   Debug   user project info screen is loaded     OS Type: iOS    App Version: 1.16      API Level: -1       Device Model: unknown
+2020-01-08 13:11:38   Info   UserProjectInfo method is used to move requested project to project info screen     OS Type: iOS    App Version: 1.16      API Level: -1       Device Model: unknown
+2020-01-08 13:11:38   Info   UserProjectInfo:Disabling() method is used to diable accept button based on condition     OS Type: iOS    App Version: 1.16      API Level: -1       Device Model: unknown
+2020-01-08 13:11:38   Debug   user project info screen is loaded     OS Type: iOS    App Version: 1.16      API Level: -1       Device Model: unknown
+2020-01-08 13:17:19   Debug   Login Screen is Loaded     OS Type: Android    App Version: 1.3      API Level: 28       Device Model: CPH1859
+2020-01-08 13:17:53   Info   onSignIn() is used for login purpose and based on usertype data is authorizised     OS Type: Android    App Version: 1.3      API Level: 28       Device Model: CPH1859
+2020-01-08 13:17:53   Warn   UserName and Password is not entered correctly     OS Type: Android    App Version: 1.3      API Level: 28       Device Model: CPH1859
+2020-01-08 13:17:59   Info   onSignIn() is used for login purpose and based on usertype data is authorizised     OS Type: Android    App Version: 1.3      API Level: 28       Device Model: CPH1859
+2020-01-08 13:17:59   Warn   UserName and Password is not entered correctly     OS Type: Android    App Version: 1.3      API Level: 28       Device Model: CPH1859
+2020-01-08 13:18:17   Info   onSignIn() is used for login purpose and based on usertype data is authorizised     OS Type: Android    App Version: 1.3      API Level: 28       Device Model: CPH1859
+2020-01-08 13:18:18   Warn   UserName and Password is not entered correctly     OS Type: Android    App Version: 1.3      API Level: 28       Device Model: CPH1859
+2020-01-08 13:18:25   Info   onSignIn() is used for login purpose and based on usertype data is authorizised     OS Type: Android    App Version: 1.3      API Level: 28       Device Model: CPH1859
+2020-01-08 13:18:25   Warn   UserName and Password is not entered correctly     OS Type: Android    App Version: 1.3      API Level: 28       Device Model: CPH1859
+2020-01-08 13:18:29   Info   onSignIn() is used for login purpose and based on usertype data is authorizised     OS Type: Android    App Version: 1.3      API Level: 28       Device Model: CPH1859
+2020-01-08 13:18:29   Warn   UserName and Password is not entered correctly     OS Type: Android    App Version: 1.3      API Level: 28       Device Model: CPH1859
+2020-01-08 13:18:32   Info   onSignIn() is used for login purpose and based on usertype data is authorizised     OS Type: Android    App Version: 1.3      API Level: 28       Device Model: CPH1859
+2020-01-08 13:18:33   Warn   UserName and Password is not entered correctly     OS Type: Android    App Version: 1.3      API Level: 28       Device Model: CPH1859
+2020-01-08 13:18:35   Info   onSignIn() is used for login purpose and based on usertype data is authorizised     OS Type: Android    App Version: 1.3      API Level: 28       Device Model: CPH1859
+2020-01-08 13:18:35   Warn   UserName and Password is not entered correctly     OS Type: Android    App Version: 1.3      API Level: 28       Device Model: CPH1859
+2020-01-08 13:53:32   Debug   Login Screen is Loaded     OS Type: Android    App Version: 1.3      API Level: 28       Device Model: sakura_india
+2020-01-08 13:55:38   Info   onSignIn() is used for login purpose and based on usertype data is authorizised     OS Type: Android    App Version: 1.3      API Level: 28       Device Model: sakura_india
+2020-01-08 13:55:40   Debug   user pending mytask tasks screen is loaded at user side     OS Type: Android    App Version: 1.3      API Level: 28       Device Model: sakura_india
+2020-01-08 13:55:40   Info   UserPendingMyTask:getdata() method is used to get pending my tasks at user side     OS Type: Android    App Version: 1.3      API Level: 28       Device Model: sakura_india
+2020-01-08 13:55:40   Info   UserPendingMyTask:getdata() method is used to get pending my tasks at user side     OS Type: Android    App Version: 1.3      API Level: 28       Device Model: sakura_india
+2020-01-08 13:55:41   Info   no pending my tasks at user side     OS Type: Android    App Version: 1.3      API Level: 28       Device Model: sakura_india
+2020-01-08 13:55:41   Info   no pending my tasks at user side     OS Type: Android    App Version: 1.3      API Level: 28       Device Model: sakura_india
+2020-01-08 13:55:45   Info   UserCompletedMyTask:userCompletedMyTasks() method is used to get completed my tasks at user side     OS Type: Android    App Version: 1.3      API Level: 28       Device Model: sakura_india
+2020-01-08 13:55:45   Debug   user completed manage tasks screen is loaded     OS Type: Android    App Version: 1.3      API Level: 28       Device Model: sakura_india
+2020-01-08 13:55:46   Info   UserPendingMyTask:getdata() method is used to get pending my tasks at user side     OS Type: Android    App Version: 1.3      API Level: 28       Device Model: sakura_india
+2020-01-08 13:55:47   Info   no pending my tasks at user side     OS Type: Android    App Version: 1.3      API Level: 28       Device Model: sakura_india
+2020-01-08 13:55:59   Info    userCompletedMyTasks(cropcode) is used to get the all the user completed data list     OS Type: Android    App Version: 1.3      API Level: 28       Device Model: sakura_india
+2020-01-08 13:55:59   Info    userCompletedMyTasks(cropcode) is used to get the all the user completed data list     OS Type: Android    App Version: 1.3      API Level: 28       Device Model: sakura_india
+2020-01-08 13:55:59   Debug   getting the CompletedMyTask List     OS Type: Android    App Version: 1.3      API Level: 28       Device Model: sakura_india
+2020-01-08 13:55:59   Warn   no completed projects found     OS Type: Android    App Version: 1.3      API Level: 28       Device Model: sakura_india
+2020-01-08 13:55:59   Warn   no completed projects found     OS Type: Android    App Version: 1.3      API Level: 28       Device Model: sakura_india
+2020-01-08 13:56:06   Info    userCompletedMyTasks(cropcode) is used to get the all the user completed data list     OS Type: Android    App Version: 1.3      API Level: 28       Device Model: sakura_india
+2020-01-08 13:56:06   Debug   Solved Road Blocks loaded     OS Type: Android    App Version: 1.3      API Level: 28       Device Model: sakura_india
+2020-01-08 13:56:06   Info    userCompletedMyTasks(cropcode) is used to get the all the user completed data list     OS Type: Android    App Version: 1.3      API Level: 28       Device Model: sakura_india
+2020-01-08 13:56:07   Info    userCompletedMyTasks(cropcode) is used to get the all the user completed data list     OS Type: Android    App Version: 1.3      API Level: 28       Device Model: sakura_india
+2020-01-08 13:56:07   Warn   no completed projects found     OS Type: Android    App Version: 1.3      API Level: 28       Device Model: sakura_india
+2020-01-08 13:56:14   Info   UserProfile:profile() method is used get employee profile data     OS Type: Android    App Version: 1.3      API Level: 28       Device Model: sakura_india
+2020-01-08 13:56:14   Debug   UserProfile screen is loaded     OS Type: Android    App Version: 1.3      API Level: 28       Device Model: sakura_india
+2020-01-08 13:56:14   Info   UserProfile:GetStatus() method is used to get status of employee     OS Type: Android    App Version: 1.3      API Level: 28       Device Model: sakura_india
+2020-01-08 13:58:23   Debug   user pending mytask tasks screen is loaded at user side     OS Type: Android    App Version: 1.3      API Level: 28       Device Model: sakura_india
+2020-01-08 13:58:23   Info   UserPendingMyTask:getdata() method is used to get pending my tasks at user side     OS Type: Android    App Version: 1.3      API Level: 28       Device Model: sakura_india
+2020-01-08 13:58:23   Info   UserPendingMyTask:getdata() method is used to get pending my tasks at user side     OS Type: Android    App Version: 1.3      API Level: 28       Device Model: sakura_india
+2020-01-08 13:58:24   Info   no pending my tasks at user side     OS Type: Android    App Version: 1.3      API Level: 28       Device Model: sakura_india
+2020-01-08 13:58:25   Info   no pending my tasks at user side     OS Type: Android    App Version: 1.3      API Level: 28       Device Model: sakura_india
+2020-01-08 13:58:26   Debug   user completed manage tasks screen is loaded     OS Type: Android    App Version: 1.3      API Level: 28       Device Model: sakura_india
+2020-01-08 13:58:26   Info   UserCompletedMyTask:userCompletedMyTasks() method is used to get completed my tasks at user side     OS Type: Android    App Version: 1.3      API Level: 28       Device Model: sakura_india
+2020-01-08 13:58:26   Info   UserPendingMyTask:getdata() method is used to get pending my tasks at user side     OS Type: Android    App Version: 1.3      API Level: 28       Device Model: sakura_india
+2020-01-08 13:58:28   Info   no pending my tasks at user side     OS Type: Android    App Version: 1.3      API Level: 28       Device Model: sakura_india
+2020-01-08 13:59:08   Debug   user pending mytask tasks screen is loaded at user side     OS Type: Android    App Version: 1.3      API Level: 28       Device Model: sakura_india
+2020-01-08 13:59:08   Info   UserPendingMyTask:getdata() method is used to get pending my tasks at user side     OS Type: Android    App Version: 1.3      API Level: 28       Device Model: sakura_india
+2020-01-08 13:59:09   Info   UserPendingMyTask:getdata() method is used to get pending my tasks at user side     OS Type: Android    App Version: 1.3      API Level: 28       Device Model: sakura_india
+2020-01-08 13:59:10   Info   no pending my tasks at user side     OS Type: Android    App Version: 1.3      API Level: 28       Device Model: sakura_india
+2020-01-08 13:59:10   Info   no pending my tasks at user side     OS Type: Android    App Version: 1.3      API Level: 28       Device Model: sakura_india
+2020-01-08 13:59:13   Debug   getting the CompletedMyTask List     OS Type: Android    App Version: 1.3      API Level: 28       Device Model: sakura_india
+2020-01-08 13:59:13   Info    userCompletedMyTasks(cropcode) is used to get the all the user completed data list     OS Type: Android    App Version: 1.3      API Level: 28       Device Model: sakura_india
+2020-01-08 13:59:13   Info    userCompletedMyTasks(cropcode) is used to get the all the user completed data list     OS Type: Android    App Version: 1.3      API Level: 28       Device Model: sakura_india
+2020-01-08 13:59:14   Warn   no completed projects found     OS Type: Android    App Version: 1.3      API Level: 28       Device Model: sakura_india
+2020-01-08 13:59:14   Warn   no completed projects found     OS Type: Android    App Version: 1.3      API Level: 28       Device Model: sakura_india
+2020-01-08 13:59:15   Debug   Solved Road Blocks loaded     OS Type: Android    App Version: 1.3      API Level: 28       Device Model: sakura_india
+2020-01-08 13:59:15   Info    userCompletedMyTasks(cropcode) is used to get the all the user completed data list     OS Type: Android    App Version: 1.3      API Level: 28       Device Model: sakura_india
+2020-01-08 13:59:16   Info    userCompletedMyTasks(cropcode) is used to get the all the user completed data list     OS Type: Android    App Version: 1.3      API Level: 28       Device Model: sakura_india
+2020-01-08 13:59:16   Info    userCompletedMyTasks(cropcode) is used to get the all the user completed data list     OS Type: Android    App Version: 1.3      API Level: 28       Device Model: sakura_india
+2020-01-08 13:59:16   Warn   no completed projects found     OS Type: Android    App Version: 1.3      API Level: 28       Device Model: sakura_india
+2020-01-08 13:59:17   Info   UserProfile:profile() method is used get employee profile data     OS Type: Android    App Version: 1.3      API Level: 28       Device Model: sakura_india
+2020-01-08 13:59:17   Info   UserProfile:GetStatus() method is used to get status of employee     OS Type: Android    App Version: 1.3      API Level: 28       Device Model: sakura_india
+2020-01-08 13:59:17   Debug   UserProfile screen is loaded     OS Type: Android    App Version: 1.3      API Level: 28       Device Model: sakura_india
+2020-01-08 13:59:20   Debug   user request projects screen is loaded     OS Type: Android    App Version: 1.3      API Level: 28       Device Model: sakura_india
+2020-01-08 13:59:20   Info    getdata() is used to get all requested projects at user side     OS Type: Android    App Version: 1.3      API Level: 28       Device Model: sakura_india
+2020-01-08 13:59:24   Debug   User Approved projects screen is loaded     OS Type: Android    App Version: 1.3      API Level: 28       Device Model: sakura_india
+2020-01-08 13:59:24   Info   UserApprovedProjects:setRO(userApprovedProjects() method is used to list the user approved projects     OS Type: Android    App Version: 1.3      API Level: 28       Device Model: sakura_india
+2020-01-08 13:59:24   Info   UserApprovedProjects:getResource() method is used to get all employee list     OS Type: Android    App Version: 1.3      API Level: 28       Device Model: sakura_india
+2020-01-08 13:59:48   Debug   Release Owner     OS Type: Android    App Version: 1.3      API Level: 28       Device Model: sakura_india
+2020-01-08 13:59:49   Info   UserApprovedProjects:ReleaseOwner = (item, index) method used to navigate to Release owner screen     OS Type: Android    App Version: 1.3      API Level: 28       Device Model: sakura_india
+2020-01-08 13:59:49   Info    getEmployeesList(role, userToken, cropcode) Getting Employees List for adding releaseowner     OS Type: Android    App Version: 1.3      API Level: 28       Device Model: sakura_india
+2020-01-08 13:59:50   Info   modalDidClose is used to move UserManageProjects screen     OS Type: Android    App Version: 1.3      API Level: 28       Device Model: sakura_india
+2020-01-08 13:59:50   Info   UserApprovedProjects:setRO(userApprovedProjects() method is used to list the user approved projects     OS Type: Android    App Version: 1.3      API Level: 28       Device Model: sakura_india
+2020-01-08 14:00:07   Info   UserApprovedProjects:ReleaseOwner = (item, index) method used to navigate to Release owner screen     OS Type: Android    App Version: 1.3      API Level: 28       Device Model: sakura_india
+2020-01-08 14:00:07   Info    getEmployeesList(role, userToken, cropcode) Getting Employees List for adding releaseowner     OS Type: Android    App Version: 1.3      API Level: 28       Device Model: sakura_india
+2020-01-08 14:00:08   Debug   Release Owner     OS Type: Android    App Version: 1.3      API Level: 28       Device Model: sakura_india
+2020-01-08 14:00:14   Info    selectRO(role, userToken, cropcode) Adding ReleaseOwner for Project      OS Type: Android    App Version: 1.3      API Level: 28       Device Model: sakura_india
+2020-01-08 14:00:16   Info   modalDidClose is used to move UserManageProjects screen     OS Type: Android    App Version: 1.3      API Level: 28       Device Model: sakura_india
+2020-01-08 14:00:17   Info   UserApprovedProjects:setRO(userApprovedProjects() method is used to list the user approved projects     OS Type: Android    App Version: 1.3      API Level: 28       Device Model: sakura_india
+2020-01-08 14:00:46   Info   userPendingManageTasks:DeleteMaintask(maintaskid) method is used to delete maintask     OS Type: Android    App Version: 1.3      API Level: 28       Device Model: sakura_india
+2020-01-08 14:00:46   Debug   user pending manage tasks screen is loaded     OS Type: Android    App Version: 1.3      API Level: 28       Device Model: sakura_india
+2020-01-08 14:00:46   Info   to get level no     OS Type: Android    App Version: 1.3      API Level: 28       Device Model: sakura_india
+2020-01-08 14:00:46   Info   userPendingManageTasks:DeleteMaintask(maintaskid) method is used to delete maintask     OS Type: Android    App Version: 1.3      API Level: 28       Device Model: sakura_india
+2020-01-08 14:00:47   Info   to get level no     OS Type: Android    App Version: 1.3      API Level: 28       Device Model: sakura_india
+2020-01-08 14:00:47   Info   userPendingManageTasks:DeleteMaintask(maintaskid) method is used to delete maintask     OS Type: Android    App Version: 1.3      API Level: 28       Device Model: sakura_india
+2020-01-08 14:00:48   Info   no pending manage tasks at user side     OS Type: Android    App Version: 1.3      API Level: 28       Device Model: sakura_india
+2020-01-08 14:00:48   Info   to get level no     OS Type: Android    App Version: 1.3      API Level: 28       Device Model: sakura_india
+2020-01-08 14:00:48   Info   to get level no     OS Type: Android    App Version: 1.3      API Level: 28       Device Model: sakura_india
+2020-01-08 14:00:49   Info   to get level no     OS Type: Android    App Version: 1.3      API Level: 28       Device Model: sakura_india
+2020-01-08 14:00:49   Info   to get level no     OS Type: Android    App Version: 1.3      API Level: 28       Device Model: sakura_india
+2020-01-08 14:00:49   Info   to get level no     OS Type: Android    App Version: 1.3      API Level: 28       Device Model: sakura_india
+2020-01-08 14:00:49   Info   to get level no     OS Type: Android    App Version: 1.3      API Level: 28       Device Model: sakura_india
+2020-01-08 14:00:49   Info   to get level no     OS Type: Android    App Version: 1.3      API Level: 28       Device Model: sakura_india
+2020-01-08 14:00:50   Info   to get level no     OS Type: Android    App Version: 1.3      API Level: 28       Device Model: sakura_india
+2020-01-08 14:00:50   Info   no pending manage tasks at user side     OS Type: Android    App Version: 1.3      API Level: 28       Device Model: sakura_india
+2020-01-08 14:00:50   Info   no pending manage tasks at user side     OS Type: Android    App Version: 1.3      API Level: 28       Device Model: sakura_india
+2020-01-08 14:00:50   Info   no pending manage tasks at user side     OS Type: Android    App Version: 1.3      API Level: 28       Device Model: sakura_india
+2020-01-08 14:00:51   Info   no pending manage tasks at user side     OS Type: Android    App Version: 1.3      API Level: 28       Device Model: sakura_india
+2020-01-08 14:00:51   Info   no pending manage tasks at user side     OS Type: Android    App Version: 1.3      API Level: 28       Device Model: sakura_india
+2020-01-08 14:00:51   Info   no pending manage tasks at user side     OS Type: Android    App Version: 1.3      API Level: 28       Device Model: sakura_india
+2020-01-08 14:00:51   Info   no pending manage tasks at user side     OS Type: Android    App Version: 1.3      API Level: 28       Device Model: sakura_india
+2020-01-08 14:00:51   Info   no pending manage tasks at user side     OS Type: Android    App Version: 1.3      API Level: 28       Device Model: sakura_india
+2020-01-08 14:00:51   Info   no pending manage tasks at user side     OS Type: Android    App Version: 1.3      API Level: 28       Device Model: sakura_india
+2020-01-08 14:00:51   Info   no pending manage tasks at user side     OS Type: Android    App Version: 1.3      API Level: 28       Device Model: sakura_india
+2020-01-08 14:00:51   Info   no pending manage tasks at user side     OS Type: Android    App Version: 1.3      API Level: 28       Device Model: sakura_india
+2020-01-08 14:00:51   Info   no pending manage tasks at user side     OS Type: Android    App Version: 1.3      API Level: 28       Device Model: sakura_india
+2020-01-08 14:00:51   Info   no pending manage tasks at user side     OS Type: Android    App Version: 1.3      API Level: 28       Device Model: sakura_india
+2020-01-08 14:00:51   Info   no pending manage tasks at user side     OS Type: Android    App Version: 1.3      API Level: 28       Device Model: sakura_india
+2020-01-08 14:00:51   Info   no pending manage tasks at user side     OS Type: Android    App Version: 1.3      API Level: 28       Device Model: sakura_india
+2020-01-08 14:00:51   Info   no pending manage tasks at user side     OS Type: Android    App Version: 1.3      API Level: 28       Device Model: sakura_india
+2020-01-08 14:00:52   Info   no pending manage tasks at user side     OS Type: Android    App Version: 1.3      API Level: 28       Device Model: sakura_india
+2020-01-08 14:00:52   Info   no pending manage tasks at user side     OS Type: Android    App Version: 1.3      API Level: 28       Device Model: sakura_india
+2020-01-08 14:00:52   Info   no pending manage tasks at user side     OS Type: Android    App Version: 1.3      API Level: 28       Device Model: sakura_india
+2020-01-08 14:00:52   Info   no pending manage tasks at user side     OS Type: Android    App Version: 1.3      API Level: 28       Device Model: sakura_india
+2020-01-08 14:00:52   Info   no pending manage tasks at user side     OS Type: Android    App Version: 1.3      API Level: 28       Device Model: sakura_india
+2020-01-08 14:00:52   Info   no pending manage tasks at user side     OS Type: Android    App Version: 1.3      API Level: 28       Device Model: sakura_india
+2020-01-08 14:00:52   Info   no pending manage tasks at user side     OS Type: Android    App Version: 1.3      API Level: 28       Device Model: sakura_india
+2020-01-08 14:01:11   Debug   user completed manage tasks screen is loaded     OS Type: Android    App Version: 1.3      API Level: 28       Device Model: sakura_india
+2020-01-08 14:01:11   Info   UserCompletedManageTasks:manageTasksCompleted() method is used to get completed manage tasks at admin side     OS Type: Android    App Version: 1.3      API Level: 28       Device Model: sakura_india
+2020-01-08 14:01:11   Info   userPendingManageTasks:DeleteMaintask(maintaskid) method is used to delete maintask     OS Type: Android    App Version: 1.3      API Level: 28       Device Model: sakura_india
+2020-01-08 14:01:12   Info   no completed manage tasks at user side     OS Type: Android    App Version: 1.3      API Level: 28       Device Model: sakura_india
+2020-01-08 14:01:12   Info   to get level no     OS Type: Android    App Version: 1.3      API Level: 28       Device Model: sakura_india
+2020-01-08 14:01:12   Info   to get level no     OS Type: Android    App Version: 1.3      API Level: 28       Device Model: sakura_india
+2020-01-08 14:01:12   Info   to get level no     OS Type: Android    App Version: 1.3      API Level: 28       Device Model: sakura_india
+2020-01-08 14:01:13   Info   to get level no     OS Type: Android    App Version: 1.3      API Level: 28       Device Model: sakura_india
+2020-01-08 14:01:13   Info   to get level no     OS Type: Android    App Version: 1.3      API Level: 28       Device Model: sakura_india
+2020-01-08 14:01:13   Info   to get level no     OS Type: Android    App Version: 1.3      API Level: 28       Device Model: sakura_india
+2020-01-08 14:01:13   Info   to get level no     OS Type: Android    App Version: 1.3      API Level: 28       Device Model: sakura_india
+2020-01-08 14:01:13   Info   to get level no     OS Type: Android    App Version: 1.3      API Level: 28       Device Model: sakura_india
+2020-01-08 14:01:13   Info   to get level no     OS Type: Android    App Version: 1.3      API Level: 28       Device Model: sakura_india
+2020-01-08 14:01:13   Info   to get level no     OS Type: Android    App Version: 1.3      API Level: 28       Device Model: sakura_india
+2020-01-08 14:01:13   Info   no completed manage tasks at user side     OS Type: Android    App Version: 1.3      API Level: 28       Device Model: sakura_india
+2020-01-08 14:01:13   Info   no completed manage tasks at user side     OS Type: Android    App Version: 1.3      API Level: 28       Device Model: sakura_india
+2020-01-08 14:01:13   Info   no completed manage tasks at user side     OS Type: Android    App Version: 1.3      API Level: 28       Device Model: sakura_india
+2020-01-08 14:01:13   Info   no completed manage tasks at user side     OS Type: Android    App Version: 1.3      API Level: 28       Device Model: sakura_india
+2020-01-08 14:01:13   Info   no completed manage tasks at user side     OS Type: Android    App Version: 1.3      API Level: 28       Device Model: sakura_india
+2020-01-08 14:01:14   Info   no completed manage tasks at user side     OS Type: Android    App Version: 1.3      API Level: 28       Device Model: sakura_india
+2020-01-08 14:01:14   Info   no completed manage tasks at user side     OS Type: Android    App Version: 1.3      API Level: 28       Device Model: sakura_india
+2020-01-08 14:01:14   Info   no completed manage tasks at user side     OS Type: Android    App Version: 1.3      API Level: 28       Device Model: sakura_india
+2020-01-08 14:01:14   Info   no completed manage tasks at user side     OS Type: Android    App Version: 1.3      API Level: 28       Device Model: sakura_india
+2020-01-08 14:01:14   Info   no completed manage tasks at user side     OS Type: Android    App Version: 1.3      API Level: 28       Device Model: sakura_india
+2020-01-08 14:01:14   Info   no completed manage tasks at user side     OS Type: Android    App Version: 1.3      API Level: 28       Device Model: sakura_india
+2020-01-08 14:01:14   Info   no completed manage tasks at user side     OS Type: Android    App Version: 1.3      API Level: 28       Device Model: sakura_india
+2020-01-08 14:01:14   Info   no completed manage tasks at user side     OS Type: Android    App Version: 1.3      API Level: 28       Device Model: sakura_india
+2020-01-08 14:01:14   Info   no completed manage tasks at user side     OS Type: Android    App Version: 1.3      API Level: 28       Device Model: sakura_india
+2020-01-08 14:01:14   Info   no completed manage tasks at user side     OS Type: Android    App Version: 1.3      API Level: 28       Device Model: sakura_india
+2020-01-08 14:01:14   Info   no completed manage tasks at user side     OS Type: Android    App Version: 1.3      API Level: 28       Device Model: sakura_india
+2020-01-08 14:01:14   Info   no completed manage tasks at user side     OS Type: Android    App Version: 1.3      API Level: 28       Device Model: sakura_india
+2020-01-08 14:01:14   Info   no completed manage tasks at user side     OS Type: Android    App Version: 1.3      API Level: 28       Device Model: sakura_india
+2020-01-08 14:01:14   Info   no completed manage tasks at user side     OS Type: Android    App Version: 1.3      API Level: 28       Device Model: sakura_india
+2020-01-08 14:01:15   Info   to get level no     OS Type: Android    App Version: 1.3      API Level: 28       Device Model: sakura_india
+2020-01-08 14:01:15   Info   no pending manage tasks at user side     OS Type: Android    App Version: 1.3      API Level: 28       Device Model: sakura_india
+2020-01-08 14:01:15   Info   no pending manage tasks at user side     OS Type: Android    App Version: 1.3      API Level: 28       Device Model: sakura_india
+2020-01-08 14:01:15   Info   no pending manage tasks at user side     OS Type: Android    App Version: 1.3      API Level: 28       Device Model: sakura_india
+2020-01-08 14:01:15   Info   no pending manage tasks at user side     OS Type: Android    App Version: 1.3      API Level: 28       Device Model: sakura_india
+2020-01-08 14:01:15   Info   no pending manage tasks at user side     OS Type: Android    App Version: 1.3      API Level: 28       Device Model: sakura_india
+2020-01-08 14:01:15   Info   no pending manage tasks at user side     OS Type: Android    App Version: 1.3      API Level: 28       Device Model: sakura_india
+2020-01-08 14:01:15   Info   no pending manage tasks at user side     OS Type: Android    App Version: 1.3      API Level: 28       Device Model: sakura_india
+2020-01-08 14:01:15   Info   no pending manage tasks at user side     OS Type: Android    App Version: 1.3      API Level: 28       Device Model: sakura_india
+2020-01-08 14:01:15   Info   to get level no     OS Type: Android    App Version: 1.3      API Level: 28       Device Model: sakura_india
+2020-01-08 14:01:15   Info   to get level no     OS Type: Android    App Version: 1.3      API Level: 28       Device Model: sakura_india
+2020-01-08 14:01:15   Info   to get level no     OS Type: Android    App Version: 1.3      API Level: 28       Device Model: sakura_india
+2020-01-08 14:01:15   Info   to get level no     OS Type: Android    App Version: 1.3      API Level: 28       Device Model: sakura_india
+2020-01-08 14:01:15   Info   to get level no     OS Type: Android    App Version: 1.3      API Level: 28       Device Model: sakura_india
+2020-01-08 14:01:16   Info   to get level no     OS Type: Android    App Version: 1.3      API Level: 28       Device Model: sakura_india
+2020-01-08 14:01:16   Info   to get level no     OS Type: Android    App Version: 1.3      API Level: 28       Device Model: sakura_india
+2020-01-08 14:01:16   Info   to get level no     OS Type: Android    App Version: 1.3      API Level: 28       Device Model: sakura_india
+2020-01-08 14:01:16   Info   to get level no     OS Type: Android    App Version: 1.3      API Level: 28       Device Model: sakura_india
+2020-01-08 15:37:39   Debug   Login Screen is Loaded     OS Type: Android    App Version: 1.3      API Level: 28       Device Model: j8y18lte
+2020-01-08 15:49:59   Debug   user pending mytask tasks screen is loaded at user side     OS Type: Android    App Version: 1.3      API Level: 28       Device Model: sakura_india
+2020-01-08 15:50:00   Info   UserPendingMyTask:getdata() method is used to get pending my tasks at user side     OS Type: Android    App Version: 1.3      API Level: 28       Device Model: sakura_india
+2020-01-08 15:50:00   Info   UserPendingMyTask:getdata() method is used to get pending my tasks at user side     OS Type: Android    App Version: 1.3      API Level: 28       Device Model: sakura_india
+2020-01-08 15:50:01   Info   no pending my tasks at user side     OS Type: Android    App Version: 1.3      API Level: 28       Device Model: sakura_india
+2020-01-08 15:50:01   Info   no pending my tasks at user side     OS Type: Android    App Version: 1.3      API Level: 28       Device Model: sakura_india
+2020-01-08 15:50:02   Debug   user completed manage tasks screen is loaded     OS Type: Android    App Version: 1.3      API Level: 28       Device Model: sakura_india
+2020-01-08 15:50:02   Info   UserCompletedMyTask:userCompletedMyTasks() method is used to get completed my tasks at user side     OS Type: Android    App Version: 1.3      API Level: 28       Device Model: sakura_india
+2020-01-08 15:50:03   Info   UserPendingMyTask:getdata() method is used to get pending my tasks at user side     OS Type: Android    App Version: 1.3      API Level: 28       Device Model: sakura_india
+2020-01-08 15:50:03   Debug   UserProfile screen is loaded     OS Type: Android    App Version: 1.3      API Level: 28       Device Model: sakura_india
+2020-01-08 15:50:03   Info   UserProfile:profile() method is used get employee profile data     OS Type: Android    App Version: 1.3      API Level: 28       Device Model: sakura_india
+2020-01-08 15:50:03   Info   UserProfile:GetStatus() method is used to get status of employee     OS Type: Android    App Version: 1.3      API Level: 28       Device Model: sakura_india
+2020-01-08 15:50:04   Info   no pending my tasks at user side     OS Type: Android    App Version: 1.3      API Level: 28       Device Model: sakura_india
+2020-01-08 15:50:15   Info   no pending my tasks at user side     OS Type: Android    App Version: 1.3      API Level: 28       Device Model: sakura_india
+2020-01-08 15:50:16   Info   UserPendingMyTask:getdata() method is used to get pending my tasks at user side     OS Type: Android    App Version: 1.3      API Level: 28       Device Model: sakura_india
+2020-01-08 15:50:16   Info   UserCompletedMyTask:userCompletedMyTasks() method is used to get completed my tasks at user side     OS Type: Android    App Version: 1.3      API Level: 28       Device Model: sakura_india
+2020-01-08 15:50:20   Info   UserCompletedMyTask:userCompletedMyTasks() method is used to get completed my tasks at user side     OS Type: Android    App Version: 1.3      API Level: 28       Device Model: sakura_india
+2020-01-08 15:50:20   Info   UserPendingMyTask:getdata() method is used to get pending my tasks at user side     OS Type: Android    App Version: 1.3      API Level: 28       Device Model: sakura_india
+2020-01-08 15:50:22   Info   no pending my tasks at user side     OS Type: Android    App Version: 1.3      API Level: 28       Device Model: sakura_india
+2020-01-08 15:50:26   Debug   getting the CompletedMyTask List     OS Type: Android    App Version: 1.3      API Level: 28       Device Model: sakura_india
+2020-01-08 15:50:26   Info    userCompletedMyTasks(cropcode) is used to get the all the user completed data list     OS Type: Android    App Version: 1.3      API Level: 28       Device Model: sakura_india
+2020-01-08 15:50:26   Warn   no completed projects found     OS Type: Android    App Version: 1.3      API Level: 28       Device Model: sakura_india
+2020-01-08 15:50:26   Info    userCompletedMyTasks(cropcode) is used to get the all the user completed data list     OS Type: Android    App Version: 1.3      API Level: 28       Device Model: sakura_india
+2020-01-08 15:50:26   Warn   no completed projects found     OS Type: Android    App Version: 1.3      API Level: 28       Device Model: sakura_india
+2020-01-08 15:50:28   Debug   Solved Road Blocks loaded     OS Type: Android    App Version: 1.3      API Level: 28       Device Model: sakura_india
+2020-01-08 15:50:28   Info    userCompletedMyTasks(cropcode) is used to get the all the user completed data list     OS Type: Android    App Version: 1.3      API Level: 28       Device Model: sakura_india
+2020-01-08 15:50:28   Info    userCompletedMyTasks(cropcode) is used to get the all the user completed data list     OS Type: Android    App Version: 1.3      API Level: 28       Device Model: sakura_india
+2020-01-08 15:50:28   Info    userCompletedMyTasks(cropcode) is used to get the all the user completed data list     OS Type: Android    App Version: 1.3      API Level: 28       Device Model: sakura_india
+2020-01-08 15:50:29   Warn   no completed projects found     OS Type: Android    App Version: 1.3      API Level: 28       Device Model: sakura_india
+2020-01-08 15:50:35   Info    getdata() is used to get all requested projects at user side     OS Type: Android    App Version: 1.3      API Level: 28       Device Model: sakura_india
+2020-01-08 15:50:36   Debug   user request projects screen is loaded     OS Type: Android    App Version: 1.3      API Level: 28       Device Model: sakura_india
+2020-01-08 15:50:38   Debug   User Approved projects screen is loaded     OS Type: Android    App Version: 1.3      API Level: 28       Device Model: sakura_india
+2020-01-08 15:50:38   Info   UserApprovedProjects:setRO(userApprovedProjects() method is used to list the user approved projects     OS Type: Android    App Version: 1.3      API Level: 28       Device Model: sakura_india
+2020-01-08 15:50:38   Info   UserApprovedProjects:getResource() method is used to get all employee list     OS Type: Android    App Version: 1.3      API Level: 28       Device Model: sakura_india
+2020-01-08 15:50:51   Debug   user pending manage tasks screen is loaded     OS Type: Android    App Version: 1.3      API Level: 28       Device Model: sakura_india
+2020-01-08 15:50:51   Info   userPendingManageTasks:DeleteMaintask(maintaskid) method is used to delete maintask     OS Type: Android    App Version: 1.3      API Level: 28       Device Model: sakura_india
+2020-01-08 15:50:51   Info   to get level no     OS Type: Android    App Version: 1.3      API Level: 28       Device Model: sakura_india
+2020-01-08 15:50:51   Info   userPendingManageTasks:DeleteMaintask(maintaskid) method is used to delete maintask     OS Type: Android    App Version: 1.3      API Level: 28       Device Model: sakura_india
+2020-01-08 15:50:51   Info   to get level no     OS Type: Android    App Version: 1.3      API Level: 28       Device Model: sakura_india
+2020-01-08 15:50:51   Info   userPendingManageTasks:DeleteMaintask(maintaskid) method is used to delete maintask     OS Type: Android    App Version: 1.3      API Level: 28       Device Model: sakura_india
+2020-01-08 15:50:52   Info   no pending manage tasks at user side     OS Type: Android    App Version: 1.3      API Level: 28       Device Model: sakura_india
+2020-01-08 15:50:52   Info   to get level no     OS Type: Android    App Version: 1.3      API Level: 28       Device Model: sakura_india
+2020-01-08 15:50:52   Info   to get level no     OS Type: Android    App Version: 1.3      API Level: 28       Device Model: sakura_india
+2020-01-08 15:50:52   Info   to get level no     OS Type: Android    App Version: 1.3      API Level: 28       Device Model: sakura_india
+2020-01-08 15:50:53   Info   to get level no     OS Type: Android    App Version: 1.3      API Level: 28       Device Model: sakura_india
+2020-01-08 15:50:53   Info   to get level no     OS Type: Android    App Version: 1.3      API Level: 28       Device Model: sakura_india
+2020-01-08 15:50:53   Info   to get level no     OS Type: Android    App Version: 1.3      API Level: 28       Device Model: sakura_india
+2020-01-08 15:50:53   Info   to get level no     OS Type: Android    App Version: 1.3      API Level: 28       Device Model: sakura_india
+2020-01-08 15:50:53   Info   to get level no     OS Type: Android    App Version: 1.3      API Level: 28       Device Model: sakura_india
+2020-01-08 15:50:53   Info   no pending manage tasks at user side     OS Type: Android    App Version: 1.3      API Level: 28       Device Model: sakura_india
+2020-01-08 15:50:53   Info   no pending manage tasks at user side     OS Type: Android    App Version: 1.3      API Level: 28       Device Model: sakura_india
+2020-01-08 15:50:54   Info   no pending manage tasks at user side     OS Type: Android    App Version: 1.3      API Level: 28       Device Model: sakura_india
+2020-01-08 15:50:54   Info   no pending manage tasks at user side     OS Type: Android    App Version: 1.3      API Level: 28       Device Model: sakura_india
+2020-01-08 15:50:54   Info   no pending manage tasks at user side     OS Type: Android    App Version: 1.3      API Level: 28       Device Model: sakura_india
+2020-01-08 15:50:54   Info   no pending manage tasks at user side     OS Type: Android    App Version: 1.3      API Level: 28       Device Model: sakura_india
+2020-01-08 15:50:54   Info   no pending manage tasks at user side     OS Type: Android    App Version: 1.3      API Level: 28       Device Model: sakura_india
+2020-01-08 15:50:54   Info   no pending manage tasks at user side     OS Type: Android    App Version: 1.3      API Level: 28       Device Model: sakura_india
+2020-01-08 15:50:54   Info   no pending manage tasks at user side     OS Type: Android    App Version: 1.3      API Level: 28       Device Model: sakura_india
+2020-01-08 15:50:54   Info   no pending manage tasks at user side     OS Type: Android    App Version: 1.3      API Level: 28       Device Model: sakura_india
+2020-01-08 15:50:54   Info   no pending manage tasks at user side     OS Type: Android    App Version: 1.3      API Level: 28       Device Model: sakura_india
+2020-01-08 15:50:55   Info   no pending manage tasks at user side     OS Type: Android    App Version: 1.3      API Level: 28       Device Model: sakura_india
+2020-01-08 15:50:55   Info   no pending manage tasks at user side     OS Type: Android    App Version: 1.3      API Level: 28       Device Model: sakura_india
+2020-01-08 15:50:55   Info   no pending manage tasks at user side     OS Type: Android    App Version: 1.3      API Level: 28       Device Model: sakura_india
+2020-01-08 15:50:55   Info   no pending manage tasks at user side     OS Type: Android    App Version: 1.3      API Level: 28       Device Model: sakura_india
+2020-01-08 15:50:55   Info   no pending manage tasks at user side     OS Type: Android    App Version: 1.3      API Level: 28       Device Model: sakura_india
+2020-01-08 15:50:55   Info   no pending manage tasks at user side     OS Type: Android    App Version: 1.3      API Level: 28       Device Model: sakura_india
+2020-01-08 15:50:55   Info   no pending manage tasks at user side     OS Type: Android    App Version: 1.3      API Level: 28       Device Model: sakura_india
+2020-01-08 15:50:55   Info   no pending manage tasks at user side     OS Type: Android    App Version: 1.3      API Level: 28       Device Model: sakura_india
+2020-01-08 15:50:55   Info   no pending manage tasks at user side     OS Type: Android    App Version: 1.3      API Level: 28       Device Model: sakura_india
+2020-01-08 15:50:55   Info   no pending manage tasks at user side     OS Type: Android    App Version: 1.3      API Level: 28       Device Model: sakura_india
+2020-01-08 15:50:55   Info   no pending manage tasks at user side     OS Type: Android    App Version: 1.3      API Level: 28       Device Model: sakura_india
+2020-01-08 15:50:56   Info   no pending manage tasks at user side     OS Type: Android    App Version: 1.3      API Level: 28       Device Model: sakura_india
+2020-01-08 15:50:56   Debug   user completed manage tasks screen is loaded     OS Type: Android    App Version: 1.3      API Level: 28       Device Model: sakura_india
+2020-01-08 15:50:56   Info   UserCompletedManageTasks:manageTasksCompleted() method is used to get completed manage tasks at admin side     OS Type: Android    App Version: 1.3      API Level: 28       Device Model: sakura_india
+2020-01-08 15:50:56   Info   userPendingManageTasks:DeleteMaintask(maintaskid) method is used to delete maintask     OS Type: Android    App Version: 1.3      API Level: 28       Device Model: sakura_india
+2020-01-08 15:50:57   Info   no pending manage tasks at user side     OS Type: Android    App Version: 1.3      API Level: 28       Device Model: sakura_india
+2020-01-08 15:50:57   Info   no pending manage tasks at user side     OS Type: Android    App Version: 1.3      API Level: 28       Device Model: sakura_india
+2020-01-08 15:50:57   Info   no pending manage tasks at user side     OS Type: Android    App Version: 1.3      API Level: 28       Device Model: sakura_india
+2020-01-08 15:50:57   Info   no pending manage tasks at user side     OS Type: Android    App Version: 1.3      API Level: 28       Device Model: sakura_india
+2020-01-08 15:50:57   Info   no pending manage tasks at user side     OS Type: Android    App Version: 1.3      API Level: 28       Device Model: sakura_india
+2020-01-08 15:50:57   Info   no pending manage tasks at user side     OS Type: Android    App Version: 1.3      API Level: 28       Device Model: sakura_india
+2020-01-08 15:50:57   Info   no pending manage tasks at user side     OS Type: Android    App Version: 1.3      API Level: 28       Device Model: sakura_india
+2020-01-08 15:50:57   Info   no pending manage tasks at user side     OS Type: Android    App Version: 1.3      API Level: 28       Device Model: sakura_india
+2020-01-08 15:50:58   Info   no completed manage tasks at user side     OS Type: Android    App Version: 1.3      API Level: 28       Device Model: sakura_india
+2020-01-08 15:50:58   Info   to get level no     OS Type: Android    App Version: 1.3      API Level: 28       Device Model: sakura_india
+2020-01-08 15:50:58   Info   to get level no     OS Type: Android    App Version: 1.3      API Level: 28       Device Model: sakura_india
+2020-01-08 15:50:58   Info   to get level no     OS Type: Android    App Version: 1.3      API Level: 28       Device Model: sakura_india
+2020-01-08 15:50:58   Info   to get level no     OS Type: Android    App Version: 1.3      API Level: 28       Device Model: sakura_india
+2020-01-08 15:50:59   Info   to get level no     OS Type: Android    App Version: 1.3      API Level: 28       Device Model: sakura_india
+2020-01-08 15:50:59   Info   to get level no     OS Type: Android    App Version: 1.3      API Level: 28       Device Model: sakura_india
+2020-01-08 15:50:59   Info   to get level no     OS Type: Android    App Version: 1.3      API Level: 28       Device Model: sakura_india
+2020-01-08 15:50:59   Info   to get level no     OS Type: Android    App Version: 1.3      API Level: 28       Device Model: sakura_india
+2020-01-08 15:50:59   Info   to get level no     OS Type: Android    App Version: 1.3      API Level: 28       Device Model: sakura_india
+2020-01-08 15:50:59   Info   to get level no     OS Type: Android    App Version: 1.3      API Level: 28       Device Model: sakura_india
+2020-01-08 15:50:59   Info   no completed manage tasks at user side     OS Type: Android    App Version: 1.3      API Level: 28       Device Model: sakura_india
+2020-01-08 15:50:59   Info   no completed manage tasks at user side     OS Type: Android    App Version: 1.3      API Level: 28       Device Model: sakura_india
+2020-01-08 15:50:59   Info   no completed manage tasks at user side     OS Type: Android    App Version: 1.3      API Level: 28       Device Model: sakura_india
+2020-01-08 15:50:59   Info   no completed manage tasks at user side     OS Type: Android    App Version: 1.3      API Level: 28       Device Model: sakura_india
+2020-01-08 15:51:00   Info   no completed manage tasks at user side     OS Type: Android    App Version: 1.3      API Level: 28       Device Model: sakura_india
+2020-01-08 15:51:00   Info   no completed manage tasks at user side     OS Type: Android    App Version: 1.3      API Level: 28       Device Model: sakura_india
+2020-01-08 15:51:00   Info   no completed manage tasks at user side     OS Type: Android    App Version: 1.3      API Level: 28       Device Model: sakura_india
+2020-01-08 15:51:00   Info   no completed manage tasks at user side     OS Type: Android    App Version: 1.3      API Level: 28       Device Model: sakura_india
+2020-01-08 15:51:00   Info   no completed manage tasks at user side     OS Type: Android    App Version: 1.3      API Level: 28       Device Model: sakura_india
+2020-01-08 15:51:00   Info   no completed manage tasks at user side     OS Type: Android    App Version: 1.3      API Level: 28       Device Model: sakura_india
+2020-01-08 15:51:00   Info   no completed manage tasks at user side     OS Type: Android    App Version: 1.3      API Level: 28       Device Model: sakura_india
+2020-01-08 15:51:00   Info   no completed manage tasks at user side     OS Type: Android    App Version: 1.3      API Level: 28       Device Model: sakura_india
+2020-01-08 15:51:00   Info   no completed manage tasks at user side     OS Type: Android    App Version: 1.3      API Level: 28       Device Model: sakura_india
+2020-01-08 15:51:00   Info   no completed manage tasks at user side     OS Type: Android    App Version: 1.3      API Level: 28       Device Model: sakura_india
+2020-01-08 15:51:00   Info   no completed manage tasks at user side     OS Type: Android    App Version: 1.3      API Level: 28       Device Model: sakura_india
+2020-01-08 15:51:00   Info   no completed manage tasks at user side     OS Type: Android    App Version: 1.3      API Level: 28       Device Model: sakura_india
+2020-01-08 15:51:01   Info   no completed manage tasks at user side     OS Type: Android    App Version: 1.3      API Level: 28       Device Model: sakura_india
+2020-01-08 15:51:01   Info   no completed manage tasks at user side     OS Type: Android    App Version: 1.3      API Level: 28       Device Model: sakura_india
+2020-01-08 15:51:01   Info   no completed manage tasks at user side     OS Type: Android    App Version: 1.3      API Level: 28       Device Model: sakura_india
+2020-01-08 15:51:01   Info   to get level no     OS Type: Android    App Version: 1.3      API Level: 28       Device Model: sakura_india
+2020-01-08 15:51:01   Info   to get level no     OS Type: Android    App Version: 1.3      API Level: 28       Device Model: sakura_india
+2020-01-08 15:51:01   Info   to get level no     OS Type: Android    App Version: 1.3      API Level: 28       Device Model: sakura_india
+2020-01-08 15:51:01   Info   to get level no     OS Type: Android    App Version: 1.3      API Level: 28       Device Model: sakura_india
+2020-01-08 15:51:01   Info   to get level no     OS Type: Android    App Version: 1.3      API Level: 28       Device Model: sakura_india
+2020-01-08 15:51:02   Info   to get level no     OS Type: Android    App Version: 1.3      API Level: 28       Device Model: sakura_india
+2020-01-08 15:51:02   Info   to get level no     OS Type: Android    App Version: 1.3      API Level: 28       Device Model: sakura_india
+2020-01-08 15:51:02   Info   to get level no     OS Type: Android    App Version: 1.3      API Level: 28       Device Model: sakura_india
+2020-01-08 15:51:02   Info   to get level no     OS Type: Android    App Version: 1.3      API Level: 28       Device Model: sakura_india
+2020-01-08 15:51:02   Info   to get level no     OS Type: Android    App Version: 1.3      API Level: 28       Device Model: sakura_india
+2020-01-08 15:51:21   Info   getSubTasksList(taskId) method is used to Getting the subtasks      OS Type: Android    App Version: 1.3      API Level: 28       Device Model: sakura_india
+2020-01-08 15:51:21   Debug   View SubTask screen is loaded     OS Type: Android    App Version: 1.3      API Level: 28       Device Model: sakura_india
+2020-01-08 15:51:21   Info   getSubTasksList(taskId) method is used to Getting the subtasks      OS Type: Android    App Version: 1.3      API Level: 28       Device Model: sakura_india
+2020-01-08 15:51:33   Info   userPendingManageTasks:DeleteMaintask(maintaskid) method is used to delete maintask     OS Type: Android    App Version: 1.3      API Level: 28       Device Model: sakura_india
+2020-01-08 15:51:33   Info   UserCompletedManageTasks:manageTasksCompleted() method is used to get completed manage tasks at admin side     OS Type: Android    App Version: 1.3      API Level: 28       Device Model: sakura_india
+2020-01-08 15:51:35   Info   no completed manage tasks at user side     OS Type: Android    App Version: 1.3      API Level: 28       Device Model: sakura_india
+2020-01-08 15:51:35   Info   to get level no     OS Type: Android    App Version: 1.3      API Level: 28       Device Model: sakura_india
+2020-01-08 15:51:35   Info   to get level no     OS Type: Android    App Version: 1.3      API Level: 28       Device Model: sakura_india
+2020-01-08 15:51:35   Info   to get level no     OS Type: Android    App Version: 1.3      API Level: 28       Device Model: sakura_india
+2020-01-08 15:51:36   Info   to get level no     OS Type: Android    App Version: 1.3      API Level: 28       Device Model: sakura_india
+2020-01-08 15:51:36   Info   to get level no     OS Type: Android    App Version: 1.3      API Level: 28       Device Model: sakura_india
+2020-01-08 15:51:36   Info   to get level no     OS Type: Android    App Version: 1.3      API Level: 28       Device Model: sakura_india
+2020-01-08 15:51:36   Info   to get level no     OS Type: Android    App Version: 1.3      API Level: 28       Device Model: sakura_india
+2020-01-08 15:51:36   Info   to get level no     OS Type: Android    App Version: 1.3      API Level: 28       Device Model: sakura_india
+2020-01-08 15:51:36   Info   to get level no     OS Type: Android    App Version: 1.3      API Level: 28       Device Model: sakura_india
+2020-01-08 15:51:36   Info   to get level no     OS Type: Android    App Version: 1.3      API Level: 28       Device Model: sakura_india
+2020-01-08 15:51:36   Info   to get level no     OS Type: Android    App Version: 1.3      API Level: 28       Device Model: sakura_india
+2020-01-08 15:51:36   Info   no completed manage tasks at user side     OS Type: Android    App Version: 1.3      API Level: 28       Device Model: sakura_india
+2020-01-08 15:51:36   Info   no completed manage tasks at user side     OS Type: Android    App Version: 1.3      API Level: 28       Device Model: sakura_india
+2020-01-08 15:51:36   Info   no completed manage tasks at user side     OS Type: Android    App Version: 1.3      API Level: 28       Device Model: sakura_india
+2020-01-08 15:51:36   Info   no completed manage tasks at user side     OS Type: Android    App Version: 1.3      API Level: 28       Device Model: sakura_india
+2020-01-08 15:51:36   Info   no completed manage tasks at user side     OS Type: Android    App Version: 1.3      API Level: 28       Device Model: sakura_india
+2020-01-08 15:51:36   Info   no completed manage tasks at user side     OS Type: Android    App Version: 1.3      API Level: 28       Device Model: sakura_india
+2020-01-08 15:51:36   Info   no completed manage tasks at user side     OS Type: Android    App Version: 1.3      API Level: 28       Device Model: sakura_india
+2020-01-08 15:51:37   Info   no completed manage tasks at user side     OS Type: Android    App Version: 1.3      API Level: 28       Device Model: sakura_india
+2020-01-08 15:51:37   Info   no completed manage tasks at user side     OS Type: Android    App Version: 1.3      API Level: 28       Device Model: sakura_india
+2020-01-08 15:51:37   Info   no completed manage tasks at user side     OS Type: Android    App Version: 1.3      API Level: 28       Device Model: sakura_india
+2020-01-08 15:51:37   Info   no completed manage tasks at user side     OS Type: Android    App Version: 1.3      API Level: 28       Device Model: sakura_india
+2020-01-08 15:51:37   Info   no completed manage tasks at user side     OS Type: Android    App Version: 1.3      API Level: 28       Device Model: sakura_india
+2020-01-08 15:51:37   Info   no completed manage tasks at user side     OS Type: Android    App Version: 1.3      API Level: 28       Device Model: sakura_india
+2020-01-08 15:51:37   Info   no completed manage tasks at user side     OS Type: Android    App Version: 1.3      API Level: 28       Device Model: sakura_india
+2020-01-08 15:51:37   Info   no completed manage tasks at user side     OS Type: Android    App Version: 1.3      API Level: 28       Device Model: sakura_india
+2020-01-08 15:51:37   Info   no completed manage tasks at user side     OS Type: Android    App Version: 1.3      API Level: 28       Device Model: sakura_india
+2020-01-08 15:51:37   Info   no completed manage tasks at user side     OS Type: Android    App Version: 1.3      API Level: 28       Device Model: sakura_india
+2020-01-08 15:51:38   Info   no completed manage tasks at user side     OS Type: Android    App Version: 1.3      API Level: 28       Device Model: sakura_india
+2020-01-08 15:51:38   Info   no completed manage tasks at user side     OS Type: Android    App Version: 1.3      API Level: 28       Device Model: sakura_india
+2020-01-08 15:51:38   Info   to get level no     OS Type: Android    App Version: 1.3      API Level: 28       Device Model: sakura_india
+2020-01-08 15:51:38   Info   to get level no     OS Type: Android    App Version: 1.3      API Level: 28       Device Model: sakura_india
+2020-01-08 15:51:38   Info   to get level no     OS Type: Android    App Version: 1.3      API Level: 28       Device Model: sakura_india
+2020-01-08 15:51:39   Info   to get level no     OS Type: Android    App Version: 1.3      API Level: 28       Device Model: sakura_india
+2020-01-08 15:51:39   Info   to get level no     OS Type: Android    App Version: 1.3      API Level: 28       Device Model: sakura_india
+2020-01-08 15:51:39   Info   to get level no     OS Type: Android    App Version: 1.3      API Level: 28       Device Model: sakura_india
+2020-01-08 15:51:39   Info   to get level no     OS Type: Android    App Version: 1.3      API Level: 28       Device Model: sakura_india
+2020-01-08 15:51:39   Info   to get level no     OS Type: Android    App Version: 1.3      API Level: 28       Device Model: sakura_india
+2020-01-08 15:51:39   Info   no pending manage tasks at user side     OS Type: Android    App Version: 1.3      API Level: 28       Device Model: sakura_india
+2020-01-08 15:51:39   Info   to get level no     OS Type: Android    App Version: 1.3      API Level: 28       Device Model: sakura_india
+2020-01-08 15:51:39   Info   to get level no     OS Type: Android    App Version: 1.3      API Level: 28       Device Model: sakura_india
+2020-01-08 15:51:39   Info   to get level no     OS Type: Android    App Version: 1.3      API Level: 28       Device Model: sakura_india
+2020-01-08 15:51:39   Info   to get level no     OS Type: Android    App Version: 1.3      API Level: 28       Device Model: sakura_india
+2020-01-08 15:51:40   Info   to get level no     OS Type: Android    App Version: 1.3      API Level: 28       Device Model: sakura_india
+2020-01-08 15:51:40   Info   to get level no     OS Type: Android    App Version: 1.3      API Level: 28       Device Model: sakura_india
+2020-01-08 15:51:40   Info   to get level no     OS Type: Android    App Version: 1.3      API Level: 28       Device Model: sakura_india
+2020-01-08 15:51:40   Info   to get level no     OS Type: Android    App Version: 1.3      API Level: 28       Device Model: sakura_india
+2020-01-08 15:51:40   Info   to get level no     OS Type: Android    App Version: 1.3      API Level: 28       Device Model: sakura_india
+2020-01-08 15:51:40   Info   no pending manage tasks at user side     OS Type: Android    App Version: 1.3      API Level: 28       Device Model: sakura_india
+2020-01-08 15:51:40   Info   no pending manage tasks at user side     OS Type: Android    App Version: 1.3      API Level: 28       Device Model: sakura_india
+2020-01-08 15:51:40   Info   no pending manage tasks at user side     OS Type: Android    App Version: 1.3      API Level: 28       Device Model: sakura_india
+2020-01-08 15:51:40   Info   no pending manage tasks at user side     OS Type: Android    App Version: 1.3      API Level: 28       Device Model: sakura_india
+2020-01-08 15:51:40   Info   no pending manage tasks at user side     OS Type: Android    App Version: 1.3      API Level: 28       Device Model: sakura_india
+2020-01-08 15:51:40   Info   no pending manage tasks at user side     OS Type: Android    App Version: 1.3      API Level: 28       Device Model: sakura_india
+2020-01-08 15:51:40   Info   no pending manage tasks at user side     OS Type: Android    App Version: 1.3      API Level: 28       Device Model: sakura_india
+2020-01-08 15:51:40   Info   userPendingManageTasks:DeleteMaintask(maintaskid) method is used to delete maintask     OS Type: Android    App Version: 1.3      API Level: 28       Device Model: sakura_india
+2020-01-08 15:51:41   Info   no pending manage tasks at user side     OS Type: Android    App Version: 1.3      API Level: 28       Device Model: sakura_india
+2020-01-08 15:51:41   Info   to get level no     OS Type: Android    App Version: 1.3      API Level: 28       Device Model: sakura_india
+2020-01-08 15:51:41   Info   to get level no     OS Type: Android    App Version: 1.3      API Level: 28       Device Model: sakura_india
+2020-01-08 15:51:41   Info   to get level no     OS Type: Android    App Version: 1.3      API Level: 28       Device Model: sakura_india
+2020-01-08 15:51:41   Info   to get level no     OS Type: Android    App Version: 1.3      API Level: 28       Device Model: sakura_india
+2020-01-08 15:51:42   Info   to get level no     OS Type: Android    App Version: 1.3      API Level: 28       Device Model: sakura_india
+2020-01-08 15:51:42   Info   to get level no     OS Type: Android    App Version: 1.3      API Level: 28       Device Model: sakura_india
+2020-01-08 15:51:42   Info   to get level no     OS Type: Android    App Version: 1.3      API Level: 28       Device Model: sakura_india
+2020-01-08 15:51:42   Info   no pending manage tasks at user side     OS Type: Android    App Version: 1.3      API Level: 28       Device Model: sakura_india
+2020-01-08 15:51:42   Info   to get level no     OS Type: Android    App Version: 1.3      API Level: 28       Device Model: sakura_india
+2020-01-08 15:51:42   Info   no pending manage tasks at user side     OS Type: Android    App Version: 1.3      API Level: 28       Device Model: sakura_india
+2020-01-08 15:51:42   Info   no pending manage tasks at user side     OS Type: Android    App Version: 1.3      API Level: 28       Device Model: sakura_india
+2020-01-08 15:51:42   Info   no pending manage tasks at user side     OS Type: Android    App Version: 1.3      API Level: 28       Device Model: sakura_india
+2020-01-08 15:51:42   Info   no pending manage tasks at user side     OS Type: Android    App Version: 1.3      API Level: 28       Device Model: sakura_india
+2020-01-08 15:51:42   Info   no pending manage tasks at user side     OS Type: Android    App Version: 1.3      API Level: 28       Device Model: sakura_india
+2020-01-08 15:51:43   Info   no pending manage tasks at user side     OS Type: Android    App Version: 1.3      API Level: 28       Device Model: sakura_india
+2020-01-08 15:51:47   Info   getSubTasksList(taskId) method is used to Getting the subtasks      OS Type: Android    App Version: 1.3      API Level: 28       Device Model: sakura_india
+2020-01-08 15:51:47   Info   getSubTasksList(taskId) method is used to Getting the subtasks      OS Type: Android    App Version: 1.3      API Level: 28       Device Model: sakura_india
+2020-01-08 15:51:48   Debug   View SubTask screen is loaded     OS Type: Android    App Version: 1.3      API Level: 28       Device Model: sakura_india
+2020-01-08 15:51:48   Debug   View SubTask screen is loaded     OS Type: Android    App Version: 1.3      API Level: 28       Device Model: sakura_india
+2020-01-08 15:51:48   Debug   View SubTask screen is loaded     OS Type: Android    App Version: 1.3      API Level: 28       Device Model: sakura_india
+2020-01-08 15:51:48   Debug   View SubTask screen is loaded     OS Type: Android    App Version: 1.3      API Level: 28       Device Model: sakura_india
+2020-01-08 15:51:48   Debug   View SubTask screen is loaded     OS Type: Android    App Version: 1.3      API Level: 28       Device Model: sakura_india
+2020-01-08 15:51:48   Debug   View SubTask screen is loaded     OS Type: Android    App Version: 1.3      API Level: 28       Device Model: sakura_india
+2020-01-08 15:52:01   Info   userPendingManageTasks:DeleteMaintask(maintaskid) method is used to delete maintask     OS Type: Android    App Version: 1.3      API Level: 28       Device Model: sakura_india
+2020-01-08 15:52:01   Info   UserCompletedManageTasks:manageTasksCompleted() method is used to get completed manage tasks at admin side     OS Type: Android    App Version: 1.3      API Level: 28       Device Model: sakura_india
+2020-01-08 15:52:02   Info   no pending manage tasks at user side     OS Type: Android    App Version: 1.3      API Level: 28       Device Model: sakura_india
+2020-01-08 15:52:02   Info   to get level no     OS Type: Android    App Version: 1.3      API Level: 28       Device Model: sakura_india
+2020-01-08 15:52:02   Info   to get level no     OS Type: Android    App Version: 1.3      API Level: 28       Device Model: sakura_india
+2020-01-08 15:52:02   Info   to get level no     OS Type: Android    App Version: 1.3      API Level: 28       Device Model: sakura_india
+2020-01-08 15:52:02   Info   to get level no     OS Type: Android    App Version: 1.3      API Level: 28       Device Model: sakura_india
+2020-01-08 15:52:02   Info   to get level no     OS Type: Android    App Version: 1.3      API Level: 28       Device Model: sakura_india
+2020-01-08 15:52:02   Info   to get level no     OS Type: Android    App Version: 1.3      API Level: 28       Device Model: sakura_india
+2020-01-08 15:52:02   Info   to get level no     OS Type: Android    App Version: 1.3      API Level: 28       Device Model: sakura_india
+2020-01-08 15:52:02   Info   to get level no     OS Type: Android    App Version: 1.3      API Level: 28       Device Model: sakura_india
+2020-01-08 15:52:03   Info   no pending manage tasks at user side     OS Type: Android    App Version: 1.3      API Level: 28       Device Model: sakura_india
+2020-01-08 15:52:03   Info   no pending manage tasks at user side     OS Type: Android    App Version: 1.3      API Level: 28       Device Model: sakura_india
+2020-01-08 15:52:03   Info   no pending manage tasks at user side     OS Type: Android    App Version: 1.3      API Level: 28       Device Model: sakura_india
+2020-01-08 15:52:03   Info   no pending manage tasks at user side     OS Type: Android    App Version: 1.3      API Level: 28       Device Model: sakura_india
+2020-01-08 15:52:03   Info   no pending manage tasks at user side     OS Type: Android    App Version: 1.3      API Level: 28       Device Model: sakura_india
+2020-01-08 15:52:03   Info   no pending manage tasks at user side     OS Type: Android    App Version: 1.3      API Level: 28       Device Model: sakura_india
+2020-01-08 15:52:03   Info   no pending manage tasks at user side     OS Type: Android    App Version: 1.3      API Level: 28       Device Model: sakura_india
+2020-01-08 15:52:03   Info   no completed manage tasks at user side     OS Type: Android    App Version: 1.3      API Level: 28       Device Model: sakura_india
+2020-01-08 15:52:03   Info   to get level no     OS Type: Android    App Version: 1.3      API Level: 28       Device Model: sakura_india
+2020-01-08 15:52:03   Info   to get level no     OS Type: Android    App Version: 1.3      API Level: 28       Device Model: sakura_india
+2020-01-08 15:52:03   Info   to get level no     OS Type: Android    App Version: 1.3      API Level: 28       Device Model: sakura_india
+2020-01-08 15:52:03   Info   to get level no     OS Type: Android    App Version: 1.3      API Level: 28       Device Model: sakura_india
+2020-01-08 15:52:03   Info   to get level no     OS Type: Android    App Version: 1.3      API Level: 28       Device Model: sakura_india
+2020-01-08 15:52:03   Info   to get level no     OS Type: Android    App Version: 1.3      API Level: 28       Device Model: sakura_india
+2020-01-08 15:52:03   Info   to get level no     OS Type: Android    App Version: 1.3      API Level: 28       Device Model: sakura_india
+2020-01-08 15:52:04   Info   to get level no     OS Type: Android    App Version: 1.3      API Level: 28       Device Model: sakura_india
+2020-01-08 15:52:04   Info   to get level no     OS Type: Android    App Version: 1.3      API Level: 28       Device Model: sakura_india
+2020-01-08 15:52:04   Info   no completed manage tasks at user side     OS Type: Android    App Version: 1.3      API Level: 28       Device Model: sakura_india
+2020-01-08 15:52:04   Info   to get level no     OS Type: Android    App Version: 1.3      API Level: 28       Device Model: sakura_india
+2020-01-08 15:52:04   Info   to get level no     OS Type: Android    App Version: 1.3      API Level: 28       Device Model: sakura_india
+2020-01-08 15:52:05   Info   no completed manage tasks at user side     OS Type: Android    App Version: 1.3      API Level: 28       Device Model: sakura_india
+2020-01-08 15:52:05   Info   no completed manage tasks at user side     OS Type: Android    App Version: 1.3      API Level: 28       Device Model: sakura_india
+2020-01-08 15:52:05   Info   no completed manage tasks at user side     OS Type: Android    App Version: 1.3      API Level: 28       Device Model: sakura_india
+2020-01-08 15:52:05   Info   no completed manage tasks at user side     OS Type: Android    App Version: 1.3      API Level: 28       Device Model: sakura_india
+2020-01-08 15:52:05   Info   no completed manage tasks at user side     OS Type: Android    App Version: 1.3      API Level: 28       Device Model: sakura_india
+2020-01-08 15:52:05   Info   no completed manage tasks at user side     OS Type: Android    App Version: 1.3      API Level: 28       Device Model: sakura_india
+2020-01-08 15:52:05   Info   no completed manage tasks at user side     OS Type: Android    App Version: 1.3      API Level: 28       Device Model: sakura_india
+2020-01-08 15:52:05   Info   no completed manage tasks at user side     OS Type: Android    App Version: 1.3      API Level: 28       Device Model: sakura_india
+2020-01-08 15:52:05   Info   no completed manage tasks at user side     OS Type: Android    App Version: 1.3      API Level: 28       Device Model: sakura_india
+2020-01-08 15:52:05   Info   no completed manage tasks at user side     OS Type: Android    App Version: 1.3      API Level: 28       Device Model: sakura_india
+2020-01-08 15:52:05   Info   no completed manage tasks at user side     OS Type: Android    App Version: 1.3      API Level: 28       Device Model: sakura_india
+2020-01-08 15:52:05   Info   no completed manage tasks at user side     OS Type: Android    App Version: 1.3      API Level: 28       Device Model: sakura_india
+2020-01-08 15:52:05   Info   no completed manage tasks at user side     OS Type: Android    App Version: 1.3      API Level: 28       Device Model: sakura_india
+2020-01-08 15:52:05   Info   no completed manage tasks at user side     OS Type: Android    App Version: 1.3      API Level: 28       Device Model: sakura_india
+2020-01-08 15:52:05   Info   no completed manage tasks at user side     OS Type: Android    App Version: 1.3      API Level: 28       Device Model: sakura_india
+2020-01-08 15:52:06   Info   no completed manage tasks at user side     OS Type: Android    App Version: 1.3      API Level: 28       Device Model: sakura_india
+2020-01-08 15:52:06   Info   no completed manage tasks at user side     OS Type: Android    App Version: 1.3      API Level: 28       Device Model: sakura_india
+2020-01-08 15:52:06   Info   to get level no     OS Type: Android    App Version: 1.3      API Level: 28       Device Model: sakura_india
+2020-01-08 15:52:06   Info   no completed manage tasks at user side     OS Type: Android    App Version: 1.3      API Level: 28       Device Model: sakura_india
+2020-01-08 15:52:06   Info   to get level no     OS Type: Android    App Version: 1.3      API Level: 28       Device Model: sakura_india
+2020-01-08 15:52:06   Info   to get level no     OS Type: Android    App Version: 1.3      API Level: 28       Device Model: sakura_india
+2020-01-08 15:52:06   Info   to get level no     OS Type: Android    App Version: 1.3      API Level: 28       Device Model: sakura_india
+2020-01-08 15:52:06   Info   to get level no     OS Type: Android    App Version: 1.3      API Level: 28       Device Model: sakura_india
+2020-01-08 15:52:06   Info   to get level no     OS Type: Android    App Version: 1.3      API Level: 28       Device Model: sakura_india
+2020-01-08 15:52:06   Info   to get level no     OS Type: Android    App Version: 1.3      API Level: 28       Device Model: sakura_india
+2020-01-08 15:52:07   Info   to get level no     OS Type: Android    App Version: 1.3      API Level: 28       Device Model: sakura_india
+2020-01-08 15:52:07   Info   to get level no     OS Type: Android    App Version: 1.3      API Level: 28       Device Model: sakura_india
+2020-01-08 15:52:21   Info   getSubTasksList(taskId) method is used to Getting the subtasks      OS Type: Android    App Version: 1.3      API Level: 28       Device Model: sakura_india
+2020-01-08 15:52:22   Info   getSubTasksList(taskId) method is used to Getting the subtasks      OS Type: Android    App Version: 1.3      API Level: 28       Device Model: sakura_india
+2020-01-08 15:52:23   Debug   View SubTask screen is loaded     OS Type: Android    App Version: 1.3      API Level: 28       Device Model: sakura_india
+2020-01-08 15:52:23   Debug   View SubTask screen is loaded     OS Type: Android    App Version: 1.3      API Level: 28       Device Model: sakura_india
+2020-01-08 15:52:23   Debug   View SubTask screen is loaded     OS Type: Android    App Version: 1.3      API Level: 28       Device Model: sakura_india
+2020-01-08 15:52:23   Debug   View SubTask screen is loaded     OS Type: Android    App Version: 1.3      API Level: 28       Device Model: sakura_india
+2020-01-08 15:52:23   Debug   View SubTask screen is loaded     OS Type: Android    App Version: 1.3      API Level: 28       Device Model: sakura_india
+2020-01-08 15:52:23   Debug   View SubTask screen is loaded     OS Type: Android    App Version: 1.3      API Level: 28       Device Model: sakura_india
+2020-01-08 15:52:23   Debug   View SubTask screen is loaded     OS Type: Android    App Version: 1.3      API Level: 28       Device Model: sakura_india
+2020-01-08 15:52:23   Debug   View SubTask screen is loaded     OS Type: Android    App Version: 1.3      API Level: 28       Device Model: sakura_india
+2020-01-08 15:52:24   Debug   View SubTask screen is loaded     OS Type: Android    App Version: 1.3      API Level: 28       Device Model: sakura_india
+2020-01-08 15:52:24   Debug   View SubTask screen is loaded     OS Type: Android    App Version: 1.3      API Level: 28       Device Model: sakura_india
+2020-01-08 15:52:24   Debug   View SubTask screen is loaded     OS Type: Android    App Version: 1.3      API Level: 28       Device Model: sakura_india
+2020-01-08 15:52:24   Debug   View SubTask screen is loaded     OS Type: Android    App Version: 1.3      API Level: 28       Device Model: sakura_india
+2020-01-08 15:52:25   Debug   View SubTask screen is loaded     OS Type: Android    App Version: 1.3      API Level: 28       Device Model: sakura_india
+2020-01-08 15:52:25   Debug   View SubTask screen is loaded     OS Type: Android    App Version: 1.3      API Level: 28       Device Model: sakura_india
+2020-01-08 15:52:25   Debug   View SubTask screen is loaded     OS Type: Android    App Version: 1.3      API Level: 28       Device Model: sakura_india
+2020-01-08 15:52:25   Debug   View SubTask screen is loaded     OS Type: Android    App Version: 1.3      API Level: 28       Device Model: sakura_india
+2020-01-08 15:52:56   Info   UserCompletedManageTasks:manageTasksCompleted() method is used to get completed manage tasks at admin side     OS Type: Android    App Version: 1.3      API Level: 28       Device Model: sakura_india
+2020-01-08 15:52:56   Info   userPendingManageTasks:DeleteMaintask(maintaskid) method is used to delete maintask     OS Type: Android    App Version: 1.3      API Level: 28       Device Model: sakura_india
+2020-01-08 15:52:58   Info   to get level no     OS Type: Android    App Version: 1.3      API Level: 28       Device Model: sakura_india
+2020-01-08 15:52:58   Info   no pending manage tasks at user side     OS Type: Android    App Version: 1.3      API Level: 28       Device Model: sakura_india
+2020-01-08 15:52:58   Info   to get level no     OS Type: Android    App Version: 1.3      API Level: 28       Device Model: sakura_india
+2020-01-08 15:52:58   Info   to get level no     OS Type: Android    App Version: 1.3      API Level: 28       Device Model: sakura_india
+2020-01-08 15:52:58   Info   to get level no     OS Type: Android    App Version: 1.3      API Level: 28       Device Model: sakura_india
+2020-01-08 15:52:58   Info   to get level no     OS Type: Android    App Version: 1.3      API Level: 28       Device Model: sakura_india
+2020-01-08 15:52:58   Info   to get level no     OS Type: Android    App Version: 1.3      API Level: 28       Device Model: sakura_india
+2020-01-08 15:52:58   Info   to get level no     OS Type: Android    App Version: 1.3      API Level: 28       Device Model: sakura_india
+2020-01-08 15:52:58   Info   to get level no     OS Type: Android    App Version: 1.3      API Level: 28       Device Model: sakura_india
+2020-01-08 15:52:58   Info   no pending manage tasks at user side     OS Type: Android    App Version: 1.3      API Level: 28       Device Model: sakura_india
+2020-01-08 15:52:58   Info   no pending manage tasks at user side     OS Type: Android    App Version: 1.3      API Level: 28       Device Model: sakura_india
+2020-01-08 15:52:58   Info   no pending manage tasks at user side     OS Type: Android    App Version: 1.3      API Level: 28       Device Model: sakura_india
+2020-01-08 15:52:58   Info   no pending manage tasks at user side     OS Type: Android    App Version: 1.3      API Level: 28       Device Model: sakura_india
+2020-01-08 15:52:58   Info   no pending manage tasks at user side     OS Type: Android    App Version: 1.3      API Level: 28       Device Model: sakura_india
+2020-01-08 15:52:59   Info   no pending manage tasks at user side     OS Type: Android    App Version: 1.3      API Level: 28       Device Model: sakura_india
+2020-01-08 15:52:59   Info   no pending manage tasks at user side     OS Type: Android    App Version: 1.3      API Level: 28       Device Model: sakura_india
+2020-01-08 15:52:59   Info   no completed manage tasks at user side     OS Type: Android    App Version: 1.3      API Level: 28       Device Model: sakura_india
+2020-01-08 15:52:59   Info   to get level no     OS Type: Android    App Version: 1.3      API Level: 28       Device Model: sakura_india
+2020-01-08 15:52:59   Info   to get level no     OS Type: Android    App Version: 1.3      API Level: 28       Device Model: sakura_india
+2020-01-08 15:53:00   Info   to get level no     OS Type: Android    App Version: 1.3      API Level: 28       Device Model: sakura_india
+2020-01-08 15:53:00   Info   to get level no     OS Type: Android    App Version: 1.3      API Level: 28       Device Model: sakura_india
+2020-01-08 15:53:00   Info   to get level no     OS Type: Android    App Version: 1.3      API Level: 28       Device Model: sakura_india
+2020-01-08 15:53:00   Info   to get level no     OS Type: Android    App Version: 1.3      API Level: 28       Device Model: sakura_india
+2020-01-08 15:53:00   Info   to get level no     OS Type: Android    App Version: 1.3      API Level: 28       Device Model: sakura_india
+2020-01-08 15:53:00   Info   to get level no     OS Type: Android    App Version: 1.3      API Level: 28       Device Model: sakura_india
+2020-01-08 15:53:00   Info   to get level no     OS Type: Android    App Version: 1.3      API Level: 28       Device Model: sakura_india
+2020-01-08 15:53:00   Info   to get level no     OS Type: Android    App Version: 1.3      API Level: 28       Device Model: sakura_india
+2020-01-08 15:53:00   Info   to get level no     OS Type: Android    App Version: 1.3      API Level: 28       Device Model: sakura_india
+2020-01-08 15:53:00   Info   no completed manage tasks at user side     OS Type: Android    App Version: 1.3      API Level: 28       Device Model: sakura_india
+2020-01-08 15:53:01   Info   no completed manage tasks at user side     OS Type: Android    App Version: 1.3      API Level: 28       Device Model: sakura_india
+2020-01-08 15:53:01   Info   no completed manage tasks at user side     OS Type: Android    App Version: 1.3      API Level: 28       Device Model: sakura_india
+2020-01-08 15:53:01   Info   no completed manage tasks at user side     OS Type: Android    App Version: 1.3      API Level: 28       Device Model: sakura_india
+2020-01-08 15:53:01   Info   no completed manage tasks at user side     OS Type: Android    App Version: 1.3      API Level: 28       Device Model: sakura_india
+2020-01-08 15:53:01   Info   no completed manage tasks at user side     OS Type: Android    App Version: 1.3      API Level: 28       Device Model: sakura_india
+2020-01-08 15:53:01   Info   no completed manage tasks at user side     OS Type: Android    App Version: 1.3      API Level: 28       Device Model: sakura_india
+2020-01-08 15:53:01   Info   no completed manage tasks at user side     OS Type: Android    App Version: 1.3      API Level: 28       Device Model: sakura_india
+2020-01-08 15:53:01   Info   no completed manage tasks at user side     OS Type: Android    App Version: 1.3      API Level: 28       Device Model: sakura_india
+2020-01-08 15:53:01   Info   no completed manage tasks at user side     OS Type: Android    App Version: 1.3      API Level: 28       Device Model: sakura_india
+2020-01-08 15:53:01   Info   no completed manage tasks at user side     OS Type: Android    App Version: 1.3      API Level: 28       Device Model: sakura_india
+2020-01-08 15:53:02   Info   no completed manage tasks at user side     OS Type: Android    App Version: 1.3      API Level: 28       Device Model: sakura_india
+2020-01-08 15:53:02   Info   no completed manage tasks at user side     OS Type: Android    App Version: 1.3      API Level: 28       Device Model: sakura_india
+2020-01-08 15:53:02   Info   no completed manage tasks at user side     OS Type: Android    App Version: 1.3      API Level: 28       Device Model: sakura_india
+2020-01-08 15:53:02   Info   no completed manage tasks at user side     OS Type: Android    App Version: 1.3      API Level: 28       Device Model: sakura_india
+2020-01-08 15:53:02   Info   no completed manage tasks at user side     OS Type: Android    App Version: 1.3      API Level: 28       Device Model: sakura_india
+2020-01-08 15:53:02   Info   no completed manage tasks at user side     OS Type: Android    App Version: 1.3      API Level: 28       Device Model: sakura_india
+2020-01-08 15:53:02   Info   to get level no     OS Type: Android    App Version: 1.3      API Level: 28       Device Model: sakura_india
+2020-01-08 15:53:02   Info   to get level no     OS Type: Android    App Version: 1.3      API Level: 28       Device Model: sakura_india
+2020-01-08 15:53:02   Info   no completed manage tasks at user side     OS Type: Android    App Version: 1.3      API Level: 28       Device Model: sakura_india
+2020-01-08 15:53:02   Info   no completed manage tasks at user side     OS Type: Android    App Version: 1.3      API Level: 28       Device Model: sakura_india
+2020-01-08 15:53:03   Info   to get level no     OS Type: Android    App Version: 1.3      API Level: 28       Device Model: sakura_india
+2020-01-08 15:53:03   Info   to get level no     OS Type: Android    App Version: 1.3      API Level: 28       Device Model: sakura_india
+2020-01-08 15:53:03   Info   to get level no     OS Type: Android    App Version: 1.3      API Level: 28       Device Model: sakura_india
+2020-01-08 15:53:03   Info   to get level no     OS Type: Android    App Version: 1.3      API Level: 28       Device Model: sakura_india
+2020-01-08 15:53:03   Info   to get level no     OS Type: Android    App Version: 1.3      API Level: 28       Device Model: sakura_india
+2020-01-08 15:53:03   Info   to get level no     OS Type: Android    App Version: 1.3      API Level: 28       Device Model: sakura_india
+2020-01-08 15:53:03   Info   to get level no     OS Type: Android    App Version: 1.3      API Level: 28       Device Model: sakura_india
+2020-01-08 15:53:11   Info   getSubTasksList(taskId) method is used to Getting the subtasks      OS Type: Android    App Version: 1.3      API Level: 28       Device Model: sakura_india
+2020-01-08 15:53:12   Info   getSubTasksList(taskId) method is used to Getting the subtasks      OS Type: Android    App Version: 1.3      API Level: 28       Device Model: sakura_india
+2020-01-08 15:53:13   Debug   View SubTask screen is loaded     OS Type: Android    App Version: 1.3      API Level: 28       Device Model: sakura_india
+2020-01-08 15:53:13   Debug   View SubTask screen is loaded     OS Type: Android    App Version: 1.3      API Level: 28       Device Model: sakura_india
+2020-01-08 15:53:13   Debug   View SubTask screen is loaded     OS Type: Android    App Version: 1.3      API Level: 28       Device Model: sakura_india
+2020-01-08 15:53:13   Debug   View SubTask screen is loaded     OS Type: Android    App Version: 1.3      API Level: 28       Device Model: sakura_india
+2020-01-08 15:53:14   Debug   View SubTask screen is loaded     OS Type: Android    App Version: 1.3      API Level: 28       Device Model: sakura_india
+2020-01-08 15:53:14   Debug   View SubTask screen is loaded     OS Type: Android    App Version: 1.3      API Level: 28       Device Model: sakura_india
+2020-01-08 15:53:14   Debug   View SubTask screen is loaded     OS Type: Android    App Version: 1.3      API Level: 28       Device Model: sakura_india
+2020-01-08 15:53:14   Debug   View SubTask screen is loaded     OS Type: Android    App Version: 1.3      API Level: 28       Device Model: sakura_india
+2020-01-08 15:53:14   Debug   View SubTask screen is loaded     OS Type: Android    App Version: 1.3      API Level: 28       Device Model: sakura_india
+2020-01-08 15:53:14   Debug   View SubTask screen is loaded     OS Type: Android    App Version: 1.3      API Level: 28       Device Model: sakura_india
+2020-01-08 15:53:14   Debug   View SubTask screen is loaded     OS Type: Android    App Version: 1.3      API Level: 28       Device Model: sakura_india
+2020-01-08 15:53:14   Debug   View SubTask screen is loaded     OS Type: Android    App Version: 1.3      API Level: 28       Device Model: sakura_india
+2020-01-08 15:53:14   Debug   View SubTask screen is loaded     OS Type: Android    App Version: 1.3      API Level: 28       Device Model: sakura_india
+2020-01-08 15:53:14   Debug   View SubTask screen is loaded     OS Type: Android    App Version: 1.3      API Level: 28       Device Model: sakura_india
+2020-01-08 15:53:14   Debug   View SubTask screen is loaded     OS Type: Android    App Version: 1.3      API Level: 28       Device Model: sakura_india
+2020-01-08 15:53:14   Debug   View SubTask screen is loaded     OS Type: Android    App Version: 1.3      API Level: 28       Device Model: sakura_india
+2020-01-08 15:53:14   Debug   View SubTask screen is loaded     OS Type: Android    App Version: 1.3      API Level: 28       Device Model: sakura_india
+2020-01-08 15:53:14   Debug   View SubTask screen is loaded     OS Type: Android    App Version: 1.3      API Level: 28       Device Model: sakura_india
+2020-01-08 15:53:14   Debug   View SubTask screen is loaded     OS Type: Android    App Version: 1.3      API Level: 28       Device Model: sakura_india
+2020-01-08 15:53:15   Debug   View SubTask screen is loaded     OS Type: Android    App Version: 1.3      API Level: 28       Device Model: sakura_india
+2020-01-08 15:53:15   Debug   View SubTask screen is loaded     OS Type: Android    App Version: 1.3      API Level: 28       Device Model: sakura_india
+2020-01-08 15:53:15   Debug   View SubTask screen is loaded     OS Type: Android    App Version: 1.3      API Level: 28       Device Model: sakura_india
+2020-01-08 15:53:15   Debug   View SubTask screen is loaded     OS Type: Android    App Version: 1.3      API Level: 28       Device Model: sakura_india
+2020-01-08 15:53:15   Debug   View SubTask screen is loaded     OS Type: Android    App Version: 1.3      API Level: 28       Device Model: sakura_india
+2020-01-08 15:53:15   Debug   View SubTask screen is loaded     OS Type: Android    App Version: 1.3      API Level: 28       Device Model: sakura_india
+2020-01-08 15:53:15   Debug   View SubTask screen is loaded     OS Type: Android    App Version: 1.3      API Level: 28       Device Model: sakura_india
+2020-01-08 15:53:15   Debug   View SubTask screen is loaded     OS Type: Android    App Version: 1.3      API Level: 28       Device Model: sakura_india
+2020-01-08 15:53:15   Debug   View SubTask screen is loaded     OS Type: Android    App Version: 1.3      API Level: 28       Device Model: sakura_india
+2020-01-08 15:53:15   Debug   View SubTask screen is loaded     OS Type: Android    App Version: 1.3      API Level: 28       Device Model: sakura_india
+2020-01-08 15:53:16   Debug   View SubTask screen is loaded     OS Type: Android    App Version: 1.3      API Level: 28       Device Model: sakura_india
+2020-01-08 15:53:16   Debug   View SubTask screen is loaded     OS Type: Android    App Version: 1.3      API Level: 28       Device Model: sakura_india
+2020-01-08 15:53:31   Info   userPendingManageTasks:DeleteMaintask(maintaskid) method is used to delete maintask     OS Type: Android    App Version: 1.3      API Level: 28       Device Model: sakura_india
+2020-01-08 15:53:31   Info   UserCompletedManageTasks:manageTasksCompleted() method is used to get completed manage tasks at admin side     OS Type: Android    App Version: 1.3      API Level: 28       Device Model: sakura_india
+2020-01-08 15:53:32   Info   no pending manage tasks at user side     OS Type: Android    App Version: 1.3      API Level: 28       Device Model: sakura_india
+2020-01-08 15:53:32   Info   to get level no     OS Type: Android    App Version: 1.3      API Level: 28       Device Model: sakura_india
+2020-01-08 15:53:32   Info   to get level no     OS Type: Android    App Version: 1.3      API Level: 28       Device Model: sakura_india
+2020-01-08 15:53:32   Info   to get level no     OS Type: Android    App Version: 1.3      API Level: 28       Device Model: sakura_india
+2020-01-08 15:53:32   Info   to get level no     OS Type: Android    App Version: 1.3      API Level: 28       Device Model: sakura_india
+2020-01-08 15:53:32   Info   to get level no     OS Type: Android    App Version: 1.3      API Level: 28       Device Model: sakura_india
+2020-01-08 15:53:32   Info   to get level no     OS Type: Android    App Version: 1.3      API Level: 28       Device Model: sakura_india
+2020-01-08 15:53:32   Info   to get level no     OS Type: Android    App Version: 1.3      API Level: 28       Device Model: sakura_india
+2020-01-08 15:53:32   Info   to get level no     OS Type: Android    App Version: 1.3      API Level: 28       Device Model: sakura_india
+2020-01-08 15:53:33   Info   no pending manage tasks at user side     OS Type: Android    App Version: 1.3      API Level: 28       Device Model: sakura_india
+2020-01-08 15:53:33   Info   no pending manage tasks at user side     OS Type: Android    App Version: 1.3      API Level: 28       Device Model: sakura_india
+2020-01-08 15:53:33   Info   no pending manage tasks at user side     OS Type: Android    App Version: 1.3      API Level: 28       Device Model: sakura_india
+2020-01-08 15:53:33   Info   no pending manage tasks at user side     OS Type: Android    App Version: 1.3      API Level: 28       Device Model: sakura_india
+2020-01-08 15:53:33   Info   no pending manage tasks at user side     OS Type: Android    App Version: 1.3      API Level: 28       Device Model: sakura_india
+2020-01-08 15:53:33   Info   no pending manage tasks at user side     OS Type: Android    App Version: 1.3      API Level: 28       Device Model: sakura_india
+2020-01-08 15:53:33   Info   no pending manage tasks at user side     OS Type: Android    App Version: 1.3      API Level: 28       Device Model: sakura_india
+2020-01-08 15:53:33   Info   no completed manage tasks at user side     OS Type: Android    App Version: 1.3      API Level: 28       Device Model: sakura_india
+2020-01-08 15:53:33   Info   to get level no     OS Type: Android    App Version: 1.3      API Level: 28       Device Model: sakura_india
+2020-01-08 15:53:33   Info   to get level no     OS Type: Android    App Version: 1.3      API Level: 28       Device Model: sakura_india
+2020-01-08 15:53:34   Info   to get level no     OS Type: Android    App Version: 1.3      API Level: 28       Device Model: sakura_india
+2020-01-08 15:53:34   Info   to get level no     OS Type: Android    App Version: 1.3      API Level: 28       Device Model: sakura_india
+2020-01-08 15:53:34   Info   to get level no     OS Type: Android    App Version: 1.3      API Level: 28       Device Model: sakura_india
+2020-01-08 15:53:34   Info   to get level no     OS Type: Android    App Version: 1.3      API Level: 28       Device Model: sakura_india
+2020-01-08 15:53:34   Info   to get level no     OS Type: Android    App Version: 1.3      API Level: 28       Device Model: sakura_india
+2020-01-08 15:53:34   Info   to get level no     OS Type: Android    App Version: 1.3      API Level: 28       Device Model: sakura_india
+2020-01-08 15:53:34   Info   to get level no     OS Type: Android    App Version: 1.3      API Level: 28       Device Model: sakura_india
+2020-01-08 15:53:34   Info   no completed manage tasks at user side     OS Type: Android    App Version: 1.3      API Level: 28       Device Model: sakura_india
+2020-01-08 15:53:34   Info   no completed manage tasks at user side     OS Type: Android    App Version: 1.3      API Level: 28       Device Model: sakura_india
+2020-01-08 15:53:34   Info   to get level no     OS Type: Android    App Version: 1.3      API Level: 28       Device Model: sakura_india
+2020-01-08 15:53:34   Info   to get level no     OS Type: Android    App Version: 1.3      API Level: 28       Device Model: sakura_india
+2020-01-08 15:53:34   Info   no completed manage tasks at user side     OS Type: Android    App Version: 1.3      API Level: 28       Device Model: sakura_india
+2020-01-08 15:53:35   Info   no completed manage tasks at user side     OS Type: Android    App Version: 1.3      API Level: 28       Device Model: sakura_india
+2020-01-08 15:53:35   Info   no completed manage tasks at user side     OS Type: Android    App Version: 1.3      API Level: 28       Device Model: sakura_india
+2020-01-08 15:53:35   Info   no completed manage tasks at user side     OS Type: Android    App Version: 1.3      API Level: 28       Device Model: sakura_india
+2020-01-08 15:53:35   Info   no completed manage tasks at user side     OS Type: Android    App Version: 1.3      API Level: 28       Device Model: sakura_india
+2020-01-08 15:53:35   Info   no completed manage tasks at user side     OS Type: Android    App Version: 1.3      API Level: 28       Device Model: sakura_india
+2020-01-08 15:53:35   Info   no completed manage tasks at user side     OS Type: Android    App Version: 1.3      API Level: 28       Device Model: sakura_india
+2020-01-08 15:53:35   Info   no completed manage tasks at user side     OS Type: Android    App Version: 1.3      API Level: 28       Device Model: sakura_india
+2020-01-08 15:53:35   Info   no completed manage tasks at user side     OS Type: Android    App Version: 1.3      API Level: 28       Device Model: sakura_india
+2020-01-08 15:53:35   Info   no completed manage tasks at user side     OS Type: Android    App Version: 1.3      API Level: 28       Device Model: sakura_india
+2020-01-08 15:53:35   Info   no completed manage tasks at user side     OS Type: Android    App Version: 1.3      API Level: 28       Device Model: sakura_india
+2020-01-08 15:53:35   Info   no completed manage tasks at user side     OS Type: Android    App Version: 1.3      API Level: 28       Device Model: sakura_india
+2020-01-08 15:53:35   Info   no completed manage tasks at user side     OS Type: Android    App Version: 1.3      API Level: 28       Device Model: sakura_india
+2020-01-08 15:53:35   Info   no completed manage tasks at user side     OS Type: Android    App Version: 1.3      API Level: 28       Device Model: sakura_india
+2020-01-08 15:53:35   Info   no completed manage tasks at user side     OS Type: Android    App Version: 1.3      API Level: 28       Device Model: sakura_india
+2020-01-08 15:53:35   Info   no completed manage tasks at user side     OS Type: Android    App Version: 1.3      API Level: 28       Device Model: sakura_india
+2020-01-08 15:53:35   Info   to get level no     OS Type: Android    App Version: 1.3      API Level: 28       Device Model: sakura_india
+2020-01-08 15:53:35   Info   to get level no     OS Type: Android    App Version: 1.3      API Level: 28       Device Model: sakura_india
+2020-01-08 15:53:35   Info   no completed manage tasks at user side     OS Type: Android    App Version: 1.3      API Level: 28       Device Model: sakura_india
+2020-01-08 15:53:35   Info   to get level no     OS Type: Android    App Version: 1.3      API Level: 28       Device Model: sakura_india
+2020-01-08 15:53:36   Info   to get level no     OS Type: Android    App Version: 1.3      API Level: 28       Device Model: sakura_india
+2020-01-08 15:53:36   Info   to get level no     OS Type: Android    App Version: 1.3      API Level: 28       Device Model: sakura_india
+2020-01-08 15:53:36   Info   to get level no     OS Type: Android    App Version: 1.3      API Level: 28       Device Model: sakura_india
+2020-01-08 15:53:36   Info   to get level no     OS Type: Android    App Version: 1.3      API Level: 28       Device Model: sakura_india
+2020-01-08 15:53:36   Info   to get level no     OS Type: Android    App Version: 1.3      API Level: 28       Device Model: sakura_india
+2020-01-08 15:53:36   Info   to get level no     OS Type: Android    App Version: 1.3      API Level: 28       Device Model: sakura_india
+2020-01-08 15:53:39   Info   getSubTasksList(taskId) method is used to Getting the subtasks      OS Type: Android    App Version: 1.3      API Level: 28       Device Model: sakura_india
+2020-01-08 15:53:40   Info   getSubTasksList(taskId) method is used to Getting the subtasks      OS Type: Android    App Version: 1.3      API Level: 28       Device Model: sakura_india
+2020-01-08 15:53:41   Debug   View SubTask screen is loaded     OS Type: Android    App Version: 1.3      API Level: 28       Device Model: sakura_india
+2020-01-08 15:53:41   Debug   View SubTask screen is loaded     OS Type: Android    App Version: 1.3      API Level: 28       Device Model: sakura_india
+2020-01-08 15:53:41   Debug   View SubTask screen is loaded     OS Type: Android    App Version: 1.3      API Level: 28       Device Model: sakura_india
+2020-01-08 15:53:41   Debug   View SubTask screen is loaded     OS Type: Android    App Version: 1.3      API Level: 28       Device Model: sakura_india
+2020-01-08 15:53:41   Debug   View SubTask screen is loaded     OS Type: Android    App Version: 1.3      API Level: 28       Device Model: sakura_india
+2020-01-08 15:53:41   Debug   View SubTask screen is loaded     OS Type: Android    App Version: 1.3      API Level: 28       Device Model: sakura_india
+2020-01-08 15:53:41   Debug   View SubTask screen is loaded     OS Type: Android    App Version: 1.3      API Level: 28       Device Model: sakura_india
+2020-01-08 15:53:41   Debug   View SubTask screen is loaded     OS Type: Android    App Version: 1.3      API Level: 28       Device Model: sakura_india
+2020-01-08 15:53:41   Debug   View SubTask screen is loaded     OS Type: Android    App Version: 1.3      API Level: 28       Device Model: sakura_india
+2020-01-08 15:53:41   Debug   View SubTask screen is loaded     OS Type: Android    App Version: 1.3      API Level: 28       Device Model: sakura_india
+2020-01-08 15:53:41   Debug   View SubTask screen is loaded     OS Type: Android    App Version: 1.3      API Level: 28       Device Model: sakura_india
+2020-01-08 15:53:41   Debug   View SubTask screen is loaded     OS Type: Android    App Version: 1.3      API Level: 28       Device Model: sakura_india
+2020-01-08 15:53:41   Debug   View SubTask screen is loaded     OS Type: Android    App Version: 1.3      API Level: 28       Device Model: sakura_india
+2020-01-08 15:53:41   Debug   View SubTask screen is loaded     OS Type: Android    App Version: 1.3      API Level: 28       Device Model: sakura_india
+2020-01-08 15:53:42   Debug   View SubTask screen is loaded     OS Type: Android    App Version: 1.3      API Level: 28       Device Model: sakura_india
+2020-01-08 15:53:42   Debug   View SubTask screen is loaded     OS Type: Android    App Version: 1.3      API Level: 28       Device Model: sakura_india
+2020-01-08 15:53:42   Debug   View SubTask screen is loaded     OS Type: Android    App Version: 1.3      API Level: 28       Device Model: sakura_india
+2020-01-08 15:53:42   Debug   View SubTask screen is loaded     OS Type: Android    App Version: 1.3      API Level: 28       Device Model: sakura_india
+2020-01-08 15:53:42   Debug   View SubTask screen is loaded     OS Type: Android    App Version: 1.3      API Level: 28       Device Model: sakura_india
+2020-01-08 15:53:42   Debug   View SubTask screen is loaded     OS Type: Android    App Version: 1.3      API Level: 28       Device Model: sakura_india
+2020-01-08 15:53:42   Debug   View SubTask screen is loaded     OS Type: Android    App Version: 1.3      API Level: 28       Device Model: sakura_india
+2020-01-08 15:53:42   Debug   View SubTask screen is loaded     OS Type: Android    App Version: 1.3      API Level: 28       Device Model: sakura_india
+2020-01-08 15:53:42   Debug   View SubTask screen is loaded     OS Type: Android    App Version: 1.3      API Level: 28       Device Model: sakura_india
+2020-01-08 15:53:42   Debug   View SubTask screen is loaded     OS Type: Android    App Version: 1.3      API Level: 28       Device Model: sakura_india
+2020-01-08 15:53:42   Debug   View SubTask screen is loaded     OS Type: Android    App Version: 1.3      API Level: 28       Device Model: sakura_india
+2020-01-08 15:53:42   Debug   View SubTask screen is loaded     OS Type: Android    App Version: 1.3      API Level: 28       Device Model: sakura_india
+2020-01-08 15:53:42   Debug   View SubTask screen is loaded     OS Type: Android    App Version: 1.3      API Level: 28       Device Model: sakura_india
+2020-01-08 15:53:42   Debug   View SubTask screen is loaded     OS Type: Android    App Version: 1.3      API Level: 28       Device Model: sakura_india
+2020-01-08 15:53:42   Debug   View SubTask screen is loaded     OS Type: Android    App Version: 1.3      API Level: 28       Device Model: sakura_india
+2020-01-08 15:53:43   Debug   View SubTask screen is loaded     OS Type: Android    App Version: 1.3      API Level: 28       Device Model: sakura_india
+2020-01-08 15:53:43   Debug   View SubTask screen is loaded     OS Type: Android    App Version: 1.3      API Level: 28       Device Model: sakura_india
+2020-01-08 15:53:49   Info   getSubTasksList(taskId) method is used to Getting the subtasks      OS Type: Android    App Version: 1.3      API Level: 28       Device Model: sakura_india
+2020-01-08 15:53:50   Info   userPendingManageTasks:DeleteMaintask(maintaskid) method is used to delete maintask     OS Type: Android    App Version: 1.3      API Level: 28       Device Model: sakura_india
+2020-01-08 15:53:51   Info   UserCompletedManageTasks:manageTasksCompleted() method is used to get completed manage tasks at admin side     OS Type: Android    App Version: 1.3      API Level: 28       Device Model: sakura_india
+2020-01-08 15:53:52   Info   no completed manage tasks at user side     OS Type: Android    App Version: 1.3      API Level: 28       Device Model: sakura_india
+2020-01-08 15:53:52   Info   to get level no     OS Type: Android    App Version: 1.3      API Level: 28       Device Model: sakura_india
+2020-01-08 15:53:52   Info   to get level no     OS Type: Android    App Version: 1.3      API Level: 28       Device Model: sakura_india
+2020-01-08 15:53:52   Info   to get level no     OS Type: Android    App Version: 1.3      API Level: 28       Device Model: sakura_india
+2020-01-08 15:53:53   Info   to get level no     OS Type: Android    App Version: 1.3      API Level: 28       Device Model: sakura_india
+2020-01-08 15:53:53   Info   to get level no     OS Type: Android    App Version: 1.3      API Level: 28       Device Model: sakura_india
+2020-01-08 15:53:53   Info   to get level no     OS Type: Android    App Version: 1.3      API Level: 28       Device Model: sakura_india
+2020-01-08 15:53:53   Info   to get level no     OS Type: Android    App Version: 1.3      API Level: 28       Device Model: sakura_india
+2020-01-08 15:53:53   Info   to get level no     OS Type: Android    App Version: 1.3      API Level: 28       Device Model: sakura_india
+2020-01-08 15:53:53   Info   to get level no     OS Type: Android    App Version: 1.3      API Level: 28       Device Model: sakura_india
+2020-01-08 15:53:53   Info   to get level no     OS Type: Android    App Version: 1.3      API Level: 28       Device Model: sakura_india
+2020-01-08 15:53:53   Info   to get level no     OS Type: Android    App Version: 1.3      API Level: 28       Device Model: sakura_india
+2020-01-08 15:53:53   Info   no completed manage tasks at user side     OS Type: Android    App Version: 1.3      API Level: 28       Device Model: sakura_india
+2020-01-08 15:53:53   Info   no completed manage tasks at user side     OS Type: Android    App Version: 1.3      API Level: 28       Device Model: sakura_india
+2020-01-08 15:53:53   Info   no completed manage tasks at user side     OS Type: Android    App Version: 1.3      API Level: 28       Device Model: sakura_india
+2020-01-08 15:53:53   Info   no completed manage tasks at user side     OS Type: Android    App Version: 1.3      API Level: 28       Device Model: sakura_india
+2020-01-08 15:53:53   Info   no completed manage tasks at user side     OS Type: Android    App Version: 1.3      API Level: 28       Device Model: sakura_india
+2020-01-08 15:53:53   Info   no completed manage tasks at user side     OS Type: Android    App Version: 1.3      API Level: 28       Device Model: sakura_india
+2020-01-08 15:53:53   Info   no completed manage tasks at user side     OS Type: Android    App Version: 1.3      API Level: 28       Device Model: sakura_india
+2020-01-08 15:53:54   Info   no completed manage tasks at user side     OS Type: Android    App Version: 1.3      API Level: 28       Device Model: sakura_india
+2020-01-08 15:53:54   Info   no completed manage tasks at user side     OS Type: Android    App Version: 1.3      API Level: 28       Device Model: sakura_india
+2020-01-08 15:53:54   Info   no completed manage tasks at user side     OS Type: Android    App Version: 1.3      API Level: 28       Device Model: sakura_india
+2020-01-08 15:53:54   Info   no completed manage tasks at user side     OS Type: Android    App Version: 1.3      API Level: 28       Device Model: sakura_india
+2020-01-08 15:53:54   Info   no completed manage tasks at user side     OS Type: Android    App Version: 1.3      API Level: 28       Device Model: sakura_india
+2020-01-08 15:53:55   Info   no completed manage tasks at user side     OS Type: Android    App Version: 1.3      API Level: 28       Device Model: sakura_india
+2020-01-08 15:53:55   Info   no completed manage tasks at user side     OS Type: Android    App Version: 1.3      API Level: 28       Device Model: sakura_india
+2020-01-08 15:53:55   Info   no completed manage tasks at user side     OS Type: Android    App Version: 1.3      API Level: 28       Device Model: sakura_india
+2020-01-08 15:53:55   Info   no completed manage tasks at user side     OS Type: Android    App Version: 1.3      API Level: 28       Device Model: sakura_india
+2020-01-08 15:53:55   Info   no completed manage tasks at user side     OS Type: Android    App Version: 1.3      API Level: 28       Device Model: sakura_india
+2020-01-08 15:53:55   Info   no completed manage tasks at user side     OS Type: Android    App Version: 1.3      API Level: 28       Device Model: sakura_india
+2020-01-08 15:53:55   Info   to get level no     OS Type: Android    App Version: 1.3      API Level: 28       Device Model: sakura_india
+2020-01-08 15:53:55   Info   no pending manage tasks at user side     OS Type: Android    App Version: 1.3      API Level: 28       Device Model: sakura_india
+2020-01-08 15:53:55   Info   to get level no     OS Type: Android    App Version: 1.3      API Level: 28       Device Model: sakura_india
+2020-01-08 15:53:55   Info   no completed manage tasks at user side     OS Type: Android    App Version: 1.3      API Level: 28       Device Model: sakura_india
+2020-01-08 15:53:56   Info   to get level no     OS Type: Android    App Version: 1.3      API Level: 28       Device Model: sakura_india
+2020-01-08 15:53:56   Info   to get level no     OS Type: Android    App Version: 1.3      API Level: 28       Device Model: sakura_india
+2020-01-08 15:53:56   Info   to get level no     OS Type: Android    App Version: 1.3      API Level: 28       Device Model: sakura_india
+2020-01-08 15:53:56   Info   to get level no     OS Type: Android    App Version: 1.3      API Level: 28       Device Model: sakura_india
+2020-01-08 15:53:56   Info   to get level no     OS Type: Android    App Version: 1.3      API Level: 28       Device Model: sakura_india
+2020-01-08 15:53:56   Info   no pending manage tasks at user side     OS Type: Android    App Version: 1.3      API Level: 28       Device Model: sakura_india
+2020-01-08 15:53:56   Info   no pending manage tasks at user side     OS Type: Android    App Version: 1.3      API Level: 28       Device Model: sakura_india
+2020-01-08 15:53:56   Info   to get level no     OS Type: Android    App Version: 1.3      API Level: 28       Device Model: sakura_india
+2020-01-08 15:53:56   Info   no pending manage tasks at user side     OS Type: Android    App Version: 1.3      API Level: 28       Device Model: sakura_india
+2020-01-08 15:53:56   Info   no pending manage tasks at user side     OS Type: Android    App Version: 1.3      API Level: 28       Device Model: sakura_india
+2020-01-08 15:53:57   Info   no pending manage tasks at user side     OS Type: Android    App Version: 1.3      API Level: 28       Device Model: sakura_india
+2020-01-08 15:53:57   Info   no pending manage tasks at user side     OS Type: Android    App Version: 1.3      API Level: 28       Device Model: sakura_india
+2020-01-08 15:53:57   Info   to get level no     OS Type: Android    App Version: 1.3      API Level: 28       Device Model: sakura_india
+2020-01-08 15:53:57   Info   to get level no     OS Type: Android    App Version: 1.3      API Level: 28       Device Model: sakura_india
+2020-01-08 15:53:57   Info   no pending manage tasks at user side     OS Type: Android    App Version: 1.3      API Level: 28       Device Model: sakura_india
+2020-01-08 15:53:57   Info   to get level no     OS Type: Android    App Version: 1.3      API Level: 28       Device Model: sakura_india
+2020-01-08 15:53:57   Info   to get level no     OS Type: Android    App Version: 1.3      API Level: 28       Device Model: sakura_india
+2020-01-08 15:53:57   Info   to get level no     OS Type: Android    App Version: 1.3      API Level: 28       Device Model: sakura_india
+2020-01-08 15:53:57   Info   to get level no     OS Type: Android    App Version: 1.3      API Level: 28       Device Model: sakura_india
+2020-01-08 15:53:57   Info   to get level no     OS Type: Android    App Version: 1.3      API Level: 28       Device Model: sakura_india
+2020-01-08 15:53:58   Info   to get level no     OS Type: Android    App Version: 1.3      API Level: 28       Device Model: sakura_india
+2020-01-08 15:53:58   Info   to get level no     OS Type: Android    App Version: 1.3      API Level: 28       Device Model: sakura_india
+2020-01-08 15:53:58   Info   userPendingManageTasks:DeleteMaintask(maintaskid) method is used to delete maintask     OS Type: Android    App Version: 1.3      API Level: 28       Device Model: sakura_india
+2020-01-08 15:53:58   Info   userPendingManageTasks:DeleteMaintask(maintaskid) method is used to delete maintask     OS Type: Android    App Version: 1.3      API Level: 28       Device Model: sakura_india
+2020-01-08 15:53:59   Info   no pending manage tasks at user side     OS Type: Android    App Version: 1.3      API Level: 28       Device Model: sakura_india
+2020-01-08 15:53:59   Info   to get level no     OS Type: Android    App Version: 1.3      API Level: 28       Device Model: sakura_india
+2020-01-08 15:53:59   Info   to get level no     OS Type: Android    App Version: 1.3      API Level: 28       Device Model: sakura_india
+2020-01-08 15:53:59   Info   to get level no     OS Type: Android    App Version: 1.3      API Level: 28       Device Model: sakura_india
+2020-01-08 15:53:59   Info   to get level no     OS Type: Android    App Version: 1.3      API Level: 28       Device Model: sakura_india
+2020-01-08 15:53:59   Info   no pending manage tasks at user side     OS Type: Android    App Version: 1.3      API Level: 28       Device Model: sakura_india
+2020-01-08 15:53:59   Info   to get level no     OS Type: Android    App Version: 1.3      API Level: 28       Device Model: sakura_india
+2020-01-08 15:53:59   Info   to get level no     OS Type: Android    App Version: 1.3      API Level: 28       Device Model: sakura_india
+2020-01-08 15:53:59   Info   to get level no     OS Type: Android    App Version: 1.3      API Level: 28       Device Model: sakura_india
+2020-01-08 15:53:59   Info   to get level no     OS Type: Android    App Version: 1.3      API Level: 28       Device Model: sakura_india
+2020-01-08 15:54:00   Info   no pending manage tasks at user side     OS Type: Android    App Version: 1.3      API Level: 28       Device Model: sakura_india
+2020-01-08 15:54:00   Info   no pending manage tasks at user side     OS Type: Android    App Version: 1.3      API Level: 28       Device Model: sakura_india
+2020-01-08 15:54:00   Info   no pending manage tasks at user side     OS Type: Android    App Version: 1.3      API Level: 28       Device Model: sakura_india
+2020-01-08 15:54:00   Info   no pending manage tasks at user side     OS Type: Android    App Version: 1.3      API Level: 28       Device Model: sakura_india
+2020-01-08 15:54:00   Info   no pending manage tasks at user side     OS Type: Android    App Version: 1.3      API Level: 28       Device Model: sakura_india
+2020-01-08 15:54:00   Info   no pending manage tasks at user side     OS Type: Android    App Version: 1.3      API Level: 28       Device Model: sakura_india
+2020-01-08 15:54:00   Info   no pending manage tasks at user side     OS Type: Android    App Version: 1.3      API Level: 28       Device Model: sakura_india
+2020-01-08 15:54:00   Info   no pending manage tasks at user side     OS Type: Android    App Version: 1.3      API Level: 28       Device Model: sakura_india
+2020-01-08 15:54:00   Info   no pending manage tasks at user side     OS Type: Android    App Version: 1.3      API Level: 28       Device Model: sakura_india
+2020-01-08 15:54:00   Info   no pending manage tasks at user side     OS Type: Android    App Version: 1.3      API Level: 28       Device Model: sakura_india
+2020-01-08 15:54:01   Info   no pending manage tasks at user side     OS Type: Android    App Version: 1.3      API Level: 28       Device Model: sakura_india
+2020-01-08 15:54:01   Info   no pending manage tasks at user side     OS Type: Android    App Version: 1.3      API Level: 28       Device Model: sakura_india
+2020-01-08 15:54:01   Info   no pending manage tasks at user side     OS Type: Android    App Version: 1.3      API Level: 28       Device Model: sakura_india
+2020-01-08 15:54:01   Info   no pending manage tasks at user side     OS Type: Android    App Version: 1.3      API Level: 28       Device Model: sakura_india
+2020-01-08 15:55:03   Info   getSubTasksList(taskId) method is used to Getting the subtasks      OS Type: Android    App Version: 1.3      API Level: 28       Device Model: sakura_india
+2020-01-08 15:55:04   Info   getSubTasksList(taskId) method is used to Getting the subtasks      OS Type: Android    App Version: 1.3      API Level: 28       Device Model: sakura_india
+2020-01-08 15:55:04   Debug   View SubTask screen is loaded     OS Type: Android    App Version: 1.3      API Level: 28       Device Model: sakura_india
+2020-01-08 15:55:08   Info   userPendingManageTasks:DeleteMaintask(maintaskid) method is used to delete maintask     OS Type: Android    App Version: 1.3      API Level: 28       Device Model: sakura_india
+2020-01-08 15:55:08   Info   UserCompletedManageTasks:manageTasksCompleted() method is used to get completed manage tasks at admin side     OS Type: Android    App Version: 1.3      API Level: 28       Device Model: sakura_india
+2020-01-08 15:55:09   Info   no pending manage tasks at user side     OS Type: Android    App Version: 1.3      API Level: 28       Device Model: sakura_india
+2020-01-08 15:55:09   Info   to get level no     OS Type: Android    App Version: 1.3      API Level: 28       Device Model: sakura_india
+2020-01-08 15:55:09   Info   to get level no     OS Type: Android    App Version: 1.3      API Level: 28       Device Model: sakura_india
+2020-01-08 15:55:09   Info   to get level no     OS Type: Android    App Version: 1.3      API Level: 28       Device Model: sakura_india
+2020-01-08 15:55:09   Info   to get level no     OS Type: Android    App Version: 1.3      API Level: 28       Device Model: sakura_india
+2020-01-08 15:55:09   Info   to get level no     OS Type: Android    App Version: 1.3      API Level: 28       Device Model: sakura_india
+2020-01-08 15:55:09   Info   to get level no     OS Type: Android    App Version: 1.3      API Level: 28       Device Model: sakura_india
+2020-01-08 15:55:09   Info   to get level no     OS Type: Android    App Version: 1.3      API Level: 28       Device Model: sakura_india
+2020-01-08 15:55:09   Info   to get level no     OS Type: Android    App Version: 1.3      API Level: 28       Device Model: sakura_india
+2020-01-08 15:55:10   Info   no pending manage tasks at user side     OS Type: Android    App Version: 1.3      API Level: 28       Device Model: sakura_india
+2020-01-08 15:55:10   Info   no pending manage tasks at user side     OS Type: Android    App Version: 1.3      API Level: 28       Device Model: sakura_india
+2020-01-08 15:55:10   Info   no pending manage tasks at user side     OS Type: Android    App Version: 1.3      API Level: 28       Device Model: sakura_india
+2020-01-08 15:55:10   Info   no pending manage tasks at user side     OS Type: Android    App Version: 1.3      API Level: 28       Device Model: sakura_india
+2020-01-08 15:55:10   Info   no pending manage tasks at user side     OS Type: Android    App Version: 1.3      API Level: 28       Device Model: sakura_india
+2020-01-08 15:55:10   Info   no pending manage tasks at user side     OS Type: Android    App Version: 1.3      API Level: 28       Device Model: sakura_india
+2020-01-08 15:55:10   Info   to get level no     OS Type: Android    App Version: 1.3      API Level: 28       Device Model: sakura_india
+2020-01-08 15:55:10   Info   no completed manage tasks at user side     OS Type: Android    App Version: 1.3      API Level: 28       Device Model: sakura_india
+2020-01-08 15:55:10   Info   no pending manage tasks at user side     OS Type: Android    App Version: 1.3      API Level: 28       Device Model: sakura_india
+2020-01-08 15:55:10   Info   to get level no     OS Type: Android    App Version: 1.3      API Level: 28       Device Model: sakura_india
+2020-01-08 15:55:10   Info   to get level no     OS Type: Android    App Version: 1.3      API Level: 28       Device Model: sakura_india
+2020-01-08 15:55:10   Info   to get level no     OS Type: Android    App Version: 1.3      API Level: 28       Device Model: sakura_india
+2020-01-08 15:55:10   Info   to get level no     OS Type: Android    App Version: 1.3      API Level: 28       Device Model: sakura_india
+2020-01-08 15:55:10   Info   to get level no     OS Type: Android    App Version: 1.3      API Level: 28       Device Model: sakura_india
+2020-01-08 15:55:10   Info   to get level no     OS Type: Android    App Version: 1.3      API Level: 28       Device Model: sakura_india
+2020-01-08 15:55:11   Info   to get level no     OS Type: Android    App Version: 1.3      API Level: 28       Device Model: sakura_india
+2020-01-08 15:55:11   Info   to get level no     OS Type: Android    App Version: 1.3      API Level: 28       Device Model: sakura_india
+2020-01-08 15:55:11   Info   no completed manage tasks at user side     OS Type: Android    App Version: 1.3      API Level: 28       Device Model: sakura_india
+2020-01-08 15:55:11   Info   to get level no     OS Type: Android    App Version: 1.3      API Level: 28       Device Model: sakura_india
+2020-01-08 15:55:11   Info   to get level no     OS Type: Android    App Version: 1.3      API Level: 28       Device Model: sakura_india
+2020-01-08 15:55:11   Info   no completed manage tasks at user side     OS Type: Android    App Version: 1.3      API Level: 28       Device Model: sakura_india
+2020-01-08 15:55:11   Info   no completed manage tasks at user side     OS Type: Android    App Version: 1.3      API Level: 28       Device Model: sakura_india
+2020-01-08 15:55:11   Info   no completed manage tasks at user side     OS Type: Android    App Version: 1.3      API Level: 28       Device Model: sakura_india
+2020-01-08 15:55:11   Info   no completed manage tasks at user side     OS Type: Android    App Version: 1.3      API Level: 28       Device Model: sakura_india
+2020-01-08 15:55:11   Info   no completed manage tasks at user side     OS Type: Android    App Version: 1.3      API Level: 28       Device Model: sakura_india
+2020-01-08 15:55:12   Info   no completed manage tasks at user side     OS Type: Android    App Version: 1.3      API Level: 28       Device Model: sakura_india
+2020-01-08 15:55:12   Info   no completed manage tasks at user side     OS Type: Android    App Version: 1.3      API Level: 28       Device Model: sakura_india
+2020-01-08 15:55:12   Info   no completed manage tasks at user side     OS Type: Android    App Version: 1.3      API Level: 28       Device Model: sakura_india
+2020-01-08 15:55:12   Info   no completed manage tasks at user side     OS Type: Android    App Version: 1.3      API Level: 28       Device Model: sakura_india
+2020-01-08 15:55:12   Info   no completed manage tasks at user side     OS Type: Android    App Version: 1.3      API Level: 28       Device Model: sakura_india
+2020-01-08 15:55:12   Info   no completed manage tasks at user side     OS Type: Android    App Version: 1.3      API Level: 28       Device Model: sakura_india
+2020-01-08 15:55:12   Info   no completed manage tasks at user side     OS Type: Android    App Version: 1.3      API Level: 28       Device Model: sakura_india
+2020-01-08 15:55:12   Info   no completed manage tasks at user side     OS Type: Android    App Version: 1.3      API Level: 28       Device Model: sakura_india
+2020-01-08 15:55:12   Info   no completed manage tasks at user side     OS Type: Android    App Version: 1.3      API Level: 28       Device Model: sakura_india
+2020-01-08 15:55:12   Info   no completed manage tasks at user side     OS Type: Android    App Version: 1.3      API Level: 28       Device Model: sakura_india
+2020-01-08 15:55:13   Info   no completed manage tasks at user side     OS Type: Android    App Version: 1.3      API Level: 28       Device Model: sakura_india
+2020-01-08 15:55:13   Info   no completed manage tasks at user side     OS Type: Android    App Version: 1.3      API Level: 28       Device Model: sakura_india
+2020-01-08 15:55:13   Info   no completed manage tasks at user side     OS Type: Android    App Version: 1.3      API Level: 28       Device Model: sakura_india
+2020-01-08 15:55:13   Info   to get level no     OS Type: Android    App Version: 1.3      API Level: 28       Device Model: sakura_india
+2020-01-08 15:55:13   Info   to get level no     OS Type: Android    App Version: 1.3      API Level: 28       Device Model: sakura_india
+2020-01-08 15:55:13   Info   to get level no     OS Type: Android    App Version: 1.3      API Level: 28       Device Model: sakura_india
+2020-01-08 15:55:13   Info   to get level no     OS Type: Android    App Version: 1.3      API Level: 28       Device Model: sakura_india
+2020-01-08 15:55:13   Info   to get level no     OS Type: Android    App Version: 1.3      API Level: 28       Device Model: sakura_india
+2020-01-08 15:55:13   Info   to get level no     OS Type: Android    App Version: 1.3      API Level: 28       Device Model: sakura_india
+2020-01-08 15:55:13   Info   to get level no     OS Type: Android    App Version: 1.3      API Level: 28       Device Model: sakura_india
+2020-01-08 15:55:13   Info   to get level no     OS Type: Android    App Version: 1.3      API Level: 28       Device Model: sakura_india
+2020-01-08 15:55:13   Info   to get level no     OS Type: Android    App Version: 1.3      API Level: 28       Device Model: sakura_india
+2020-01-08 15:55:24   Info   getSubTasksList(taskId) method is used to Getting the subtasks      OS Type: Android    App Version: 1.3      API Level: 28       Device Model: sakura_india
+2020-01-08 15:55:24   Info   UserCompletedManageTasks:Module()To navigate to viewsubtask     OS Type: Android    App Version: 1.3      API Level: 28       Device Model: sakura_india
+2020-01-08 15:55:24   Info   getSubTasksList(taskId) method is used to Getting the subtasks      OS Type: Android    App Version: 1.3      API Level: 28       Device Model: sakura_india
+2020-01-08 15:55:24   Debug   View SubTask screen is loaded     OS Type: Android    App Version: 1.3      API Level: 28       Device Model: sakura_india
+2020-01-08 15:55:28   Info   UserCompletedManageTasks:manageTasksCompleted() method is used to get completed manage tasks at admin side     OS Type: Android    App Version: 1.3      API Level: 28       Device Model: sakura_india
+2020-01-08 15:55:28   Info   userPendingManageTasks:DeleteMaintask(maintaskid) method is used to delete maintask     OS Type: Android    App Version: 1.3      API Level: 28       Device Model: sakura_india
+2020-01-08 15:55:30   Info   to get level no     OS Type: Android    App Version: 1.3      API Level: 28       Device Model: sakura_india
+2020-01-08 15:55:30   Info   no completed manage tasks at user side     OS Type: Android    App Version: 1.3      API Level: 28       Device Model: sakura_india
+2020-01-08 15:55:30   Info   to get level no     OS Type: Android    App Version: 1.3      API Level: 28       Device Model: sakura_india
+2020-01-08 15:55:30   Info   to get level no     OS Type: Android    App Version: 1.3      API Level: 28       Device Model: sakura_india
+2020-01-08 15:55:30   Info   to get level no     OS Type: Android    App Version: 1.3      API Level: 28       Device Model: sakura_india
+2020-01-08 15:55:30   Info   to get level no     OS Type: Android    App Version: 1.3      API Level: 28       Device Model: sakura_india
+2020-01-08 15:55:30   Info   to get level no     OS Type: Android    App Version: 1.3      API Level: 28       Device Model: sakura_india
+2020-01-08 15:55:30   Info   to get level no     OS Type: Android    App Version: 1.3      API Level: 28       Device Model: sakura_india
+2020-01-08 15:55:30   Info   to get level no     OS Type: Android    App Version: 1.3      API Level: 28       Device Model: sakura_india
+2020-01-08 15:55:30   Info   to get level no     OS Type: Android    App Version: 1.3      API Level: 28       Device Model: sakura_india
+2020-01-08 15:55:31   Info   to get level no     OS Type: Android    App Version: 1.3      API Level: 28       Device Model: sakura_india
+2020-01-08 15:55:31   Info   to get level no     OS Type: Android    App Version: 1.3      API Level: 28       Device Model: sakura_india
+2020-01-08 15:55:31   Info   no completed manage tasks at user side     OS Type: Android    App Version: 1.3      API Level: 28       Device Model: sakura_india
+2020-01-08 15:55:31   Info   no completed manage tasks at user side     OS Type: Android    App Version: 1.3      API Level: 28       Device Model: sakura_india
+2020-01-08 15:55:31   Info   no completed manage tasks at user side     OS Type: Android    App Version: 1.3      API Level: 28       Device Model: sakura_india
+2020-01-08 15:55:31   Info   no completed manage tasks at user side     OS Type: Android    App Version: 1.3      API Level: 28       Device Model: sakura_india
+2020-01-08 15:55:31   Info   no completed manage tasks at user side     OS Type: Android    App Version: 1.3      API Level: 28       Device Model: sakura_india
+2020-01-08 15:55:31   Info   no completed manage tasks at user side     OS Type: Android    App Version: 1.3      API Level: 28       Device Model: sakura_india
+2020-01-08 15:55:31   Info   no completed manage tasks at user side     OS Type: Android    App Version: 1.3      API Level: 28       Device Model: sakura_india
+2020-01-08 15:55:32   Info   no completed manage tasks at user side     OS Type: Android    App Version: 1.3      API Level: 28       Device Model: sakura_india
+2020-01-08 15:55:32   Info   no completed manage tasks at user side     OS Type: Android    App Version: 1.3      API Level: 28       Device Model: sakura_india
+2020-01-08 15:55:32   Info   no completed manage tasks at user side     OS Type: Android    App Version: 1.3      API Level: 28       Device Model: sakura_india
+2020-01-08 15:55:32   Info   no completed manage tasks at user side     OS Type: Android    App Version: 1.3      API Level: 28       Device Model: sakura_india
+2020-01-08 15:55:32   Info   no completed manage tasks at user side     OS Type: Android    App Version: 1.3      API Level: 28       Device Model: sakura_india
+2020-01-08 15:55:32   Info   no completed manage tasks at user side     OS Type: Android    App Version: 1.3      API Level: 28       Device Model: sakura_india
+2020-01-08 15:55:32   Info   no completed manage tasks at user side     OS Type: Android    App Version: 1.3      API Level: 28       Device Model: sakura_india
+2020-01-08 15:55:32   Info   no completed manage tasks at user side     OS Type: Android    App Version: 1.3      API Level: 28       Device Model: sakura_india
+2020-01-08 15:55:32   Info   no completed manage tasks at user side     OS Type: Android    App Version: 1.3      API Level: 28       Device Model: sakura_india
+2020-01-08 15:55:32   Info   no completed manage tasks at user side     OS Type: Android    App Version: 1.3      API Level: 28       Device Model: sakura_india
+2020-01-08 15:55:32   Info   no completed manage tasks at user side     OS Type: Android    App Version: 1.3      API Level: 28       Device Model: sakura_india
+2020-01-08 15:55:32   Info   no completed manage tasks at user side     OS Type: Android    App Version: 1.3      API Level: 28       Device Model: sakura_india
+2020-01-08 15:55:32   Info   to get level no     OS Type: Android    App Version: 1.3      API Level: 28       Device Model: sakura_india
+2020-01-08 15:55:32   Info   to get level no     OS Type: Android    App Version: 1.3      API Level: 28       Device Model: sakura_india
+2020-01-08 15:55:32   Info   to get level no     OS Type: Android    App Version: 1.3      API Level: 28       Device Model: sakura_india
+2020-01-08 15:55:33   Info   to get level no     OS Type: Android    App Version: 1.3      API Level: 28       Device Model: sakura_india
+2020-01-08 15:55:33   Info   to get level no     OS Type: Android    App Version: 1.3      API Level: 28       Device Model: sakura_india
+2020-01-08 15:55:33   Info   to get level no     OS Type: Android    App Version: 1.3      API Level: 28       Device Model: sakura_india
+2020-01-08 15:55:33   Info   to get level no     OS Type: Android    App Version: 1.3      API Level: 28       Device Model: sakura_india
+2020-01-08 15:55:33   Info   to get level no     OS Type: Android    App Version: 1.3      API Level: 28       Device Model: sakura_india
+2020-01-08 15:55:33   Info   to get level no     OS Type: Android    App Version: 1.3      API Level: 28       Device Model: sakura_india
+2020-01-08 15:55:33   Info   to get level no     OS Type: Android    App Version: 1.3      API Level: 28       Device Model: sakura_india
+2020-01-08 15:55:33   Info   to get level no     OS Type: Android    App Version: 1.3      API Level: 28       Device Model: sakura_india
+2020-01-08 15:55:33   Info   to get level no     OS Type: Android    App Version: 1.3      API Level: 28       Device Model: sakura_india
+2020-01-08 15:55:33   Info   no pending manage tasks at user side     OS Type: Android    App Version: 1.3      API Level: 28       Device Model: sakura_india
+2020-01-08 15:55:34   Info   to get level no     OS Type: Android    App Version: 1.3      API Level: 28       Device Model: sakura_india
+2020-01-08 15:55:34   Info   to get level no     OS Type: Android    App Version: 1.3      API Level: 28       Device Model: sakura_india
+2020-01-08 15:55:34   Info   to get level no     OS Type: Android    App Version: 1.3      API Level: 28       Device Model: sakura_india
+2020-01-08 15:55:34   Info   to get level no     OS Type: Android    App Version: 1.3      API Level: 28       Device Model: sakura_india
+2020-01-08 15:55:34   Info   to get level no     OS Type: Android    App Version: 1.3      API Level: 28       Device Model: sakura_india
+2020-01-08 15:55:34   Info   no pending manage tasks at user side     OS Type: Android    App Version: 1.3      API Level: 28       Device Model: sakura_india
+2020-01-08 15:55:34   Info   no pending manage tasks at user side     OS Type: Android    App Version: 1.3      API Level: 28       Device Model: sakura_india
+2020-01-08 15:55:34   Info   no pending manage tasks at user side     OS Type: Android    App Version: 1.3      API Level: 28       Device Model: sakura_india
+2020-01-08 15:55:34   Info   no pending manage tasks at user side     OS Type: Android    App Version: 1.3      API Level: 28       Device Model: sakura_india
+2020-01-08 15:55:34   Info   no pending manage tasks at user side     OS Type: Android    App Version: 1.3      API Level: 28       Device Model: sakura_india
+2020-01-08 15:55:34   Info   no pending manage tasks at user side     OS Type: Android    App Version: 1.3      API Level: 28       Device Model: sakura_india
+2020-01-08 15:55:34   Info   userPendingManageTasks:DeleteMaintask(maintaskid) method is used to delete maintask     OS Type: Android    App Version: 1.3      API Level: 28       Device Model: sakura_india
+2020-01-08 15:55:34   Info   no pending manage tasks at user side     OS Type: Android    App Version: 1.3      API Level: 28       Device Model: sakura_india
+2020-01-08 15:55:35   Info   to get level no     OS Type: Android    App Version: 1.3      API Level: 28       Device Model: sakura_india
+2020-01-08 15:55:35   Info   to get level no     OS Type: Android    App Version: 1.3      API Level: 28       Device Model: sakura_india
+2020-01-08 15:55:35   Info   no pending manage tasks at user side     OS Type: Android    App Version: 1.3      API Level: 28       Device Model: sakura_india
+2020-01-08 15:55:35   Info   to get level no     OS Type: Android    App Version: 1.3      API Level: 28       Device Model: sakura_india
+2020-01-08 15:55:36   Info   to get level no     OS Type: Android    App Version: 1.3      API Level: 28       Device Model: sakura_india
+2020-01-08 15:55:36   Info   to get level no     OS Type: Android    App Version: 1.3      API Level: 28       Device Model: sakura_india
+2020-01-08 15:55:36   Info   to get level no     OS Type: Android    App Version: 1.3      API Level: 28       Device Model: sakura_india
+2020-01-08 15:55:36   Info   to get level no     OS Type: Android    App Version: 1.3      API Level: 28       Device Model: sakura_india
+2020-01-08 15:55:36   Info   to get level no     OS Type: Android    App Version: 1.3      API Level: 28       Device Model: sakura_india
+2020-01-08 15:55:36   Info   no pending manage tasks at user side     OS Type: Android    App Version: 1.3      API Level: 28       Device Model: sakura_india
+2020-01-08 15:55:37   Info   no pending manage tasks at user side     OS Type: Android    App Version: 1.3      API Level: 28       Device Model: sakura_india
+2020-01-08 15:55:37   Info   no pending manage tasks at user side     OS Type: Android    App Version: 1.3      API Level: 28       Device Model: sakura_india
+2020-01-08 15:55:37   Info   no pending manage tasks at user side     OS Type: Android    App Version: 1.3      API Level: 28       Device Model: sakura_india
+2020-01-08 15:55:37   Info   no pending manage tasks at user side     OS Type: Android    App Version: 1.3      API Level: 28       Device Model: sakura_india
+2020-01-08 15:55:37   Info   no pending manage tasks at user side     OS Type: Android    App Version: 1.3      API Level: 28       Device Model: sakura_india
+2020-01-08 15:55:37   Info   no pending manage tasks at user side     OS Type: Android    App Version: 1.3      API Level: 28       Device Model: sakura_india
+2020-01-08 15:55:47   Info   getSubTasksList(taskId) method is used to Getting the subtasks      OS Type: Android    App Version: 1.3      API Level: 28       Device Model: sakura_india
+2020-01-08 15:55:47   Info   getSubTasksList(taskId) method is used to Getting the subtasks      OS Type: Android    App Version: 1.3      API Level: 28       Device Model: sakura_india
+2020-01-08 15:55:49   Debug   View SubTask screen is loaded     OS Type: Android    App Version: 1.3      API Level: 28       Device Model: sakura_india
+2020-01-08 15:55:49   Debug   View SubTask screen is loaded     OS Type: Android    App Version: 1.3      API Level: 28       Device Model: sakura_india
+2020-01-08 15:55:49   Debug   View SubTask screen is loaded     OS Type: Android    App Version: 1.3      API Level: 28       Device Model: sakura_india
+2020-01-08 15:55:49   Debug   View SubTask screen is loaded     OS Type: Android    App Version: 1.3      API Level: 28       Device Model: sakura_india
+2020-01-08 15:55:49   Debug   View SubTask screen is loaded     OS Type: Android    App Version: 1.3      API Level: 28       Device Model: sakura_india
+2020-01-08 15:55:49   Debug   View SubTask screen is loaded     OS Type: Android    App Version: 1.3      API Level: 28       Device Model: sakura_india
+2020-01-08 15:55:49   Debug   View SubTask screen is loaded     OS Type: Android    App Version: 1.3      API Level: 28       Device Model: sakura_india
+2020-01-08 15:55:49   Debug   View SubTask screen is loaded     OS Type: Android    App Version: 1.3      API Level: 28       Device Model: sakura_india
+2020-01-08 15:55:49   Debug   View SubTask screen is loaded     OS Type: Android    App Version: 1.3      API Level: 28       Device Model: sakura_india
+2020-01-08 15:55:49   Debug   View SubTask screen is loaded     OS Type: Android    App Version: 1.3      API Level: 28       Device Model: sakura_india
+2020-01-08 15:55:49   Debug   View SubTask screen is loaded     OS Type: Android    App Version: 1.3      API Level: 28       Device Model: sakura_india
+2020-01-08 15:55:50   Debug   View SubTask screen is loaded     OS Type: Android    App Version: 1.3      API Level: 28       Device Model: sakura_india
+2020-01-08 15:55:50   Debug   View SubTask screen is loaded     OS Type: Android    App Version: 1.3      API Level: 28       Device Model: sakura_india
+2020-01-08 15:55:50   Debug   View SubTask screen is loaded     OS Type: Android    App Version: 1.3      API Level: 28       Device Model: sakura_india
+2020-01-08 15:55:50   Debug   View SubTask screen is loaded     OS Type: Android    App Version: 1.3      API Level: 28       Device Model: sakura_india
+2020-01-08 15:55:50   Debug   View SubTask screen is loaded     OS Type: Android    App Version: 1.3      API Level: 28       Device Model: sakura_india
+2020-01-08 15:55:50   Debug   View SubTask screen is loaded     OS Type: Android    App Version: 1.3      API Level: 28       Device Model: sakura_india
+2020-01-08 15:55:50   Debug   View SubTask screen is loaded     OS Type: Android    App Version: 1.3      API Level: 28       Device Model: sakura_india
+2020-01-08 15:55:54   Info   UserCompletedManageTasks:manageTasksCompleted() method is used to get completed manage tasks at admin side     OS Type: Android    App Version: 1.3      API Level: 28       Device Model: sakura_india
+2020-01-08 15:55:54   Info   userPendingManageTasks:DeleteMaintask(maintaskid) method is used to delete maintask     OS Type: Android    App Version: 1.3      API Level: 28       Device Model: sakura_india
+2020-01-08 15:55:56   Info   to get level no     OS Type: Android    App Version: 1.3      API Level: 28       Device Model: sakura_india
+2020-01-08 15:55:56   Info   no completed manage tasks at user side     OS Type: Android    App Version: 1.3      API Level: 28       Device Model: sakura_india
+2020-01-08 15:55:56   Info   to get level no     OS Type: Android    App Version: 1.3      API Level: 28       Device Model: sakura_india
+2020-01-08 15:55:56   Info   to get level no     OS Type: Android    App Version: 1.3      API Level: 28       Device Model: sakura_india

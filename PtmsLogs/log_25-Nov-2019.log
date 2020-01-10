@@ -1,0 +1,6 @@
+2019-11-25 08:13:44   Debug   Login Screen is Loaded     OS Type: Android    App Version: 1.0      API Level: 27       Device Model: generic_x86
+2019-11-25 09:32:12   Debug   Login Screen is Loaded     OS Type: Android    App Version: 1.0      API Level: 28       Device Model: generic_x86_arm
+2019-11-25 10:45:24   Debug   Login Screen is Loaded     OS Type: Android    App Version: 1.0      API Level: 27       Device Model: generic_x86
+2019-11-25 11:12:24   Debug   admin request projects screen is loaded     OS Type: Android    App Version: 1.0      API Level: 27       Device Model: generic_x86
+2019-11-25 11:12:24   Info    getRequestedIdeas(role, userToken, cropcode) is used to get all requested projects at admin side     OS Type: Android    App Version: 1.0      API Level: 27       Device Model: generic_x86
+2019-11-25 11:12:25   Warn   no requested projects found     OS Type: Android    App Version: 1.0      API Level: 27       Device Model: generic_x86

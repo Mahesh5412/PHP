@@ -1,0 +1,25 @@
+2020-01-06 08:23:35   Debug   user pending mytask tasks screen is loaded at user side     OS Type: Android    App Version: 1.3      API Level: 28       Device Model: CPH1893
+2020-01-06 08:23:35   Info   UserPendingMyTask:getdata() method is used to get pending my tasks at user side     OS Type: Android    App Version: 1.3      API Level: 28       Device Model: CPH1893
+2020-01-06 08:23:35   Info   UserPendingMyTask:getdata() method is used to get pending my tasks at user side     OS Type: Android    App Version: 1.3      API Level: 28       Device Model: CPH1893
+2020-01-06 12:18:52   Debug   user pending mytask tasks screen is loaded at user side     OS Type: iOS    App Version: 1.16      API Level: -1       Device Model: unknown
+2020-01-06 12:18:52   Info   UserPendingMyTask:getdata() method is used to get pending my tasks at user side     OS Type: iOS    App Version: 1.16      API Level: -1       Device Model: unknown
+2020-01-06 12:18:52   Info   UserPendingMyTask:getdata() method is used to get pending my tasks at user side     OS Type: iOS    App Version: 1.16      API Level: -1       Device Model: unknown
+2020-01-06 12:18:52   Info   no pending my tasks at user side     OS Type: iOS    App Version: 1.16      API Level: -1       Device Model: unknown
+2020-01-06 12:18:52   Info   no pending my tasks at user side     OS Type: iOS    App Version: 1.16      API Level: -1       Device Model: unknown
+2020-01-06 12:18:55   Debug   user request projects screen is loaded     OS Type: iOS    App Version: 1.16      API Level: -1       Device Model: unknown
+2020-01-06 12:18:55   Info    getdata() is used to get all requested projects at user side     OS Type: iOS    App Version: 1.16      API Level: -1       Device Model: unknown
+2020-01-06 12:18:57   Info   UserProjectInfo method is used to move requested project to project info screen     OS Type: iOS    App Version: 1.16      API Level: -1       Device Model: unknown
+2020-01-06 12:18:57   Info   UserProjectInfo:Disabling() method is used to diable accept button based on condition     OS Type: iOS    App Version: 1.16      API Level: -1       Device Model: unknown
+2020-01-06 12:18:57   Debug   user project info screen is loaded     OS Type: iOS    App Version: 1.16      API Level: -1       Device Model: unknown
+2020-01-06 12:19:00   Info   UserProjectInfo method is used to move requested project to project info screen     OS Type: iOS    App Version: 1.16      API Level: -1       Device Model: unknown
+2020-01-06 12:19:00   Info   UserProjectInfo:Disabling() method is used to diable accept button based on condition     OS Type: iOS    App Version: 1.16      API Level: -1       Device Model: unknown
+2020-01-06 12:19:00   Debug   user project info screen is loaded     OS Type: iOS    App Version: 1.16      API Level: -1       Device Model: unknown
+2020-01-06 12:19:03   Info   UserProjectInfo method is used to move requested project to project info screen     OS Type: iOS    App Version: 1.16      API Level: -1       Device Model: unknown
+2020-01-06 12:19:03   Info   UserProjectInfo:Disabling() method is used to diable accept button based on condition     OS Type: iOS    App Version: 1.16      API Level: -1       Device Model: unknown
+2020-01-06 12:19:03   Debug   user project info screen is loaded     OS Type: iOS    App Version: 1.16      API Level: -1       Device Model: unknown
+2020-01-06 12:19:05   Info   UserProjectInfo method is used to move requested project to project info screen     OS Type: iOS    App Version: 1.16      API Level: -1       Device Model: unknown
+2020-01-06 12:19:05   Debug   user project info screen is loaded     OS Type: iOS    App Version: 1.16      API Level: -1       Device Model: unknown
+2020-01-06 12:19:05   Info   UserProjectInfo:Disabling() method is used to diable accept button based on condition     OS Type: iOS    App Version: 1.16      API Level: -1       Device Model: unknown
+2020-01-06 12:19:28   Info   UserApprovedProjects:setRO(userApprovedProjects() method is used to list the user approved projects     OS Type: iOS    App Version: 1.16      API Level: -1       Device Model: unknown
+2020-01-06 12:19:28   Debug   User Approved projects screen is loaded     OS Type: iOS    App Version: 1.16      API Level: -1       Device Model: unknown
+2020-01-06 12:19:28   Info   UserApprovedProjects:getResource() method is used to get all employee list     OS Type: iOS    App Version: 1.16      API Level: -1       Device Model: unknown

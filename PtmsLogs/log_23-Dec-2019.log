@@ -1,0 +1,28 @@
+2019-12-23 06:14:30   Info    getRequestedIdeas(role, userToken, cropcode) is used to get all requested projects at admin side     OS Type: Android    App Version: 1.2      API Level: 28       Device Model: generic_x86_arm
+2019-12-23 06:14:30   Debug   admin request projects screen is loaded     OS Type: Android    App Version: 1.2      API Level: 28       Device Model: generic_x86_arm
+2019-12-23 06:14:30   Warn   no requested projects found     OS Type: Android    App Version: 1.2      API Level: 28       Device Model: generic_x86_arm
+2019-12-23 06:20:13   Debug   admin request projects screen is loaded     OS Type: Android    App Version: 1.2      API Level: 26       Device Model: generic_x86
+2019-12-23 06:20:13   Info    getRequestedIdeas(role, userToken, cropcode) is used to get all requested projects at admin side     OS Type: Android    App Version: 1.2      API Level: 26       Device Model: generic_x86
+2019-12-23 06:20:13   Info    getRequestedIdeas(role, userToken, cropcode) is used to get all requested projects at admin side     OS Type: Android    App Version: 1.2      API Level: 26       Device Model: generic_x86
+2019-12-23 06:20:13   Warn   no requested projects found     OS Type: Android    App Version: 1.2      API Level: 26       Device Model: generic_x86
+2019-12-23 06:20:13   Warn   no requested projects found     OS Type: Android    App Version: 1.2      API Level: 26       Device Model: generic_x86
+2019-12-23 08:11:23   Debug   admin request projects screen is loaded     OS Type: Android    App Version: 1.2      API Level: 26       Device Model: generic_x86
+2019-12-23 08:11:23   Info    getRequestedIdeas(role, userToken, cropcode) is used to get all requested projects at admin side     OS Type: Android    App Version: 1.2      API Level: 26       Device Model: generic_x86
+2019-12-23 08:11:23   Info    getRequestedIdeas(role, userToken, cropcode) is used to get all requested projects at admin side     OS Type: Android    App Version: 1.2      API Level: 26       Device Model: generic_x86
+2019-12-23 08:11:23   Warn   no requested projects found     OS Type: Android    App Version: 1.2      API Level: 26       Device Model: generic_x86
+2019-12-23 08:11:23   Warn   no requested projects found     OS Type: Android    App Version: 1.2      API Level: 26       Device Model: generic_x86
+2019-12-23 08:46:10   Debug   admin request projects screen is loaded     OS Type: Android    App Version: 1.2      API Level: 26       Device Model: generic_x86
+2019-12-23 08:46:10   Info    getRequestedIdeas(role, userToken, cropcode) is used to get all requested projects at admin side     OS Type: Android    App Version: 1.2      API Level: 26       Device Model: generic_x86
+2019-12-23 08:46:10   Info    getRequestedIdeas(role, userToken, cropcode) is used to get all requested projects at admin side     OS Type: Android    App Version: 1.2      API Level: 26       Device Model: generic_x86
+2019-12-23 08:46:11   Warn   no requested projects found     OS Type: Android    App Version: 1.2      API Level: 26       Device Model: generic_x86
+2019-12-23 08:46:11   Warn   no requested projects found     OS Type: Android    App Version: 1.2      API Level: 26       Device Model: generic_x86
+2019-12-23 10:16:32   Debug   admin request projects screen is loaded     OS Type: Android    App Version: 1.2      API Level: 26       Device Model: generic_x86
+2019-12-23 10:16:32   Info    getRequestedIdeas(role, userToken, cropcode) is used to get all requested projects at admin side     OS Type: Android    App Version: 1.2      API Level: 26       Device Model: generic_x86
+2019-12-23 10:16:32   Info    getRequestedIdeas(role, userToken, cropcode) is used to get all requested projects at admin side     OS Type: Android    App Version: 1.2      API Level: 26       Device Model: generic_x86
+2019-12-23 10:16:32   Warn   no requested projects found     OS Type: Android    App Version: 1.2      API Level: 26       Device Model: generic_x86
+2019-12-23 10:16:32   Warn   no requested projects found     OS Type: Android    App Version: 1.2      API Level: 26       Device Model: generic_x86
+2019-12-23 10:29:58   Debug   admin request projects screen is loaded     OS Type: Android    App Version: 1.2      API Level: 26       Device Model: generic_x86
+2019-12-23 10:29:58   Info    getRequestedIdeas(role, userToken, cropcode) is used to get all requested projects at admin side     OS Type: Android    App Version: 1.2      API Level: 26       Device Model: generic_x86
+2019-12-23 10:29:58   Info    getRequestedIdeas(role, userToken, cropcode) is used to get all requested projects at admin side     OS Type: Android    App Version: 1.2      API Level: 26       Device Model: generic_x86
+2019-12-23 10:29:58   Warn   no requested projects found     OS Type: Android    App Version: 1.2      API Level: 26       Device Model: generic_x86
+2019-12-23 10:29:59   Warn   no requested projects found     OS Type: Android    App Version: 1.2      API Level: 26       Device Model: generic_x86
